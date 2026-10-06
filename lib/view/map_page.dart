@@ -3,6 +3,8 @@ import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:flutter_map_vector_tiles/flutter_map_vector_tiles.dart' as vt;
 import 'package:latlong2/latlong.dart';
+import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/cluster_marker.dart';
 import 'package:universities_map/view/poi_card.dart';
@@ -22,10 +24,16 @@ class _MapPageState extends State<MapPage> {
 
   Poi? _selectedPoi;
 
+  final List<Poi> pois = [];
+
   @override
   void initState() {
     super.initState();
-
+    final Editor editor = StringPropertyChangeProvider.of<Editor, String>(
+      context,
+      listen: false,
+    )!.value;
+    pois.addAll(editor.pois);
     // OpenFreeMap:
     // Free and no API key required.
     _styleFuture = vt.StyleReader(

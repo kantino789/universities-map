@@ -1,26 +1,5 @@
 import 'package:latlong2/latlong.dart';
 
-const List<Poi> pois = [
-  Poi(
-    id: 'poi-1',
-    title: 'City Hall',
-    description: 'The main city hall building.',
-    location: LatLng(58.969975, 5.733107),
-  ),
-  Poi(
-    id: 'poi-2',
-    title: 'Museum',
-    description: 'A local museum with historical exhibitions.',
-    location: LatLng(58.970700, 5.730500),
-  ),
-  Poi(
-    id: 'poi-3',
-    title: 'Central Park',
-    description: 'A nice green area in the city centre.',
-    location: LatLng(58.972000, 5.735000),
-  ),
-];
-
 class Poi {
   final String id;
   final String title;
@@ -33,4 +12,18 @@ class Poi {
     required this.description,
     required this.location,
   });
+
+  factory Poi.fromJson(Map<String, dynamic> json) {
+    // Parse the "lat, long" string (e.g., "42.37700, -71.11666")
+    final locationParts = (json['location'] as String).split(',');
+    final lat = double.parse(locationParts[0].trim());
+    final lng = double.parse(locationParts[1].trim());
+
+    return Poi(
+      id: json['id'].toString(), // Convert int ID to String if needed
+      title: json['title'] as String,
+      description: json['description'] as String,
+      location: LatLng(lat, lng),
+    );
+  }
 }
