@@ -59,7 +59,7 @@ class _MapPageState extends State<MapPage> {
       _selectedPoi = poi;
     });
 
-    _mapController.move(poi.location, 17);
+    //_mapController.move(poi.location, 17);
   }
 
   void _showPoiDetails(Poi poi) {
@@ -180,12 +180,12 @@ class _MapPageState extends State<MapPage> {
                       // Size of the cluster widget.
                       size: const Size(55, 55),
 
-                      // Don't cluster after zoom 17.
-                      disableClusteringAtZoom: 17,
+                      // Don't cluster after zoom 10.
+                      disableClusteringAtZoom: 10,
 
                       // Maximum zoom when automatically
                       // zooming into a cluster.
-                      maxZoom: 17,
+                      maxZoom: 11,
 
                       // When a cluster is tapped,
                       // automatically zoom to its bounds.
@@ -193,6 +193,8 @@ class _MapPageState extends State<MapPage> {
 
                       // Center marker when appropriate.
                       centerMarkerOnClick: true,
+
+                      showPolygon: false,
 
                       // Our markers.
                       markers: _buildMarkers(),
