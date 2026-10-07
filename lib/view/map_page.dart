@@ -8,7 +8,6 @@ import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/cluster_marker.dart';
 import 'package:universities_map/view/poi_card.dart';
-import 'package:universities_map/view/poi_search.dart';
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key});
@@ -72,22 +71,22 @@ class _MapPageState extends State<MapPage> {
             child: Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
+              spacing: 12,
               children: [
-                Text(
-                  poi.title,
-                  style: Theme.of(context).textTheme.headlineSmall,
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      poi.title,
+                      style: Theme.of(context).textTheme.headlineSmall,
+                    ),
+                    IconButton(
+                      onPressed: () => Navigator.pop(context),
+                      icon: const Icon(Icons.close),
+                    ),
+                  ],
                 ),
-                const SizedBox(height: 12),
                 Text(poi.description),
-                const SizedBox(height: 20),
-                FilledButton(
-                  onPressed: () {
-                    Navigator.pop(context);
-
-                    _mapController.move(poi.location, 17);
-                  },
-                  child: const Text('Show on map'),
-                ),
               ],
             ),
           ),
@@ -235,30 +234,30 @@ class _MapPageState extends State<MapPage> {
               // ----------------------------------------------------
               // Search bar
               // ----------------------------------------------------
-              Positioned(
-                top: 50,
-                left: 16,
-                right: 16,
-                child: PoiSearch(pois: pois, onSelected: _selectPoi),
-              ),
+              // Positioned(
+              //   top: 50,
+              //   left: 16,
+              //   right: 16,
+              //   child: PoiSearch(pois: pois, onSelected: _selectPoi),
+              // ),
 
               // ----------------------------------------------------
               // Selected POI information
               // ----------------------------------------------------
-              if (_selectedPoi != null)
-                Positioned(
-                  left: 16,
-                  right: 16,
-                  bottom: 24,
-                  child: PoiCard(
-                    poi: _selectedPoi!,
-                    onClose: () {
-                      setState(() {
-                        _selectedPoi = null;
-                      });
-                    },
-                  ),
-                ),
+              // if (_selectedPoi != null)
+              //   Positioned(
+              //     left: 16,
+              //     right: 16,
+              //     bottom: 24,
+              //     child: PoiCard(
+              //       poi: _selectedPoi!,
+              //       onClose: () {
+              //         setState(() {
+              //           _selectedPoi = null;
+              //         });
+              //       },
+              //     ),
+              //   ),
             ],
           );
         },
