@@ -2518,5 +2518,185 @@
         "title": "Harbin Engineering University",
         "description": "National key university located in Harbin, Heilongjiang, China.",
         "location": "45.77278, 126.67806"
+    },
+    {
+        "id": 421,
+        "title": "Hefei University of Technology",
+        "description": "A prominent public research university located in Hefei, Anhui, China.",
+        "location": "31.85573, 117.28249"
+    },
+    {
+        "id": 422,
+        "title": "Hiroshima University",
+        "description": "A major Japanese national university located in Hiroshima, Japan.",
+        "location": "34.39765, 132.47537"
+    },
+    {
+        "id": 423,
+        "title": "Indiana University, Indianapolis",
+        "description": "A public research university in Indianapolis, Indiana, United States.",
+        "location": "39.77587, -86.17641"
+    },
+    {
+        "id": 424,
+        "title": "Iowa State University",
+        "description": "A public land-grant research university in Ames, Iowa, United States.",
+        "location": "42.02667, -93.64645"
+    },
+    {
+        "id": 425,
+        "title": "King Khalid University",
+        "description": "A major public university located in Abha, Saudi Arabia.",
+        "location": "18.23412, 42.53123"
+    },
+    {
+        "id": 426,
+        "title": "Kunming University of Science and Technology",
+        "description": "A major provincial university located in Kunming, Yunnan, China.",
+        "location": "24.85856, 102.83292"
+    },
+    {
+        "id": 427,
+        "title": "Kyungpook National University",
+        "description": "A prominent national research university in Daegu, South Korea.",
+        "location": "35.88931, 128.61118"
+    },
+    {
+        "id": 428,
+        "title": "La Trobe University",
+        "description": "A multi-campus public research university in Melbourne, Australia.",
+        "location": "-37.72145, 145.04789"
+    },
+    {
+        "id": 429,
+        "title": "Leibniz University Hannover",
+        "description": "A major public university located in Hannover, Germany.",
+        "location": "52.38312, 9.71831"
+    },
+    {
+        "id": 430,
+        "title": "Louisiana State University, Baton Rouge",
+        "description": "A public land-grant research university in Baton Rouge, Louisiana.",
+        "location": "30.41326, -91.18002"
+    },
+    {
+        "id": 431,
+        "title": "Masaryk University",
+        "description": "The second-largest public university in the Czech Republic, located in Brno.",
+        "location": "49.20012, 16.60783"
+    },
+    {
+        "id": 432,
+        "title": "Nanjing Forestry University",
+        "description": "A provincial research university specializing in forestry and ecology in Nanjing.",
+        "location": "32.07921, 118.81452"
+    },
+    {
+        "id": 433,
+        "title": "Nanjing University of Chinese Medicine",
+        "description": "A specialized institution for traditional Chinese medicine in Nanjing, China.",
+        "location": "32.11543, 118.90123"
+    },
+    {
+        "id": 434,
+        "title": "Nantong University",
+        "description": "A comprehensive public university located in Nantong, Jiangsu, China.",
+        "location": "31.98321, 120.89432"
+    },
+    {
+        "id": 435,
+        "title": "National Cheng Kung University",
+        "description": "A top-tier public research university located in Tainan, Taiwan.",
+        "location": "22.99723, 120.21734"
+    },
+    {
+        "id": 436,
+        "title": "National Tsing Hua University",
+        "description": "A premier research university known for science and tech in Hsinchu, Taiwan.",
+        "location": "24.79321, 120.99342"
+    },
+    {
+        "id": 437,
+        "title": "National Yang Ming Chiao Tung University",
+        "description": "A prominent research university specializing in biomedicine and tech in Taiwan.",
+        "location": "24.78543, 120.99812"
+    },
+    {
+        "id": 438,
+        "title": "North China Electric Power University",
+        "description": "A key national university known for power engineering in Beijing, China.",
+        "location": "40.09123, 116.29452"
+    },
+    {
+        "id": 439,
+        "title": "Northeast Forestry University",
+        "description": "A prominent forestry and ecological research university in Harbin, China.",
+        "location": "45.72143, 126.63412"
+    },
+    {
+        "id": 440,
+        "title": "Northwest University",
+        "description": "A national key university located in Xi'an, Shaanxi, China.",
+        "location": "34.23412, 108.93512"
+    },
+    {
+        "id": 441,
+        "title": "Okinawa Institute of Science and Technology Graduate University",
+        "description": "A pioneering interdisciplinary graduate school located in Okinawa, Japan.",
+        "location": "26.44853, 127.83642"
+    },
+    {
+        "id": 442,
+        "title": "Polytechnic University of Valencia",
+        "description": "A public technical university located in Valencia, Spain.",
+        "location": "39.48123, -0.34123"
+    },
+    {
+        "id": 443,
+        "title": "Pompeu Fabra University",
+        "description": "A public university in Barcelona known for social sciences and humanities.",
+        "location": "41.38543, 2.19123"
+    },
+    {
+        "id": 444,
+        "title": "Pusan National University",
+        "description": "A prestigious national research university located in Busan, South Korea.",
+        "location": "35.23123, 129.08342"
+    },
+    {
+        "id": 445,
+        "title": "Saarland University",
+        "description": "A campus university in Saarbrücken known for computer science research.",
+        "location": "49.25342, 7.04123"
+    },
+    {
+        "id": 446,
+        "title": "Shaanxi Normal University",
+        "description": "A public research university located in Xi'an, Shaanxi, China.",
+        "location": "34.22123, 108.94321"
+    },
+    {
+        "id": 447,
+        "title": "Shandong First Medical University",
+        "description": "A prominent medical and health sciences university in Jinan, China.",
+        "location": "36.65123, 117.12342"
+    },
+    {
+        "id": 448,
+        "title": "Shanxi University",
+        "description": "A comprehensive provincial university located in Taiyuan, Shanxi, China.",
+        "location": "37.79123, 112.56342"
+    },
+    {
+        "id": 449,
+        "title": "Simon Fraser University",
+        "description": "A public research university in Burnaby, British Columbia, Canada.",
+        "location": "49.27812, -122.91543"
+    },
+    {
+        "id": 450,
+        "title": "South China Agricultural University",
+        "description": "A key agricultural university located in Guangzhou, China.",
+        "location": "23.15123, 113.35123"
     }
 ]
