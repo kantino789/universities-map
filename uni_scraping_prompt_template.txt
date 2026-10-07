@@ -1,0 +1,12 @@
+   Create a json including, for each of those universities:   
+   id: integer. Start with 91 and increment by 1   
+   title: university name   
+   description: short description (100 characters max)   
+   location: coordinates, formatted lat, long with max 5 decimals   
+
+   Respect the order  
+
+
+
+
+Last page: 14
