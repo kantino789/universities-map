@@ -2698,5 +2698,3305 @@
         "title": "South China Agricultural University",
         "description": "A key agricultural university located in Guangzhou, China.",
         "location": "23.15123, 113.35123"
+    },
+    {
+        "id": 451,
+        "title": "South China Normal University",
+        "description": "Comprehensive university in Guangzhou, Guangdong, China.",
+        "location": "23.14167, 113.34861"
+    },
+    {
+        "id": 452,
+        "title": "Stellenbosch University",
+        "description": "Public research university in Stellenbosch, South Africa.",
+        "location": "-33.93222, 18.86444"
+    },
+    {
+        "id": 453,
+        "title": "Swedish University of Agricultural Sciences",
+        "description": "Agricultural university based in Uppsala, Sweden.",
+        "location": "59.81667, 17.65833"
+    },
+    {
+        "id": 454,
+        "title": "Taif University",
+        "description": "Public university located in Taif, Saudi Arabia.",
+        "location": "21.43611, 40.49056"
+    },
+    {
+        "id": 455,
+        "title": "Taiyuan University of Technology",
+        "description": "Key public university in Taiyuan, Shanxi, China.",
+        "location": "37.86056, 112.52556"
+    },
+    {
+        "id": 456,
+        "title": "Temple University",
+        "description": "Public state-related research university in Philadelphia.",
+        "location": "39.98111, -75.15583"
+    },
+    {
+        "id": 457,
+        "title": "The Chinese University of Hong Kong, Shenzhen",
+        "description": "Research-intensive university in Shenzhen, China.",
+        "location": "22.68889, 114.21278"
+    },
+    {
+        "id": 458,
+        "title": "The University of Newcastle, Australia",
+        "description": "Public university located in Newcastle, New South Wales.",
+        "location": "-32.89278, 151.70361"
+    },
+    {
+        "id": 459,
+        "title": "The University of Texas at San Antonio",
+        "description": "Public research university in San Antonio, Texas.",
+        "location": "29.58278, -98.61861"
+    },
+    {
+        "id": 460,
+        "title": "Tianjin Medical University",
+        "description": "Medical university located in Tianjin, China.",
+        "location": "39.10861, 117.18972"
+    },
+    {
+        "id": 461,
+        "title": "Toulouse Capitole University",
+        "description": "Public research university located in Toulouse, France.",
+        "location": "43.60639, 1.43694"
+    },
+    {
+        "id": 462,
+        "title": "University at Buffalo, the State University of New York",
+        "description": "Public research university in Buffalo, New York.",
+        "location": "43.00083, -78.78889"
+    },
+    {
+        "id": 463,
+        "title": "University College Cork",
+        "description": "Constituent university of the National University of Ireland.",
+        "location": "51.89222, -8.4925"
+    },
+    {
+        "id": 464,
+        "title": "University of Alabama at Birmingham",
+        "description": "Public research university in Birmingham, Alabama.",
+        "location": "33.50222, -86.80611"
+    },
+    {
+        "id": 465,
+        "title": "University of Bari",
+        "description": "Public university located in Bari, Apulia, Italy.",
+        "location": "41.12139, 16.86806"
+    },
+    {
+        "id": 466,
+        "title": "University of Bayreuth",
+        "description": "Public research university in Bayreuth, Germany.",
+        "location": "49.92889, 11.58583"
+    },
+    {
+        "id": 467,
+        "title": "University of Campinas",
+        "description": "Public research university in São Paulo State, Brazil.",
+        "location": "-22.81833, -47.06472"
+    },
+    {
+        "id": 468,
+        "title": "University of Catania",
+        "description": "Public university located in Catania, Sicily, Italy.",
+        "location": "37.50361, 15.08722"
+    },
+    {
+        "id": 469,
+        "title": "University of Coimbra",
+        "description": "Public university in Coimbra, Portugal.",
+        "location": "40.2075, -8.42611"
+    },
+    {
+        "id": 470,
+        "title": "University of Dundee",
+        "description": "Public research university based in Dundee, Scotland.",
+        "location": "56.45833, -2.98056"
+    },
+    {
+        "id": 471,
+        "title": "University of Genoa",
+        "description": "Public university in Genoa, Liguria, Italy.",
+        "location": "44.415, 8.92722"
+    },
+    {
+        "id": 472,
+        "title": "University of Giessen",
+        "description": "Public research university in Giessen, Germany.",
+        "location": "50.58222, 8.675"
+    },
+    {
+        "id": 473,
+        "title": "University of Graz",
+        "description": "Largest public university in Styria, Austria.",
+        "location": "47.07806, 15.44917"
+    },
+    {
+        "id": 474,
+        "title": "University of Halle-Wittenberg",
+        "description": "Public research university in Halle and Wittenberg, Germany.",
+        "location": "51.48667, 11.96861"
+    },
+    {
+        "id": 475,
+        "title": "University of Hawaii at Manoa",
+        "description": "Public land-grant research university in Honolulu, Hawaii.",
+        "location": "21.3, -157.815"
+    },
+    {
+        "id": 476,
+        "title": "University of Jena",
+        "description": "Public research university in Jena, Thuringia, Germany.",
+        "location": "50.92917, 11.58389"
+    },
+    {
+        "id": 477,
+        "title": "University of Kent",
+        "description": "Semi-collegiate public research university in Kent, UK.",
+        "location": "51.29639, 1.06889"
+    },
+    {
+        "id": 478,
+        "title": "University of Konstanz",
+        "description": "Public university in Konstanz, Baden-Württemberg, Germany.",
+        "location": "47.68972, 9.18722"
+    },
+    {
+        "id": 479,
+        "title": "University of Liege",
+        "description": "Major public university of the French Community of Belgium.",
+        "location": "50.58278, 5.56194"
+    },
+    {
+        "id": 480,
+        "title": "University of Lille",
+        "description": "Public research university in Lille, Hauts-de-France, France.",
+        "location": "50.60889, 3.14167"
+    },
+    {
+        "id": 481,
+        "title": "University of Manitoba",
+        "description": "Public research university in Winnipeg, Manitoba, Canada.",
+        "location": "49.80833, -97.13333"
+    },
+    {
+        "id": 482,
+        "title": "University of Navarra",
+        "description": "Private research university located in Pamplona, Spain.",
+        "location": "42.80083, -1.65806"
+    },
+    {
+        "id": 483,
+        "title": "University of Oklahoma, Norman",
+        "description": "Public research university in Norman, Oklahoma.",
+        "location": "35.20583, -97.44583"
+    },
+    {
+        "id": 484,
+        "title": "University of Otago",
+        "description": "Public research university in Dunedin, New Zealand.",
+        "location": "-45.86500, 170.51500"
+    },
+    {
+        "id": 485,
+        "title": "University of Oulu",
+        "description": "Public research university in Oulu, Finland.",
+        "location": "65.05944, 25.46611"
+    },
+    {
+        "id": 486,
+        "title": "University of Pavia",
+        "description": "Public research university located in Pavia, Italy.",
+        "location": "45.18667, 9.15583"
+    },
+    {
+        "id": 487,
+        "title": "University of Regensburg",
+        "description": "Public research university in Regensburg, Germany.",
+        "location": "48.99833, 12.09583"
+    },
+    {
+        "id": 488,
+        "title": "University of Rennes",
+        "description": "Public research university located in Rennes, France.",
+        "location": "48.11806, -1.63750"
+    },
+    {
+        "id": 489,
+        "title": "University of Rome Tor Vergata",
+        "description": "Public research university located in Rome, Italy.",
+        "location": "41.85194, 12.62472"
+    },
+    {
+        "id": 490,
+        "title": "University of Saskatchewan",
+        "description": "Public research university in Saskatoon, Saskatchewan, Canada.",
+        "location": "52.13333, -106.63333"
+    },
+    {
+        "id": 491,
+        "title": "University of Seville",
+        "description": "Public research university located in Seville, Spain.",
+        "location": "37.38083, -5.99083"
+    },
+    {
+        "id": 492,
+        "title": "University of South Carolina, Columbia",
+        "description": "Public research university in Columbia, South Carolina.",
+        "location": "33.99889, -81.02611"
+    },
+    {
+        "id": 493,
+        "title": "University of South Florida",
+        "description": "Public research university in Tampa, Florida.",
+        "location": "28.05833, -82.41389"
+    },
+    {
+        "id": 494,
+        "title": "University of Surrey",
+        "description": "Public research university in Guildford, England.",
+        "location": "51.24278, -0.58917"
+    },
+    {
+        "id": 495,
+        "title": "University of Ulm",
+        "description": "Public research university in Ulm, Baden-Württemberg, Germany.",
+        "location": "48.42194, 9.95389"
+    },
+    {
+        "id": 496,
+        "title": "University of Warsaw",
+        "description": "Largest public research university in Warsaw, Poland.",
+        "location": "52.24000, 21.01833"
+    },
+    {
+        "id": 497,
+        "title": "University of Zaragoza",
+        "description": "Public university located in Zaragoza, Aragon, Spain.",
+        "location": "41.64167, -0.89583"
+    },
+    {
+        "id": 498,
+        "title": "Vilnius University",
+        "description": "Oldest public university in Lithuania, located in Vilnius.",
+        "location": "54.68278, 25.28778"
+    },
+    {
+        "id": 499,
+        "title": "Washington State University",
+        "description": "Public land-grant research university in Pullman, Washington.",
+        "location": "46.73139, -117.16111"
+    },
+    {
+        "id": 500,
+        "title": "Yanshan University",
+        "description": "Public university in Qinhuangdao, Hebei, China.",
+        "location": "39.90222, 119.53333"
+    },
+    {
+        "id": 501,
+        "title": "Army Medical University",
+        "description": "Military medical institution in Chongqing, China.",
+        "location": "29.53889, 106.44222"
+    },
+    {
+        "id": 502,
+        "title": "Australian Catholic University",
+        "description": "Public university with multiple campuses across Australia.",
+        "location": "-33.83917, 151.20639"
+    },
+    {
+        "id": 503,
+        "title": "Bar-Ilan University",
+        "description": "Public research university in Ramat Gan, Israel.",
+        "location": "32.06889, 34.84306"
+    },
+    {
+        "id": 504,
+        "title": "Binghamton University",
+        "description": "Public research university in Binghamton, New York.",
+        "location": "42.08944, -75.96944"
+    },
+    {
+        "id": 505,
+        "title": "Boston College",
+        "description": "Private Jesuit research university in Chestnut Hill, Massachusetts.",
+        "location": "42.33556, -71.16833"
+    },
+    {
+        "id": 506,
+        "title": "Carleton University",
+        "description": "Public research university in Ottawa, Ontario, Canada.",
+        "location": "45.38306, -75.69806"
+    },
+    {
+        "id": 507,
+        "title": "Central China Normal University",
+        "description": "Key comprehensive university in Wuhan, Hubei, China.",
+        "location": "30.52222, 114.35889"
+    },
+    {
+        "id": 508,
+        "title": "Chang'an University",
+        "description": "Public research university located in Xi'an, Shaanxi, China.",
+        "location": "34.22528, 108.96194"
+    },
+    {
+        "id": 509,
+        "title": "China Medical University (Shenyang)",
+        "description": "Public medical university in Shenyang, Liaoning, China.",
+        "location": "41.81056, 123.40722"
+    },
+    {
+        "id": 510,
+        "title": "China University of Mining and Technology-Beijing",
+        "description": "National key university campus in Beijing, China.",
+        "location": "39.99500, 116.34583"
+    },
+    {
+        "id": 511,
+        "title": "Clemson University",
+        "description": "Public land-grant research university in Clemson, South Carolina.",
+        "location": "34.67833, -82.83917"
+    },
+    {
+        "id": 512,
+        "title": "Eotvos Lorand University",
+        "description": "Public research university in Budapest, Hungary.",
+        "location": "47.49111, 19.05833"
+    },
+    {
+        "id": 513,
+        "title": "Federal University of Minas Gerais",
+        "description": "Federal research university in Belo Horizonte, Brazil.",
+        "location": "-19.86917, -43.96639"
+    },
+    {
+        "id": 514,
+        "title": "Federal University of Rio de Janeiro",
+        "description": "Largest federal university of Brazil, located in Rio de Janeiro.",
+        "location": "-22.86222, -43.22389"
+    },
+    {
+        "id": 515,
+        "title": "Federal University of Rio Grande do Sul",
+        "description": "Public research university located in Porto Alegre, Brazil.",
+        "location": "-30.03361, -51.22"
+    },
+    {
+        "id": 516,
+        "title": "Fujian Normal University",
+        "description": "Public university in Fuzhou, Fujian, China.",
+        "location": "26.0375, 119.20833"
+    },
+    {
+        "id": 517,
+        "title": "Hangzhou Dianzi University",
+        "description": "Public university in Hangzhou, Zhejiang, China.",
+        "location": "30.31500, 120.34278"
+    },
+    {
+        "id": 518,
+        "title": "Hannover Medical School",
+        "description": "Major university medical center in Hanover, Germany.",
+        "location": "52.38389, 9.80278"
+    },
+    {
+        "id": 519,
+        "title": "Hebei University",
+        "description": "Public university in Baoding, Hebei, China.",
+        "location": "38.8825, 115.53972"
+    },
+    {
+        "id": 520,
+        "title": "Hebei University of Technology",
+        "description": "Public university in Tianjin, China, administered by Hebei.",
+        "location": "39.22222, 117.13528"
+    },
+    {
+        "id": 521,
+        "title": "Indian Institute of Science",
+        "description": "Public university for research and higher education in Bengaluru, India.",
+        "location": "13.01861, 77.56806"
+    },
+    {
+        "id": 522,
+        "title": "Jagiellonian University",
+        "description": "Public research university in Kraków, Poland.",
+        "location": "50.06139, 19.9325"
+    },
+    {
+        "id": 523,
+        "title": "Jiangsu University of Science and Technology",
+        "description": "Public university located in Zhenjiang, Jiangsu, China.",
+        "location": "32.18167, 119.43528"
+    },
+    {
+        "id": 524,
+        "title": "King Abdulaziz University",
+        "description": "Public university in Jeddah, Saudi Arabia.",
+        "location": "21.4925, 39.25222"
+    },
+    {
+        "id": 525,
+        "title": "Kobe University",
+        "description": "Leading Japanese national university located in Kobe, Hyogo.",
+        "location": "34.72639, 135.23556"
+    },
+    {
+        "id": 526,
+        "title": "Laval University",
+        "description": "French-language public research university in Quebec City, Canada.",
+        "location": "46.78167, -71.275"
+    },
+    {
+        "id": 527,
+        "title": "Liverpool John Moores University",
+        "description": "Public research university in Liverpool, England.",
+        "location": "53.40694, -2.9725"
+    },
+    {
+        "id": 528,
+        "title": "Mahidol University",
+        "description": "Public research university in Bangkok, Thailand.",
+        "location": "13.79444, 100.32472"
+    },
+    {
+        "id": 529,
+        "title": "Medical College of Wisconsin",
+        "description": "Private medical school and research institute in Milwaukee, Wisconsin.",
+        "location": "43.04417, -88.02694"
+    },
+    {
+        "id": 530,
+        "title": "Medical University of Graz",
+        "description": "Public medical university located in Graz, Austria.",
+        "location": "47.08056, 15.46833"
+    },
+    {
+        "id": 531,
+        "title": "Medical University of Innsbruck",
+        "description": "Medical university located in Innsbruck, Austria.",
+        "location": "47.2625, 11.38556"
+    },
+    {
+        "id": 532,
+        "title": "Medical University of South Carolina",
+        "description": "Public medical school in Charleston, South Carolina.",
+        "location": "32.78472, -79.94889"
+    },
+    {
+        "id": 533,
+        "title": "Northeast Agricultural University",
+        "description": "Agricultural university located in Harbin, Heilongjiang, China.",
+        "location": "45.7225, 126.72611"
+    },
+    {
+        "id": 534,
+        "title": "Northeast Normal University",
+        "description": "Comprehensive normal university in Changchun, Jilin, China.",
+        "location": "43.86389, 125.32833"
+    },
+    {
+        "id": 535,
+        "title": "Northern Arizona University",
+        "description": "Public research university in Flagstaff, Arizona.",
+        "location": "35.18056, -111.65389"
+    },
+    {
+        "id": 536,
+        "title": "Okayama University",
+        "description": "National university located in Okayama, Japan.",
+        "location": "34.68694, 133.92222"
+    },
+    {
+        "id": 537,
+        "title": "Osaka Metropolitan University",
+        "description": "Public university system located in Osaka, Japan.",
+        "location": "34.59083, 135.50528"
+    },
+    {
+        "id": 538,
+        "title": "Polytechnic University of Madrid",
+        "description": "Public university located in Madrid, Spain.",
+        "location": "40.44806, -3.72583"
+    },
+    {
+        "id": 539,
+        "title": "Pontifical Catholic University of Chile",
+        "description": "Pontifical university in Santiago, Chile.",
+        "location": "-33.44111, -70.64028"
+    },
+    {
+        "id": 540,
+        "title": "Qingdao University of Science & Technology",
+        "description": "Public university located in Qingdao, Shandong, China.",
+        "location": "36.09639, 120.42611"
+    },
+    {
+        "id": 541,
+        "title": "Rensselaer Polytechnic Institute",
+        "description": "Private research university in Troy, New York.",
+        "location": "42.72833, -73.6775"
+    },
+    {
+        "id": 542,
+        "title": "Rush University",
+        "description": "Private healthcare-focused university in Chicago, Illinois.",
+        "location": "41.87417, -87.66889"
+    },
+    {
+        "id": 543,
+        "title": "Saveetha Institute of Medical and Technical Sciences (Deemed to be University)",
+        "description": "Private higher education institute in Chennai, Tamil Nadu, India.",
+        "location": "13.02722, 80.0175"
+    },
+    {
+        "id": 544,
+        "title": "Sejong University",
+        "description": "Private university located in Seoul, South Korea.",
+        "location": "37.55028, 127.07361"
+    },
+    {
+        "id": 545,
+        "title": "Sichuan Agricultural University",
+        "description": "Public university in Ya'an, Sichuan, China.",
+        "location": "29.98222, 103.01389"
+    },
+    {
+        "id": 546,
+        "title": "St Petersburg University",
+        "description": "Public research university in Saint Petersburg, Russia.",
+        "location": "59.94139, 30.30444"
+    },
+    {
+        "id": 547,
+        "title": "Tampere University",
+        "description": "Public university in Tampere, Finland.",
+        "location": "61.49389, 23.77889"
+    },
+    {
+        "id": 548,
+        "title": "Technical University Darmstadt",
+        "description": "Public research university in Darmstadt, Germany.",
+        "location": "49.87528, 8.65694"
+    },
+    {
+        "id": 549,
+        "title": "Tehran University of Medical Sciences",
+        "description": "Oldest and largest medical university in Tehran, Iran.",
+        "location": "35.70472, 51.39694"
+    },
+    {
+        "id": 550,
+        "title": "Texas Tech University",
+        "description": "Public research university in Lubbock, Texas.",
+        "location": "33.58444, -101.87806"
+    },
+    {
+        "id": 551,
+        "title": "The City College of New York",
+        "description": "Public senior college of CUNY in New York City.",
+        "location": "40.82000, -73.94917"
+    },
+    {
+        "id": 552,
+        "title": "The University of New Mexico, Albuquerque",
+        "description": "Public flagship research university in Albuquerque, New Mexico.",
+        "location": "35.08444, -106.61944"
+    },
+    {
+        "id": 553,
+        "title": "The University of Reading",
+        "description": "Public research university in Reading, Berkshire, England.",
+        "location": "51.44139, -0.94167"
+    },
+    {
+        "id": 554,
+        "title": "The University of Texas Medical Branch at Galveston",
+        "description": "Public academic health center in Galveston, Texas.",
+        "location": "29.31056, -94.77667"
+    },
+    {
+        "id": 555,
+        "title": "Tulane University",
+        "description": "Private research university in New Orleans, Louisiana.",
+        "location": "29.93528, -90.12278"
+    },
+    {
+        "id": 556,
+        "title": "UiT The Arctic University of Norway",
+        "description": "Public university in Tromsø, Norway.",
+        "location": "69.68083, 18.97194"
+    },
+    {
+        "id": 557,
+        "title": "University at Albany",
+        "description": "Public research university in Albany, New York.",
+        "location": "42.68639, -73.82444"
+    },
+    {
+        "id": 558,
+        "title": "University of Aveiro",
+        "description": "Public university in Aveiro, Portugal.",
+        "location": "40.63056, -8.65944"
+    },
+    {
+        "id": 559,
+        "title": "University of Bath",
+        "description": "Public research university located in Bath, United Kingdom.",
+        "location": "51.37833, -2.32639"
+    },
+    {
+        "id": 560,
+        "title": "University of Belgrade",
+        "description": "Oldest and largest public university in Serbia, located in Belgrade.",
+        "location": "44.81889, 20.45722"
+    },
+    {
+        "id": 561,
+        "title": "University of Bremen",
+        "description": "Public university located in Bremen, Germany.",
+        "location": "53.10722, 8.85361"
+    },
+    {
+        "id": 562,
+        "title": "University of California, Merced",
+        "description": "Public research university in Merced, California.",
+        "location": "37.36500, -120.42444"
+    },
+    {
+        "id": 563,
+        "title": "University of Campania Luigi Vanvitelli",
+        "description": "Public university located in Caserta and Naples, Italy.",
+        "location": "41.07472, 14.3275"
+    },
+    {
+        "id": 564,
+        "title": "University of Canterbury",
+        "description": "Public university in Christchurch, New Zealand.",
+        "location": "-43.52333, 172.58333"
+    },
+    {
+        "id": 565,
+        "title": "University of Central Florida",
+        "description": "Public research university in Orange County, Florida.",
+        "location": "28.6025, -81.20000"
+    },
+    {
+        "id": 566,
+        "title": "University of Chile",
+        "description": "Public research university in Santiago, Chile.",
+        "location": "-33.44417, -70.65083"
+    },
+    {
+        "id": 567,
+        "title": "University of Côte d'Azur",
+        "description": "Public university in Nice, France.",
+        "location": "43.71667, 7.26667"
+    },
+    {
+        "id": 568,
+        "title": "University of Eastern Finland",
+        "description": "Public university with campuses in Joensuu and Kuopio, Finland.",
+        "location": "62.8925, 27.63389"
+    },
+    {
+        "id": 569,
+        "title": "University of Essex",
+        "description": "Public research university in Essex, England.",
+        "location": "51.87806, 0.94722"
+    },
+    {
+        "id": 570,
+        "title": "University of Luebeck",
+        "description": "Research university in Lübeck, Schleswig-Holstein, Germany.",
+        "location": "53.83444, 10.70278"
+    },
+    {
+        "id": 571,
+        "title": "University of Maine",
+        "description": "Public land-grant research university in Orono, Maine.",
+        "location": "44.90111, -68.66806"
+    },
+    {
+        "id": 572,
+        "title": "University of Maryland, Baltimore",
+        "description": "Public health, law, and human services university in Baltimore, Maryland.",
+        "location": "39.28889, -76.62389"
+    },
+    {
+        "id": 573,
+        "title": "University of Natural Resources and Life Sciences, Vienna",
+        "description": "Public life sciences university in Vienna, Austria.",
+        "location": "48.23583, 16.33667"
+    },
+    {
+        "id": 574,
+        "title": "University of Nevada, Reno",
+        "description": "Public land-grant research university in Reno, Nevada.",
+        "location": "39.54417, -119.81639"
+    },
+    {
+        "id": 575,
+        "title": "University of North Texas",
+        "description": "Public research university in Denton, Texas.",
+        "location": "33.2075, -97.15278"
+    },
+    {
+        "id": 576,
+        "title": "University of Oldenburg",
+        "description": "Public university located in Oldenburg, Lower Saxony, Germany.",
+        "location": "53.14722, 8.18139"
+    },
+    {
+        "id": 577,
+        "title": "University of Oregon",
+        "description": "Public flagship research university in Eugene, Oregon.",
+        "location": "44.04472, -123.0725"
+    },
+    {
+        "id": 578,
+        "title": "University of Palermo (Italy)",
+        "description": "Public university located in Palermo, Sicily, Italy.",
+        "location": "38.11806, 13.35389"
+    },
+    {
+        "id": 579,
+        "title": "University of Perugia",
+        "description": "Public university based in Perugia, Umbria, Italy.",
+        "location": "43.11667, 12.38583"
+    },
+    {
+        "id": 580,
+        "title": "University of Pretoria",
+        "description": "Multi-campus public research university in Pretoria, South Africa.",
+        "location": "-25.75472, 28.23306"
+    },
+    {
+        "id": 581,
+        "title": "University of Rostock",
+        "description": "Public university located in Rostock, Mecklenburg-Vorpommern, Germany.",
+        "location": "54.08833, 12.13333"
+    },
+    {
+        "id": 582,
+        "title": "University of Santiago Compostela",
+        "description": "Public university located in Santiago de Compostela, Galicia, Spain.",
+        "location": "42.87806, -8.54417"
+    },
+    {
+        "id": 583,
+        "title": "University of Science, Malaysia",
+        "description": "Public research university located in Gelugor, Penang, Malaysia.",
+        "location": "5.35611, 100.30139"
+    },
+    {
+        "id": 584,
+        "title": "University of South China",
+        "description": "Comprehensive public university in Hengyang, Hunan, China.",
+        "location": "26.89278, 112.59389"
+    },
+    {
+        "id": 585,
+        "title": "University of Szeged",
+        "description": "Public research university located in Szeged, Hungary.",
+        "location": "46.25, 20.14278"
+    },
+    {
+        "id": 586,
+        "title": "University of Tartu",
+        "description": "National research university located in Tartu, Estonia.",
+        "location": "58.38111, 26.71972"
+    },
+    {
+        "id": 587,
+        "title": "University of Tehran",
+        "description": "Oldest and primary public university system in Tehran, Iran.",
+        "location": "35.70278, 51.39639"
+    },
+    {
+        "id": 588,
+        "title": "University of Toledo",
+        "description": "Public research university in Toledo, Ohio.",
+        "location": "41.65278, -83.61389"
+    },
+    {
+        "id": 589,
+        "title": "University of Twente",
+        "description": "Public technical university in Enschede, Netherlands.",
+        "location": "52.24083, 6.85278"
+    },
+    {
+        "id": 590,
+        "title": "Utah State University",
+        "description": "Public land-grant research university in Logan, Utah.",
+        "location": "41.74556, -111.80972"
+    },
+    {
+        "id": 591,
+        "title": "Victoria University of Wellington",
+        "description": "Public university located in Wellington, New Zealand.",
+        "location": "-41.28889, 174.76806"
+    },
+    {
+        "id": 592,
+        "title": "Vita-Salute San Raffaele University",
+        "description": "Private research university affiliated with San Raffaele Hospital in Milan, Italy.",
+        "location": "45.50611, 9.26611"
+    },
+    {
+        "id": 593,
+        "title": "Wake Forest University",
+        "description": "Private research university in Winston-Salem, North Carolina.",
+        "location": "36.13528, -80.27889"
+    },
+    {
+        "id": 594,
+        "title": "Wenzhou University",
+        "description": "Public university located in Wenzhou, Zhejiang, China.",
+        "location": "27.92222, 120.69722"
+    },
+    {
+        "id": 595,
+        "title": "Xi'an University of Technology",
+        "description": "Public higher education institution in Xi'an, Shaanxi, China.",
+        "location": "34.25056, 108.99500"
+    },
+    {
+        "id": 596,
+        "title": "Yeungnam University",
+        "description": "Private research university in Gyeongsan, North Gyeongsang, South Korea.",
+        "location": "35.83556, 128.75389"
+    },
+    {
+        "id": 597,
+        "title": "York University",
+        "description": "Public research university in Toronto, Ontario, Canada.",
+        "location": "43.77361, -79.50361"
+    },
+    {
+        "id": 598,
+        "title": "Zhejiang Chinese Medical University",
+        "description": "Public medical university in Hangzhou, Zhejiang, China.",
+        "location": "30.18028, 120.15083"
+    },
+    {
+        "id": 599,
+        "title": "Zhejiang Normal University",
+        "description": "Public comprehensive university based in Jinhua, Zhejiang, China.",
+        "location": "29.13889, 119.64806"
+    },
+    {
+        "id": 600,
+        "title": "Zhejiang Sci-Tech University",
+        "description": "Public university in Hangzhou, Zhejiang, China.",
+        "location": "30.31222, 120.35417"
+    },
+    {
+        "id": 601,
+        "title": "Air Force Medical University",
+        "description": "Military medical university in Xi'an, Shaanxi, China.",
+        "location": "34.26556, 108.98528"
+    },
+    {
+        "id": 602,
+        "title": "Alexandria University",
+        "description": "Public research university in Alexandria, Egypt.",
+        "location": "31.20194, 29.91417"
+    },
+    {
+        "id": 603,
+        "title": "Al-Imam Mohammad Ibn Saud Islamic University",
+        "description": "Public university in Riyadh, Saudi Arabia.",
+        "location": "24.81444, 46.70111"
+    },
+    {
+        "id": 604,
+        "title": "Anhui Agricultural University",
+        "description": "Public agricultural university in Hefei, Anhui, China.",
+        "location": "31.85972, 117.25611"
+    },
+    {
+        "id": 605,
+        "title": "Aristotle University of Thessaloniki",
+        "description": "Largest public research university in Thessaloniki, Greece.",
+        "location": "40.63222, 22.95889"
+    },
+    {
+        "id": 606,
+        "title": "Baylor University",
+        "description": "Private Christian research university in Waco, Texas.",
+        "location": "31.54694, -97.12111"
+    },
+    {
+        "id": 607,
+        "title": "Beijing Forestry University",
+        "description": "Public research university in Beijing, China.",
+        "location": "40.00028, 116.34722"
+    },
+    {
+        "id": 608,
+        "title": "Beijing University of Posts and Telecommunications",
+        "description": "Key public research university in Beijing, China.",
+        "location": "39.96139, 116.35806"
+    },
+    {
+        "id": 609,
+        "title": "Brescia University",
+        "description": "Public research university located in Brescia, Italy.",
+        "location": "45.53889, 10.22028"
+    },
+    {
+        "id": 610,
+        "title": "Brigham Young University",
+        "description": "Private research university in Provo, Utah.",
+        "location": "40.25194, -111.64944"
+    },
+    {
+        "id": 611,
+        "title": "Chengdu University of Technology",
+        "description": "Public university in Chengdu, Sichuan, China.",
+        "location": "30.67417, 104.14083"
+    },
+    {
+        "id": 612,
+        "title": "Chiba University",
+        "description": "National research university in Chiba, Japan.",
+        "location": "35.62611, 140.10333"
+    },
+    {
+        "id": 613,
+        "title": "China Medical University (Taichung)",
+        "description": "Private medical university in Taichung, Taiwan.",
+        "location": "24.15611, 120.68056"
+    },
+    {
+        "id": 614,
+        "title": "China Pharmaceutical University",
+        "description": "Public university specializing in pharmacy in Nanjing, China.",
+        "location": "31.90556, 118.90806"
+    },
+    {
+        "id": 615,
+        "title": "Chonnam National University",
+        "description": "National research university in Gwangju, South Korea.",
+        "location": "35.17639, 126.90694"
+    },
+    {
+        "id": 616,
+        "title": "Chulalongkorn University",
+        "description": "Public research university in Bangkok, Thailand.",
+        "location": "13.73833, 100.53194"
+    },
+    {
+        "id": 617,
+        "title": "Chung-Ang University",
+        "description": "Private research university in Seoul, South Korea.",
+        "location": "37.505, 126.95722"
+    },
+    {
+        "id": 618,
+        "title": "Chungbuk National University",
+        "description": "National research university in Cheongju, South Korea.",
+        "location": "36.62889, 127.45778"
+    },
+    {
+        "id": 619,
+        "title": "City St George's, University of London",
+        "description": "Public health and medical research university in London, UK.",
+        "location": "51.42722, -0.17028"
+    },
+    {
+        "id": 620,
+        "title": "Colorado School of Mines",
+        "description": "Public research university devoted to engineering and applied science in Golden, Colorado.",
+        "location": "39.75111, -105.22222"
+    },
+    {
+        "id": 621,
+        "title": "Concordia University",
+        "description": "Public English-language research university in Montreal, Canada.",
+        "location": "45.49722, -73.57889"
+    },
+    {
+        "id": 622,
+        "title": "Eastern Institute of Technology, Ningbo",
+        "description": "Emerging institute of technology in Ningbo, Zhejiang, China.",
+        "location": "29.90139, 121.63722"
+    },
+    {
+        "id": 623,
+        "title": "Georgetown University",
+        "description": "Private Jesuit research university in Washington, D.C.",
+        "location": "38.90722, -77.07222"
+    },
+    {
+        "id": 624,
+        "title": "Georgia State University",
+        "description": "Public research university in Atlanta, Georgia.",
+        "location": "33.75306, -84.38528"
+    },
+    {
+        "id": 625,
+        "title": "Graz University of Technology",
+        "description": "Public engineering and science university in Graz, Austria.",
+        "location": "47.06889, 15.45028"
+    },
+    {
+        "id": 626,
+        "title": "Hacettepe University",
+        "description": "Major public state university in Ankara, Turkey.",
+        "location": "39.86694, 32.73472"
+    },
+    {
+        "id": 627,
+        "title": "Hangzhou Normal University",
+        "description": "Public higher education institution in Hangzhou, Zhejiang, China.",
+        "location": "30.26389, 120.01278"
+    },
+    {
+        "id": 628,
+        "title": "Harbin Medical University",
+        "description": "Public medical university in Harbin, Heilongjiang, China.",
+        "location": "45.71806, 126.63417"
+    },
+    {
+        "id": 629,
+        "title": "Heilongjiang University",
+        "description": "Public comprehensive university in Harbin, Heilongjiang, China.",
+        "location": "45.70889, 126.61861"
+    },
+    {
+        "id": 630,
+        "title": "Henan University of Science and Technology",
+        "description": "Public comprehensive university in Luoyang, Henan, China.",
+        "location": "34.61833, 112.41861"
+    },
+    {
+        "id": 631,
+        "title": "Henan University of Technology",
+        "description": "Public university in Zhengzhou, Henan, China.",
+        "location": "34.79111, 113.53889"
+    },
+    {
+        "id": 632,
+        "title": "Hong Kong Baptist University",
+        "description": "Public liberal arts university in Kowloon Tong, Hong Kong.",
+        "location": "22.33806, 114.18194"
+    },
+    {
+        "id": 633,
+        "title": "Hunan Normal University",
+        "description": "Public university in Changsha, Hunan, China.",
+        "location": "28.19278, 112.93889"
+    },
+    {
+        "id": 634,
+        "title": "Istanbul University",
+        "description": "Prominent public research university in Istanbul, Turkey.",
+        "location": "41.01278, 28.96444"
+    },
+    {
+        "id": 635,
+        "title": "Kansas State University",
+        "description": "Public land-grant research university in Manhattan, Kansas.",
+        "location": "39.19111, -96.58194"
+    },
+    {
+        "id": 636,
+        "title": "Khalifa University",
+        "description": "Public research university in Abu Dhabi, United Arab Emirates.",
+        "location": "24.44222, 54.39806"
+    },
+    {
+        "id": 637,
+        "title": "King Fahd University of Petroleum and Minerals",
+        "description": "Public university in Dhahran, Saudi Arabia.",
+        "location": "26.31111, 50.14611"
+    },
+    {
+        "id": 638,
+        "title": "Lingnan University",
+        "description": "Liberal arts university in Tuen Mun, Hong Kong.",
+        "location": "22.41, 113.98306"
+    },
+    {
+        "id": 639,
+        "title": "Loughborough University",
+        "description": "Public research university in Loughborough, Leicestershire, UK.",
+        "location": "52.76667, -1.23333"
+    },
+    {
+        "id": 640,
+        "title": "Lulea University of Technology",
+        "description": "Public research university in Luleå, Sweden.",
+        "location": "65.61806, 22.14028"
+    },
+    {
+        "id": 641,
+        "title": "Macau University of Science and Technology",
+        "description": "Private research university in Taipa, Macau.",
+        "location": "22.15278, 113.56833"
+    },
+    {
+        "id": 642,
+        "title": "Mansoura University",
+        "description": "Public university in Mansoura, Egypt.",
+        "location": "31.04361, 31.35389"
+    },
+    {
+        "id": 643,
+        "title": "Mississippi State University",
+        "description": "Public land-grant research university in Starkville, Mississippi.",
+        "location": "33.45528, -88.79056"
+    },
+    {
+        "id": 644,
+        "title": "Nantes University",
+        "description": "Public university in Nantes, France.",
+        "location": "47.23694, -1.55278"
+    },
+    {
+        "id": 645,
+        "title": "National Polytechnic Institute",
+        "description": "Public higher education institution in Mexico City, Mexico.",
+        "location": "19.50028, -99.13889"
+    },
+    {
+        "id": 646,
+        "title": "National Sun Yat-Sen University",
+        "description": "Public research university in Kaohsiung, Taiwan.",
+        "location": "22.62694, 120.26556"
+    },
+    {
+        "id": 647,
+        "title": "National Taiwan University of Science and Technology",
+        "description": "Public technological university in Taipei, Taiwan.",
+        "location": "25.01306, 121.54139"
+    },
+    {
+        "id": 648,
+        "title": "Qatar University",
+        "description": "Public research university in Doha, Qatar.",
+        "location": "25.375, 51.49111"
+    },
+    {
+        "id": 649,
+        "title": "Qilu University of Technology",
+        "description": "Public university in Jinan, Shandong, China.",
+        "location": "36.55889, 116.80806"
+    },
+    {
+        "id": 650,
+        "title": "Saint Louis University (USA)",
+        "description": "Private Jesuit research university in St. Louis, Missouri.",
+        "location": "38.63611, -90.23389"
+    },
+    {
+        "id": 651,
+        "title": "San Diego State University",
+        "description": "Public research university in San Diego, California.",
+        "location": "32.77583, -117.07111"
+    },
+    {
+        "id": 652,
+        "title": "Shandong Normal University",
+        "description": "Public university in Jinan, Shandong, China.",
+        "location": "36.64389, 117.03806"
+    },
+    {
+        "id": 653,
+        "title": "Shandong University of Science and Technology",
+        "description": "Public university in Qingdao, Shandong, China.",
+        "location": "35.99833, 120.12528"
+    },
+    {
+        "id": 654,
+        "title": "Shanghai Normal University",
+        "description": "Public university in Shanghai, China.",
+        "location": "31.16611, 121.41111"
+    },
+    {
+        "id": 655,
+        "title": "Shanghai Ocean University",
+        "description": "Public university in Shanghai, China.",
+        "location": "30.88583, 121.90694"
+    },
+    {
+        "id": 656,
+        "title": "Shanghai University of Traditional Chinese Medicine",
+        "description": "Public university in Shanghai, China.",
+        "location": "31.18972, 121.5975"
+    },
+    {
+        "id": 657,
+        "title": "Shanxi Medical University",
+        "description": "Public medical university in Taiyuan, Shanxi, China.",
+        "location": "37.85, 112.55306"
+    },
+    {
+        "id": 658,
+        "title": "Southwest Medical University",
+        "description": "Public medical school in Luzhou, Sichuan, China.",
+        "location": "28.88056, 105.44111"
+    },
+    {
+        "id": 659,
+        "title": "Suzhou University of Science and Technology",
+        "description": "Public university in Suzhou, Jiangsu, China.",
+        "location": "31.28889, 120.53306"
+    },
+    {
+        "id": 660,
+        "title": "Technical University of Dortmund",
+        "description": "Public university in Dortmund, North Rhine-Westphalia, Germany.",
+        "location": "51.4925, 7.41167"
+    },
+    {
+        "id": 661,
+        "title": "The University of Texas at Arlington",
+        "description": "Public research university in Arlington, Texas.",
+        "location": "32.72972, -97.11333"
+    },
+    {
+        "id": 662,
+        "title": "Thomas Jefferson University",
+        "description": "Private health sciences university in Philadelphia, Pennsylvania.",
+        "location": "39.94889, -75.15806"
+    },
+    {
+        "id": 663,
+        "title": "Tiangong University",
+        "description": "Public university in Tianjin, China.",
+        "location": "39.06278, 117.10806"
+    },
+    {
+        "id": 664,
+        "title": "Tianjin University of Technology",
+        "description": "Public university in Tianjin, China.",
+        "location": "39.05806, 117.13528"
+    },
+    {
+        "id": 665,
+        "title": "Tokyo University of Science",
+        "description": "Private research university in Shinjuku, Tokyo, Japan.",
+        "location": "35.70028, 139.74194"
+    },
+    {
+        "id": 666,
+        "title": "Umea University",
+        "description": "Public research university in Umeå, Sweden.",
+        "location": "63.82056, 20.30778"
+    },
+    {
+        "id": 667,
+        "title": "United Arab Emirates University",
+        "description": "Public research university in Al Ain, UAE.",
+        "location": "24.19167, 55.67611"
+    },
+    {
+        "id": 668,
+        "title": "Università Della Svizzera Italiana",
+        "description": "Public university in Lugano and Mendrisio, Switzerland.",
+        "location": "46.01056, 8.95833"
+    },
+    {
+        "id": 669,
+        "title": "University of Arkansas at Fayetteville",
+        "description": "Public land-grant research university in Fayetteville, Arkansas.",
+        "location": "36.06861, -94.17583"
+    },
+    {
+        "id": 670,
+        "title": "University of Augsburg",
+        "description": "Public university in Augsburg, Bavaria, Germany.",
+        "location": "48.33389, 10.89833"
+    },
+    {
+        "id": 671,
+        "title": "University of Clermont Auvergne",
+        "description": "Public university in Clermont-Ferrand, France.",
+        "location": "45.76083, 3.11111"
+    },
+    {
+        "id": 672,
+        "title": "University of Delhi",
+        "description": "Collegiate public central university in New Delhi, India.",
+        "location": "28.68333, 77.21"
+    },
+    {
+        "id": 673,
+        "title": "University of Ferrara",
+        "description": "Public university located in Ferrara, Emilia-Romagna, Italy.",
+        "location": "44.83889, 11.62389"
+    },
+    {
+        "id": 674,
+        "title": "University of Galway",
+        "description": "Public research university located in Galway, Ireland.",
+        "location": "53.27806, -9.06028"
+    },
+    {
+        "id": 675,
+        "title": "University of Haifa",
+        "description": "Public research university in Haifa, Israel.",
+        "location": "32.76222, 35.01806"
+    },
+    {
+        "id": 676,
+        "title": "University of Health Sciences Turkey",
+        "description": "State medical university in Istanbul, Turkey.",
+        "location": "41.00222, 29.02278"
+    },
+    {
+        "id": 677,
+        "title": "University of Iceland",
+        "description": "Public research university in Reykjavík, Iceland.",
+        "location": "64.14028, -21.94944"
+    },
+    {
+        "id": 678,
+        "title": "University of Johannesburg",
+        "description": "Public university located in Johannesburg, South Africa.",
+        "location": "-26.18306, 27.99889"
+    },
+    {
+        "id": 679,
+        "title": "University of Jyvaskyla",
+        "description": "Public research university in Jyväskylä, Finland.",
+        "location": "62.23611, 25.73333"
+    },
+    {
+        "id": 680,
+        "title": "University of KwaZulu-Natal",
+        "description": "Public university across five campuses in KwaZulu-Natal, South Africa.",
+        "location": "-29.86694, 30.98083"
+    },
+    {
+        "id": 681,
+        "title": "University of Ljubljana",
+        "description": "Oldest and largest public university in Slovenia, based in Ljubljana.",
+        "location": "46.04944, 14.50417"
+    },
+    {
+        "id": 682,
+        "title": "University of Louisville",
+        "description": "Public research university in Louisville, Kentucky.",
+        "location": "38.21556, -85.75889"
+    },
+    {
+        "id": 683,
+        "title": "University of Luxembourg",
+        "description": "Public research university in Luxembourg.",
+        "location": "49.50389, 5.94722"
+    },
+    {
+        "id": 684,
+        "title": "University of Malaya",
+        "description": "Public research university located in Kuala Lumpur, Malaysia.",
+        "location": "3.12083, 101.65389"
+    },
+    {
+        "id": 685,
+        "title": "University of Maryland, Baltimore County",
+        "description": "Public research university in Catonsville, Maryland.",
+        "location": "39.25583, -76.71111"
+    },
+    {
+        "id": 686,
+        "title": "University of New Hampshire",
+        "description": "Public land-grant research university in Durham, New Hampshire.",
+        "location": "43.13583, -70.9325"
+    },
+    {
+        "id": 687,
+        "title": "University of Parma",
+        "description": "Public research university in Parma, Emilia-Romagna, Italy.",
+        "location": "44.80194, 10.32806"
+    },
+    {
+        "id": 688,
+        "title": "University of Plymouth",
+        "description": "Public university in Plymouth, Devon, UK.",
+        "location": "50.37528, -4.13833"
+    },
+    {
+        "id": 689,
+        "title": "University of Sherbrooke",
+        "description": "Large French-language public university in Sherbrooke, Quebec, Canada.",
+        "location": "45.37833, -71.92889"
+    },
+    {
+        "id": 690,
+        "title": "University of Trieste",
+        "description": "Public research university in Trieste, Friuli-Venezia Giulia, Italy.",
+        "location": "45.65806, 13.79389"
+    },
+    {
+        "id": 691,
+        "title": "University of Vermont",
+        "description": "Public research university in Burlington, Vermont.",
+        "location": "44.47778, -73.19639"
+    },
+    {
+        "id": 692,
+        "title": "University of Verona",
+        "description": "Public university in Verona, Italy.",
+        "location": "45.43444, 10.99278"
+    },
+    {
+        "id": 693,
+        "title": "University of Western Brittany",
+        "description": "Public university in Brest, Brittany, France.",
+        "location": "48.39861, -4.49806"
+    },
+    {
+        "id": 694,
+        "title": "University of Wyoming",
+        "description": "Public land-grant research university in Laramie, Wyoming.",
+        "location": "41.31472, -105.58167"
+    },
+    {
+        "id": 695,
+        "title": "University of Zagreb",
+        "description": "Oldest and largest public university in Croatia.",
+        "location": "45.81028, 15.97"
+    },
+    {
+        "id": 696,
+        "title": "Vellore Institute of Technology",
+        "description": "Private research institute in Vellore, Tamil Nadu, India.",
+        "location": "12.96917, 79.15583"
+    },
+    {
+        "id": 697,
+        "title": "Waseda University",
+        "description": "Private research university in Shinjuku, Tokyo, Japan.",
+        "location": "35.70972, 139.72194"
+    },
+    {
+        "id": 698,
+        "title": "Wuhan Institute of Technology",
+        "description": "Public university in Wuhan, Hubei, China.",
+        "location": "30.50528, 114.385"
+    },
+    {
+        "id": 699,
+        "title": "Xinjiang University",
+        "description": "Public research university in Urumqi, Xinjiang, China.",
+        "location": "43.765, 87.61639"
+    },
+    {
+        "id": 700,
+        "title": "Xuzhou Medical University",
+        "description": "Public medical institution in Xuzhou, Jiangsu, China.",
+        "location": "34.26611, 117.25306"
+    },
+    {
+        "id": 701,
+        "title": "Addis Ababa University",
+        "description": "Public research university in Addis Ababa, Ethiopia.",
+        "location": "9.04778, 38.76361"
+    },
+    {
+        "id": 702,
+        "title": "AGH University of Krakow",
+        "description": "Public technical university in Kraków, Poland.",
+        "location": "50.065, 19.91917"
+    },
+    {
+        "id": 703,
+        "title": "Ain Shams University",
+        "description": "Public university in Cairo, Egypt.",
+        "location": "30.07639, 31.2825"
+    },
+    {
+        "id": 704,
+        "title": "Al-Azhar University",
+        "description": "Public Islamic university in Cairo, Egypt.",
+        "location": "30.05889, 31.3125"
+    },
+    {
+        "id": 705,
+        "title": "Anhui University of Technology",
+        "description": "Public university in Ma'anshan, Anhui, China.",
+        "location": "31.68889, 118.52861"
+    },
+    {
+        "id": 706,
+        "title": "Ankara University",
+        "description": "Public research university in Ankara, Turkey.",
+        "location": "39.93667, 32.83083"
+    },
+    {
+        "id": 707,
+        "title": "Augusta University",
+        "description": "Public research university and medical center in Augusta, Georgia.",
+        "location": "33.47278, -82.02389"
+    },
+    {
+        "id": 708,
+        "title": "Brunel University London",
+        "description": "Public campus university in Uxbridge, London, UK.",
+        "location": "51.53278, -0.4725"
+    },
+    {
+        "id": 709,
+        "title": "Chang Gung University",
+        "description": "Private university in Guishan District, Taoyuan City, Taiwan.",
+        "location": "25.03389, 121.38944"
+    },
+    {
+        "id": 710,
+        "title": "Changzhou University",
+        "description": "Public university in Changzhou, Jiangsu, China.",
+        "location": "31.69611, 119.95361"
+    },
+    {
+        "id": 711,
+        "title": "Chiang Mai University",
+        "description": "Public research university in Chiang Mai, Thailand.",
+        "location": "18.80278, 98.95028"
+    },
+    {
+        "id": 712,
+        "title": "Chongqing University of Posts and Telecommunications",
+        "description": "Public university in Chongqing, China.",
+        "location": "29.53167, 106.60778"
+    },
+    {
+        "id": 713,
+        "title": "Chungnam National University",
+        "description": "National research university in Daejeon, South Korea.",
+        "location": "36.36889, 127.34694"
+    },
+    {
+        "id": 714,
+        "title": "Copenhagen Business School",
+        "description": "Public business school in Copenhagen, Denmark.",
+        "location": "55.68167, 12.52944"
+    },
+    {
+        "id": 715,
+        "title": "Dalian Maritime University",
+        "description": "Key maritime institution in Dalian, Liaoning, China.",
+        "location": "38.86833, 121.52833"
+    },
+    {
+        "id": 716,
+        "title": "Dalian Polytechnic University",
+        "description": "Public university in Dalian, Liaoning, China.",
+        "location": "39.00694, 121.52889"
+    },
+    {
+        "id": 717,
+        "title": "Ewha Womans University",
+        "description": "Private women's university in Seoul, South Korea.",
+        "location": "37.56194, 126.94694"
+    },
+    {
+        "id": 718,
+        "title": "Federal University of Santa Catarina",
+        "description": "Public university in Florianópolis, Santa Catarina, Brazil.",
+        "location": "-27.60111, -48.51861"
+    },
+    {
+        "id": 719,
+        "title": "Federal University of Sao Paulo",
+        "description": "Public university specialized in health sciences in São Paulo, Brazil.",
+        "location": "-23.59389, -46.64333"
+    },
+    {
+        "id": 720,
+        "title": "Florida Atlantic University",
+        "description": "Public research university in Boca Raton, Florida.",
+        "location": "26.37278, -80.10139"
+    },
+    {
+        "id": 721,
+        "title": "Florida International University",
+        "description": "Public research university located in Miami, Florida.",
+        "location": "25.75626, -80.37544"
+    },
+    {
+        "id": 722,
+        "title": "Gachon University",
+        "description": "Major private research university in Seongnam, South Korea.",
+        "location": "37.45028, 127.12972"
+    },
+    {
+        "id": 723,
+        "title": "Guangxi Medical University",
+        "description": "Public medical university in Nanning, Guangxi, China.",
+        "location": "22.79389, 108.32639"
+    },
+    {
+        "id": 724,
+        "title": "Guangzhou University of Chinese Medicine",
+        "description": "Public university specializing in traditional Chinese medicine in Guangzhou.",
+        "location": "23.05389, 113.38611"
+    },
+    {
+        "id": 725,
+        "title": "Gyeongsang National University",
+        "description": "National research university in Jinju, South Korea.",
+        "location": "35.15389, 128.09917"
+    },
+    {
+        "id": 726,
+        "title": "Hangzhou City University",
+        "description": "Public university located in Hangzhou, Zhejiang, China.",
+        "location": "30.32139, 120.15056"
+    },
+    {
+        "id": 727,
+        "title": "Hasselt University",
+        "description": "Public university with campuses in Hasselt and Diepenbeek, Belgium.",
+        "location": "50.92556, 5.38889"
+    },
+    {
+        "id": 728,
+        "title": "Hebei Medical University",
+        "description": "Public medical university in Shijiazhuang, Hebei, China.",
+        "location": "38.04111, 114.52639"
+    },
+    {
+        "id": 729,
+        "title": "Henan Normal University",
+        "description": "Public university located in Xinxiang, Henan, China.",
+        "location": "35.32667, 113.90778"
+    },
+    {
+        "id": 730,
+        "title": "Heriot-Watt University",
+        "description": "Public research university based in Edinburgh, Scotland.",
+        "location": "55.91444, -3.32"
+    },
+    {
+        "id": 731,
+        "title": "Homi Bhabha National Institute",
+        "description": "Deemed research university in Mumbai, India.",
+        "location": "19.04361, 72.92389"
+    },
+    {
+        "id": 732,
+        "title": "Hunan Agricultural University",
+        "description": "Public agricultural university in Changsha, Hunan, China.",
+        "location": "28.18028, 113.0825"
+    },
+    {
+        "id": 733,
+        "title": "Indian Institute of Technology Madras",
+        "description": "Public technical university located in Chennai, Tamil Nadu, India.",
+        "location": "12.99167, 80.23361"
+    },
+    {
+        "id": 734,
+        "title": "Jeonbuk National University",
+        "description": "National research university in Jeonju, South Korea.",
+        "location": "35.84667, 127.12917"
+    },
+    {
+        "id": 735,
+        "title": "Jilin Agricultural University",
+        "description": "Public agricultural university in Changchun, Jilin, China.",
+        "location": "43.8125, 125.41806"
+    },
+    {
+        "id": 736,
+        "title": "Kent State University",
+        "description": "Public research university in Kent, Ohio.",
+        "location": "41.14806, -81.34222"
+    },
+    {
+        "id": 737,
+        "title": "King Faisal University",
+        "description": "Public university in Al-Ahsa, Saudi Arabia.",
+        "location": "25.33778, 49.59389"
+    },
+    {
+        "id": 738,
+        "title": "Kitasato University",
+        "description": "Private university focused on health sciences in Minato, Tokyo, Japan.",
+        "location": "35.64417, 139.72889"
+    },
+    {
+        "id": 739,
+        "title": "Koc University",
+        "description": "Private research university in Istanbul, Turkey.",
+        "location": "41.205, 29.0725"
+    },
+    {
+        "id": 740,
+        "title": "Kunming Medical University",
+        "description": "Public medical university in Kunming, Yunnan, China.",
+        "location": "24.84778, 102.85306"
+    },
+    {
+        "id": 741,
+        "title": "Manipal Academy of Higher Education",
+        "description": "Deemed research university in Manipal, Karnataka, India.",
+        "location": "13.3525, 74.78694"
+    },
+    {
+        "id": 742,
+        "title": "Marche Polytechnic University",
+        "description": "Public university in Ancona, Italy.",
+        "location": "43.58667, 13.51639"
+    },
+    {
+        "id": 743,
+        "title": "Memorial University of Newfoundland",
+        "description": "Public university in St. John's, Newfoundland and Labrador, Canada.",
+        "location": "47.57361, -52.73278"
+    },
+    {
+        "id": 744,
+        "title": "Moscow Institute of Physics and Technology",
+        "description": "Public research university in Dolgoprudny, Russia.",
+        "location": "55.92972, 37.52139"
+    },
+    {
+        "id": 745,
+        "title": "National Chung Hsing University",
+        "description": "National research university in Taichung, Taiwan.",
+        "location": "24.12361, 120.67556"
+    },
+    {
+        "id": 746,
+        "title": "National Technical University of Athens",
+        "description": "Oldest technical university in Athens, Greece.",
+        "location": "37.97778, 23.7825"
+    },
+    {
+        "id": 747,
+        "title": "National University of Malaysia",
+        "description": "Public university in Bangi, Selangor, Malaysia.",
+        "location": "2.92889, 101.78"
+    },
+    {
+        "id": 748,
+        "title": "Naval Medical University",
+        "description": "Military medical university in Shanghai, China.",
+        "location": "31.30694, 121.52222"
+    },
+    {
+        "id": 749,
+        "title": "North China University of Water Resources and Electric Power",
+        "description": "Public university in Zhengzhou, Henan, China.",
+        "location": "34.78889, 113.78917"
+    },
+    {
+        "id": 750,
+        "title": "Nottingham Trent University",
+        "description": "Public research university in Nottingham, UK.",
+        "location": "52.95833, -1.15"
+    },
+    {
+        "id": 751,
+        "title": "NOVA University Lisbon",
+        "description": "Public university in Lisbon, Portugal.",
+        "location": "38.73361, -9.15389"
+    },
+    {
+        "id": 752,
+        "title": "Oklahoma State University",
+        "description": "Public land-grant research university in Stillwater, Oklahoma.",
+        "location": "36.12528, -97.07028"
+    },
+    {
+        "id": 753,
+        "title": "Old Dominion University",
+        "description": "Public research university in Norfolk, Virginia.",
+        "location": "36.88528, -76.30528"
+    },
+    {
+        "id": 754,
+        "title": "Polytechnic University of Bari",
+        "description": "Public university located in Bari, Italy.",
+        "location": "41.10833, 16.87778"
+    },
+    {
+        "id": 755,
+        "title": "Polytechnic University of Catalonia",
+        "description": "Largest engineering university in Catalonia, Spain.",
+        "location": "41.38806, 2.1125"
+    },
+    {
+        "id": 756,
+        "title": "Polytechnic University of Turin",
+        "description": "Engineering and architecture university in Turin, Italy.",
+        "location": "45.0625, 7.66278"
+    },
+    {
+        "id": 757,
+        "title": "Prince Sattam Bin Abdulaziz University",
+        "description": "Public university in Al-Kharj, Saudi Arabia.",
+        "location": "24.15222, 47.31167"
+    },
+    {
+        "id": 758,
+        "title": "Qassim University",
+        "description": "Public university in the Al-Qassim Region, Saudi Arabia.",
+        "location": "26.34861, 43.76694"
+    },
+    {
+        "id": 759,
+        "title": "Qingdao Agricultural University",
+        "description": "Public university in Qingdao, Shandong, China.",
+        "location": "36.31556, 120.39583"
+    },
+    {
+        "id": 760,
+        "title": "Scuola Normale Superiore - Pisa",
+        "description": "Public higher education institution in Pisa, Italy.",
+        "location": "43.71944, 10.40028"
+    },
+    {
+        "id": 761,
+        "title": "Semmelweis University",
+        "description": "Medical and health sciences university in Budapest, Hungary.",
+        "location": "47.48611, 19.06889"
+    },
+    {
+        "id": 762,
+        "title": "Shantou University",
+        "description": "Public university in Shantou, Guangdong, China.",
+        "location": "23.40917, 116.63389"
+    },
+    {
+        "id": 763,
+        "title": "Shenyang Pharmaceutical University",
+        "description": "Public university in Shenyang, Liaoning, China.",
+        "location": "41.76861, 123.44306"
+    },
+    {
+        "id": 764,
+        "title": "Shinshu University",
+        "description": "Japanese national university in Nagano Prefecture.",
+        "location": "36.25194, 137.98083"
+    },
+    {
+        "id": 765,
+        "title": "Southwest Petroleum University",
+        "description": "Public university in Chengdu, Sichuan, China.",
+        "location": "30.82528, 104.18389"
+    },
+    {
+        "id": 766,
+        "title": "Southwest University of Science and Technology",
+        "description": "Public university in Mianyang, Sichuan, China.",
+        "location": "31.53389, 104.695"
+    },
+    {
+        "id": 767,
+        "title": "Southwestern University of Finance and Economics",
+        "description": "Public research university in Chengdu, Sichuan, China.",
+        "location": "30.68083, 104.0125"
+    },
+    {
+        "id": 768,
+        "title": "Stockholm School of Economics",
+        "description": "Private business school in Stockholm, Sweden.",
+        "location": "59.34167, 18.05806"
+    },
+    {
+        "id": 769,
+        "title": "SUNY Downstate Health Sciences University",
+        "description": "Public medical school in Brooklyn, New York.",
+        "location": "40.65583, -73.94472"
+    },
+    {
+        "id": 770,
+        "title": "Taipei Medical University",
+        "description": "Private medical university in Xinyi District, Taipei, Taiwan.",
+        "location": "25.02583, 121.56222"
+    },
+    {
+        "id": 771,
+        "title": "Technical University of Braunschweig",
+        "description": "Oldest institute of technology in Germany, based in Braunschweig.",
+        "location": "52.27361, 10.52889"
+    },
+    {
+        "id": 772,
+        "title": "The Graduate University for Advanced Studies, SOKENDAI",
+        "description": "National postgraduate university in Hayama, Kanagawa, Japan.",
+        "location": "35.26083, 139.60833"
+    },
+    {
+        "id": 773,
+        "title": "The University of Alabama, Tuscaloosa",
+        "description": "Public land-grant research university in Tuscaloosa, Alabama.",
+        "location": "33.21194, -87.54583"
+    },
+    {
+        "id": 774,
+        "title": "University of Angers",
+        "description": "Public research university in Angers, France.",
+        "location": "47.48028, -0.56028"
+    },
+    {
+        "id": 775,
+        "title": "University of Burgundy Europe",
+        "description": "Public university located in Dijon, France.",
+        "location": "47.3125, 5.07167"
+    },
+    {
+        "id": 776,
+        "title": "University of Calabria",
+        "description": "Public university in Rende, Calabria, Italy.",
+        "location": "39.36222, 16.22583"
+    },
+    {
+        "id": 777,
+        "title": "University of Extremadura",
+        "description": "Public university in Extremadura, Spain.",
+        "location": "38.88333, -7.01667"
+    },
+    {
+        "id": 778,
+        "title": "University of Greenwich",
+        "description": "Public university located in London and Kent, UK.",
+        "location": "51.48278, -0.00556"
+    },
+    {
+        "id": 779,
+        "title": "University of Guelph",
+        "description": "Public research university in Guelph, Ontario, Canada.",
+        "location": "43.53083, -80.22861"
+    },
+    {
+        "id": 780,
+        "title": "University of Hohenheim",
+        "description": "Public campus university in Stuttgart, Germany.",
+        "location": "48.71194, 9.21361"
+    },
+    {
+        "id": 781,
+        "title": "University of Kaiserslautern-Landau",
+        "description": "Public research university in Rhineland-Palatinate, Germany.",
+        "location": "49.42472, 7.7525"
+    },
+    {
+        "id": 782,
+        "title": "University of La Laguna",
+        "description": "Public university in San Cristóbal de La Laguna, Tenerife, Spain.",
+        "location": "28.48167, -16.31667"
+    },
+    {
+        "id": 783,
+        "title": "University of Mannheim",
+        "description": "Public research university specializing in business and social sciences in Mannheim, Germany.",
+        "location": "49.48333, 8.46333"
+    },
+    {
+        "id": 784,
+        "title": "University of Mississippi",
+        "description": "Public flagship research university in Oxford, Mississippi.",
+        "location": "34.36556, -89.53889"
+    },
+    {
+        "id": 785,
+        "title": "University of Modena and Reggio Emilia",
+        "description": "Public university located in Modena and Reggio Emilia, Italy.",
+        "location": "44.64389, 10.92556"
+    },
+    {
+        "id": 786,
+        "title": "University of Murcia",
+        "description": "Main public university in Murcia, Spain.",
+        "location": "37.98611, -1.13028"
+    },
+    {
+        "id": 787,
+        "title": "University of Nevada, Las Vegas",
+        "description": "Public research university in Paradise, Nevada.",
+        "location": "36.10722, -115.14167"
+    },
+    {
+        "id": 788,
+        "title": "University of Siena",
+        "description": "Historic public university in Siena, Tuscany, Italy.",
+        "location": "43.31861, 11.33167"
+    },
+    {
+        "id": 789,
+        "title": "University of Southern Queensland",
+        "description": "Regional university based in Toowoomba, Queensland, Australia.",
+        "location": "-27.60639, 151.93278"
+    },
+    {
+        "id": 790,
+        "title": "University of Strathclyde",
+        "description": "Public research university in Glasgow, Scotland.",
+        "location": "55.86139, -4.2425"
+    },
+    {
+        "id": 791,
+        "title": "University of the Sunshine Coast",
+        "description": "Public university located on the Sunshine Coast, Queensland, Australia.",
+        "location": "-26.71778, 153.06417"
+    },
+    {
+        "id": 792,
+        "title": "University of Ulsan",
+        "description": "Private university located in Ulsan, South Korea.",
+        "location": "35.54361, 129.25639"
+    },
+    {
+        "id": 793,
+        "title": "Ural Federal University",
+        "description": "Major public research university in Yekaterinburg, Russia.",
+        "location": "56.84083, 60.65333"
+    },
+    {
+        "id": 794,
+        "title": "Wayne State University",
+        "description": "Public research university in Detroit, Michigan.",
+        "location": "42.35722, -83.06639"
+    },
+    {
+        "id": 795,
+        "title": "West Virginia University",
+        "description": "Public land-grant research university in Morgantown, West Virginia.",
+        "location": "39.63583, -79.955"
+    },
+    {
+        "id": 796,
+        "title": "Wuhan University of Science and Technology",
+        "description": "Public research university in Wuhan, Hubei, China.",
+        "location": "30.58111, 114.26611"
+    },
+    {
+        "id": 797,
+        "title": "Xi'an Jiaotong-Liverpool University",
+        "description": "International joint venture university in Suzhou, Jiangsu, China.",
+        "location": "31.275, 120.73889"
+    },
+    {
+        "id": 798,
+        "title": "Xi'an University of Architecture and Technology",
+        "description": "Public university specializing in civil engineering and architecture in Xi'an, China.",
+        "location": "34.24167, 108.96667"
+    },
+    {
+        "id": 799,
+        "title": "Xiangtan University",
+        "description": "Comprehensive key national university in Xiangtan, Hunan, China.",
+        "location": "27.88333, 112.86667"
+    },
+    {
+        "id": 800,
+        "title": "Zhejiang A&F University",
+        "description": "Public university in Hangzhou, Zhejiang, China focusing on agriculture and forestry.",
+        "location": "30.25889, 119.72889"
+    },
+    {
+        "id": 801,
+        "title": "American University",
+        "description": "Private research university in Washington, D.C.",
+        "location": "38.93694, -77.08944"
+    },
+    {
+        "id": 802,
+        "title": "American University of Beirut",
+        "description": "Private, non-sectarian university in Beirut, Lebanon.",
+        "location": "33.89972, 35.48028"
+    },
+    {
+        "id": 803,
+        "title": "Amirkabir University of Technology",
+        "description": "Public polytechnic research university in Tehran, Iran.",
+        "location": "35.70361, 51.40889"
+    },
+    {
+        "id": 804,
+        "title": "Ataturk University",
+        "description": "Major public university located in Erzurum, Türkiye.",
+        "location": "39.9, 41.24222"
+    },
+    {
+        "id": 805,
+        "title": "Auckland University of Technology",
+        "description": "Public university based in Auckland, New Zealand.",
+        "location": "-36.85306, 174.76694"
+    },
+    {
+        "id": 806,
+        "title": "Beijing Information Science & Technology University",
+        "description": "Public university in Beijing, China.",
+        "location": "40.04611, 116.35389"
+    },
+    {
+        "id": 807,
+        "title": "Beijing Technology and Business University",
+        "description": "Public university specializing in business and management in Beijing, China.",
+        "location": "39.92389, 116.31306"
+    },
+    {
+        "id": 808,
+        "title": "Bielefeld University",
+        "description": "Public research university in Bielefeld, Germany.",
+        "location": "52.03667, 8.49306"
+    },
+    {
+        "id": 809,
+        "title": "Birkbeck, University of London",
+        "description": "Public research university specializing in evening higher education in London, UK.",
+        "location": "51.52222, -0.13"
+    },
+    {
+        "id": 810,
+        "title": "Changsha University of Science & Technology",
+        "description": "Public university located in Changsha, Hunan, China.",
+        "location": "28.06694, 113.01194"
+    },
+    {
+        "id": 811,
+        "title": "City University of Macau",
+        "description": "Private university offering comprehensive degree programs in Macau.",
+        "location": "22.15806, 113.55778"
+    },
+    {
+        "id": 812,
+        "title": "College of William and Mary",
+        "description": "Historic public research university in Williamsburg, Virginia.",
+        "location": "37.27083, -76.70722"
+    },
+    {
+        "id": 813,
+        "title": "COMSATS University Islamabad",
+        "description": "Public research university with multiple campuses across Pakistan.",
+        "location": "33.65194, 73.15667"
+    },
+    {
+        "id": 814,
+        "title": "Czech Technical University in Prague",
+        "description": "One of the oldest technical universities in Central Europe, located in Prague.",
+        "location": "50.10389, 14.39167"
+    },
+    {
+        "id": 815,
+        "title": "Dalian Medical University",
+        "description": "Public medical university located in Dalian, Liaoning, China.",
+        "location": "38.81667, 121.32778"
+    },
+    {
+        "id": 816,
+        "title": "Ege University",
+        "description": "Major public research university based in Izmir, Türkiye.",
+        "location": "38.45528, 27.22722"
+    },
+    {
+        "id": 817,
+        "title": "Federal University of Parana",
+        "description": "Oldest public university in Brazil, located in Curitiba, Paraná.",
+        "location": "-25.42833, -49.26083"
+    },
+    {
+        "id": 818,
+        "title": "Federal University of Sao Carlos",
+        "description": "Public research university in São Carlos, São Paulo, Brazil.",
+        "location": "-21.98444, -47.88056"
+    },
+    {
+        "id": 819,
+        "title": "Federal University of Vicosa",
+        "description": "Renowned agricultural and public research university in Viçosa, Brazil.",
+        "location": "-20.75806, -42.86889"
+    },
+    {
+        "id": 820,
+        "title": "Gazi University",
+        "description": "Major public research university situated in Ankara, Türkiye.",
+        "location": "39.93667, 32.82222"
+    },
+    {
+        "id": 821,
+        "title": "Guangxi Normal University",
+        "description": "Public university located in Guilin, Guangxi, China.",
+        "location": "25.28167, 110.31694"
+    },
+    {
+        "id": 822,
+        "title": "HSE University",
+        "description": "National research university headquartered in Moscow, Russia.",
+        "location": "55.75389, 37.64833"
+    },
+    {
+        "id": 823,
+        "title": "Indian Institute of Technology Bombay",
+        "description": "Premier public engineering institute in Powai, Mumbai, India.",
+        "location": "19.13361, 72.91528"
+    },
+    {
+        "id": 824,
+        "title": "Indian Institute of Technology Delhi",
+        "description": "Top public technical and research institute in New Delhi, India.",
+        "location": "28.545, 77.1925"
+    },
+    {
+        "id": 825,
+        "title": "Indian Institute of Technology Kanpur",
+        "description": "Prominent public research university in Kanpur, Uttar Pradesh, India.",
+        "location": "26.51222, 80.23278"
+    },
+    {
+        "id": 826,
+        "title": "Indian Institute of Technology Kharagpur",
+        "description": "Oldest IIT institute, located in Kharagpur, West Bengal, India.",
+        "location": "22.31944, 87.30972"
+    },
+    {
+        "id": 827,
+        "title": "Indian Institute of Technology Roorkee",
+        "description": "Public technical university in Roorkee, Uttarakhand, India.",
+        "location": "29.86472, 77.89639"
+    },
+    {
+        "id": 828,
+        "title": "Istanbul Technical University",
+        "description": "Leading technical university situated in Istanbul, Türkiye.",
+        "location": "41.105, 29.02389"
+    },
+    {
+        "id": 829,
+        "title": "Istanbul University Cerrahpasa",
+        "description": "Public university specializing in medical and technical fields in Istanbul.",
+        "location": "40.99917, 28.93972"
+    },
+    {
+        "id": 830,
+        "title": "Jaume I University",
+        "description": "Public university in Castellón de la Plana, Spain.",
+        "location": "39.99444, -0.06889"
+    },
+    {
+        "id": 831,
+        "title": "Kaohsiung Medical University",
+        "description": "Private university focused on medical sciences in Kaohsiung, Taiwan.",
+        "location": "22.64722, 120.30972"
+    },
+    {
+        "id": 832,
+        "title": "Keele University",
+        "description": "Public campus university near Newcastle-under-Lyme, UK.",
+        "location": "53.00333, -2.26833"
+    },
+    {
+        "id": 833,
+        "title": "Kindai University",
+        "description": "Private university headquartered in Higashiosaka, Osaka, Japan.",
+        "location": "34.65139, 135.59083"
+    },
+    {
+        "id": 834,
+        "title": "Konkuk University",
+        "description": "Private comprehensive research university in Seoul, South Korea.",
+        "location": "37.54222, 127.07806"
+    },
+    {
+        "id": 835,
+        "title": "Lanzhou University of Technology",
+        "description": "Public university in Lanzhou, Gansu, China.",
+        "location": "36.02861, 103.78444"
+    },
+    {
+        "id": 836,
+        "title": "Macao Polytechnic University",
+        "description": "Public tertiary educational institution in Macao, China.",
+        "location": "22.19194, 113.55278"
+    },
+    {
+        "id": 837,
+        "title": "Marmara University",
+        "description": "Public multi-language university in Istanbul, Türkiye.",
+        "location": "40.98806, 29.05222"
+    },
+    {
+        "id": 838,
+        "title": "Maynooth University",
+        "description": "Constituent university of the National University of Ireland in Maynooth.",
+        "location": "53.38389, -6.59889"
+    },
+    {
+        "id": 839,
+        "title": "Montana State University, Bozeman",
+        "description": "Public land-grant research university in Bozeman, Montana.",
+        "location": "45.66694, -111.05"
+    },
+    {
+        "id": 840,
+        "title": "Murdoch University",
+        "description": "Public university based in Perth, Western Australia.",
+        "location": "-32.0675, 115.83611"
+    },
+    {
+        "id": 841,
+        "title": "Nagasaki University",
+        "description": "Japanese national university located in Nagasaki, Japan.",
+        "location": "32.78583, 129.86944"
+    },
+    {
+        "id": 842,
+        "title": "National University of Colombia",
+        "description": "Public, national, research university in Bogotá, Colombia.",
+        "location": "4.63806, -74.08417"
+    },
+    {
+        "id": 843,
+        "title": "National University of Sciences & Technology Pakistan",
+        "description": "Public research university headquartered in Islamabad, Pakistan.",
+        "location": "33.6425, 72.99056"
+    },
+    {
+        "id": 844,
+        "title": "New Jersey Institute of Technology",
+        "description": "Public polytechnic research university in Newark, New Jersey.",
+        "location": "40.74222, -74.17889"
+    },
+    {
+        "id": 845,
+        "title": "North University of China",
+        "description": "Public university in Taiyuan, Shanxi, China.",
+        "location": "38.01361, 112.44361"
+    },
+    {
+        "id": 846,
+        "title": "Northumbria University",
+        "description": "Public university located in Newcastle upon Tyne, UK.",
+        "location": "54.9775, -1.60694"
+    },
+    {
+        "id": 847,
+        "title": "North-West University",
+        "description": "Public university located in Potchefstroom, South Africa.",
+        "location": "-26.68528, 27.09472"
+    },
+    {
+        "id": 848,
+        "title": "Ohio University",
+        "description": "Public research university in Athens, Ohio.",
+        "location": "39.32417, -82.10139"
+    },
+    {
+        "id": 849,
+        "title": "Palacký University Olomouc",
+        "description": "Oldest university in Moravia, located in Olomouc, Czech Republic.",
+        "location": "49.59444, 17.25833"
+    },
+    {
+        "id": 850,
+        "title": "Pukyong National University",
+        "description": "National university located in Busan, South Korea.",
+        "location": "35.13389, 129.10611"
+    },
+    {
+        "id": 851,
+        "title": "Quaid-i-Azam University",
+        "description": "Public research university in Islamabad, Pakistan.",
+        "location": "33.74694, 73.13639"
+    },
+    {
+        "id": 852,
+        "title": "Royal Holloway, University of London",
+        "description": "Constituent college of the University of London in Egham, Surrey.",
+        "location": "51.42556, -0.56278"
+    },
+    {
+        "id": 853,
+        "title": "Shandong Agricultural University",
+        "description": "Public agricultural university in Tai'an, Shandong, China.",
+        "location": "36.20056, 117.12389"
+    },
+    {
+        "id": 854,
+        "title": "Shandong University of Technology",
+        "description": "Public university in Zibo, Shandong, China.",
+        "location": "36.8, 118.01667"
+    },
+    {
+        "id": 855,
+        "title": "Shenyang University of Technology",
+        "description": "Public university in Shenyang, Liaoning, China.",
+        "location": "41.72889, 123.24361"
+    },
+    {
+        "id": 856,
+        "title": "Shenzhen University of Advanced Technology",
+        "description": "Public research university in Shenzhen, Guangdong, China.",
+        "location": "22.76083, 113.91889"
+    },
+    {
+        "id": 857,
+        "title": "Shihezi University",
+        "description": "Public university in Shihezi, Xinjiang, China.",
+        "location": "44.3, 86.03333"
+    },
+    {
+        "id": 858,
+        "title": "Southern Methodist University",
+        "description": "Private research university in University Park, Texas.",
+        "location": "32.84194, -96.78444"
+    },
+    {
+        "id": 859,
+        "title": "Swansea University",
+        "description": "Public research university located in Swansea, Wales, UK.",
+        "location": "51.60944, -3.98083"
+    },
+    {
+        "id": 860,
+        "title": "Syracuse University",
+        "description": "Private research university in Syracuse, New York.",
+        "location": "43.03778, -76.13389"
+    },
+    {
+        "id": 861,
+        "title": "Taiyuan University of Science and Technology",
+        "description": "Public university in Taiyuan, Shanxi, China.",
+        "location": "37.86833, 112.4975"
+    },
+    {
+        "id": 862,
+        "title": "The Catholic University of Korea",
+        "description": "Private Roman Catholic university in Seoul and Bucheon, South Korea.",
+        "location": "37.48583, 126.80222"
+    },
+    {
+        "id": 863,
+        "title": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "description": "Joint-venture public university in Nansha, Guangzhou, China.",
+        "location": "22.90389, 113.54194"
+    },
+    {
+        "id": 864,
+        "title": "The University of Montana",
+        "description": "Public flagship research university in Missoula, Montana.",
+        "location": "46.86, -113.985"
+    },
+    {
+        "id": 865,
+        "title": "Tianjin University of Science and Technology",
+        "description": "Public university in Tianjin, China.",
+        "location": "39.08333, 117.68333"
+    },
+    {
+        "id": 866,
+        "title": "Tilburg University",
+        "description": "Public research university in Tilburg, Netherlands.",
+        "location": "51.56278, 5.04639"
+    },
+    {
+        "id": 867,
+        "title": "Toronto Metropolitan University",
+        "description": "Public research university in Toronto, Ontario, Canada.",
+        "location": "43.65778, -79.37889"
+    },
+    {
+        "id": 868,
+        "title": "Ulster University",
+        "description": "Multi-campus public university in Northern Ireland, UK.",
+        "location": "55.15083, -6.67472"
+    },
+    {
+        "id": 869,
+        "title": "University of Alaska Fairbanks",
+        "description": "Public land-grant research university in College, Alaska.",
+        "location": "64.85806, -147.83472"
+    },
+    {
+        "id": 870,
+        "title": "University of Alcala",
+        "description": "Public university in Alcalá de Henares, Madrid, Spain.",
+        "location": "40.48333, -3.36389"
+    },
+    {
+        "id": 871,
+        "title": "University of Antioquia",
+        "description": "Public research university located in Medellín, Colombia.",
+        "location": "6.26788, -75.56828"
+    },
+    {
+        "id": 872,
+        "title": "University of Brasília",
+        "description": "Public federal university located in Brasília, Brazil.",
+        "location": "-15.76342, -47.87032"
+    },
+    {
+        "id": 873,
+        "title": "University of Cagliari",
+        "description": "Public university located in Cagliari, Sardinia, Italy.",
+        "location": "39.21734, 9.11718"
+    },
+    {
+        "id": 874,
+        "title": "University of Chieti-Pescara",
+        "description": "Public university in Chieti and Pescara, Abruzzo, Italy.",
+        "location": "42.36768, 14.1482"
+    },
+    {
+        "id": 875,
+        "title": "University of Cyprus",
+        "description": "Public research university established in Nicosia, Cyprus.",
+        "location": "35.14515, 33.40798"
+    },
+    {
+        "id": 876,
+        "title": "University of Hull",
+        "description": "Public research university in Kingston upon Hull, UK.",
+        "location": "53.77093, -0.36746"
+    },
+    {
+        "id": 877,
+        "title": "University of Jinan",
+        "description": "Public university located in Jinan, Shandong, China.",
+        "location": "36.60251, 116.96962"
+    },
+    {
+        "id": 878,
+        "title": "University of Kassel",
+        "description": "Public research university located in Kassel, Germany.",
+        "location": "51.32288, 9.50856"
+    },
+    {
+        "id": 879,
+        "title": "University of Magdeburg",
+        "description": "Public university located in Magdeburg, Saxony-Anhalt, Germany.",
+        "location": "52.13968, 11.64455"
+    },
+    {
+        "id": 880,
+        "title": "University of Malaga",
+        "description": "Public university located in Málaga, Andalusia, Spain.",
+        "location": "36.71633, -4.47167"
+    },
+    {
+        "id": 881,
+        "title": "University of Massachusetts Boston",
+        "description": "Public research university located in Boston, Massachusetts.",
+        "location": "42.31383, -71.03759"
+    },
+    {
+        "id": 882,
+        "title": "University of Messina",
+        "description": "Public university located in Messina, Sicily, Italy.",
+        "location": "38.19326, 15.55428"
+    },
+    {
+        "id": 883,
+        "title": "University of Minho",
+        "description": "Public university in Braga and Guimarães, Portugal.",
+        "location": "41.56108, -8.39763"
+    },
+    {
+        "id": 884,
+        "title": "University of North Carolina at Charlotte",
+        "description": "Public research university located in Charlotte, North Carolina.",
+        "location": "35.30709, -80.73516"
+    },
+    {
+        "id": 885,
+        "title": "University of Oklahoma Health Sciences Center",
+        "description": "Public health sciences university in Oklahoma City, Oklahoma.",
+        "location": "35.48007, -97.50284"
+    },
+    {
+        "id": 886,
+        "title": "University of Oviedo",
+        "description": "Public research university located in Asturias, Spain.",
+        "location": "43.36191, -5.84939"
+    },
+    {
+        "id": 887,
+        "title": "University of Picardie Jules Verne",
+        "description": "Public university located in Amiens, France.",
+        "location": "49.88373, 2.2905"
+    },
+    {
+        "id": 888,
+        "title": "University of Regina",
+        "description": "Public research university located in Regina, Saskatchewan, Canada.",
+        "location": "50.41624, -104.5888"
+    },
+    {
+        "id": 889,
+        "title": "University of Rhode Island",
+        "description": "Public flagship research university in Kingston, Rhode Island.",
+        "location": "41.48154, -71.53006"
+    },
+    {
+        "id": 890,
+        "title": "University of Salamanca",
+        "description": "Historical public research university located in Salamanca, Spain.",
+        "location": "40.96161, -5.66619"
+    },
+    {
+        "id": 891,
+        "title": "University of Salento",
+        "description": "Public university located in Lecce, Apulia, Italy.",
+        "location": "40.3526, 18.16333"
+    },
+    {
+        "id": 892,
+        "title": "University of Salerno",
+        "description": "Public university located in Fisciano, near Salerno, Italy.",
+        "location": "40.7725, 14.78917"
+    },
+    {
+        "id": 893,
+        "title": "University of South Africa",
+        "description": "Largest open distance learning university system in Africa.",
+        "location": "-25.76781, 28.19941"
+    },
+    {
+        "id": 894,
+        "title": "University of Stirling",
+        "description": "Public university founded in Stirling, Scotland, UK.",
+        "location": "56.14578, -3.91898"
+    },
+    {
+        "id": 895,
+        "title": "University of the Punjab",
+        "description": "Oldest public research university in Lahore, Pakistan.",
+        "location": "31.5005, 74.30198"
+    },
+    {
+        "id": 896,
+        "title": "University of Versailles Saint-Quentin-en-Yvelines",
+        "description": "French public university in Versailles and Saint-Quentin-en-Yvelines.",
+        "location": "48.79976, 2.04652"
+    },
+    {
+        "id": 897,
+        "title": "University Putra Malaysia",
+        "description": "Public research university located in Serdang, Malaysia.",
+        "location": "2.99955, 101.70806"
+    },
+    {
+        "id": 898,
+        "title": "University Rovira i Virgili",
+        "description": "Public university located in Catalonia, Spain.",
+        "location": "41.11902, 1.24522"
+    },
+    {
+        "id": 899,
+        "title": "Wuhan Textile University",
+        "description": "Public university located in Wuhan, Hubei, China.",
+        "location": "30.47271, 114.39864"
+    },
+    {
+        "id": 900,
+        "title": "Yangtze University",
+        "description": "Public university located in Jingzhou and Wuhan, Hubei, China.",
+        "location": "30.35417, 112.14667"
+    },
+    {
+        "id": 901,
+        "title": "Adam Mickiewicz University",
+        "description": "Major public research university located in Poznań, Poland.",
+        "location": "52.40833, 16.91861"
+    },
+    {
+        "id": 902,
+        "title": "Ajou University",
+        "description": "Private research university located in Suwon, South Korea.",
+        "location": "37.28306, 127.04639"
+    },
+    {
+        "id": 903,
+        "title": "Amherst College",
+        "description": "Private liberal arts college located in Amherst, Massachusetts.",
+        "location": "42.37083, -72.51694"
+    },
+    {
+        "id": 904,
+        "title": "Anhui University of Science & Technology",
+        "description": "Public university located in Huainan, Anhui, China.",
+        "location": "32.63056, 116.99889"
+    },
+    {
+        "id": 905,
+        "title": "Banaras Hindu University",
+        "description": "Public central university located in Varanasi, Uttar Pradesh, India.",
+        "location": "25.26778, 82.99139"
+    },
+    {
+        "id": 906,
+        "title": "Beijing University of Chinese Medicine",
+        "description": "Public university specializing in Chinese medicine in Beijing, China.",
+        "location": "39.97222, 116.425"
+    },
+    {
+        "id": 907,
+        "title": "Bengbu Medical University",
+        "description": "Public medical university located in Bengbu, Anhui, China.",
+        "location": "32.91528, 117.38889"
+    },
+    {
+        "id": 908,
+        "title": "Bond University",
+        "description": "Private non-profit university in Robina, Gold Coast, Australia.",
+        "location": "-28.07333, 153.41667"
+    },
+    {
+        "id": 909,
+        "title": "Brock University",
+        "description": "Public research university in St. Catharines, Ontario, Canada.",
+        "location": "43.11806, -79.24889"
+    },
+    {
+        "id": 910,
+        "title": "Budapest University of Technology and Economics",
+        "description": "Major technology institution located in Budapest, Hungary.",
+        "location": "47.48139, 19.05556"
+    },
+    {
+        "id": 911,
+        "title": "Central University of Finance and Economics",
+        "description": "Public research university located in Beijing, China.",
+        "location": "39.95389, 116.34028"
+    },
+    {
+        "id": 912,
+        "title": "Chengdu University of Traditional Chinese Medicine",
+        "description": "Public university specializing in medicine in Chengdu, Sichuan, China.",
+        "location": "30.68694, 104.0375"
+    },
+    {
+        "id": 913,
+        "title": "China Jiliang University",
+        "description": "Public university located in Hangzhou, Zhejiang, China.",
+        "location": "30.31611, 120.36028"
+    },
+    {
+        "id": 914,
+        "title": "Chitkara University",
+        "description": "Private university in Rajpura, Punjab, India.",
+        "location": "30.51639, 76.65972"
+    },
+    {
+        "id": 915,
+        "title": "Czech University of Life Sciences Prague",
+        "description": "Public agricultural and life sciences university in Prague, Czech Republic.",
+        "location": "50.12944, 14.375"
+    },
+    {
+        "id": 916,
+        "title": "Dongguk University",
+        "description": "Private Buddhist-affiliated university in Seoul, South Korea.",
+        "location": "37.55833, 127.00056"
+    },
+    {
+        "id": 917,
+        "title": "East China Jiaotong University",
+        "description": "Public university located in Nanchang, Jiangxi, China.",
+        "location": "28.74361, 115.86778"
+    },
+    {
+        "id": 918,
+        "title": "Edith Cowan University",
+        "description": "Public university located in Perth, Western Australia.",
+        "location": "-31.75194, 115.76861"
+    },
+    {
+        "id": 919,
+        "title": "Erciyes University",
+        "description": "Public university located in Kayseri, Türkiye.",
+        "location": "38.70833, 35.52917"
+    },
+    {
+        "id": 920,
+        "title": "Federal University of Ceara",
+        "description": "Public federal university located in Fortaleza, Ceará, Brazil.",
+        "location": "-3.74306, -38.57222"
+    },
+    {
+        "id": 921,
+        "title": "Federal University of Pernambuco",
+        "description": "Public federal university located in Recife, Pernambuco, Brazil.",
+        "location": "-8.05222, -34.95"
+    },
+    {
+        "id": 922,
+        "title": "Guilin University of Electronic Technology",
+        "description": "Public university located in Guilin, Guangxi, China.",
+        "location": "25.28583, 110.33417"
+    },
+    {
+        "id": 923,
+        "title": "Hainan Medical University",
+        "description": "Public medical university located in Haikou, Hainan, China.",
+        "location": "19.98222, 110.33861"
+    },
+    {
+        "id": 924,
+        "title": "Hangzhou Medical College",
+        "description": "Public medical college located in Hangzhou, Zhejiang, China.",
+        "location": "30.20167, 120.19167"
+    },
+    {
+        "id": 925,
+        "title": "Hassan II University of Casablanca",
+        "description": "Public university located in Casablanca, Morocco.",
+        "location": "33.53861, -7.67139"
+    },
+    {
+        "id": 926,
+        "title": "Henan Agricultural University",
+        "description": "Public agricultural university in Zhengzhou, Henan, China.",
+        "location": "34.79139, 113.67056"
+    },
+    {
+        "id": 927,
+        "title": "Henan Polytechnic University",
+        "description": "Public university located in Jiaozuo, Henan, China.",
+        "location": "35.19194, 113.26417"
+    },
+    {
+        "id": 928,
+        "title": "Huaqiao University",
+        "description": "Public research university located in Quanzhou and Xiamen, China.",
+        "location": "24.90806, 118.63806"
+    },
+    {
+        "id": 929,
+        "title": "Hubei University",
+        "description": "Public comprehensive university located in Wuhan, Hubei, China.",
+        "location": "30.58194, 114.33139"
+    },
+    {
+        "id": 930,
+        "title": "Humanitas University",
+        "description": "Private medical university in Rozzano, Milan, Italy.",
+        "location": "45.37444, 9.155"
+    },
+    {
+        "id": 931,
+        "title": "Illinois Institute of Technology",
+        "description": "Private research university located in Chicago, Illinois.",
+        "location": "41.835, -87.62722"
+    },
+    {
+        "id": 932,
+        "title": "INHA University",
+        "description": "Private research university located in Incheon, South Korea.",
+        "location": "37.45, 126.65722"
+    },
+    {
+        "id": 933,
+        "title": "Inner Mongolia University",
+        "description": "Public university located in Hohhot, Inner Mongolia, China.",
+        "location": "40.80667, 111.68417"
+    },
+    {
+        "id": 934,
+        "title": "International School for Advanced Studies",
+        "description": "Public research institute located in Trieste, Italy.",
+        "location": "45.67972, 13.77583"
+    },
+    {
+        "id": 935,
+        "title": "Jazan University",
+        "description": "Public research university located in Jazan, Saudi Arabia.",
+        "location": "16.89222, 42.55194"
+    },
+    {
+        "id": 936,
+        "title": "Jiangxi Normal University",
+        "description": "Public university located in Nanchang, Jiangxi, China.",
+        "location": "28.68333, 115.85"
+    },
+    {
+        "id": 937,
+        "title": "Jimei University",
+        "description": "Public university located in Xiamen, Fujian, China.",
+        "location": "24.58028, 118.09889"
+    },
+    {
+        "id": 938,
+        "title": "Johannes Kepler University Linz",
+        "description": "Public institution of higher education in Linz, Austria.",
+        "location": "48.33667, 14.31806"
+    },
+    {
+        "id": 939,
+        "title": "Juntendo University",
+        "description": "Private university headquartered in Bunkyo, Tokyo, Japan.",
+        "location": "35.70333, 139.76167"
+    },
+    {
+        "id": 940,
+        "title": "Kanazawa University",
+        "description": "Major Japanese national university located in Kanazawa, Ishikawa.",
+        "location": "36.54639, 136.70861"
+    },
+    {
+        "id": 941,
+        "title": "Kangwon National University",
+        "description": "National university located in Chuncheon, Gangwon, South Korea.",
+        "location": "37.86889, 127.74389"
+    },
+    {
+        "id": 942,
+        "title": "King Juan Carlos University",
+        "description": "Public research university located in Madrid, Spain.",
+        "location": "40.33417, -3.87694"
+    },
+    {
+        "id": 943,
+        "title": "Kumamoto University",
+        "description": "Japanese national university located in Kumamoto, Japan.",
+        "location": "32.8125, 130.72722"
+    },
+    {
+        "id": 944,
+        "title": "Lakehead University",
+        "description": "Public research university in Thunder Bay, Ontario, Canada.",
+        "location": "48.42139, -89.26111"
+    },
+    {
+        "id": 945,
+        "title": "Lehigh University",
+        "description": "Private research university in Bethlehem, Pennsylvania.",
+        "location": "40.60528, -75.37778"
+    },
+    {
+        "id": 946,
+        "title": "Loyola University Chicago",
+        "description": "Private Jesuit research university in Chicago, Illinois.",
+        "location": "41.99889, -87.6575"
+    },
+    {
+        "id": 947,
+        "title": "Massey University",
+        "description": "University based in Palmerston North, New Zealand.",
+        "location": "-40.38556, 175.61472"
+    },
+    {
+        "id": 948,
+        "title": "Michigan Technological University",
+        "description": "Public research university in Houghton, Michigan.",
+        "location": "47.11833, -88.54694"
+    },
+    {
+        "id": 949,
+        "title": "Middle East Technical University",
+        "description": "Public technical university located in Ankara, Türkiye.",
+        "location": "39.89139, 32.78472"
+    },
+    {
+        "id": 950,
+        "title": "Mohammed VI Polytechnic University",
+        "description": "Private research university in Benguerir, Morocco.",
+        "location": "32.22694, -7.95472"
+    },
+    {
+        "id": 951,
+        "title": "National Central University",
+        "description": "Public research university located in Taoyuan, Taiwan.",
+        "location": "24.96806, 121.1925"
+    },
+    {
+        "id": 952,
+        "title": "Nicolaus Copernicus University",
+        "description": "Public university located in Toruń, Poland.",
+        "location": "53.01528, 18.57194"
+    },
+    {
+        "id": 953,
+        "title": "Ningxia University",
+        "description": "Public university located in Yinchuan, Ningxia, China.",
+        "location": "38.50056, 106.13694"
+    },
+    {
+        "id": 954,
+        "title": "North Dakota State University",
+        "description": "Public land-grant research university in Fargo, North Dakota.",
+        "location": "46.89611, -96.8025"
+    },
+    {
+        "id": 955,
+        "title": "Northeast Electric Power University",
+        "description": "Public university located in Jilin City, Jilin, China.",
+        "location": "43.82, 126.50528"
+    },
+    {
+        "id": 956,
+        "title": "Northern Border University",
+        "description": "Public university located in Arar, Saudi Arabia.",
+        "location": "30.97639, 41.03889"
+    },
+    {
+        "id": 957,
+        "title": "Qingdao University of Technology",
+        "description": "Public university located in Qingdao, Shandong, China.",
+        "location": "36.08889, 120.3725"
+    },
+    {
+        "id": 958,
+        "title": "Qinghai University",
+        "description": "Public university located in Xining, Qinghai, China.",
+        "location": "36.72778, 101.75083"
+    },
+    {
+        "id": 959,
+        "title": "RCSI University of Medicine and Health Sciences",
+        "description": "Medical professional higher education institution in Dublin, Ireland.",
+        "location": "53.33861, -6.26278"
+    },
+    {
+        "id": 960,
+        "title": "Shaanxi University of Science & Technology",
+        "description": "Public university located in Xi'an, Shaanxi, China.",
+        "location": "34.37528, 108.98389"
+    },
+    {
+        "id": 961,
+        "title": "Shahid Beheshti University of Medical Sciences",
+        "description": "Public medical university located in Tehran, Iran.",
+        "location": "35.80028, 51.40806"
+    },
+    {
+        "id": 962,
+        "title": "Shanghai University of Finance and Economics",
+        "description": "Finance and economics-focused university in Shanghai, China.",
+        "location": "31.30333, 121.49278"
+    },
+    {
+        "id": 963,
+        "title": "Sharif University of Technology",
+        "description": "Public engineering and research university in Tehran, Iran.",
+        "location": "35.70361, 51.35167"
+    },
+    {
+        "id": 964,
+        "title": "Sofia University \"St. Kliment Ohridski\"",
+        "description": "Oldest higher education institution in Sofia, Bulgaria.",
+        "location": "42.69361, 23.33472"
+    },
+    {
+        "id": 965,
+        "title": "SRM Institute of Science & Technology",
+        "description": "Deemed university located in Kattankulathur, Tamil Nadu, India.",
+        "location": "12.82306, 80.04444"
+    },
+    {
+        "id": 966,
+        "title": "Sunway University",
+        "description": "Private university in Subang Jaya, Selangor, Malaysia.",
+        "location": "3.06778, 101.60361"
+    },
+    {
+        "id": 967,
+        "title": "Tarbiat Modares University",
+        "description": "Postgraduate research university located in Tehran, Iran.",
+        "location": "35.71778, 51.38111"
+    },
+    {
+        "id": 968,
+        "title": "The Royal Veterinary College",
+        "description": "Veterinary school based in London, United Kingdom.",
+        "location": "51.53639, -0.13361"
+    },
+    {
+        "id": 969,
+        "title": "Umm Al-Qura University",
+        "description": "Large public Islamic university located in Mecca, Saudi Arabia.",
+        "location": "21.32556, 39.95"
+    },
+    {
+        "id": 970,
+        "title": "University of Agder",
+        "description": "Public university located in Kristiansand and Grimstad, Norway.",
+        "location": "58.16389, 8.00306"
+    },
+    {
+        "id": 971,
+        "title": "University of Alicante",
+        "description": "Public university located in San Vicente del Raspeig, Spain.",
+        "location": "38.38472, -0.5125"
+    },
+    {
+        "id": 972,
+        "title": "University of Castilla-La Mancha",
+        "description": "Spanish public university spread across Castilla-La Mancha, Spain.",
+        "location": "38.98972, -3.92139"
+    },
+    {
+        "id": 973,
+        "title": "University of Crete",
+        "description": "Multi-disciplinary public university in Crete, Greece.",
+        "location": "35.30528, 25.08278"
+    },
+    {
+        "id": 974,
+        "title": "University of Eastern Piedmont",
+        "description": "Public university located in Vercelli, Novara, and Alessandria, Italy.",
+        "location": "45.32139, 8.41944"
+    },
+    {
+        "id": 975,
+        "title": "University of Fribourg",
+        "description": "Bilingual public university located in Fribourg, Switzerland.",
+        "location": "46.80611, 7.15667"
+    },
+    {
+        "id": 976,
+        "title": "University of Girona",
+        "description": "Public university located in Girona, Catalonia, Spain.",
+        "location": "41.98472, 2.82472"
+    },
+    {
+        "id": 977,
+        "title": "University of L'Aquila",
+        "description": "Public university located in L'Aquila, Abruzzo, Italy.",
+        "location": "42.35556, 13.39806"
+    },
+    {
+        "id": 978,
+        "title": "University of Nebraska Medical Center",
+        "description": "Public academic health science center in Omaha, Nebraska.",
+        "location": "41.25556, -95.97528"
+    },
+    {
+        "id": 979,
+        "title": "University of New Brunswick",
+        "description": "Public university with main campuses in Fredericton and Saint John, Canada.",
+        "location": "45.94639, -66.64139"
+    },
+    {
+        "id": 980,
+        "title": "University of Poitiers",
+        "description": "Historic public university located in Poitiers, France.",
+        "location": "46.57028, 0.38361"
+    },
+    {
+        "id": 981,
+        "title": "University of Portsmouth",
+        "description": "Public university in the city of Portsmouth, United Kingdom.",
+        "location": "50.79583, -1.09194"
+    },
+    {
+        "id": 982,
+        "title": "University of Quebec Montreal",
+        "description": "Public French-language university based in Montreal, Canada.",
+        "location": "45.51389, -73.56"
+    },
+    {
+        "id": 983,
+        "title": "University of Salzburg",
+        "description": "Austrian public university located in Salzburg, Austria.",
+        "location": "47.79806, 13.04806"
+    },
+    {
+        "id": 984,
+        "title": "University of Tennessee Health Science Center",
+        "description": "Public healthcare-focused university in Memphis, Tennessee.",
+        "location": "35.13889, -90.03222"
+    },
+    {
+        "id": 985,
+        "title": "University of Valladolid",
+        "description": "Public university located in Valladolid, Castile and León, Spain.",
+        "location": "41.65278, -4.71528"
+    },
+    {
+        "id": 986,
+        "title": "University of Vigo",
+        "description": "Public university located in Vigo, Galicia, Spain.",
+        "location": "42.16972, -8.68806"
+    },
+    {
+        "id": 987,
+        "title": "University of Windsor",
+        "description": "Public comprehensive research university in Windsor, Ontario, Canada.",
+        "location": "42.30444, -83.06611"
+    },
+    {
+        "id": 988,
+        "title": "University of Wisconsin, Milwaukee",
+        "description": "Public urban research university in Milwaukee, Wisconsin.",
+        "location": "43.07833, -87.88194"
+    },
+    {
+        "id": 989,
+        "title": "University of Wuppertal",
+        "description": "Public research university located in Wuppertal, Germany.",
+        "location": "51.24528, 7.14917"
+    },
+    {
+        "id": 990,
+        "title": "University Savoie Mont Blanc",
+        "description": "Public university located in the Savoie region of France.",
+        "location": "45.56583, 5.91417"
+    },
+    {
+        "id": 991,
+        "title": "Warsaw University of Technology",
+        "description": "Leading technical research university in Warsaw, Poland.",
+        "location": "52.22056, 21.01056"
+    },
+    {
+        "id": 992,
+        "title": "Worcester Polytechnic Institute",
+        "description": "Private research university in Worcester, Massachusetts.",
+        "location": "42.27417, -71.80806"
+    },
+    {
+        "id": 993,
+        "title": "Wroclaw University of Science and Technology",
+        "description": "Public technological university in Wrocław, Poland.",
+        "location": "51.10778, 17.06194"
+    },
+    {
+        "id": 994,
+        "title": "Xi'an University of Science and Technology",
+        "description": "Public university located in Xi'an, Shaanxi, China.",
+        "location": "34.23028, 108.96694"
+    },
+    {
+        "id": 995,
+        "title": "Xihua University",
+        "description": "Public university located in Chengdu, Sichuan, China.",
+        "location": "30.77194, 103.96806"
+    },
+    {
+        "id": 996,
+        "title": "Xinjiang Medical University",
+        "description": "Public medical university in Urumqi, Xinjiang, China.",
+        "location": "43.83889, 87.59194"
+    },
+    {
+        "id": 997,
+        "title": "Yantai University",
+        "description": "Public university located in Yantai, Shandong, China.",
+        "location": "37.47278, 121.45528"
+    },
+    {
+        "id": 998,
+        "title": "Yildiz Technical University",
+        "description": "Prominent technical university in Istanbul, Türkiye.",
+        "location": "41.01806, 28.89"
+    },
+    {
+        "id": 999,
+        "title": "Zagazig University",
+        "description": "Public university located in Zagazig, Sharkia, Egypt.",
+        "location": "30.5875, 31.48194"
+    },
+    {
+        "id": 1000,
+        "title": "Zhongnan University of Economics and Law",
+        "description": "Public university in Wuhan, Hubei, China.",
+        "location": "30.47778, 114.38389"
     }
 ]
