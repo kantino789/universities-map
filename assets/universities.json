@@ -7994,7 +7994,19 @@
         "description": "A top-tier public research university located in Tainan, Taiwan.",
         "location": "22.99723, 120.21734",
         "country": "TW",
-        "subjects": []
+        "subjects": [
+            "Mechanical Engineering",
+            "Nursing",
+            "Biotechnology",
+            "Automation & Control",
+            "Instruments Science & Technology",
+            "Chemical Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Dentistry & Oral Sciences",
+            "Education"
+        ]
     },
     {
         "id": 436,
@@ -8056,7 +8068,18 @@
         "description": "A prominent forestry and ecological research university in Harbin, China.",
         "location": "45.72143, 126.63412",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Agricultural Sciences",
+            "Ecology",
+            "Chemical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Food Science & Technology",
+            "Chemistry",
+            "Atmospheric Science",
+            "Instruments Science & Technology",
+            "Civil Engineering",
+            "Materials Science & Engineering"
+        ]
     },
     {
         "id": 440,
@@ -8450,7 +8473,10 @@
         "description": "Public research university located in Toulouse, France.",
         "location": "43.60639, 1.43694",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Economics",
+            "Statistics"
+        ]
     },
     {
         "id": 462,
@@ -8610,7 +8636,15 @@
         "description": "Public research university based in Dundee, Scotland.",
         "location": "56.45833, -2.98056",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Dentistry & Oral Sciences",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Biological Sciences",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Education",
+            "Psychology"
+        ]
     },
     {
         "id": 471,
@@ -8941,7 +8975,17 @@
         "description": "Public research university located in Rennes, France.",
         "location": "48.11806, -1.63750",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Computer Science & Engineering",
+            "Statistics",
+            "Mathematics",
+            "Earth Sciences",
+            "Water Resources",
+            "Medical Technology",
+            "Chemistry",
+            "Telecommunication Engineering",
+            "Materials Science & Engineering"
+        ]
     },
     {
         "id": 489,
@@ -8949,7 +8993,16 @@
         "description": "Public research university located in Rome, Italy.",
         "location": "41.85194, 12.62472",
         "country": "IT",
-        "subjects": []
+        "subjects": [
+            "Biomedical Engineering",
+            "Nursing",
+            "Physics",
+            "Automation & Control",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Economics",
+            "Statistics"
+        ]
     },
     {
         "id": 490,
@@ -8997,7 +9050,20 @@
         "description": "Public research university in Columbia, South Carolina.",
         "location": "33.99889, -81.02611",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Hospitality & Tourism Management",
+            "Law",
+            "Mechanical Engineering",
+            "Communication",
+            "Business Administration",
+            "Oceanography",
+            "Mathematics",
+            "Geography",
+            "Sociology",
+            "Education",
+            "Finance",
+            "Management"
+        ]
     },
     {
         "id": 493,
@@ -9720,7 +9786,16 @@
         "description": "Agricultural university located in Harbin, Heilongjiang, China.",
         "location": "45.7225, 126.72611",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Food Science & Technology",
+            "Agricultural Sciences",
+            "Veterinary Sciences",
+            "Water Resources",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Environmental Science & Engineering",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 534,
@@ -9826,7 +9901,16 @@
         "description": "Public university located in Qingdao, Shandong, China.",
         "location": "36.09639, 120.42611",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Chemical Engineering",
+            "Instruments Science & Technology",
+            "Nanoscience & Nanotechnology",
+            "Energy Science & Engineering",
+            "Chemistry",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering"
+        ]
     },
     {
         "id": 541,
@@ -9864,7 +9948,17 @@
         "description": "Private higher education institute in Chennai, Tamil Nadu, India.",
         "location": "13.02722, 80.0175",
         "country": "IN",
-        "subjects": []
+        "subjects": [
+            "Dentistry & Oral Sciences",
+            "Chemical Engineering",
+            "Energy Science & Engineering",
+            "Biotechnology",
+            "Mathematics",
+            "Water Resources",
+            "Food Science & Technology",
+            "Metallurgical Engineering",
+            "Medical Technology"
+        ]
     },
     {
         "id": 544,
@@ -9910,7 +10004,11 @@
         "description": "Public research university in Saint Petersburg, Russia.",
         "location": "59.94139, 30.30444",
         "country": "RU",
-        "subjects": []
+        "subjects": [
+            "Automation & Control",
+            "Mathematics",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 547,
@@ -10072,7 +10170,17 @@
         "description": "Public university in Tromsø, Norway.",
         "location": "69.68083, 18.97194",
         "country": "NO",
-        "subjects": []
+        "subjects": [
+            "Oceanography",
+            "Hospitality & Tourism Management",
+            "Earth Sciences",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Atmospheric Science",
+            "Veterinary Sciences",
+            "Public Health",
+            "Education"
+        ]
     },
     {
         "id": 557,
@@ -10080,7 +10188,17 @@
         "description": "Public research university in Albany, New York.",
         "location": "42.68639, -73.82444",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Public Administration",
+            "Atmospheric Science",
+            "Law",
+            "Sociology",
+            "Psychology",
+            "Communication",
+            "Public Health",
+            "Political Sciences",
+            "Education"
+        ]
     },
     {
         "id": 558,
@@ -10249,7 +10367,16 @@
         "description": "Public university in Nice, France.",
         "location": "43.71667, 7.26667",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Mathematics",
+            "Computer Science & Engineering",
+            "Physics",
+            "Earth Sciences",
+            "Electrical & Electronic Engineering",
+            "Statistics",
+            "Business Administration",
+            "Management"
+        ]
     },
     {
         "id": 568,
@@ -10424,7 +10551,18 @@
         "description": "Public university located in Palermo, Sicily, Italy.",
         "location": "38.11806, 13.35389",
         "country": "IT",
-        "subjects": []
+        "subjects": [
+            "Mechanical Engineering",
+            "Mathematics",
+            "Water Resources",
+            "Agricultural Sciences",
+            "Clinical Medicine",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Earth Sciences",
+            "Electrical & Electronic Engineering",
+            "Management"
+        ]
     },
     {
         "id": 579,
@@ -11109,7 +11247,19 @@
         "description": "Public health and medical research university in London, UK.",
         "location": "51.42722, -0.17028",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Finance",
+            "Civil Engineering",
+            "Law",
+            "Communication",
+            "Business Administration",
+            "Mechanical Engineering",
+            "Clinical Medicine",
+            "Public Health",
+            "Nursing",
+            "Sociology",
+            "Management"
+        ]
     },
     {
         "id": 620,
@@ -11389,7 +11539,18 @@
         "description": "Public university in Dhahran, Saudi Arabia.",
         "location": "26.31111, 50.14611",
         "country": "SA",
-        "subjects": []
+        "subjects": [
+            "Civil Engineering",
+            "Telecommunication Engineering",
+            "Chemical Engineering",
+            "Water Resources",
+            "Mechanical Engineering",
+            "Energy Science & Engineering",
+            "Remote Sensing",
+            "Mathematics",
+            "Earth Sciences",
+            "Electrical & Electronic Engineering"
+        ]
     },
     {
         "id": 638,
@@ -11505,7 +11666,16 @@
         "description": "Public university in Nantes, France.",
         "location": "47.23694, -1.55278",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Marine/Ocean Engineering",
+            "Oceanography",
+            "Mathematics",
+            "Earth Sciences",
+            "Mechanical Engineering",
+            "Clinical Medicine",
+            "Medical Technology",
+            "Human Biological Sciences"
+        ]
     },
     {
         "id": 645,
@@ -11596,7 +11766,16 @@
         "description": "Private Jesuit research university in St. Louis, Missouri.",
         "location": "38.63611, -90.23389",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Nursing",
+            "Law",
+            "Human Biological Sciences",
+            "Public Health",
+            "Psychology",
+            "Biological Sciences",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Management"
+        ]
     },
     {
         "id": 651,
@@ -11884,7 +12063,15 @@
         "description": "Public university in Lugano and Mendrisio, Switzerland.",
         "location": "46.01056, 8.95833",
         "country": "CH",
-        "subjects": []
+        "subjects": [
+            "Statistics",
+            "Medical Technology",
+            "Computer Science & Engineering",
+            "Economics",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Management"
+        ]
     },
     {
         "id": 669,
@@ -11963,7 +12150,16 @@
         "description": "Public research university located in Galway, Ireland.",
         "location": "53.27806, -9.06028",
         "country": "IE",
-        "subjects": []
+        "subjects": [
+            "Mechanical Engineering",
+            "Biomedical Engineering",
+            "Nursing",
+            "Biological Sciences",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Education",
+            "Environmental Science & Engineering"
+        ]
     },
     {
         "id": 675,

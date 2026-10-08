@@ -94,13 +94,13 @@ async def scrape_single_university(json_entry_str: str, url: str):
 if __name__ == "__main__":
     sample_entry_str = """
     {
-        "id": 423,
-        "title": "Indiana University, Indianapolis",
-        "description": "A public research university in Indianapolis, Indiana, United States.",
-        "location": "39.77587, -86.17641",
-        "country": "US"
+       "id": 674,
+        "title": "University of Galway",
+        "description": "Public research university located in Galway, Ireland.",
+        "location": "53.27806, -9.06028",
+        "country": "IE"
     }
     """
-    target_url = "https://www.shanghairanking.com/universities/indiana-university-purdue-university-at-indianapolis"
+    target_url = "https://www.shanghairanking.com/universities/national-university-of-ireland-galway"
 
     asyncio.run(scrape_single_university(sample_entry_str, target_url))
