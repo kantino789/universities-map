@@ -9,6 +9,8 @@ class Editor extends StringPropertyChangeNotifier {
   final List<Poi> _pois = [];
   Iterable<Poi> get pois => _pois;
 
+  static const String poisFavoriteChanged = 'poisFavoriteChanged';
+
   Future<bool> loadPois() async {
     try {
       final String response = await rootBundle.loadString(
@@ -29,5 +31,10 @@ class Editor extends StringPropertyChangeNotifier {
     } catch (e) {
       return false;
     }
+  }
+
+  void toggleFavorite(Poi poi) {
+    poi.isFavorite = !poi.isFavorite;
+    notifyListeners("$poisFavoriteChanged:${poi.id}");
   }
 }

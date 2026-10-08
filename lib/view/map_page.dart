@@ -7,6 +7,7 @@ import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/cluster_marker.dart';
+import 'package:universities_map/view/poi_marker.dart';
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key});
@@ -17,6 +18,7 @@ class MapPage extends StatefulWidget {
 
 class _MapPageState extends State<MapPage> {
   final MapController _mapController = MapController();
+  late final Editor editor;
 
   late final Future<vt.Style> _styleFuture;
 
@@ -25,7 +27,7 @@ class _MapPageState extends State<MapPage> {
   @override
   void initState() {
     super.initState();
-    final Editor editor = StringPropertyChangeProvider.of<Editor, String>(
+    editor = StringPropertyChangeProvider.of<Editor, String>(
       context,
       listen: false,
     )!.value;
@@ -65,9 +67,25 @@ class _MapPageState extends State<MapPage> {
                       poi.title,
                       style: Theme.of(context).textTheme.headlineSmall,
                     ),
-                    IconButton(
-                      onPressed: () => Navigator.pop(context),
-                      icon: const Icon(Icons.close),
+                    Row(
+                      spacing: 4,
+                      children: [
+                        IconButton(
+                          onPressed: () {
+                            editor.toggleFavorite(poi);
+                          },
+                          icon: Icon(
+                            poi.isFavorite ? Icons.star : Icons.star_border,
+                            color: poi.isFavorite
+                                ? Colors.deepPurpleAccent
+                                : null,
+                          ),
+                        ),
+                        IconButton(
+                          onPressed: () => Navigator.pop(context),
+                          icon: const Icon(Icons.close),
+                        ),
+                      ],
                     ),
                   ],
                 ),
@@ -98,7 +116,7 @@ class _MapPageState extends State<MapPage> {
               _showPoiDetails(poi);
             },
 
-            child: const Icon(Icons.location_pin, size: 46, color: Colors.red),
+            child: PoiMarker(poi: poi),
           ),
         ),
       );
@@ -209,34 +227,6 @@ class _MapPageState extends State<MapPage> {
                   ),
                 ],
               ),
-
-              // ----------------------------------------------------
-              // Search bar
-              // ----------------------------------------------------
-              // Positioned(
-              //   top: 50,
-              //   left: 16,
-              //   right: 16,
-              //   child: PoiSearch(pois: pois, onSelected: _selectPoi),
-              // ),
-
-              // ----------------------------------------------------
-              // Selected POI information
-              // ----------------------------------------------------
-              // if (_selectedPoi != null)
-              //   Positioned(
-              //     left: 16,
-              //     right: 16,
-              //     bottom: 24,
-              //     child: PoiCard(
-              //       poi: _selectedPoi!,
-              //       onClose: () {
-              //         setState(() {
-              //           _selectedPoi = null;
-              //         });
-              //       },
-              //     ),
-              //   ),
             ],
           );
         },

@@ -5,12 +5,15 @@ class Poi {
   final String title;
   final String description;
   final LatLng location;
+  final String country;
+  bool isFavorite = false;
 
-  const Poi({
+  Poi({
     required this.id,
     required this.title,
     required this.description,
     required this.location,
+    required this.country,
   });
 
   factory Poi.fromJson(Map<String, dynamic> json) {
@@ -24,6 +27,7 @@ class Poi {
       title: json['title'] as String,
       description: json['description'] as String,
       location: LatLng(lat, lng),
+      country: json['country'] as String,
     );
   }
 }
