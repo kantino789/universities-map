@@ -1,4 +1,4 @@
-import 'package:universities_map/model/subjects_enum.dart';
+import 'package:universities_map/model/subjects_lists.dart';
 
 Map<String, Iterable<String>> subjectsGroupsMap = {
   'Natural Sciences': naturalSciencesSubjects,

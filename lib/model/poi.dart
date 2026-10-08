@@ -6,6 +6,7 @@ class Poi {
   final String description;
   final LatLng location;
   final String country;
+  final Iterable<String> subjects;
   bool isFavorite = false;
 
   Poi({
@@ -14,6 +15,7 @@ class Poi {
     required this.description,
     required this.location,
     required this.country,
+    required this.subjects,
   });
 
   factory Poi.fromJson(Map<String, dynamic> json) {
@@ -28,6 +30,7 @@ class Poi {
       description: json['description'] as String,
       location: LatLng(lat, lng),
       country: json['country'] as String,
+      subjects: (json['subjects'] as List<dynamic>).cast<String>(),
     );
   }
 }

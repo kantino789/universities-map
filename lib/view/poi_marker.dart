@@ -14,10 +14,11 @@ class PoiMarker extends StatefulWidget {
 
 class _PoiMarkerState extends State<PoiMarker> {
   Poi get poi => widget.poi;
+  late final Editor editor;
   @override
   void initState() {
     super.initState();
-    final Editor editor = StringPropertyChangeProvider.of<Editor, String>(
+    editor = StringPropertyChangeProvider.of<Editor, String>(
       context,
       listen: false,
     )!.value;
@@ -28,10 +29,6 @@ class _PoiMarkerState extends State<PoiMarker> {
 
   @override
   void dispose() {
-    final Editor editor = StringPropertyChangeProvider.of<Editor, String>(
-      context,
-      listen: false,
-    )!.value;
     editor.removeListener(onFavoriteChanged, [
       "${Editor.poisFavoriteChanged}:${poi.id}",
     ]);

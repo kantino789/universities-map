@@ -52,6 +52,7 @@ class _MapPageState extends State<MapPage> {
   void _showPoiDetails(Poi poi) {
     showModalBottomSheet(
       context: context,
+      isScrollControlled: true,
       builder: (context) {
         return PoiDetails(poi: poi);
       },
