@@ -7,7 +7,6 @@ import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/cluster_marker.dart';
-import 'package:universities_map/view/poi_card.dart';
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key});
@@ -20,8 +19,6 @@ class _MapPageState extends State<MapPage> {
   final MapController _mapController = MapController();
 
   late final Future<vt.Style> _styleFuture;
-
-  Poi? _selectedPoi;
 
   final List<Poi> pois = [];
 
@@ -47,18 +44,6 @@ class _MapPageState extends State<MapPage> {
     });
 
     super.dispose();
-  }
-
-  // ==========================================================
-  // SELECT POI
-  // ==========================================================
-
-  void _selectPoi(Poi poi) {
-    setState(() {
-      _selectedPoi = poi;
-    });
-
-    //_mapController.move(poi.location, 17);
   }
 
   void _showPoiDetails(Poi poi) {
@@ -110,7 +95,6 @@ class _MapPageState extends State<MapPage> {
           cursor: SystemMouseCursors.click,
           child: GestureDetector(
             onTap: () {
-              _selectPoi(poi);
               _showPoiDetails(poi);
             },
 
@@ -152,11 +136,6 @@ class _MapPageState extends State<MapPage> {
                   initialZoom: 14,
                   minZoom: 3,
                   maxZoom: 19,
-                  onTap: (_, _) {
-                    setState(() {
-                      _selectedPoi = null;
-                    });
-                  },
                 ),
 
                 children: [
