@@ -7,6 +7,7 @@ import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/cluster_marker.dart';
+import 'package:universities_map/view/poi_details.dart';
 import 'package:universities_map/view/poi_marker.dart';
 
 class MapPage extends StatefulWidget {
@@ -52,48 +53,7 @@ class _MapPageState extends State<MapPage> {
     showModalBottomSheet(
       context: context,
       builder: (context) {
-        return SafeArea(
-          child: Padding(
-            padding: const EdgeInsets.all(24),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              spacing: 12,
-              children: [
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Text(
-                      poi.title,
-                      style: Theme.of(context).textTheme.headlineSmall,
-                    ),
-                    Row(
-                      spacing: 4,
-                      children: [
-                        IconButton(
-                          onPressed: () {
-                            editor.toggleFavorite(poi);
-                          },
-                          icon: Icon(
-                            poi.isFavorite ? Icons.star : Icons.star_border,
-                            color: poi.isFavorite
-                                ? Colors.deepPurpleAccent
-                                : null,
-                          ),
-                        ),
-                        IconButton(
-                          onPressed: () => Navigator.pop(context),
-                          icon: const Icon(Icons.close),
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
-                Text(poi.description),
-              ],
-            ),
-          ),
-        );
+        return PoiDetails(poi: poi);
       },
     );
   }
