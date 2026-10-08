@@ -3150,7 +3150,16 @@
         "description": "Public land-grant research university in College Station, Texas.",
         "location": "30.61869, -96.33647",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Water Resources",
+            "Management",
+            "Atmospheric Science",
+            "Business Administration",
+            "Mechanical Engineering",
+            "Veterinary Sciences",
+            "Education",
+            "Statistics"
+        ]
     },
     {
         "id": 175,
@@ -4370,7 +4379,19 @@
         "description": "National key university in Nanjing, Jiangsu, China.",
         "location": "32.02861, 118.85528",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Metallurgical Engineering",
+            "Automation & Control",
+            "Transportation Science & Technology",
+            "Remote Sensing",
+            "Instruments Science & Technology",
+            "Artificial Intelligence",
+            "Electrical & Electronic Engineering",
+            "Telecommunication Engineering",
+            "Chemical Engineering",
+            "Aerospace Engineering",
+            "Marine/Ocean Engineering"
+        ]
     },
     {
         "id": 241,
@@ -4511,7 +4532,16 @@
         "description": "Public university focused on health sciences in Portland, Oregon.",
         "location": "45.49861, -122.68556",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Human Biological Sciences",
+            "Public Health",
+            "Biological Sciences",
+            "Medical Technology",
+            "Biotechnology"
+        ]
     },
     {
         "id": 249,
@@ -12594,7 +12624,11 @@
         "description": "Public medical institution in Xuzhou, Jiangsu, China.",
         "location": "34.26611, 117.25306",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Biomedical Engineering",
+            "Nursing",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 701,
@@ -12615,7 +12649,15 @@
         "description": "Public technical university in Kraków, Poland.",
         "location": "50.065, 19.91917",
         "country": "PL",
-        "subjects": []
+        "subjects": [
+            "Mining & Mineral Engineering",
+            "Metallurgical Engineering",
+            "Civil Engineering",
+            "Mathematics",
+            "Physics",
+            "Instruments Science & Technology",
+            "Artificial Intelligence"
+        ]
     },
     {
         "id": 703,
@@ -12700,7 +12742,16 @@
         "description": "Public campus university in Uxbridge, London, UK.",
         "location": "51.53278, -0.4725",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Automation & Control",
+            "Artificial Intelligence",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
+            "Telecommunication Engineering",
+            "Energy Science & Engineering",
+            "Metallurgical Engineering",
+            "Management"
+        ]
     },
     {
         "id": 709,
@@ -12985,7 +13036,11 @@
         "description": "Public university located in Hangzhou, Zhejiang, China.",
         "location": "30.32139, 120.15056",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Telecommunication Engineering",
+            "Instruments Science & Technology",
+            "Civil Engineering"
+        ]
     },
     {
         "id": 727,
@@ -13097,7 +13152,16 @@
         "description": "National research university in Jeonju, South Korea.",
         "location": "35.84667, 127.12917",
         "country": "KR",
-        "subjects": []
+        "subjects": [
+            "Veterinary Sciences",
+            "Chemical Engineering",
+            "Materials Science & Engineering",
+            "Nanoscience & Nanotechnology",
+            "Energy Science & Engineering",
+            "Instruments Science & Technology",
+            "Environmental Science & Engineering",
+            "Agricultural Sciences"
+        ]
     },
     {
         "id": 735,
@@ -13184,7 +13248,11 @@
         "description": "Deemed research university in Manipal, Karnataka, India.",
         "location": "13.3525, 74.78694",
         "country": "IN",
-        "subjects": []
+        "subjects": [
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Public Health"
+        ]
     },
     {
         "id": 742,
@@ -13192,7 +13260,13 @@
         "description": "Public university in Ancona, Italy.",
         "location": "43.58667, 13.51639",
         "country": "IT",
-        "subjects": []
+        "subjects": [
+            "Food Science & Technology",
+            "Biological Sciences",
+            "Mechanical Engineering",
+            "Environmental Science & Engineering",
+            "Agricultural Sciences"
+        ]
     },
     {
         "id": 743,
@@ -13274,7 +13348,14 @@
         "description": "Military medical university in Shanghai, China.",
         "location": "31.30694, 121.52222",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Biomedical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Human Biological Sciences",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Materials Science & Engineering",
+            "Biotechnology"
+        ]
     },
     {
         "id": 749,
@@ -13363,7 +13444,13 @@
         "description": "Public university located in Bari, Italy.",
         "location": "41.10833, 16.87778",
         "country": "IT",
-        "subjects": []
+        "subjects": [
+            "Mechanical Engineering",
+            "Instruments Science & Technology",
+            "Civil Engineering",
+            "Physics",
+            "Management"
+        ]
     },
     {
         "id": 755,
@@ -13586,7 +13673,9 @@
         "description": "Public medical school in Brooklyn, New York.",
         "location": "40.65583, -73.94472",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Public Health"
+        ]
     },
     {
         "id": 770,
@@ -13625,7 +13714,9 @@
         "description": "National postgraduate university in Hayama, Kanagawa, Japan.",
         "location": "35.26083, 139.60833",
         "country": "JP",
-        "subjects": []
+        "subjects": [
+            "Physics"
+        ]
     },
     {
         "id": 773,
@@ -13663,7 +13754,14 @@
         "description": "Public university located in Dijon, France.",
         "location": "47.3125, 5.07167",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Food Science & Technology",
+            "Medical Technology",
+            "Ecology",
+            "Atmospheric Science",
+            "Physics",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 776,
@@ -13750,7 +13848,14 @@
         "description": "Public research university in Rhineland-Palatinate, Germany.",
         "location": "49.42472, 7.7525",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Food Science & Technology",
+            "Medical Technology",
+            "Ecology",
+            "Atmospheric Science",
+            "Physics",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 782,
@@ -13845,7 +13950,17 @@
         "description": "Public research university in Paradise, Nevada.",
         "location": "36.10722, -115.14167",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Hospitality & Tourism Management",
+            "Education",
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Public Health",
+            "Psychology",
+            "Business Administration",
+            "Management"
+        ]
     },
     {
         "id": 788,
@@ -14055,7 +14170,15 @@
         "description": "Public university in Hangzhou, Zhejiang, China focusing on agriculture and forestry.",
         "location": "30.25889, 119.72889",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Agricultural Sciences",
+            "Food Science & Technology",
+            "Veterinary Sciences",
+            "Chemical Engineering",
+            "Environmental Science & Engineering",
+            "Ecology",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 801,
@@ -14108,7 +14231,11 @@
         "description": "Major public university located in Erzurum, Türkiye.",
         "location": "39.9, 41.24222",
         "country": "TR",
-        "subjects": []
+        "subjects": [
+            "Food Science & Technology",
+            "Agricultural Sciences",
+            "Civil Engineering"
+        ]
     },
     {
         "id": 805,
@@ -14116,7 +14243,15 @@
         "description": "Public university based in Auckland, New Zealand.",
         "location": "-36.85306, 174.76694",
         "country": "NZ",
-        "subjects": []
+        "subjects": [
+            "Hospitality & Tourism Management",
+            "Nursing",
+            "Finance",
+            "Clinical Medicine",
+            "Business Administration",
+            "Public Health",
+            "Economics"
+        ]
     },
     {
         "id": 806,
@@ -14124,7 +14259,11 @@
         "description": "Public university in Beijing, China.",
         "location": "40.04611, 116.35389",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Automation & Control",
+            "Telecommunication Engineering",
+            "Instruments Science & Technology"
+        ]
     },
     {
         "id": 807,
@@ -14180,7 +14319,18 @@
         "description": "Public university located in Changsha, Hunan, China.",
         "location": "28.06694, 113.01194",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Civil Engineering",
+            "Marine/Ocean Engineering",
+            "Remote Sensing",
+            "Instruments Science & Technology",
+            "Food Science & Technology",
+            "Transportation Science & Technology",
+            "Metallurgical Engineering",
+            "Mechanical Engineering",
+            "Chemical Engineering",
+            "Energy Science & Engineering"
+        ]
     },
     {
         "id": 811,
@@ -14298,7 +14448,12 @@
         "description": "Renowned agricultural and public research university in Viçosa, Brazil.",
         "location": "-20.75806, -42.86889",
         "country": "BR",
-        "subjects": []
+        "subjects": [
+            "Agricultural Sciences",
+            "Food Science & Technology",
+            "Veterinary Sciences",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 820,
@@ -14457,7 +14612,9 @@
         "description": "Public university in Castellón de la Plana, Spain.",
         "location": "39.99444, -0.06889",
         "country": "ES",
-        "subjects": []
+        "subjects": [
+            "Economics"
+        ]
     },
     {
         "id": 831,
@@ -14551,7 +14708,11 @@
         "description": "Constituent university of the National University of Ireland in Maynooth.",
         "location": "53.38389, -6.59889",
         "country": "IE",
-        "subjects": []
+        "subjects": [
+            "Law",
+            "Atmospheric Science",
+            "Education"
+        ]
     },
     {
         "id": 839,
@@ -14613,7 +14774,15 @@
         "description": "Public research university headquartered in Islamabad, Pakistan.",
         "location": "33.6425, 72.99056",
         "country": "PK",
-        "subjects": []
+        "subjects": [
+            "Instruments Science & Technology",
+            "Civil Engineering",
+            "Energy Science & Engineering",
+            "Metallurgical Engineering",
+            "Telecommunication Engineering",
+            "Chemical Engineering",
+            "Mathematics"
+        ]
     },
     {
         "id": 844,
@@ -14705,7 +14874,12 @@
         "description": "Oldest university in Moravia, located in Olomouc, Czech Republic.",
         "location": "49.59444, 17.25833",
         "country": "CZ",
-        "subjects": []
+        "subjects": [
+            "Biological Sciences",
+            "Physics",
+            "Human Biological Sciences",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 850,
@@ -14793,7 +14967,9 @@
         "description": "Public research university in Shenzhen, Guangdong, China.",
         "location": "22.76083, 113.91889",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Human Biological Sciences"
+        ]
     },
     {
         "id": 857,
@@ -14881,7 +15057,15 @@
         "description": "Private Roman Catholic university in Seoul and Bucheon, South Korea.",
         "location": "37.48583, 126.80222",
         "country": "KR",
-        "subjects": []
+        "subjects": [
+            "Biomedical Engineering",
+            "Human Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Clinical Medicine",
+            "Public Health"
+        ]
     },
     {
         "id": 863,
@@ -14904,7 +15088,11 @@
         "description": "Public flagship research university in Missoula, Montana.",
         "location": "46.86, -113.985",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Ecology",
+            "Atmospheric Science",
+            "Earth Sciences"
+        ]
     },
     {
         "id": 865,
@@ -14967,7 +15155,12 @@
         "description": "Multi-campus public university in Northern Ireland, UK.",
         "location": "55.15083, -6.67472",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Nursing",
+            "Education",
+            "Public Health",
+            "Clinical Medicine"
+        ]
     },
     {
         "id": 869,
@@ -14989,7 +15182,12 @@
         "description": "Public university in Alcalá de Henares, Madrid, Spain.",
         "location": "40.48333, -3.36389",
         "country": "ES",
-        "subjects": []
+        "subjects": [
+            "Electrical & Electronic Engineering",
+            "Ecology",
+            "Atmospheric Science",
+            "Agricultural Sciences"
+        ]
     },
     {
         "id": 871,
@@ -15011,7 +15209,12 @@
         "description": "Public federal university located in Brasília, Brazil.",
         "location": "-15.76342, -47.87032",
         "country": "BR",
-        "subjects": []
+        "subjects": [
+            "Veterinary Sciences",
+            "Dentistry & Oral Sciences",
+            "Political Sciences",
+            "Earth Sciences"
+        ]
     },
     {
         "id": 873,
@@ -15447,7 +15650,11 @@
         "description": "Public university located in Huainan, Anhui, China.",
         "location": "32.63056, 116.99889",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Mining & Mineral Engineering",
+            "Instruments Science & Technology",
+            "Chemical Engineering"
+        ]
     },
     {
         "id": 905,
@@ -15677,7 +15884,9 @@
         "description": "Public medical university located in Haikou, Hainan, China.",
         "location": "19.98222, 110.33861",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Human Biological Sciences"
+        ]
     },
     {
         "id": 924,
@@ -16028,7 +16237,10 @@
         "description": "Public technical university located in Ankara, Türkiye.",
         "location": "39.89139, 32.78472",
         "country": "TR",
-        "subjects": []
+        "subjects": [
+            "Civil Engineering",
+            "Education"
+        ]
     },
     {
         "id": 950,
@@ -16117,7 +16329,11 @@
         "description": "Public university located in Arar, Saudi Arabia.",
         "location": "30.97639, 41.03889",
         "country": "SA",
-        "subjects": []
+        "subjects": [
+            "Medical Technology",
+            "Mathematics",
+            "Energy Science & Engineering"
+        ]
     },
     {
         "id": 957,
@@ -16152,7 +16368,15 @@
         "description": "Medical professional higher education institution in Dublin, Ireland.",
         "location": "53.33861, -6.26278",
         "country": "IE",
-        "subjects": []
+        "subjects": [
+            "Nursing",
+            "Human Biological Sciences",
+            "Biomedical Engineering",
+            "Clinical Medicine",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Public Health",
+            "Education"
+        ]
     },
     {
         "id": 960,
@@ -16160,7 +16384,16 @@
         "description": "Public university located in Xi'an, Shaanxi, China.",
         "location": "34.37528, 108.98389",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Textile Science & Engineering",
+            "Chemical Engineering",
+            "Food Science & Technology",
+            "Nanoscience & Nanotechnology",
+            "Instruments Science & Technology",
+            "Materials Science & Engineering",
+            "Energy Science & Engineering",
+            "Metallurgical Engineering"
+        ]
     },
     {
         "id": 961,
@@ -16212,7 +16445,9 @@
         "description": "Oldest higher education institution in Sofia, Bulgaria.",
         "location": "42.69361, 23.33472",
         "country": "BG",
-        "subjects": []
+        "subjects": [
+            "Physics"
+        ]
     },
     {
         "id": 965,
@@ -16220,7 +16455,12 @@
         "description": "Deemed university located in Kattankulathur, Tamil Nadu, India.",
         "location": "12.82306, 80.04444",
         "country": "IN",
-        "subjects": []
+        "subjects": [
+            "Instruments Science & Technology",
+            "Mathematics",
+            "Chemical Engineering",
+            "Materials Science & Engineering"
+        ]
     },
     {
         "id": 966,
@@ -16579,7 +16819,14 @@
         "description": "Public university located in the Savoie region of France.",
         "location": "45.56583, 5.91417",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Earth Sciences",
+            "Ecology",
+            "Physics",
+            "Atmospheric Science",
+            "Psychology",
+            "Environmental Science & Engineering"
+        ]
     },
     {
         "id": 991,
