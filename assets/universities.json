@@ -44,7 +44,16 @@
         "description": "Global leader in science, engineering, and tech.",
         "location": "42.36009, -71.09416",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Physics",
+            "Electrical & Electronic Engineering",
+            "Automation & Control",
+            "Computer Science & Engineering",
+            "Robotic Science & Engineering",
+            "Economics",
+            "Biotechnology",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 4,
@@ -782,7 +791,16 @@
         "description": "Public land-grant research university in the twin cities of Champaign and Urbana, Illinois.",
         "location": "40.10195, -88.22716",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Library & Information Science",
+            "Automation & Control",
+            "Water Resources",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Psychology",
+            "Communication"
+        ]
     },
     {
         "id": 47,
@@ -824,7 +842,20 @@
         "description": "Public research university located in Munich, Germany.",
         "location": "48.15083, 11.58028",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Communication",
+            "Medical Technology",
+            "Public Administration",
+            "Political Sciences",
+            "Physics",
+            "Earth Sciences",
+            "Artificial Intelligence",
+            "Biological Sciences",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 50,
@@ -832,7 +863,16 @@
         "description": "Public research university in Boulder, Colorado.",
         "location": "40.00758, -105.26585",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Earth Sciences",
+            "Atmospheric Science",
+            "Physics",
+            "Water Resources",
+            "Aerospace Engineering",
+            "Communication",
+            "Geography",
+            "Ecology"
+        ]
     },
     {
         "id": 51,
@@ -949,7 +989,16 @@
         "description": "Public university in Paris, France, resulting from a merger of local institutions.",
         "location": "48.8534, 2.3338",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Public Health",
+            "Physics",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 58,
@@ -1064,7 +1113,16 @@
         "description": "Public medical school and academic medical center in Dallas, Texas.",
         "location": "32.81222, -96.83984",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Medical Technology",
+            "Biological Sciences",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Biomedical Engineering",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Biotechnology",
+            "Public Health"
+        ]
     },
     {
         "id": 65,
@@ -1595,7 +1653,16 @@
         "description": "Public land-grant research university in Columbus, Ohio.",
         "location": "40.00000, -83.03000",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Communication",
+            "Education",
+            "Sociology",
+            "Political Sciences",
+            "Psychology",
+            "Nursing",
+            "Public Administration",
+            "Veterinary Sciences"
+        ]
     },
     {
         "id": 94,
@@ -1639,7 +1706,16 @@
         "description": "Comprehensive cancer center in Houston, Texas.",
         "location": "29.70730, -95.39700",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Clinical Medicine",
+            "Medical Technology",
+            "Human Biological Sciences",
+            "Biological Sciences",
+            "Statistics",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Pharmacy & Pharmaceutical Sciences"
+        ]
     },
     {
         "id": 97,
@@ -1722,7 +1798,16 @@
         "description": "Public research university located in Adelaide, South Australia.",
         "location": "-34.92050, 138.60520",
         "country": "AU",
-        "subjects": []
+        "subjects": [
+            "Dentistry & Oral Sciences",
+            "Mining & Mineral Engineering",
+            "Nursing",
+            "Business Administration",
+            "Artificial Intelligence",
+            "Civil Engineering",
+            "Automation & Control",
+            "Public Health"
+        ]
     },
     {
         "id": 102,
@@ -2137,7 +2222,16 @@
         "description": "Public university located in Suzhou, Jiangsu, China.",
         "location": "31.3056, 120.6389",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Nanoscience & Nanotechnology",
+            "Textile Science & Engineering",
+            "Materials Science & Engineering",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Instruments Science & Technology",
+            "Chemical Engineering",
+            "Energy Science & Engineering"
+        ]
     },
     {
         "id": 125,
@@ -2288,7 +2382,17 @@
         "description": "Public research university specializing in social sciences in London, UK.",
         "location": "51.5144, -0.1165",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Economics",
+            "Political Sciences",
+            "Finance",
+            "Public Administration",
+            "Geography",
+            "Sociology",
+            "Statistics",
+            "Communication",
+            "Business Administration"
+        ]
     },
     {
         "id": 134,
@@ -2296,7 +2400,17 @@
         "description": "Public research university located on the outskirts of Coventry, UK.",
         "location": "52.3833, -1.5600",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Mathematics",
+            "Business Administration",
+            "Political Sciences",
+            "Statistics",
+            "Library & Information Science",
+            "Economics",
+            "Nanoscience & Nanotechnology",
+            "Sociology",
+            "Finance"
+        ]
     },
     {
         "id": 135,
@@ -2338,7 +2452,19 @@
         "description": "French-speaking private research university in Brussels, Belgium.",
         "location": "50.8122, 4.3806",
         "country": "BE",
-        "subjects": []
+        "subjects": [
+            "Physics",
+            "Medical Technology",
+            "Statistics",
+            "Political Sciences",
+            "Atmospheric Science",
+            "Clinical Medicine",
+            "Earth Sciences",
+            "Mechanical Engineering",
+            "Biological Sciences",
+            "Public Health",
+            "Economics"
+        ]
     },
     {
         "id": 138,
@@ -2539,7 +2665,17 @@
         "description": "Public research university in Vienna, Austria.",
         "location": "48.2131, 16.3598",
         "country": "AT",
-        "subjects": []
+        "subjects": [
+            "Communication",
+            "Mathematics",
+            "Ecology",
+            "Physics",
+            "Political Sciences",
+            "Earth Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Psychology"
+        ]
     },
     {
         "id": 149,
@@ -2547,7 +2683,16 @@
         "description": "Public university in Wageningen, Netherlands, focusing on life sciences.",
         "location": "51.9851, 5.6664",
         "country": "NL",
-        "subjects": []
+        "subjects": [
+            "Ecology",
+            "Agricultural Sciences",
+            "Food Science & Technology",
+            "Environmental Science & Engineering",
+            "Biotechnology",
+            "Water Resources",
+            "Atmospheric Science",
+            "Veterinary Sciences"
+        ]
     },
     {
         "id": 150,
@@ -2682,7 +2827,18 @@
         "description": "Major public research university and technical institution in Dresden, Germany.",
         "location": "51.02848, 13.72651",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Transportation Science & Technology",
+            "Physics",
+            "Chemistry",
+            "Atmospheric Science",
+            "Biomedical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Water Resources",
+            "Biological Sciences",
+            "Medical Technology",
+            "Psychology"
+        ]
     },
     {
         "id": 158,
@@ -2761,7 +2917,17 @@
         "description": "Major national research university focused on science and technology in Tokyo.",
         "location": "35.60506, 139.68367",
         "country": "JP",
-        "subjects": []
+        "subjects": [
+            "Dentistry & Oral Sciences",
+            "Biological Sciences",
+            "Robotic Science & Engineering",
+            "Materials Science & Engineering",
+            "Automation & Control",
+            "Energy Science & Engineering",
+            "Physics",
+            "Chemistry",
+            "Instruments Science & Technology"
+        ]
     },
     {
         "id": 163,
@@ -2846,7 +3012,21 @@
         "description": "Public research university in Norway with main campus in Trondheim.",
         "location": "63.41829, 10.40177",
         "country": "NO",
-        "subjects": []
+        "subjects": [
+            "Marine/Ocean Engineering",
+            "Mining & Mineral Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Metallurgical Engineering",
+            "Public Health",
+            "Oceanography",
+            "Automation & Control",
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering",
+            "Artificial Intelligence",
+            "Management",
+            "Library & Information Science"
+        ]
     },
     {
         "id": 168,
@@ -3003,7 +3183,19 @@
         "description": "Public research university in Grenoble, France.",
         "location": "45.19253, 5.76722",
         "country": "FR",
-        "subjects": []
+        "subjects": [
+            "Remote Sensing",
+            "Earth Sciences",
+            "Mathematics",
+            "Automation & Control",
+            "Physics",
+            "Geography",
+            "Ecology",
+            "Atmospheric Science",
+            "Mining & Mineral Engineering",
+            "Metallurgical Engineering",
+            "Clinical Medicine"
+        ]
     },
     {
         "id": 177,
@@ -3157,7 +3349,16 @@
         "description": "Historic public research university in Glasgow, Scotland.",
         "location": "55.87194, -4.28833",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Geography",
+            "Public Health",
+            "Political Sciences",
+            "Clinical Medicine",
+            "Mechanical Engineering",
+            "Robotic Science & Engineering",
+            "Sociology",
+            "Public Administration"
+        ]
     },
     {
         "id": 186,
@@ -3574,7 +3775,17 @@
         "description": "Key national university specializing in geosciences, with campuses in Wuhan & Beijing.",
         "location": "30.52194, 114.39806",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Earth Sciences",
+            "Remote Sensing",
+            "Water Resources",
+            "Mining & Mineral Engineering",
+            "Geography",
+            "Marine/Ocean Engineering",
+            "Atmospheric Science",
+            "Automation & Control",
+            "Instruments Science & Technology"
+        ]
     },
     {
         "id": 209,
@@ -3910,7 +4121,16 @@
         "description": "Public research university located in Mainz, Germany.",
         "location": "49.99278, 8.24139",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Communication",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Earth Sciences",
+            "Atmospheric Science",
+            "Human Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Medical Technology"
+        ]
     },
     {
         "id": 227,
@@ -3935,7 +4155,16 @@
         "description": "Public university in the city of Kiel, Germany.",
         "location": "54.33889, 10.11806",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Oceanography",
+            "Earth Sciences",
+            "Agricultural Sciences",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Atmospheric Science",
+            "Human Biological Sciences",
+            "Clinical Medicine"
+        ]
     },
     {
         "id": 229,
@@ -4033,7 +4262,16 @@
         "description": "Public research university in Bloomsbury, London, United Kingdom.",
         "location": "51.52083, -0.13",
         "country": "GB",
-        "subjects": []
+        "subjects": [
+            "Public Health",
+            "Clinical Medicine",
+            "Human Biological Sciences",
+            "Statistics",
+            "Sociology",
+            "Environmental Science & Engineering",
+            "Biological Sciences",
+            "Economics"
+        ]
     },
     {
         "id": 235,
@@ -4199,7 +4437,16 @@
         "description": "Public land-grant research university in Raleigh, North Carolina.",
         "location": "35.78722, -78.67056",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Electrical & Electronic Engineering",
+            "Textile Science & Engineering",
+            "Veterinary Sciences",
+            "Statistics",
+            "Agricultural Sciences",
+            "Energy Science & Engineering",
+            "Education",
+            "Aerospace Engineering"
+        ]
     },
     {
         "id": 245,
@@ -4838,7 +5085,15 @@
         "description": "Public medical school located in Worcester, Massachusetts.",
         "location": "42.27278, -71.76361",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Biological Sciences",
+            "Biotechnology",
+            "Human Biological Sciences",
+            "Clinical Medicine",
+            "Public Health",
+            "Medical Technology",
+            "Psychology"
+        ]
     },
     {
         "id": 280,
@@ -5115,7 +5370,21 @@
         "description": "Dutch-speaking public research university located in Brussels, Belgium.",
         "location": "50.82250, 4.39472",
         "country": "BE",
-        "subjects": []
+        "subjects": [
+            "Law",
+            "Communication",
+            "Geography",
+            "Atmospheric Science",
+            "Civil Engineering",
+            "Mathematics",
+            "Physics",
+            "Earth Sciences",
+            "Energy Science & Engineering",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Political Sciences",
+            "Sociology"
+        ]
     },
     {
         "id": 296,
@@ -5304,7 +5573,20 @@
         "description": "Public research university in Qingdao and Dongying, China.",
         "location": "35.93889, 120.12806",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Marine/Ocean Engineering",
+            "Chemical Engineering",
+            "Remote Sensing",
+            "Energy Science & Engineering",
+            "Instruments Science & Technology",
+            "Earth Sciences",
+            "Oceanography",
+            "Mechanical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Environmental Science & Engineering",
+            "Transportation Science & Technology",
+            "Metallurgical Engineering"
+        ]
     },
     {
         "id": 307,
@@ -5423,7 +5705,17 @@
         "description": "Private research university in Washington, D.C.",
         "location": "38.89972, -77.04861",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Political Sciences",
+            "Law",
+            "Public Health",
+            "Education",
+            "Public Administration",
+            "Geography",
+            "Statistics",
+            "Business Administration",
+            "Management"
+        ]
     },
     {
         "id": 314,
@@ -5810,7 +6102,18 @@
         "description": "Public university in Nanjing known for atmospheric sciences.",
         "location": "32.20520, 118.71800",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Atmospheric Science",
+            "Remote Sensing",
+            "Water Resources",
+            "Earth Sciences",
+            "Environmental Science & Engineering",
+            "Instruments Science & Technology",
+            "Computer Science & Engineering",
+            "Oceanography",
+            "Telecommunication Engineering",
+            "Artificial Intelligence"
+        ]
     },
     {
         "id": 335,
@@ -5890,7 +6193,18 @@
         "description": "Key research university in Yangling, Shaanxi, China.",
         "location": "34.26611, 108.06889",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Agricultural Sciences",
+            "Water Resources",
+            "Food Science & Technology",
+            "Veterinary Sciences",
+            "Environmental Science & Engineering",
+            "Biotechnology",
+            "Ecology",
+            "Atmospheric Science",
+            "Chemical Engineering",
+            "Biological Sciences"
+        ]
     },
     {
         "id": 340,
@@ -6026,7 +6340,19 @@
         "description": "Public research university located in Bochum, Germany.",
         "location": "51.44472, 7.26111",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Statistics",
+            "Metallurgical Engineering",
+            "Psychology",
+            "Physics",
+            "Telecommunication Engineering",
+            "Chemistry",
+            "Human Biological Sciences",
+            "Earth Sciences",
+            "Nanoscience & Nanotechnology",
+            "Clinical Medicine",
+            "Medical Technology"
+        ]
     },
     {
         "id": 348,
@@ -6124,7 +6450,16 @@
         "description": "Public land-grant research university in Knoxville, Tennessee.",
         "location": "35.95500, -83.92972",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Business Administration",
+            "Metallurgical Engineering",
+            "Library & Information Science",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering",
+            "Aerospace Engineering",
+            "Education",
+            "Management"
+        ]
     },
     {
         "id": 354,
@@ -6255,7 +6590,18 @@
         "description": "Public research university in Duisburg and Essen, Germany.",
         "location": "51.46333, 6.79722",
         "country": "DE",
-        "subjects": []
+        "subjects": [
+            "Medical Technology",
+            "Automation & Control",
+            "Energy Science & Engineering",
+            "Clinical Medicine",
+            "Communication",
+            "Political Sciences",
+            "Mathematics",
+            "Biomedical Engineering",
+            "Biological Sciences",
+            "Human Biological Sciences"
+        ]
     },
     {
         "id": 362,
@@ -6338,7 +6684,17 @@
         "description": "Public research university in Chicago, Illinois.",
         "location": "41.87194, -87.64944",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Nursing",
+            "Electrical & Electronic Engineering",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Education",
+            "Management",
+            "Computer Science & Engineering",
+            "Sociology",
+            "Public Administration"
+        ]
     },
     {
         "id": 367,
@@ -7165,7 +7521,22 @@
         "description": "Oldest and largest university in the Czech Republic, located in Prague.",
         "location": "50.08861, 14.41722",
         "country": "CZ",
-        "subjects": []
+        "subjects": [
+            "Physics",
+            "Geography",
+            "Ecology",
+            "Clinical Medicine",
+            "Mathematics",
+            "Earth Sciences",
+            "Metallurgical Engineering",
+            "Human Biological Sciences",
+            "Veterinary Sciences",
+            "Dentistry & Oral Sciences",
+            "Medical Technology",
+            "Economics",
+            "Political Sciences",
+            "Sociology"
+        ]
     },
     {
         "id": 411,
@@ -7190,7 +7561,17 @@
         "description": "National key university in Xuzhou, Jiangsu, China.",
         "location": "34.21611, 117.14389",
         "country": "CN",
-        "subjects": []
+        "subjects": [
+            "Mining & Mineral Engineering",
+            "Instruments Science & Technology",
+            "Remote Sensing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Automation & Control",
+            "Metallurgical Engineering",
+            "Energy Science & Engineering",
+            "Transportation Science & Technology"
+        ]
     },
     {
         "id": 413,
@@ -7371,7 +7752,16 @@
         "description": "A public research university in Indianapolis, Indiana, United States.",
         "location": "39.77587, -86.17641",
         "country": "US",
-        "subjects": []
+        "subjects": [
+            "Dentistry & Oral Sciences",
+            "Nursing",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Education",
+            "Clinical Medicine",
+            "Sociology",
+            "Psychology"
+        ]
     },
     {
         "id": 424,
