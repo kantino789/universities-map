@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
-import 'package:universities_map/model/subjects_lists.dart';
+import 'package:universities_map/model/subjects_groups_maps.dart';
 
 class PoiDetails extends StatefulWidget {
   const PoiDetails({super.key, required this.poi});
@@ -16,21 +16,20 @@ class PoiDetails extends StatefulWidget {
 class _PoiDetailsState extends State<PoiDetails> {
   Poi get poi => widget.poi;
 
-  late final Iterable<String> poiNaturalSciencesSubjects = poi.subjects
-      .where((subject) => naturalSciencesSubjects.contains(subject))
-      .toList();
-  late final Iterable<String> poiEngineeringSubjects = poi.subjects
-      .where((subject) => engineeringSubjects.contains(subject))
-      .toList();
-  late final Iterable<String> poiLifeSciencesSubjects = poi.subjects
-      .where((subject) => lifeSciencesSubjects.contains(subject))
-      .toList();
-  late final Iterable<String> poiMedicalSciencesSubjects = poi.subjects
-      .where((subject) => medicalSciencesSubjects.contains(subject))
-      .toList();
-  late final Iterable<String> poiSocialSciencesSubjects = poi.subjects
-      .where((subject) => socialSciencesSubjects.contains(subject))
-      .toList();
+  late final Map<String, List<String>> poiSubjectsByGroup = () {
+    final grouped = <String, List<String>>{
+      for (final group in subjectsGroupsMap.keys) group: <String>[],
+    };
+
+    for (final subject in poi.subjects) {
+      final group = subjectToGroup[subject];
+      if (group != null) {
+        grouped[group]!.add(subject);
+      }
+    }
+
+    return grouped;
+  }();
 
   @override
   Widget build(BuildContext context) {
@@ -84,111 +83,30 @@ class _PoiDetailsState extends State<PoiDetails> {
                     spacing: 12,
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      if (poiNaturalSciencesSubjects.isNotEmpty) ...[
-                        Column(
-                          mainAxisSize: MainAxisSize.min,
-                          spacing: 4,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              "Natural Sciences",
-                              style: TextStyle(fontWeight: FontWeight.bold),
-                            ),
-                            Wrap(
-                              crossAxisAlignment: WrapCrossAlignment.center,
-                              spacing: 4,
-                              runSpacing: 4,
-                              children: poiNaturalSciencesSubjects
-                                  .map((subject) => Chip(label: Text(subject)))
-                                  .toList(),
-                            ),
-                          ],
-                        ),
-                      ],
-                      if (poiEngineeringSubjects.isNotEmpty) ...[
-                        Column(
-                          mainAxisSize: MainAxisSize.min,
-                          spacing: 4,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              "Engineering",
-                              style: TextStyle(fontWeight: FontWeight.bold),
-                            ),
-                            Wrap(
-                              crossAxisAlignment: WrapCrossAlignment.center,
-                              spacing: 4,
-                              runSpacing: 4,
-                              children: poiEngineeringSubjects
-                                  .map((subject) => Chip(label: Text(subject)))
-                                  .toList(),
-                            ),
-                          ],
-                        ),
-                      ],
-                      if (poiLifeSciencesSubjects.isNotEmpty) ...[
-                        Column(
-                          mainAxisSize: MainAxisSize.min,
-                          spacing: 4,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              "Life Sciences",
-                              style: TextStyle(fontWeight: FontWeight.bold),
-                            ),
-                            Wrap(
-                              crossAxisAlignment: WrapCrossAlignment.center,
-                              spacing: 4,
-                              runSpacing: 4,
-                              children: poiLifeSciencesSubjects
-                                  .map((subject) => Chip(label: Text(subject)))
-                                  .toList(),
-                            ),
-                          ],
-                        ),
-                      ],
-                      if (poiMedicalSciencesSubjects.isNotEmpty) ...[
-                        Column(
-                          mainAxisSize: MainAxisSize.min,
-                          spacing: 4,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              "Medical Sciences",
-                              style: TextStyle(fontWeight: FontWeight.bold),
-                            ),
-                            Wrap(
-                              crossAxisAlignment: WrapCrossAlignment.center,
-                              spacing: 4,
-                              runSpacing: 4,
-                              children: poiMedicalSciencesSubjects
-                                  .map((subject) => Chip(label: Text(subject)))
-                                  .toList(),
-                            ),
-                          ],
-                        ),
-                      ],
-                      if (poiSocialSciencesSubjects.isNotEmpty) ...[
-                        Column(
-                          mainAxisSize: MainAxisSize.min,
-                          spacing: 4,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              "Social Sciences",
-                              style: TextStyle(fontWeight: FontWeight.bold),
-                            ),
-                            Wrap(
-                              crossAxisAlignment: WrapCrossAlignment.center,
-                              spacing: 4,
-                              runSpacing: 4,
-                              children: poiSocialSciencesSubjects
-                                  .map((subject) => Chip(label: Text(subject)))
-                                  .toList(),
-                            ),
-                          ],
-                        ),
-                      ],
+                      for (final group in poiSubjectsByGroup.entries)
+                        if (group.value.isNotEmpty)
+                          Column(
+                            mainAxisSize: MainAxisSize.min,
+                            spacing: 4,
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                group.key,
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              Wrap(
+                                crossAxisAlignment: WrapCrossAlignment.center,
+                                spacing: 4,
+                                runSpacing: 4,
+                                children: [
+                                  for (final subject in group.value)
+                                    Chip(label: Text(subject)),
+                                ],
+                              ),
+                            ],
+                          ),
                     ],
                   ),
                 ),
