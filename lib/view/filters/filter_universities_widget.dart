@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:universities_map/model/subjects_groups_maps.dart';
-import 'package:universities_map/view/filter_section.dart';
+import 'package:universities_map/view/filters/filter_section.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 
