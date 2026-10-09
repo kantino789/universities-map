@@ -15,7 +15,7 @@ class FilterUniversitiesWidget extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         spacing: 16,
         children: [
-          TextButton(
+          OutlinedButton(
             onPressed: () {
               final editor = StringPropertyChangeProvider.of<Editor, String>(
                 context,

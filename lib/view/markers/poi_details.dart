@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:url_launcher/url_launcher.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/model/subjects_groups_maps.dart';
@@ -73,6 +74,17 @@ class _PoiDetailsState extends State<PoiDetails> {
                   ],
                 ),
               ],
+            ),
+            Tooltip(
+              message: poi.website.isNotEmpty ? poi.website : null,
+              child: OutlinedButton(
+                onPressed: () {
+                  if (poi.website.isNotEmpty) {
+                    launchUrl(Uri.parse(poi.website));
+                  }
+                },
+                child: const Text('Visit Website'),
+              ),
             ),
             if (poi.subjects.isNotEmpty) ...[
               Text("Recognized for its excellence in the following subjects:"),

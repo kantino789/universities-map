@@ -41,10 +41,13 @@ class _PoiMarkerState extends State<PoiMarker> {
 
   @override
   Widget build(BuildContext context) {
-    return Icon(
-      Icons.location_pin,
-      size: 46,
-      color: widget.poi.isFavorite ? Colors.deepPurpleAccent : Colors.red,
+    return Tooltip(
+      message: poi.title,
+      child: Icon(
+        Icons.location_pin,
+        size: 46,
+        color: widget.poi.isFavorite ? Colors.deepPurpleAccent : Colors.red,
+      ),
     );
   }
 }
