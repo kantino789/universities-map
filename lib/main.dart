@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
-import 'package:universities_map/view/map_page.dart';
+import 'package:universities_map/view/pages/main_page.dart';
 import 'package:universities_map/model/editor.dart';
 
 Future<void> main() async {
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         title: 'Universities Map',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
-        home: MapPage(),
+        home: const MainPage(),
       ),
     );
   }

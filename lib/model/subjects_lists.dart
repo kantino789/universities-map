@@ -11,7 +11,7 @@ Iterable<String> naturalSciencesSubjects = [
 
 Iterable<String> engineeringSubjects = [
   'Aerospace Engineering',
-  'ArtificialIntelligence',
+  'Artificial Intelligence',
   'Automation & Control',
   'Biomedical Engineering',
   'Biotechnology',
@@ -25,14 +25,14 @@ Iterable<String> engineeringSubjects = [
   'Instruments Science & Technology',
   'Marine/Ocean Engineering',
   'Materials Science & Engineering',
-  'MechanicalEngineering',
+  'Mechanical Engineering',
   'Metallurgical Engineering',
   'Mining & Mineral Engineering',
   'Nanoscience & Nanotechnology',
   'Remote Sensing',
   'Robotic Science & Engineering',
   'Telecommunication Engineering',
-  'TextileScience & Engineering',
+  'Textile Science & Engineering',
   'Transportation Science & Technology',
   'Water Resources',
 ];
@@ -46,7 +46,7 @@ Iterable<String> lifeSciencesSubjects = [
 
 Iterable<String> medicalSciencesSubjects = [
   'Clinical Medicine',
-  'Dentistry & OralSciences',
+  'Dentistry & Oral Sciences',
   'Medical Technology',
   'Nursing',
   'Pharmacy & Pharmaceutical Sciences',
@@ -59,7 +59,7 @@ Iterable<String> socialSciencesSubjects = [
   'Economics',
   'Education',
   'Finance',
-  'Hospitality & TourismManagement',
+  'Hospitality & Tourism Management',
   'Law',
   'Library & Information Science',
   'Management',

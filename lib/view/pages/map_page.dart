@@ -69,76 +69,79 @@ class _MapPageState extends State<MapPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: FutureBuilder<vt.Style>(
-        future: _styleFuture,
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.waiting) {
-            return const Center(child: CircularProgressIndicator());
-          }
+    return FutureBuilder<vt.Style>(
+      future: _styleFuture,
+      builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return const Center(child: CircularProgressIndicator());
+        }
 
-          if (snapshot.hasError) {
-            return Center(
-              child: Text(
-                'Could not load map:\n${snapshot.error}',
-                textAlign: TextAlign.center,
-              ),
-            );
-          }
-
-          final style = snapshot.data!;
-
-          return Stack(
-            children: [
-              FlutterMap(
-                mapController: _mapController,
-
-                options: MapOptions(
-                  initialCenter: const LatLng(58.9700, 5.7330),
-                  initialZoom: 14,
-                  minZoom: 3,
-                  maxZoom: 19,
-                ),
-
-                children: [
-                  // --------------------------------------------------
-                  // OpenFreeMap base map
-                  // --------------------------------------------------
-                  vt.VectorTileLayer(
-                    theme: style.theme,
-                    tileProviders: style.providers,
-                    rasterSources: style.rasterSources,
-                    sprites: style.sprites,
-                  ),
-
-                  MarkersLayer(
-                    onPoiTap: (poi) {
-                      _showPoiDetails(poi);
-                    },
-                  ),
-
-                  // =================================================
-                  // ATTRIBUTION
-                  // =================================================
-                  SimpleAttributionWidget(
-                    source: Text(
-                      style.attributions.map((a) => a.text).join(' · '),
-                    ),
-                  ),
-                ],
-              ),
-              Positioned(
-                top: 10,
-                left: 10,
-                child: FloatingActionButton(
-                  onPressed: _showFilterOptions,
-                  child: Icon(Icons.filter_list),
-                ),
-              ),
-            ],
+        if (snapshot.hasError) {
+          return Center(
+            child: Text(
+              'Could not load map:\n${snapshot.error}',
+              textAlign: TextAlign.center,
+            ),
           );
-        },
-      ),
+        }
+
+        final style = snapshot.data!;
+
+        return Stack(
+          children: [
+            FlutterMap(
+              mapController: _mapController,
+
+              options: MapOptions(
+                initialCenter: const LatLng(58.9700, 5.7330),
+                initialZoom: 14,
+                minZoom: 3,
+                maxZoom: 19,
+              ),
+
+              children: [
+                // --------------------------------------------------
+                // OpenFreeMap base map
+                // --------------------------------------------------
+                vt.VectorTileLayer(
+                  theme: style.theme,
+                  tileProviders: style.providers,
+                  rasterSources: style.rasterSources,
+                  sprites: style.sprites,
+                ),
+
+                MarkersLayer(
+                  onPoiTap: (poi) {
+                    _showPoiDetails(poi);
+                  },
+                ),
+
+                // =================================================
+                // ATTRIBUTION
+                // =================================================
+                RichAttributionWidget(
+                  attributions: style.attributions
+                      .map(
+                        (attribution) => TextSourceAttribution(
+                          attribution.text,
+                          prependCopyright: false,
+                        ),
+                      )
+                      .toList(),
+                ),
+              ],
+            ),
+            Positioned(
+              top: 10,
+              left: 10,
+              child: FloatingActionButton(
+                onPressed: _showFilterOptions,
+                child: Icon(Icons.filter_list),
+              ),
+            ),
+          ],
+        );
+      },
     );
   }
 }
