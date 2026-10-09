@@ -102,7 +102,13 @@ class _PoiDetailsState extends State<PoiDetails> {
                                 runSpacing: 4,
                                 children: [
                                   for (final subject in group.value)
-                                    Chip(label: Text(subject)),
+                                    Chip(
+                                      label: Text(subject),
+                                      backgroundColor:
+                                          editor.isFilterActive(subject)
+                                          ? Colors.blue
+                                          : null,
+                                    ),
                                 ],
                               ),
                             ],

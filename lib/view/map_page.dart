@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
-import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:flutter_map_vector_tiles/flutter_map_vector_tiles.dart' as vt;
 import 'package:latlong2/latlong.dart';
-import 'package:property_change_notifier/property_change_notifier.dart';
-import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
-import 'package:universities_map/view/cluster_marker.dart';
+import 'package:universities_map/view/filter_universities_widget.dart';
+import 'package:universities_map/view/markers_layer.dart';
 import 'package:universities_map/view/poi_details.dart';
-import 'package:universities_map/view/poi_marker.dart';
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key});
@@ -19,20 +16,12 @@ class MapPage extends StatefulWidget {
 
 class _MapPageState extends State<MapPage> {
   final MapController _mapController = MapController();
-  late final Editor editor;
 
   late final Future<vt.Style> _styleFuture;
-
-  final List<Poi> pois = [];
 
   @override
   void initState() {
     super.initState();
-    editor = StringPropertyChangeProvider.of<Editor, String>(
-      context,
-      listen: false,
-    )!.value;
-    pois.addAll(editor.pois);
     // OpenFreeMap:
     // Free and no API key required.
     _styleFuture = vt.StyleReader(
@@ -45,7 +34,6 @@ class _MapPageState extends State<MapPage> {
     _styleFuture.then((style) {
       style.dispose();
     });
-
     super.dispose();
   }
 
@@ -59,29 +47,24 @@ class _MapPageState extends State<MapPage> {
     );
   }
 
-  // ==========================================================
-  // BUILD MARKERS
-  // ==========================================================
-
-  List<Marker> _buildMarkers() {
-    return pois.map((poi) {
-      return Marker(
-        point: poi.location,
-        width: 50,
-        height: 50,
-
-        child: MouseRegion(
-          cursor: SystemMouseCursors.click,
-          child: GestureDetector(
-            onTap: () {
-              _showPoiDetails(poi);
-            },
-
-            child: PoiMarker(poi: poi),
-          ),
-        ),
-      );
-    }).toList();
+  Future<void> _showFilterOptions() async {
+    await showDialog(
+      context: context,
+      builder: (context) {
+        return AlertDialog(
+          title: const Text('Filter Options'),
+          content: const FilterUniversitiesWidget(),
+          actions: [
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+              child: const Text('Close'),
+            ),
+          ],
+        );
+      },
+    );
   }
 
   @override
@@ -128,54 +111,10 @@ class _MapPageState extends State<MapPage> {
                     sprites: style.sprites,
                   ),
 
-                  MarkerClusterLayerWidget(
-                    options: MarkerClusterLayerOptions(
-                      // Distance in pixels at which markers
-                      // start being grouped.
-                      maxClusterRadius: 50,
-
-                      // Size of the cluster widget.
-                      size: const Size(55, 55),
-
-                      // Don't cluster after zoom 10.
-                      disableClusteringAtZoom: 10,
-
-                      // Maximum zoom when automatically
-                      // zooming into a cluster.
-                      maxZoom: 11,
-
-                      // When a cluster is tapped,
-                      // automatically zoom to its bounds.
-                      zoomToBoundsOnClick: true,
-
-                      // Center marker when appropriate.
-                      centerMarkerOnClick: true,
-
-                      showPolygon: false,
-
-                      // Our markers.
-                      markers: _buildMarkers(),
-
-                      // ------------------------------------------------
-                      // CUSTOM CLUSTER ICON
-                      // ------------------------------------------------
-                      builder: (context, markers) {
-                        final count = markers.length;
-
-                        return ClusterMarker(count: count);
-                      },
-
-                      // ------------------------------------------------
-                      // CLUSTER TAP
-                      // ------------------------------------------------
-                      onClusterTap: (cluster) {
-                        // The package already handles
-                        // zoomToBoundsOnClick.
-                        //
-                        // You can add custom behavior here
-                        // if you want.
-                      },
-                    ),
+                  MarkersLayer(
+                    onPoiTap: (poi) {
+                      _showPoiDetails(poi);
+                    },
                   ),
 
                   // =================================================
@@ -187,6 +126,14 @@ class _MapPageState extends State<MapPage> {
                     ),
                   ),
                 ],
+              ),
+              Positioned(
+                top: 10,
+                left: 10,
+                child: FloatingActionButton(
+                  onPressed: _showFilterOptions,
+                  child: Icon(Icons.filter_list),
+                ),
               ),
             ],
           );

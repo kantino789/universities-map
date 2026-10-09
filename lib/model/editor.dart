@@ -7,9 +7,14 @@ import 'package:flutter/services.dart' show rootBundle;
 
 class Editor extends StringPropertyChangeNotifier {
   final List<Poi> _pois = [];
-  Iterable<Poi> get pois => _pois;
+  Iterable<Poi> get displayedPois => _filteredPois();
+
+  final List<String> _filters = [];
+  Iterable<String> get filters => _filters;
 
   static const String poisFavoriteChanged = 'poisFavoriteChanged';
+  static const String filtersChanged = 'filtersChanged';
+  static const String filtersReseted = 'filtersReseted';
 
   Future<bool> loadPois() async {
     try {
@@ -36,5 +41,32 @@ class Editor extends StringPropertyChangeNotifier {
   void toggleFavorite(Poi poi) {
     poi.isFavorite = !poi.isFavorite;
     notifyListeners("$poisFavoriteChanged:${poi.id}");
+  }
+
+  void resetFilters() {
+    _filters.clear();
+    notifyListeners(filtersReseted);
+  }
+
+  bool toggleFilter(String filter) {
+    final isRemoved = _filters.remove(filter);
+    if (!isRemoved) {
+      _filters.add(filter);
+    }
+    notifyListeners(filtersChanged);
+    return !isRemoved;
+  }
+
+  bool isFilterActive(String filter) {
+    return _filters.contains(filter);
+  }
+
+  Iterable<Poi> _filteredPois() {
+    if (_filters.isEmpty) {
+      return _pois;
+    }
+    return _pois.where(
+      (poi) => _filters.any((filter) => poi.subjects.contains(filter)),
+    );
   }
 }
