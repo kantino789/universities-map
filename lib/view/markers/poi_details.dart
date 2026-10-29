@@ -1,3 +1,4 @@
+import 'package:flag/flag_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -49,9 +50,16 @@ class _PoiDetailsState extends State<PoiDetails> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Text(
-                  poi.title,
-                  style: Theme.of(context).textTheme.headlineSmall,
+                Row(
+                  mainAxisSize: MainAxisSize.min,
+                  spacing: 8,
+                  children: [
+                    Text(
+                      poi.title,
+                      style: Theme.of(context).textTheme.headlineSmall,
+                    ),
+                    Flag.fromString(poi.country, width: 24, height: 24),
+                  ],
                 ),
                 Row(
                   spacing: 4,
