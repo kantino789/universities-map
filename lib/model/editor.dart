@@ -8,6 +8,7 @@ import 'package:flutter/services.dart' show rootBundle;
 class Editor extends StringPropertyChangeNotifier {
   final List<Poi> _pois = [];
   Iterable<Poi> get displayedPois => _filteredPois();
+  Iterable<Poi> get favoritePois => _pois.where((poi) => poi.isFavorite);
 
   final List<String> _filters = [];
   Iterable<String> get filters => _filters;
@@ -40,6 +41,7 @@ class Editor extends StringPropertyChangeNotifier {
 
   void toggleFavorite(Poi poi) {
     poi.isFavorite = !poi.isFavorite;
+    notifyListeners(poisFavoriteChanged);
     notifyListeners("$poisFavoriteChanged:${poi.id}");
   }
 

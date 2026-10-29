@@ -1,6 +1,7 @@
 import 'package:flag/flag_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/view/favorites_page/poi_favorite_icon.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
@@ -52,29 +53,19 @@ class _PoiDetailsState extends State<PoiDetails> {
               children: [
                 Row(
                   mainAxisSize: MainAxisSize.min,
-                  spacing: 8,
+                  spacing: 16,
                   children: [
+                    Flag.fromString(poi.country, width: 24, height: 24),
                     Text(
                       poi.title,
                       style: Theme.of(context).textTheme.headlineSmall,
                     ),
-                    Flag.fromString(poi.country, width: 24, height: 24),
                   ],
                 ),
                 Row(
                   spacing: 4,
                   children: [
-                    IconButton(
-                      onPressed: () {
-                        setState(() {
-                          editor.toggleFavorite(poi);
-                        });
-                      },
-                      icon: Icon(
-                        poi.isFavorite ? Icons.star : Icons.star_border,
-                        color: poi.isFavorite ? Colors.deepPurpleAccent : null,
-                      ),
-                    ),
+                    PoiFavoriteIcon(poi: poi),
                     IconButton(
                       onPressed: () => Navigator.pop(context),
                       icon: const Icon(Icons.close),

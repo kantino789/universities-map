@@ -48,6 +48,7 @@ class _FilterItemState extends State<FilterItem> {
         });
       },
       child: Chip(
+        mouseCursor: SystemMouseCursors.click,
         label: Text(item),
         backgroundColor: isActive ? Colors.blue : null,
       ),
