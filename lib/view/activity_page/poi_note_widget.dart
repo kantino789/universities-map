@@ -19,6 +19,15 @@ class PoiNoteWidget extends StatefulWidget {
 
 class _PoiNoteWidgetState extends State<PoiNoteWidget> {
   bool isEditing = false;
+  late final TextEditingController _controller = TextEditingController(
+    text: widget.poiNote.note,
+  );
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -45,8 +54,9 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
           )
         : ListTile(
             title: TextField(
-              controller: TextEditingController(text: widget.poiNote.note),
-              decoration: const InputDecoration(hintText: 'Enter a note'),
+              controller: _controller,
+              maxLines: null,
+              decoration: const InputDecoration(hintText: 'Edit note'),
               onChanged: (value) {
                 widget.poiNote.note = value;
               },
@@ -54,6 +64,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
             trailing: IconButton(
               icon: Icon(Icons.check),
               onPressed: () {
+                if (_controller.text.isEmpty) return;
                 setState(() {
                   isEditing = false;
                 });
