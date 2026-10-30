@@ -44,27 +44,29 @@ class _PoiDetailsState extends State<PoiDetails> {
     return SafeArea(
       child: Padding(
         padding: const EdgeInsets.all(24),
-        child: SingleChildScrollView(
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            spacing: 12,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Row(
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          spacing: 12,
+          children: [
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Expanded(
+                  child: Row(
                     mainAxisSize: MainAxisSize.min,
                     spacing: 16,
                     children: [
                       Flag.fromString(poi.country, width: 24, height: 24),
-                      Text(
-                        poi.title,
-                        style: Theme.of(context).textTheme.headlineSmall,
+                      Expanded(
+                        child: Text(
+                          poi.title,
+                          style: Theme.of(context).textTheme.headlineSmall,
+                        ),
                       ),
                     ],
                   ),
-                  Row(
+                ),
+                Row(
                     spacing: 4,
                     children: [
                       PoiFavoriteIcon(poi: poi),
@@ -73,9 +75,16 @@ class _PoiDetailsState extends State<PoiDetails> {
                         icon: const Icon(Icons.close),
                       ),
                     ],
-                  ),
-                ],
-              ),
+                ),
+              ],
+            ),
+            Expanded(
+              child: SingleChildScrollView(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  spacing: 12,
+                  children: [
               Tooltip(
                 message: poi.website.isNotEmpty ? poi.website : null,
                 child: OutlinedButton(
@@ -91,9 +100,7 @@ class _PoiDetailsState extends State<PoiDetails> {
                 Text(
                   "Recognized for its excellence in the following subjects:",
                 ),
-                Flexible(
-                  child: SingleChildScrollView(
-                    child: Column(
+                    Column(
                       mainAxisSize: MainAxisSize.min,
                       spacing: 12,
                       crossAxisAlignment: CrossAxisAlignment.start,
@@ -130,12 +137,13 @@ class _PoiDetailsState extends State<PoiDetails> {
                             ),
                       ],
                     ),
-                  ),
-                ),
               ],
               PoiNotesList(poiId: poi.id),
-            ],
-          ),
+                  ],
+                ),
+              ),
+            ),
+          ],
         ),
       ),
     );

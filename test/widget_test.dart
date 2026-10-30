@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:universities_map/data/debug_data_provider.dart';
 import 'package:universities_map/main.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/view/pages/map_page.dart';
 
 void main() {
   testWidgets('tabs select their pages and preserve map state', (tester) async {
-    await tester.pumpWidget(MyApp(editor: Editor()));
+    await tester.pumpWidget(MyApp(editor: Editor(DebugDataProvider())));
 
     final destinations = tester
         .widgetList<NavigationDestination>(find.byType(NavigationDestination))
@@ -81,7 +82,7 @@ void main() {
       tester.view.devicePixelRatio = 1;
       tester.view.padding = const FakeViewPadding(bottom: 24);
       addTearDown(tester.view.reset);
-      await tester.pumpWidget(MyApp(editor: Editor()));
+      await tester.pumpWidget(MyApp(editor: Editor(DebugDataProvider())));
 
       for (final label in ['Map', 'Favorites', 'Activity', 'Settings']) {
         final labelRect = tester.getRect(find.text(label));
