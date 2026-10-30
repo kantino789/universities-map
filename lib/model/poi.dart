@@ -1,5 +1,4 @@
 import 'package:latlong2/latlong.dart';
-import 'package:universities_map/model/poi_note.dart';
 
 class Poi {
   final String id;
