@@ -12,7 +12,7 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
-  static const _titles = ['Map', 'Favorites', 'Activity', 'Settings'];
+  static const _titles = ['Map', 'Favorites', 'Notes', 'Settings'];
   int _selectedIndex = 0;
 
   @override
@@ -69,7 +69,11 @@ class _MainPageState extends State<MainPage> {
               selectedIcon: Icon(Icons.star),
               label: 'Favorites',
             ),
-            NavigationDestination(icon: Icon(Icons.history), label: 'Activity'),
+            NavigationDestination(
+              icon: Icon(Icons.note_alt_outlined),
+              selectedIcon: Icon(Icons.note_alt),
+              label: 'Notes',
+            ),
             NavigationDestination(
               icon: Icon(Icons.settings_outlined),
               selectedIcon: Icon(Icons.settings),
