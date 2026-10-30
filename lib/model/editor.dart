@@ -10,9 +10,10 @@ import 'package:universities_map/model/poi_note.dart';
 class Editor extends StringPropertyChangeNotifier {
   final IDataProvider _dataProvider;
 
-  final List<Poi> _pois = [];
+  final Map<String, Poi> _poisById = {};
   Iterable<Poi> get displayedPois => _filteredPois();
-  Iterable<Poi> get favoritePois => _pois.where((poi) => poi.isFavorite);
+  Iterable<Poi> get favoritePois =>
+      _poisById.values.where((poi) => poi.isFavorite);
 
   final Map<String, PoiNote> _poiNotesById = {};
   Iterable<PoiNote> get poiNotes => _poiNotesById.values;
@@ -37,12 +38,11 @@ class Editor extends StringPropertyChangeNotifier {
       final List<dynamic> data = json.decode(response);
 
       // 3. Map each JSON object to a Poi instance
-      _pois.clear();
-      _pois.addAll(
-        data
-            .map((jsonItem) => Poi.fromJson(jsonItem as Map<String, dynamic>))
-            .toList(),
-      );
+      _poisById.clear();
+      for (final jsonItem in data) {
+        final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
+        _poisById[poi.id] = poi;
+      }
       await _populateNotes();
       return true;
     } catch (e) {
@@ -115,11 +115,15 @@ class Editor extends StringPropertyChangeNotifier {
     return _filters.contains(filter);
   }
 
+  Poi? getPoiById(String id) {
+    return _poisById[id];
+  }
+
   Iterable<Poi> _filteredPois() {
     if (_filters.isEmpty) {
-      return _pois;
+      return _poisById.values;
     }
-    return _pois.where(
+    return _poisById.values.where(
       (poi) => _filters.any((filter) => poi.subjects.contains(filter)),
     );
   }
