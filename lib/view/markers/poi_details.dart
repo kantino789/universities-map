@@ -133,7 +133,7 @@ class _PoiDetailsState extends State<PoiDetails> {
                   ),
                 ),
               ],
-              PoiNotesList(poi: poi),
+              PoiNotesList(poiId: poi.id),
             ],
           ),
         ),

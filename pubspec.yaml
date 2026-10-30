@@ -41,6 +41,7 @@ dependencies:
   property_change_notifier: ^0.5.0
   url_launcher: ^6.3.3
   flag: ^7.1.0
+  intl: ^0.20.3
 
 dev_dependencies:
   flutter_test:

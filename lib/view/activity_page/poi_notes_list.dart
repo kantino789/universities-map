@@ -1,19 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:universities_map/model/poi.dart';
+import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi_note.dart';
 import 'package:universities_map/view/activity_page/poi_note_widget.dart';
 
 class PoiNotesList extends StatefulWidget {
-  const PoiNotesList({super.key, required this.poi});
+  const PoiNotesList({super.key, required this.poiId});
 
-  final Poi poi;
+  final String poiId;
 
   @override
   State<PoiNotesList> createState() => _PoiNotesListState();
 }
 
 class _PoiNotesListState extends State<PoiNotesList> {
-  Poi get poi => widget.poi;
+  String get poiId => widget.poiId;
   final TextEditingController _noteController = TextEditingController();
 
   @override
@@ -24,6 +25,11 @@ class _PoiNotesListState extends State<PoiNotesList> {
 
   @override
   Widget build(BuildContext context) {
+    final editor = StringPropertyChangeProvider.of<Editor, String>(
+      context,
+      properties: [Editor.poiNotesChanged],
+    )!.value;
+    final notes = editor.getPoiNotesForId(poiId).toList();
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       mainAxisSize: MainAxisSize.min,
@@ -37,38 +43,29 @@ class _PoiNotesListState extends State<PoiNotesList> {
         ),
         Center(
           child: OutlinedButton(
-            onPressed: () {
+            onPressed: () async {
               if (_noteController.text.isEmpty) return;
-              setState(() {
-                poi.notes.add(
-                  PoiNote(
-                    poiId: poi.id,
-                    note: _noteController.text,
-                    createdAt: DateTime.now(),
-                  ),
-                );
-              });
+              final newNote = PoiNote(
+                poiId: poiId,
+                id: DateTime.now().millisecondsSinceEpoch.toString(),
+                note: _noteController.text,
+                createdAt: DateTime.now(),
+              );
+              await editor.addNotes(newNote);
               _noteController.clear();
             },
             child: Text("Save"),
           ),
         ),
-        if (poi.notes.isNotEmpty) ...[
-          for (final note in poi.notes)
+        if (notes.isNotEmpty) ...[
+          for (final note in notes.reversed)
             PoiNoteWidget(
               poiNote: note,
-              onNoteChanged: (updatedNote) {
-                setState(() {
-                  final index = poi.notes.indexOf(note);
-                  if (index != -1) {
-                    poi.notes[index] = updatedNote;
-                  }
-                });
+              onNoteChanged: (updatedNote) async {
+                await editor.updateNote(updatedNote);
               },
-              onNoteDeleted: () {
-                setState(() {
-                  poi.notes.remove(note);
-                });
+              onNoteDeleted: () async {
+                await editor.deleteNote(note);
               },
             ),
         ],

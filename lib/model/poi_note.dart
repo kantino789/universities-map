@@ -1,8 +1,13 @@
 class PoiNote {
+  final String id;
   final String poiId;
   String note;
   final DateTime createdAt;
-  DateTime? editedAt;
 
-  PoiNote({required this.poiId, required this.note, required this.createdAt});
+  PoiNote({
+    required this.id,
+    required this.poiId,
+    required this.note,
+    required this.createdAt,
+  });
 }

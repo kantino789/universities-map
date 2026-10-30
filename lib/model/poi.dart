@@ -10,7 +10,6 @@ class Poi {
   final Iterable<String> subjects;
   final String website;
   bool isFavorite = false;
-  List<PoiNote> notes = [];
 
   Poi({
     required this.id,
