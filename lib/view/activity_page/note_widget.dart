@@ -40,13 +40,13 @@ class NoteWidget extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    dateFormatter.format(note.createdAt),
+                    poi.title,
                     style: TextStyle(fontSize: 12, color: Colors.grey),
                   ),
                   Text(note.note),
                 ],
               ),
-              trailing: Text(poi.title),
+              trailing: Text(timeFormatter.format(note.createdAt)),
             ),
           )
         : SizedBox.shrink();

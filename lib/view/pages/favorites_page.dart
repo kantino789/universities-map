@@ -30,7 +30,7 @@ class FavoritesPage extends StatelessWidget {
     return favoritePois.isEmpty
         ? const Center(child: Text('No favorites yet.'))
         : Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16),
+            padding: const EdgeInsets.symmetric(horizontal: 8.0),
             child: ListView.builder(
               shrinkWrap: true,
               itemCount: favoritePois.length,

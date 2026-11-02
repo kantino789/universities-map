@@ -35,7 +35,11 @@ class _PoiNotesListState extends State<PoiNotesList> {
       mainAxisSize: MainAxisSize.min,
       spacing: 12,
       children: [
-        Text("Notes:"),
+        Text(
+          "Notes:",
+          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+        ),
+
         TextField(
           maxLines: null,
           decoration: const InputDecoration(hintText: 'Enter a note'),
@@ -54,7 +58,7 @@ class _PoiNotesListState extends State<PoiNotesList> {
               await editor.addNotes(newNote);
               _noteController.clear();
             },
-            child: Text("Save"),
+            child: Text("Add Note"),
           ),
         ),
         if (notes.isNotEmpty) ...[

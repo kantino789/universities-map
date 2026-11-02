@@ -67,14 +67,14 @@ class _PoiDetailsState extends State<PoiDetails> {
                   ),
                 ),
                 Row(
-                    spacing: 4,
-                    children: [
-                      PoiFavoriteIcon(poi: poi),
-                      IconButton(
-                        onPressed: () => Navigator.pop(context),
-                        icon: const Icon(Icons.close),
-                      ),
-                    ],
+                  spacing: 4,
+                  children: [
+                    PoiFavoriteIcon(poi: poi),
+                    IconButton(
+                      onPressed: () => Navigator.pop(context),
+                      icon: const Icon(Icons.close),
+                    ),
+                  ],
                 ),
               ],
             ),
@@ -85,60 +85,62 @@ class _PoiDetailsState extends State<PoiDetails> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   spacing: 12,
                   children: [
-              Tooltip(
-                message: poi.website.isNotEmpty ? poi.website : null,
-                child: OutlinedButton(
-                  onPressed: () {
-                    if (poi.website.isNotEmpty) {
-                      launchUrl(Uri.parse(poi.website));
-                    }
-                  },
-                  child: const Text('Visit Website'),
-                ),
-              ),
-              if (poi.subjects.isNotEmpty) ...[
-                Text(
-                  "Recognized for its excellence in the following subjects:",
-                ),
-                    Column(
-                      mainAxisSize: MainAxisSize.min,
-                      spacing: 12,
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        for (final group in poiSubjectsByGroup.entries)
-                          if (group.value.isNotEmpty)
-                            Column(
-                              mainAxisSize: MainAxisSize.min,
-                              spacing: 4,
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  group.key,
-                                  style: const TextStyle(
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
-                                Wrap(
-                                  crossAxisAlignment: WrapCrossAlignment.center,
-                                  spacing: 4,
-                                  runSpacing: 4,
-                                  children: [
-                                    for (final subject in group.value)
-                                      Chip(
-                                        label: Text(subject),
-                                        backgroundColor:
-                                            editor.isFilterActive(subject)
-                                            ? Colors.blue
-                                            : null,
-                                      ),
-                                  ],
-                                ),
-                              ],
-                            ),
-                      ],
+                    Tooltip(
+                      message: poi.website.isNotEmpty ? poi.website : null,
+                      child: OutlinedButton(
+                        onPressed: () {
+                          if (poi.website.isNotEmpty) {
+                            launchUrl(Uri.parse(poi.website));
+                          }
+                        },
+                        child: const Text('Visit Website'),
+                      ),
                     ),
-              ],
-              PoiNotesList(poiId: poi.id),
+                    if (poi.subjects.isNotEmpty) ...[
+                      Text(
+                        "Recognized for its excellence in the following subjects:",
+                      ),
+                      Column(
+                        mainAxisSize: MainAxisSize.min,
+                        spacing: 12,
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          for (final group in poiSubjectsByGroup.entries)
+                            if (group.value.isNotEmpty)
+                              Column(
+                                mainAxisSize: MainAxisSize.min,
+                                spacing: 4,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    group.key,
+                                    style: const TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                  Wrap(
+                                    crossAxisAlignment:
+                                        WrapCrossAlignment.center,
+                                    spacing: 4,
+                                    runSpacing: 4,
+                                    children: [
+                                      for (final subject in group.value)
+                                        Chip(
+                                          label: Text(subject),
+                                          backgroundColor:
+                                              editor.isFilterActive(subject)
+                                              ? Colors.blue
+                                              : null,
+                                        ),
+                                    ],
+                                  ),
+                                ],
+                              ),
+                        ],
+                      ),
+                    ],
+                    SizedBox(height: 12),
+                    PoiNotesList(poiId: poi.id),
                   ],
                 ),
               ),
