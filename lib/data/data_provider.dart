@@ -102,9 +102,7 @@ class DataProvider implements IDataProvider {
   }
 
   FavoriteEntity? _findFavorite(String poiId) {
-    final query = _favorites
-        .query(FavoriteEntity_.poiId.equals(poiId))
-        .build();
+    final query = _favorites.query(FavoriteEntity_.poiId.equals(poiId)).build();
     try {
       return query.findFirst();
     } finally {
