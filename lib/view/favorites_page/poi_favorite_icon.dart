@@ -13,21 +13,29 @@ class PoiFavoriteIcon extends StatefulWidget {
 }
 
 class _PoiFavoriteIconState extends State<PoiFavoriteIcon> {
+  late final Editor editor;
+
+  @override
+  void initState() {
+    super.initState();
+    editor = StringPropertyChangeProvider.of<Editor, String>(
+      context,
+      listen: false,
+    )!.value;
+  }
+
   @override
   Widget build(BuildContext context) {
+    final isFavorite = editor.isFavorite(widget.poi);
     return IconButton(
       onPressed: () {
-        final editor = StringPropertyChangeProvider.of<Editor, String>(
-          context,
-          listen: false,
-        )!.value;
         setState(() {
           editor.toggleFavorite(widget.poi);
         });
       },
       icon: Icon(
-        widget.poi.isFavorite ? Icons.star : Icons.star_border,
-        color: widget.poi.isFavorite ? Colors.deepPurpleAccent : null,
+        isFavorite ? Icons.star : Icons.star_border,
+        color: isFavorite ? Colors.deepPurpleAccent : null,
       ),
     );
   }

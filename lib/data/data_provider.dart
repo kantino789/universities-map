@@ -1,5 +1,6 @@
 import 'package:universities_map/data/data_provider_interface.dart';
 import 'package:universities_map/model/poi_note.dart';
+import 'package:universities_map/model/poi.dart';
 
 class DataProvider implements IDataProvider {
   @override
@@ -20,5 +21,15 @@ class DataProvider implements IDataProvider {
   @override
   Future<bool> deleteNote(String noteId) async {
     throw Exception('Delete note not implemented');
+  }
+
+  @override
+  Future<bool> addFavorite(Poi poi) async {
+    throw Exception('Add favorite not implemented');
+  }
+
+  @override
+  Future<bool> removeFavorite(String poiId) async {
+    throw Exception('Remove favorite not implemented');
   }
 }

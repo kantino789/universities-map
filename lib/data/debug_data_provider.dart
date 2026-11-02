@@ -1,8 +1,10 @@
 import 'package:universities_map/data/data_provider_interface.dart';
+import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/model/poi_note.dart';
 
 class DebugDataProvider implements IDataProvider {
   final List<PoiNote> _notes = [];
+  final List<Poi> _favorites = [];
 
   @override
   Future<Iterable<PoiNote>?> loadNotes() async {
@@ -30,6 +32,22 @@ class DebugDataProvider implements IDataProvider {
     final index = _notes.indexWhere((n) => n.id == noteId);
     if (index != -1) {
       _notes.removeAt(index);
+      return true;
+    }
+    return false;
+  }
+
+  @override
+  Future<bool> addFavorite(Poi poi) async {
+    _favorites.add(poi);
+    return true;
+  }
+
+  @override
+  Future<bool> removeFavorite(String poiId) async {
+    final index = _favorites.indexWhere((p) => p.id == poiId);
+    if (index != -1) {
+      _favorites.removeAt(index);
       return true;
     }
     return false;

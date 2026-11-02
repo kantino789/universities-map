@@ -1,3 +1,4 @@
+import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/model/poi_note.dart';
 import 'package:universities_map/config.dart';
 import 'package:universities_map/data/debug_data_provider.dart';
@@ -8,6 +9,8 @@ abstract class IDataProvider {
   Future<bool> addNote(PoiNote note);
   Future<bool> updateNote(PoiNote note);
   Future<bool> deleteNote(String noteId);
+  Future<bool> addFavorite(Poi poi);
+  Future<bool> removeFavorite(String poiId);
 
   factory IDataProvider.fromConfig(Config config) {
     switch (config) {

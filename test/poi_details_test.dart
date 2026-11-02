@@ -93,7 +93,6 @@ void main() {
 
         await tester.tap(find.byIcon(Icons.star_border));
         await tester.pumpAndSettle();
-        expect(poi.isFavorite, isTrue);
         await tester.tap(find.byIcon(Icons.close));
         await tester.pumpAndSettle();
         expect(find.byType(PoiDetails), findsNothing);

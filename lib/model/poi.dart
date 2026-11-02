@@ -8,7 +8,6 @@ class Poi {
   final String country;
   final Iterable<String> subjects;
   final String website;
-  bool isFavorite = false;
 
   Poi({
     required this.id,

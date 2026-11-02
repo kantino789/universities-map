@@ -12,8 +12,9 @@ class Editor extends StringPropertyChangeNotifier {
 
   final Map<String, Poi> _poisById = {};
   Iterable<Poi> get displayedPois => _filteredPois();
-  Iterable<Poi> get favoritePois =>
-      _poisById.values.where((poi) => poi.isFavorite);
+
+  final Map<String, Poi> _favoritesById = {};
+  Iterable<Poi> get favoritePois => _favoritesById.values;
 
   final Map<String, PoiNote> _poiNotesById = {};
   Iterable<PoiNote> get poiNotes => _poiNotesById.values;
@@ -91,10 +92,24 @@ class Editor extends StringPropertyChangeNotifier {
     return result;
   }
 
-  void toggleFavorite(Poi poi) {
-    poi.isFavorite = !poi.isFavorite;
+  Future<void> toggleFavorite(Poi poi) async {
+    if (_favoritesById.containsKey(poi.id)) {
+      final result = await _dataProvider.removeFavorite(poi.id);
+      if (result) {
+        _favoritesById.remove(poi.id);
+      }
+    } else {
+      final result = await _dataProvider.addFavorite(poi);
+      if (result) {
+        _favoritesById[poi.id] = poi;
+      }
+    }
     notifyListeners(poisFavoriteChanged);
     notifyListeners("$poisFavoriteChanged:${poi.id}");
+  }
+
+  bool isFavorite(Poi poi) {
+    return _favoritesById.containsKey(poi.id);
   }
 
   void resetFilters() {
