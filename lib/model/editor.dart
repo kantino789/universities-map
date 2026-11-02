@@ -45,6 +45,7 @@ class Editor extends StringPropertyChangeNotifier {
         _poisById[poi.id] = poi;
       }
       await _populateNotes();
+      await _populateFavorites();
       return true;
     } catch (e) {
       return false;
@@ -57,6 +58,16 @@ class Editor extends StringPropertyChangeNotifier {
       _poiNotesById.clear();
       for (final note in notes) {
         _poiNotesById[note.id] = note;
+      }
+    }
+  }
+
+  Future<void> _populateFavorites() async {
+    _favoritesById.clear();
+    for (final poiId in await _dataProvider.loadFavoritePoiIds()) {
+      final poi = _poisById[poiId];
+      if (poi != null) {
+        _favoritesById[poiId] = poi;
       }
     }
   }

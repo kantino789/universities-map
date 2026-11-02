@@ -12,7 +12,15 @@ class DebugDataProvider implements IDataProvider {
   }
 
   @override
+  Future<Iterable<String>> loadFavoritePoiIds() async {
+    return _favorites.map((poi) => poi.id).toList();
+  }
+
+  @override
   Future<bool> addNote(PoiNote note) async {
+    if (_notes.any((existing) => existing.id == note.id)) {
+      return false;
+    }
     _notes.add(note);
     return true;
   }
@@ -39,6 +47,9 @@ class DebugDataProvider implements IDataProvider {
 
   @override
   Future<bool> addFavorite(Poi poi) async {
+    if (_favorites.any((favorite) => favorite.id == poi.id)) {
+      return false;
+    }
     _favorites.add(poi);
     return true;
   }

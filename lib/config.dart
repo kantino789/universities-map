@@ -1,3 +1,3 @@
 enum Config { debug, release }
 
-final Config config = Config.debug;
+final Config config = Config.release;

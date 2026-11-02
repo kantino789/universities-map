@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/config.dart' show config;
-import 'package:universities_map/data/data_provider_interface.dart';
+import 'package:universities_map/data/data_provider_factory.dart';
 import 'package:universities_map/view/pages/main_page.dart';
 import 'package:universities_map/model/editor.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  final dataProvider = IDataProvider.fromConfig(config);
+  final dataProvider = await createDataProvider(config);
   final editor = Editor(dataProvider);
   await editor.initializeData();
   runApp(MyApp(editor: editor));
