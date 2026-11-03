@@ -109,4 +109,10 @@ class DataProvider implements IDataProvider {
       query.close();
     }
   }
+
+  @override
+  Future<bool> resetAll() async {
+    // TODO: implement resetAll
+    throw UnimplementedError();
+  }
 }

@@ -9,4 +9,5 @@ abstract class IDataProvider {
   Future<bool> deleteNote(String noteId);
   Future<bool> addFavorite(Poi poi);
   Future<bool> removeFavorite(String poiId);
+  Future<bool> resetAll();
 }

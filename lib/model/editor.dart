@@ -44,8 +44,7 @@ class Editor extends StringPropertyChangeNotifier {
         final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
         _poisById[poi.id] = poi;
       }
-      await _populateNotes();
-      await _populateFavorites();
+      await Future.wait([_populateFavorites(), _populateNotes()]);
       return true;
     } catch (e) {
       return false;
@@ -117,6 +116,22 @@ class Editor extends StringPropertyChangeNotifier {
     }
     notifyListeners(poisFavoriteChanged);
     notifyListeners("$poisFavoriteChanged:${poi.id}");
+  }
+
+  Future<bool> resetAll() async {
+    bool result = await _dataProvider.resetAll();
+    if (result) {
+      final favoritesIds = _favoritesById.keys.toList();
+      _favoritesById.clear();
+      _poiNotesById.clear();
+      for (var id in favoritesIds) {
+        notifyListeners("$poisFavoriteChanged:$id");
+      }
+      notifyListeners(poisFavoriteChanged);
+      notifyListeners(poiNotesChanged);
+    }
+
+    return result;
   }
 
   bool isFavorite(Poi poi) {

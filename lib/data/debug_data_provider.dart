@@ -63,4 +63,11 @@ class DebugDataProvider implements IDataProvider {
     }
     return false;
   }
+
+  @override
+  Future<bool> resetAll() async {
+    _notes.clear();
+    _favorites.clear();
+    return true;
+  }
 }

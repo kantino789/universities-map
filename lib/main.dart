@@ -1,12 +1,31 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'package:universities_map/app_info.dart';
 import 'package:universities_map/config.dart' show config;
 import 'package:universities_map/data/data_provider_factory.dart';
+import 'package:universities_map/shared_preferences.dart';
 import 'package:universities_map/view/pages/main_page.dart';
 import 'package:universities_map/model/editor.dart';
+import 'package:universities_map/view/settings_page/view_settings.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
+  sharedPreferencesInstance = SharedPreferencesInstance(sharedPreferences);
+  if (sharedPreferences.getBool(
+        SharedPreferencesInstance.settingsInitializedProperty,
+      ) ==
+      null) {
+    sharedPreferencesInstance.setSettingsToDefault();
+  }
+  viewSettings = ViewSettings(sharedPreferencesInstance);
+  viewSettings.addListener(
+    sharedPreferencesInstance.onViewSettingsChangedNotifications,
+  );
+  await PackageInfo.fromPlatform().then((p) => packageInfo = p);
   final dataProvider = await createDataProvider(config);
   final editor = Editor(dataProvider);
   await editor.initializeData();
@@ -23,11 +42,28 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return StringPropertyChangeProvider<Editor>(
       value: editor,
-      child: MaterialApp(
-        title: 'Universities Map',
-        debugShowCheckedModeBanner: false,
-        theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
-        home: const MainPage(),
+      child: PropertyChangeProvider<ViewSettings, String>(
+        value: viewSettings,
+        child: PropertyChangeConsumer<ViewSettings, String>(
+          properties: const [
+            ViewSettings.themeProperty,
+            ViewSettings.settingsReseted,
+          ],
+          builder: (p0, p1, p2) => MaterialApp(
+            title: 'Universities Map',
+            localizationsDelegates: GlobalMaterialLocalizations.delegates,
+            supportedLocales: const [Locale("en"), Locale("fr"), Locale("es")],
+            themeMode: viewSettings.themeMode,
+            theme: ThemeData(
+              brightness: viewSettings.isDarkTheme
+                  ? Brightness.dark
+                  : Brightness.light,
+              colorSchemeSeed: Color(0xFFCBD5E1),
+            ),
+            home: const MainPage(),
+            debugShowCheckedModeBanner: false,
+          ),
+        ),
       ),
     );
   }
