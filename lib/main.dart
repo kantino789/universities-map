@@ -52,7 +52,8 @@ class MyApp extends StatelessWidget {
             ViewSettings.settingsReseted,
           ],
           builder: (p0, p1, p2) => MaterialApp(
-            onGenerateTitle: (context) => AppLocalizations.of(context)!.appTitle,
+            onGenerateTitle: (context) =>
+                AppLocalizations.of(context)!.appTitle,
             locale: Locale(languageToCalendarString[viewSettings.language]!),
             localizationsDelegates: AppLocalizations.localizationsDelegates,
             supportedLocales: AppLocalizations.supportedLocales,

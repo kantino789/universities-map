@@ -19,7 +19,12 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     final colors = Theme.of(context).colorScheme;
     final l10n = AppLocalizations.of(context)!;
-    final titles = [l10n.mapTab, l10n.favoritesTab, l10n.notesTab, l10n.settingsTab];
+    final titles = [
+      l10n.mapTab,
+      l10n.favoritesTab,
+      l10n.notesTab,
+      l10n.settingsTab,
+    ];
 
     return Scaffold(
       appBar: _selectedIndex == 0

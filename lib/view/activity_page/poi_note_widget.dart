@@ -81,7 +81,9 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                   TextField(
                     controller: _controller,
                     maxLines: null,
-                    decoration: InputDecoration(hintText: AppLocalizations.of(context)!.editNote),
+                    decoration: InputDecoration(
+                      hintText: AppLocalizations.of(context)!.editNote,
+                    ),
                     onChanged: (value) {
                       widget.poiNote.note = value;
                     },

@@ -43,7 +43,9 @@ class _PoiNotesListState extends State<PoiNotesList> {
 
         TextField(
           maxLines: null,
-          decoration: InputDecoration(hintText: AppLocalizations.of(context)!.enterNote),
+          decoration: InputDecoration(
+            hintText: AppLocalizations.of(context)!.enterNote,
+          ),
           controller: _noteController,
         ),
         Center(

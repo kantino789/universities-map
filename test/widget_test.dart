@@ -61,12 +61,7 @@ void main() {
     );
 
     const labels = ['Map', 'Favorites', 'Notes', 'Settings'];
-    const messages = [
-      '',
-      'No favorites yet.',
-      'No notes yet.',
-      'General',
-    ];
+    const messages = ['', 'No favorites yet.', 'No notes yet.', 'General'];
     for (var index = 1; index < labels.length; index++) {
       await tester.tap(find.byType(NavigationDestination).at(index));
       await tester.pump(const Duration(milliseconds: 400));
@@ -99,7 +94,10 @@ void main() {
 
     await tester.tap(find.byType(NavigationDestination).first);
     await tester.pump(const Duration(milliseconds: 400));
-    expect(tester.widget<IndexedStack>(find.byType(IndexedStack).first).index, 0);
+    expect(
+      tester.widget<IndexedStack>(find.byType(IndexedStack).first).index,
+      0,
+    );
     expect(tester.state(find.byType(MapPage)), same(mapState));
     expect(find.byType(AppBar), findsNothing);
     expect(tester.takeException(), isNull);
@@ -128,7 +126,9 @@ void main() {
     },
   );
 
-  testWidgets('language dropdown updates the locale without replacing pages', (tester) async {
+  testWidgets('language dropdown updates the locale without replacing pages', (
+    tester,
+  ) async {
     await tester.pumpWidget(MyApp(editor: Editor(DebugDataProvider())));
     final mapState = tester.state(find.byType(MapPage));
     await tester.tap(find.byType(NavigationDestination).last);
@@ -142,12 +142,26 @@ void main() {
     await tester.pump(const Duration(milliseconds: 400));
     await tester.pump(const Duration(milliseconds: 400));
 
-    expect(tester.widget<MaterialApp>(find.byType(MaterialApp)).locale, const Locale('fr'));
-    expect(tester.widget<IndexedStack>(find.byType(IndexedStack).first).index, 3);
-    expect(tester.state(find.byType(MapPage, skipOffstage: false)), same(mapState));
+    expect(
+      tester.widget<MaterialApp>(find.byType(MaterialApp)).locale,
+      const Locale('fr'),
+    );
+    expect(
+      tester.widget<IndexedStack>(find.byType(IndexedStack).first).index,
+      3,
+    );
+    expect(
+      tester.state(find.byType(MapPage, skipOffstage: false)),
+      same(mapState),
+    );
     expect(find.text('Général'), findsOneWidget);
     expect(find.text('Langue'), findsOneWidget);
-    expect(sharedPreferencesInstance.sharedPreferences.getInt(ViewSettings.languageProperty), Language.french.index);
+    expect(
+      sharedPreferencesInstance.sharedPreferences.getInt(
+        ViewSettings.languageProperty,
+      ),
+      Language.french.index,
+    );
 
     await tester.tap(find.text('À propos'));
     await tester.pumpAndSettle();
@@ -162,17 +176,27 @@ void main() {
   });
 
   for (final language in Language.values) {
-    testWidgets('${language.name} labels fit on a narrow screen', (tester) async {
+    testWidgets('${language.name} labels fit on a narrow screen', (
+      tester,
+    ) async {
       tester.view.physicalSize = const Size(320, 640);
       tester.view.devicePixelRatio = 1;
       addTearDown(tester.view.reset);
-      viewSettings.updateProperty<int>(ViewSettings.languageProperty, newValue: language.index);
+      viewSettings.updateProperty<int>(
+        ViewSettings.languageProperty,
+        newValue: language.index,
+      );
       await tester.pumpWidget(MyApp(editor: Editor(DebugDataProvider())));
       await tester.pump(const Duration(milliseconds: 400));
 
       final context = tester.element(find.byType(NavigationBar));
       final l10n = AppLocalizations.of(context)!;
-      for (final label in [l10n.mapTab, l10n.favoritesTab, l10n.notesTab, l10n.settingsTab]) {
+      for (final label in [
+        l10n.mapTab,
+        l10n.favoritesTab,
+        l10n.notesTab,
+        l10n.settingsTab,
+      ]) {
         final rect = tester.getRect(find.text(label));
         expect(rect.left, greaterThanOrEqualTo(0));
         expect(rect.right, lessThanOrEqualTo(320));

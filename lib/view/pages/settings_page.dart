@@ -29,7 +29,10 @@ class _SettingsPage extends State<SettingsPage> {
                   text: AppLocalizations.of(context)!.generalTab,
                   icon: const Icon(Icons.toggle_on),
                 ),
-                Tab(text: AppLocalizations.of(context)!.aboutTab, icon: const Icon(Icons.info)),
+                Tab(
+                  text: AppLocalizations.of(context)!.aboutTab,
+                  icon: const Icon(Icons.info),
+                ),
               ],
             ),
             Expanded(
