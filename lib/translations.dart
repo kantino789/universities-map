@@ -6,6 +6,7 @@ const Map<Language, String> languageToCalendarString = {
   Language.spanish: "es",
   Language.french: "fr",
   Language.german: "de",
+  Language.italian: "it",
   Language.portuguese: "pt",
 };
 

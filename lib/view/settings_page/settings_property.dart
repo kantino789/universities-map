@@ -53,7 +53,8 @@ class SettingsProperty<T> {
       1: "Español",
       2: "Français",
       3: "Deutsch",
-      4: "Português",
+      4: "Italiano",
+      5: "Português",
     },
   };
 
