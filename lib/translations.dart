@@ -4,6 +4,8 @@ const Map<Language, String> languageToCalendarString = {
   Language.english: "en",
   Language.spanish: "es",
   Language.french: "fr",
+  Language.german: "de",
+  Language.portuguese: "pt",
 };
 
 const Map<String, Map<Language, String>> _keyToLanguageTranslationMap = {};

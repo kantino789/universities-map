@@ -7,7 +7,7 @@ late final ViewSettings viewSettings;
 
 enum TimeFormat { twelveHours, twentyFourHours }
 
-enum Language { english, spanish, french }
+enum Language { english, spanish, french, german, portuguese }
 
 class ViewSettings extends StringPropertyChangeNotifier {
   ViewSettings(SharedPreferencesInstance sharedPreferencesInstance)
