@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi_note.dart';
@@ -27,7 +28,7 @@ class NotesList extends StatelessWidget {
       groupedNotes.putIfAbsent(date, () => []).add(note);
     }
     return notes.isEmpty
-        ? Center(child: Text('No notes yet.'))
+        ? Center(child: Text(AppLocalizations.of(context)!.noNotes))
         : ListView(
             shrinkWrap: true,
             children: groupedNotes.entries.map((entry) {

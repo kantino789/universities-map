@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/helpers.dart';
 import 'package:universities_map/model/poi_note.dart';
 
@@ -50,6 +51,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   IconButton(
+                    tooltip: AppLocalizations.of(context)!.editNote,
                     icon: Icon(Icons.edit),
                     onPressed: () {
                       setState(() {
@@ -58,6 +60,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                     },
                   ),
                   IconButton(
+                    tooltip: AppLocalizations.of(context)!.deleteNote,
                     icon: Icon(Icons.clear, color: Colors.red),
                     onPressed: widget.onNoteDeleted,
                   ),
@@ -78,7 +81,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                   TextField(
                     controller: _controller,
                     maxLines: null,
-                    decoration: const InputDecoration(hintText: 'Edit note'),
+                    decoration: InputDecoration(hintText: AppLocalizations.of(context)!.editNote),
                     onChanged: (value) {
                       widget.poiNote.note = value;
                     },
@@ -86,6 +89,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 ],
               ),
               trailing: IconButton(
+                tooltip: AppLocalizations.of(context)!.saveNote,
                 icon: Icon(Icons.check),
                 onPressed: () {
                   if (_controller.text.isEmpty) return;

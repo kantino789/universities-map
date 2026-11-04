@@ -3,7 +3,7 @@ import 'package:in_app_review/in_app_review.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/app_info.dart';
 import 'package:universities_map/model/editor.dart';
-import 'package:universities_map/translations.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/view/helpers/snackbar_helper.dart';
 import 'package:universities_map/view/settings_page/view_settings.dart';
 
@@ -24,7 +24,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
             spacing: 4,
             children: [
               const Icon(Icons.restart_alt, color: Colors.red),
-              Text(translate("Reset application")),
+              Text(AppLocalizations.of(context)!.resetApplication),
             ],
           ),
           content: Builder(
@@ -34,9 +34,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
                 width: screenSize.width - 20,
                 child: Text(
                   textAlign: TextAlign.center,
-                  translate(
-                    "Do you really want to reset the application ? All data will be lost and settings will be reset.",
-                  ),
+                  AppLocalizations.of(context)!.resetConfirmation,
                 ),
               );
             },
@@ -44,7 +42,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
           actions: <Widget>[
             TextButton(
               child: Text(
-                translate("RESET"),
+                AppLocalizations.of(context)!.reset,
                 style: TextStyle(color: Colors.red),
               ),
               onPressed: () async {
@@ -66,7 +64,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
               },
             ),
             TextButton(
-              child: Text(translate('BACK')),
+              child: Text(AppLocalizations.of(context)!.back),
               onPressed: () {
                 Navigator.of(context).pop();
               },
@@ -82,10 +80,10 @@ class AboutSettingsTabWidget extends StatelessWidget {
     return Column(
       mainAxisSize: MainAxisSize.min,
       children: [
-        Text("${translate("Version")} ${packageInfo.version}"),
+        Text(AppLocalizations.of(context)!.versionLabel(packageInfo.version)),
         //const SettingSwitchTileWidget(property: ViewSettings.enableAdsProperty),
         ListTile(
-          title: Text(translate("Rate the app")),
+          title: Text(AppLocalizations.of(context)!.rateApp),
           leading: Icon(Icons.stars, color: Colors.amber),
           onTap: () async {
             if (await inAppReview.isAvailable()) {
@@ -96,7 +94,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
                 if (context.mounted) {
                   SnackBarHelper.displayMessage(
                     context,
-                    translate("An error occurred"),
+                    AppLocalizations.of(context)!.errorOccurred,
                   );
                 }
               }
@@ -104,14 +102,14 @@ class AboutSettingsTabWidget extends StatelessWidget {
               if (context.mounted) {
                 SnackBarHelper.displayMessage(
                   context,
-                  translate("An error occurred"),
+                  AppLocalizations.of(context)!.errorOccurred,
                 );
               }
             }
           },
         ),
         ListTile(
-          title: Text(translate("Reset application")),
+          title: Text(AppLocalizations.of(context)!.resetApplication),
           leading: const Icon(Icons.restart_alt, color: Colors.red),
           onTap: () => showResetApplicationDialog(context),
         ),

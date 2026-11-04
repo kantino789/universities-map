@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi_note.dart';
@@ -36,13 +37,13 @@ class _PoiNotesListState extends State<PoiNotesList> {
       spacing: 12,
       children: [
         Text(
-          "Notes:",
+          AppLocalizations.of(context)!.notesHeading,
           style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
         ),
 
         TextField(
           maxLines: null,
-          decoration: const InputDecoration(hintText: 'Enter a note'),
+          decoration: InputDecoration(hintText: AppLocalizations.of(context)!.enterNote),
           controller: _noteController,
         ),
         Center(
@@ -58,7 +59,7 @@ class _PoiNotesListState extends State<PoiNotesList> {
               await editor.addNotes(newNote);
               _noteController.clear();
             },
-            child: Text("Add Note"),
+            child: Text(AppLocalizations.of(context)!.addNote),
           ),
         ),
         if (notes.isNotEmpty) ...[

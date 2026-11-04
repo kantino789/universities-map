@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:universities_map/translations.dart';
-import 'package:universities_map/view/pages/settings_page.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/view/settings_page/settings_property.dart';
 import 'package:universities_map/view/settings_page/view_settings.dart';
 
@@ -18,9 +17,17 @@ class _SettingSwitchTileWidget extends State<SettingSwitchTileWidget> {
       .getSettingsProperty(widget.property);
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
+    final label = switch (widget.property) {
+      ViewSettings.themeProperty => l10n.darkMode,
+      ViewSettings.use24HoursProperty => l10n.use24Hours,
+      ViewSettings.displayMonthBeforeDayProperty => l10n.monthBeforeDay,
+      ViewSettings.languageProperty => l10n.language,
+      _ => settingsProperty.label,
+    };
     if (settingsProperty.value is bool) {
       return SwitchListTile(
-        title: Text(translate(settingsProperty.label)),
+        title: Text(label),
         secondary: settingsProperty.icon,
         value: settingsProperty.value,
         onChanged: (value) {
@@ -45,7 +52,7 @@ class _SettingSwitchTileWidget extends State<SettingSwitchTileWidget> {
             items.add(DropdownMenuItem<int>(value: key, child: Text(value))),
       );
       return ListTile(
-        title: Text(translate(settingsProperty.label)),
+        title: Text(label),
         leading: settingsProperty.icon,
         trailing: items.isNotEmpty
             ? DropdownButton<int>(
@@ -54,14 +61,7 @@ class _SettingSwitchTileWidget extends State<SettingSwitchTileWidget> {
                 ),
                 value: settingsProperty.value,
                 onChanged: (value) {
-                  if (widget.property == ViewSettings.languageProperty) {
-                    Navigator.of(context).pushAndRemoveUntil(
-                      PageRouteBuilder(
-                        pageBuilder: (_, __, ___) => const SettingsPage(),
-                      ),
-                      (route) => false,
-                    );
-                  }
+                  if (value == null) return;
                   setState(() {
                     viewSettings.updateProperty<int>(
                       widget.property,

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/view/pages/activity_page.dart';
 import 'package:universities_map/view/pages/favorites_page.dart';
 import 'package:universities_map/view/pages/map_page.dart';
@@ -12,17 +13,18 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
-  static const _titles = ['Map', 'Favorites', 'Notes', 'Settings'];
   int _selectedIndex = 0;
 
   @override
   Widget build(BuildContext context) {
     final colors = Theme.of(context).colorScheme;
+    final l10n = AppLocalizations.of(context)!;
+    final titles = [l10n.mapTab, l10n.favoritesTab, l10n.notesTab, l10n.settingsTab];
 
     return Scaffold(
       appBar: _selectedIndex == 0
           ? null
-          : AppBar(title: Text(_titles[_selectedIndex])),
+          : AppBar(title: Text(titles[_selectedIndex])),
       body: IndexedStack(
         index: _selectedIndex,
         children: const [
@@ -58,26 +60,26 @@ class _MainPageState extends State<MainPage> {
               _selectedIndex = index;
             });
           },
-          destinations: const [
+          destinations: [
             NavigationDestination(
               icon: Icon(Icons.map_outlined),
               selectedIcon: Icon(Icons.map),
-              label: 'Map',
+              label: l10n.mapTab,
             ),
             NavigationDestination(
               icon: Icon(Icons.star_border),
               selectedIcon: Icon(Icons.star),
-              label: 'Favorites',
+              label: l10n.favoritesTab,
             ),
             NavigationDestination(
               icon: Icon(Icons.note_alt_outlined),
               selectedIcon: Icon(Icons.note_alt),
-              label: 'Notes',
+              label: l10n.notesTab,
             ),
             NavigationDestination(
               icon: Icon(Icons.settings_outlined),
               selectedIcon: Icon(Icons.settings),
-              label: 'Settings',
+              label: l10n.settingsTab,
             ),
           ],
         ),

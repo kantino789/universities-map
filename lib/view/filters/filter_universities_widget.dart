@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/subjects_groups_maps.dart';
 import 'package:universities_map/view/filters/filter_section.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
@@ -23,7 +24,7 @@ class FilterUniversitiesWidget extends StatelessWidget {
               )!.value;
               editor.resetFilters();
             },
-            child: const Text('Reset Filters'),
+            child: Text(AppLocalizations.of(context)!.resetFilters),
           ),
           ...subjectsGroupsMap.entries.map((entry) {
             return FilterSection(title: entry.key, items: entry.value);

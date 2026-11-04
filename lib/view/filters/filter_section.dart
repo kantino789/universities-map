@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
+import 'package:universities_map/translations.dart';
 
 import 'filter_item.dart';
 
@@ -14,7 +16,7 @@ class FilterSection extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          title,
+          AppLocalizations.of(context)!.subjectLabel(title),
           style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
         ),
         const SizedBox(height: 4),

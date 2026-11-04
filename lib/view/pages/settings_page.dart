@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:universities_map/translations.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/view/settings_page/about_settings_tab_widget.dart';
 import 'package:universities_map/view/settings_page/switchs_settings_tab_widget.dart';
 import 'package:universities_map/view/settings_page/view_settings.dart';
@@ -17,7 +17,7 @@ class _SettingsPage extends State<SettingsPage> {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 4),
       child: DefaultTabController(
-        length: 3,
+        length: 2,
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -26,10 +26,10 @@ class _SettingsPage extends State<SettingsPage> {
               labelColor: Theme.of(context).iconTheme.color,
               tabs: [
                 Tab(
-                  text: translate("General"),
+                  text: AppLocalizations.of(context)!.generalTab,
                   icon: const Icon(Icons.toggle_on),
                 ),
-                Tab(text: translate("About"), icon: const Icon(Icons.info)),
+                Tab(text: AppLocalizations.of(context)!.aboutTab, icon: const Icon(Icons.info)),
               ],
             ),
             Expanded(

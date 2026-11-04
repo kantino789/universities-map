@@ -48,7 +48,13 @@ class SettingsProperty<T> {
   };
 
   static const Map<String, Map<int, String>> _choices = {
-    ViewSettings.languageProperty: {0: "English", 1: "Español", 2: "Français"},
+    ViewSettings.languageProperty: {
+      0: "English",
+      1: "Español",
+      2: "Français",
+      3: "Deutsch",
+      4: "Português",
+    },
   };
 
   static Map<int, String> getChoices(String property) {

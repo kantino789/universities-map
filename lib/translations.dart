@@ -1,3 +1,4 @@
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/view/settings_page/view_settings.dart';
 
 const Map<Language, String> languageToCalendarString = {
@@ -8,8 +9,74 @@ const Map<Language, String> languageToCalendarString = {
   Language.portuguese: "pt",
 };
 
-const Map<String, Map<Language, String>> _keyToLanguageTranslationMap = {};
-
-String translate(String key) {
-  return _keyToLanguageTranslationMap[key]?[viewSettings.language] ?? key;
+extension SubjectLocalizations on AppLocalizations {
+  String subjectLabel(String value) => switch (value) {
+    'Natural Sciences' => categoryNaturalSciences,
+    'Engineering' => categoryEngineering,
+    'Life Sciences' => categoryLifeSciences,
+    'Medical Sciences' => categoryMedicalSciences,
+    'Social Sciences' => categorySocialSciences,
+    'Atmospheric Science' => subjectAtmosphericScience,
+    'Chemistry' => subjectChemistry,
+    'Earth Sciences' => subjectEarthSciences,
+    'Ecology' => subjectEcology,
+    'Geography' => subjectGeography,
+    'Mathematics' => subjectMathematics,
+    'Oceanography' => subjectOceanography,
+    'Physics' => subjectPhysics,
+    'Aerospace Engineering' => subjectAerospaceEngineering,
+    'Artificial Intelligence' => subjectArtificialIntelligence,
+    'Automation & Control' => subjectAutomationControl,
+    'Biomedical Engineering' => subjectBiomedicalEngineering,
+    'Biotechnology' => subjectBiotechnology,
+    'Chemical Engineering' => subjectChemicalEngineering,
+    'Civil Engineering' => subjectCivilEngineering,
+    'Computer Science & Engineering' => subjectComputerScienceEngineering,
+    'Electrical & Electronic Engineering' =>
+      subjectElectricalElectronicEngineering,
+    'Energy Science & Engineering' => subjectEnergyScienceEngineering,
+    'Environmental Science & Engineering' =>
+      subjectEnvironmentalScienceEngineering,
+    'Food Science & Technology' => subjectFoodScienceTechnology,
+    'Instruments Science & Technology' => subjectInstrumentsScienceTechnology,
+    'Marine/Ocean Engineering' => subjectMarineOceanEngineering,
+    'Materials Science & Engineering' => subjectMaterialsScienceEngineering,
+    'Mechanical Engineering' => subjectMechanicalEngineering,
+    'Metallurgical Engineering' => subjectMetallurgicalEngineering,
+    'Mining & Mineral Engineering' => subjectMiningMineralEngineering,
+    'Nanoscience & Nanotechnology' => subjectNanoscienceNanotechnology,
+    'Remote Sensing' => subjectRemoteSensing,
+    'Robotic Science & Engineering' => subjectRoboticScienceEngineering,
+    'Telecommunication Engineering' => subjectTelecommunicationEngineering,
+    'Textile Science & Engineering' => subjectTextileScienceEngineering,
+    'Transportation Science & Technology' =>
+      subjectTransportationScienceTechnology,
+    'Water Resources' => subjectWaterResources,
+    'Agricultural Sciences' => subjectAgriculturalSciences,
+    'Biological Sciences' => subjectBiologicalSciences,
+    'Human Biological Sciences' => subjectHumanBiologicalSciences,
+    'Veterinary Sciences' => subjectVeterinarySciences,
+    'Clinical Medicine' => subjectClinicalMedicine,
+    'Dentistry & Oral Sciences' => subjectDentistryOralSciences,
+    'Medical Technology' => subjectMedicalTechnology,
+    'Nursing' => subjectNursing,
+    'Pharmacy & Pharmaceutical Sciences' =>
+      subjectPharmacyPharmaceuticalSciences,
+    'Public Health' => subjectPublicHealth,
+    'Business Administration' => subjectBusinessAdministration,
+    'Communication' => subjectCommunication,
+    'Economics' => subjectEconomics,
+    'Education' => subjectEducation,
+    'Finance' => subjectFinance,
+    'Hospitality & Tourism Management' => subjectHospitalityTourismManagement,
+    'Law' => subjectLaw,
+    'Library & Information Science' => subjectLibraryInformationScience,
+    'Management' => subjectManagement,
+    'Political Sciences' => subjectPoliticalSciences,
+    'Psychology' => subjectPsychology,
+    'Public Administration' => subjectPublicAdministration,
+    'Sociology' => subjectSociology,
+    'Statistics' => subjectStatistics,
+    _ => value,
+  };
 }

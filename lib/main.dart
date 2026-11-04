@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:universities_map/app_info.dart';
 import 'package:universities_map/config.dart' show config;
 import 'package:universities_map/data/data_provider_factory.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/shared_preferences.dart';
+import 'package:universities_map/translations.dart';
 import 'package:universities_map/view/pages/main_page.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/view/settings_page/view_settings.dart';
@@ -47,19 +48,14 @@ class MyApp extends StatelessWidget {
         child: PropertyChangeConsumer<ViewSettings, String>(
           properties: const [
             ViewSettings.themeProperty,
+            ViewSettings.languageProperty,
             ViewSettings.settingsReseted,
           ],
           builder: (p0, p1, p2) => MaterialApp(
-            title: 'Universities Map',
-            localizationsDelegates: GlobalMaterialLocalizations.delegates,
-            supportedLocales: const [
-              Locale("en"),
-              Locale("fr"),
-              Locale("de"),
-              Locale("pt"),
-              Locale("es"),
-              Locale("pt"),
-            ],
+            onGenerateTitle: (context) => AppLocalizations.of(context)!.appTitle,
+            locale: Locale(languageToCalendarString[viewSettings.language]!),
+            localizationsDelegates: AppLocalizations.localizationsDelegates,
+            supportedLocales: AppLocalizations.supportedLocales,
             themeMode: viewSettings.themeMode,
             theme: ThemeData(
               brightness: viewSettings.isDarkTheme

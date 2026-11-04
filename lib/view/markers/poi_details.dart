@@ -1,5 +1,6 @@
 import 'package:flag/flag_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:universities_map/view/activity_page/poi_notes_list.dart';
 import 'package:universities_map/view/favorites_page/poi_favorite_icon.dart';
@@ -7,6 +8,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/model/subjects_groups_maps.dart';
+import 'package:universities_map/translations.dart';
 
 class PoiDetails extends StatefulWidget {
   const PoiDetails({super.key, required this.poi});
@@ -71,6 +73,7 @@ class _PoiDetailsState extends State<PoiDetails> {
                   children: [
                     PoiFavoriteIcon(poi: poi),
                     IconButton(
+                      tooltip: AppLocalizations.of(context)!.close,
                       onPressed: () => Navigator.pop(context),
                       icon: const Icon(Icons.close),
                     ),
@@ -93,13 +96,11 @@ class _PoiDetailsState extends State<PoiDetails> {
                             launchUrl(Uri.parse(poi.website));
                           }
                         },
-                        child: const Text('Visit Website'),
+                        child: Text(AppLocalizations.of(context)!.visitWebsite),
                       ),
                     ),
                     if (poi.subjects.isNotEmpty) ...[
-                      Text(
-                        "Recognized for its excellence in the following subjects:",
-                      ),
+                      Text(AppLocalizations.of(context)!.recognizedSubjects),
                       Column(
                         mainAxisSize: MainAxisSize.min,
                         spacing: 12,
@@ -113,7 +114,8 @@ class _PoiDetailsState extends State<PoiDetails> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
-                                    group.key,
+                                    AppLocalizations.of(context)!
+                                        .subjectLabel(group.key),
                                     style: const TextStyle(
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -126,7 +128,10 @@ class _PoiDetailsState extends State<PoiDetails> {
                                     children: [
                                       for (final subject in group.value)
                                         Chip(
-                                          label: Text(subject),
+                                          label: Text(
+                                            AppLocalizations.of(context)!
+                                                .subjectLabel(subject),
+                                          ),
                                           backgroundColor:
                                               editor.isFilterActive(subject)
                                               ? Colors.blue

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/editor.dart';
+import 'package:universities_map/translations.dart';
 
 class FilterItem extends StatefulWidget {
   const FilterItem({super.key, required this.item});
@@ -49,7 +51,7 @@ class _FilterItemState extends State<FilterItem> {
       },
       child: Chip(
         mouseCursor: SystemMouseCursors.click,
-        label: Text(item),
+        label: Text(AppLocalizations.of(context)!.subjectLabel(item)),
         backgroundColor: isActive ? Colors.blue : null,
       ),
     );

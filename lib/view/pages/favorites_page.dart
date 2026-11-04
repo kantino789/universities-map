@@ -1,6 +1,7 @@
 import 'package:flag/flag_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/favorites_page/poi_favorite_icon.dart';
@@ -28,7 +29,7 @@ class FavoritesPage extends StatelessWidget {
     final favoritePois = editor.favoritePois.toList();
     favoritePois.sort((a, b) => a.title.compareTo(b.title));
     return favoritePois.isEmpty
-        ? const Center(child: Text('No favorites yet.'))
+        ? Center(child: Text(AppLocalizations.of(context)!.noFavorites))
         : Padding(
             padding: const EdgeInsets.symmetric(horizontal: 8.0),
             child: ListView.builder(

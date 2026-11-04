@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_vector_tiles/flutter_map_vector_tiles.dart' as vt;
 import 'package:latlong2/latlong.dart';
+import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/view/filters/filter_universities_widget.dart';
 import 'package:universities_map/view/markers/markers_layer.dart';
@@ -52,14 +53,14 @@ class _MapPageState extends State<MapPage> {
       context: context,
       builder: (context) {
         return AlertDialog(
-          title: const Text('Filter Options'),
+          title: Text(AppLocalizations.of(context)!.filterOptions),
           content: const FilterUniversitiesWidget(),
           actions: [
             TextButton(
               onPressed: () {
                 Navigator.of(context).pop();
               },
-              child: const Text('Close'),
+              child: Text(AppLocalizations.of(context)!.close),
             ),
           ],
         );
@@ -79,7 +80,7 @@ class _MapPageState extends State<MapPage> {
         if (snapshot.hasError) {
           return Center(
             child: Text(
-              'Could not load map:\n${snapshot.error}',
+              AppLocalizations.of(context)!.mapLoadError('${snapshot.error}'),
               textAlign: TextAlign.center,
             ),
           );
@@ -135,6 +136,7 @@ class _MapPageState extends State<MapPage> {
               top: 10,
               left: 10,
               child: FloatingActionButton(
+                tooltip: AppLocalizations.of(context)!.filterOptions,
                 onPressed: _showFilterOptions,
                 child: Icon(Icons.filter_list),
               ),
