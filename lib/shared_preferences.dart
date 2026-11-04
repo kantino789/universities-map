@@ -41,6 +41,12 @@ class SharedPreferencesInstance {
             sharedPreferences.setInt(key, Language.french.index);
           } else if (locale.startsWith("es")) {
             sharedPreferences.setInt(key, Language.spanish.index);
+          } else if (locale.startsWith("de")) {
+            sharedPreferences.setInt(key, Language.german.index);
+          } else if (locale.startsWith("it")) {
+            sharedPreferences.setInt(key, Language.italian.index);
+          } else if (locale.startsWith("pt")) {
+            sharedPreferences.setInt(key, Language.portuguese.index);
           } else {
             sharedPreferences.setInt(key, Language.english.index);
           }
