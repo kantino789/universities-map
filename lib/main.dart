@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:universities_map/ad_helper.dart';
 import 'package:universities_map/app_info.dart';
 import 'package:universities_map/config.dart' show config;
 import 'package:universities_map/data/data_provider_factory.dart';
@@ -14,6 +15,7 @@ import 'package:universities_map/view/settings_page/view_settings.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await initGoogleMobileAds();
   SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
   sharedPreferencesInstance = SharedPreferencesInstance(sharedPreferences);
   if (sharedPreferences.getBool(
