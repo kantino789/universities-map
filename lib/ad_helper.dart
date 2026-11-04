@@ -26,6 +26,9 @@ String get bannerAdUnitId {
   }
 }
 
-Future<InitializationStatus> initGoogleMobileAds() {
+Future<InitializationStatus?> initGoogleMobileAds() async {
+  if (kIsWeb) {
+    return null;
+  }
   return MobileAds.instance.initialize();
 }

@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:universities_map/ad_helper.dart';
@@ -17,6 +18,9 @@ class _AdBannerWidget extends State<AdBannerWidget> {
   @override
   void initState() {
     super.initState();
+    if (kIsWeb) {
+      return;
+    }
     String adUnitId = bannerAdUnitId;
     if (adUnitId.isNotEmpty) {
       bannerAd = BannerAd(
@@ -49,13 +53,15 @@ class _AdBannerWidget extends State<AdBannerWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return Align(
-      alignment: Alignment.topCenter,
-      child: SizedBox(
-        width: bannerAd?.size.width.toDouble(),
-        height: bannerAd?.size.height.toDouble(),
-        child: isBannerAdReady ? AdWidget(ad: bannerAd!) : null,
-      ),
-    );
+    return bannerAd != null
+        ? Align(
+            alignment: Alignment.topCenter,
+            child: SizedBox(
+              width: bannerAd?.size.width.toDouble(),
+              height: bannerAd?.size.height.toDouble(),
+              child: isBannerAdReady ? AdWidget(ad: bannerAd!) : null,
+            ),
+          )
+        : SizedBox.shrink();
   }
 }
