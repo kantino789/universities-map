@@ -52,7 +52,14 @@ class MyApp extends StatelessWidget {
           builder: (p0, p1, p2) => MaterialApp(
             title: 'Universities Map',
             localizationsDelegates: GlobalMaterialLocalizations.delegates,
-            supportedLocales: const [Locale("en"), Locale("fr"), Locale("es")],
+            supportedLocales: const [
+              Locale("en"),
+              Locale("fr"),
+              Locale("de"),
+              Locale("pt"),
+              Locale("es"),
+              Locale("pt"),
+            ],
             themeMode: viewSettings.themeMode,
             theme: ThemeData(
               brightness: viewSettings.isDarkTheme
