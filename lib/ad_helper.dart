@@ -2,12 +2,15 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:universities_map/config.dart';
 
 String get _debugAndroidBannerAdUnitId =>
     'ca-app-pub-3940256099942544/6300978111';
 String get _releaseAndroidBannerAdUnitId =>
     'ca-app-pub-5606607334991302/1829600643';
-String get _androidBannerAdUnitId => _debugAndroidBannerAdUnitId;
+String get _androidBannerAdUnitId => config == Config.debug
+    ? _debugAndroidBannerAdUnitId
+    : _releaseAndroidBannerAdUnitId;
 
 String get _debugIOSBannerAdUnitId => 'ca-app-pub-3940256099942544/2934735716';
 // String get _releaseIOSBannerAdUnitId =>

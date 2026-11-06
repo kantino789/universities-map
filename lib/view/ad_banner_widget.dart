@@ -2,6 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:universities_map/ad_helper.dart';
+import 'package:universities_map/config.dart';
 
 class AdBannerWidget extends StatefulWidget {
   const AdBannerWidget({super.key});
@@ -53,7 +54,7 @@ class _AdBannerWidget extends State<AdBannerWidget> {
 
   @override
   Widget build(BuildContext context) {
-    return bannerAd != null
+    return showAds && bannerAd != null
         ? Align(
             alignment: Alignment.topCenter,
             child: SizedBox(

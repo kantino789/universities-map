@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
+import 'package:universities_map/view/ad_banner_widget.dart';
 import 'package:universities_map/view/pages/activity_page.dart';
 import 'package:universities_map/view/pages/favorites_page.dart';
 import 'package:universities_map/view/pages/map_page.dart';
@@ -30,13 +31,18 @@ class _MainPageState extends State<MainPage> {
       appBar: _selectedIndex == 0
           ? null
           : AppBar(title: Text(titles[_selectedIndex])),
-      body: IndexedStack(
-        index: _selectedIndex,
-        children: const [
-          MapPage(),
-          FavoritesPage(),
-          ActivityPage(),
-          SettingsPage(),
+      body: Column(
+        children: [
+          AdBannerWidget(),
+          IndexedStack(
+            index: _selectedIndex,
+            children: const [
+              MapPage(),
+              FavoritesPage(),
+              ActivityPage(),
+              SettingsPage(),
+            ],
+          ),
         ],
       ),
       bottomNavigationBar: NavigationBarTheme(
