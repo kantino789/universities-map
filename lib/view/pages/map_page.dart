@@ -94,10 +94,13 @@ class _MapPageState extends State<MapPage> {
               mapController: _mapController,
 
               options: MapOptions(
-                initialCenter: const LatLng(58.9700, 5.7330),
-                initialZoom: 14,
+                initialCenter: const LatLng(55.9700, 12.7330),
+                initialZoom: 3,
                 minZoom: 3,
                 maxZoom: 19,
+                interactionOptions: InteractionOptions(
+                  flags: InteractiveFlag.all & ~InteractiveFlag.rotate,
+                ),
               ),
 
               children: [
@@ -133,8 +136,8 @@ class _MapPageState extends State<MapPage> {
               ],
             ),
             Positioned(
-              top: 10,
-              left: 10,
+              top: 40,
+              left: 20,
               child: FloatingActionButton(
                 tooltip: AppLocalizations.of(context)!.filterOptions,
                 onPressed: _showFilterOptions,

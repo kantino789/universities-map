@@ -33,7 +33,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.8
+  cupertino_icons: ^2.0.0
   flutter_map: ^8.3.2
   flutter_map_vector_tiles: ^2.9.0
   flutter_map_marker_cluster: ^8.2.2
@@ -42,8 +42,8 @@ dependencies:
   url_launcher: ^6.3.3
   flag: ^7.1.0
   intl: ^0.20.3
-  objectbox: ^5.3.2
-  objectbox_flutter_libs: ^5.3.2
+  objectbox: ^6.0.0-preview.6
+  objectbox_flutter_libs: ^6.0.0-preview.6
   shared_preferences: ^2.5.6
   package_info_plus: ^10.2.2
   in_app_review: ^2.0.12
@@ -65,7 +65,7 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
   build_runner: ^2.15.1
-  objectbox_generator: ^5.3.2
+  objectbox_generator: ^6.0.0-preview.6
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

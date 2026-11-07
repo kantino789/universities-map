@@ -20,6 +20,7 @@ class _AdBannerWidget extends State<AdBannerWidget> {
   void initState() {
     super.initState();
     if (kIsWeb) {
+      bannerAd = null;
       return;
     }
     String adUnitId = bannerAdUnitId;

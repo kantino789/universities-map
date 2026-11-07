@@ -33,15 +33,17 @@ class _MainPageState extends State<MainPage> {
           : AppBar(title: Text(titles[_selectedIndex])),
       body: Column(
         children: [
-          AdBannerWidget(),
-          IndexedStack(
-            index: _selectedIndex,
-            children: const [
-              MapPage(),
-              FavoritesPage(),
-              ActivityPage(),
-              SettingsPage(),
-            ],
+          //AdBannerWidget(),
+          Expanded(
+            child: IndexedStack(
+              index: _selectedIndex,
+              children: const [
+                MapPage(),
+                FavoritesPage(),
+                ActivityPage(),
+                SettingsPage(),
+              ],
+            ),
           ),
         ],
       ),
