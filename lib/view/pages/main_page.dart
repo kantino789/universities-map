@@ -33,7 +33,6 @@ class _MainPageState extends State<MainPage> {
           : AppBar(title: Text(titles[_selectedIndex])),
       body: Column(
         children: [
-          //AdBannerWidget(),
           Expanded(
             child: IndexedStack(
               index: _selectedIndex,
@@ -45,6 +44,7 @@ class _MainPageState extends State<MainPage> {
               ],
             ),
           ),
+          AdBannerWidget(),
         ],
       ),
       bottomNavigationBar: NavigationBarTheme(
