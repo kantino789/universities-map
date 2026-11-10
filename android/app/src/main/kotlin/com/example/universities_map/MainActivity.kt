@@ -1,4 +1,4 @@
-package com.example.universities_map
+package com.quentin.universities.map
 
 import io.flutter.embedding.android.FlutterActivity
 
