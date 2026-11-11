@@ -4,7 +4,7 @@ import 'package:flutter_map_vector_tiles/flutter_map_vector_tiles.dart' as vt;
 import 'package:latlong2/latlong.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/poi.dart';
-import 'package:universities_map/view/filters/filter_universities_widget.dart';
+import 'package:universities_map/view/filters/filters_floating_button.dart';
 import 'package:universities_map/view/markers/markers_layer.dart';
 import 'package:universities_map/view/markers/poi_details.dart';
 
@@ -48,26 +48,6 @@ class _MapPageState extends State<MapPage> {
             bottom: MediaQuery.viewInsetsOf(context).bottom,
           ),
           child: PoiDetails(poi: poi),
-        );
-      },
-    );
-  }
-
-  Future<void> _showFilterOptions() async {
-    await showDialog(
-      context: context,
-      builder: (context) {
-        return AlertDialog(
-          title: Text(AppLocalizations.of(context)!.filterOptions),
-          content: const FilterUniversitiesWidget(),
-          actions: [
-            TextButton(
-              onPressed: () {
-                Navigator.of(context).pop();
-              },
-              child: Text(AppLocalizations.of(context)!.close),
-            ),
-          ],
         );
       },
     );
@@ -140,15 +120,7 @@ class _MapPageState extends State<MapPage> {
                 ),
               ],
             ),
-            Positioned(
-              top: 40,
-              left: 20,
-              child: FloatingActionButton(
-                tooltip: AppLocalizations.of(context)!.filterOptions,
-                onPressed: _showFilterOptions,
-                child: Icon(Icons.filter_list),
-              ),
-            ),
+            Positioned(top: 40, left: 20, child: FiltersFloatingButton()),
           ],
         );
       },

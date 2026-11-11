@@ -21,6 +21,7 @@ class Editor extends StringPropertyChangeNotifier {
 
   final List<String> _filters = [];
   Iterable<String> get filters => _filters;
+  int get filtersCount => _filters.length;
 
   static const String poisFavoriteChanged = 'poisFavoriteChanged';
   static const String filtersChanged = 'filtersChanged';
