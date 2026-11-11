@@ -5,8 +5,6 @@ import 'package:universities_map/view/settings_page/settings_property.dart';
 
 late final ViewSettings viewSettings;
 
-enum TimeFormat { twelveHours, twentyFourHours }
-
 enum Language { english, spanish, french, german, italian, portuguese }
 
 class ViewSettings extends StringPropertyChangeNotifier {

@@ -1,7 +1,7 @@
 import 'package:flag/flag_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:universities_map/view/activity_page/time_text.dart';
 import 'package:property_change_notifier/property_change_notifier.dart';
-import 'package:universities_map/helpers.dart';
 import 'package:universities_map/model/editor.dart';
 import 'package:universities_map/model/poi.dart';
 import 'package:universities_map/model/poi_note.dart';
@@ -46,7 +46,7 @@ class NoteWidget extends StatelessWidget {
                   Text(note.note),
                 ],
               ),
-              trailing: Text(timeFormatter.format(note.createdAt)),
+              trailing: TimeText(time: note.createdAt),
             ),
           )
         : SizedBox.shrink();
