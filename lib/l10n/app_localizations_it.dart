@@ -85,7 +85,7 @@ class AppLocalizationsIt extends AppLocalizations {
   String get noNotes => 'Non ci sono ancora note.';
 
   @override
-  String get visitWebsite => 'Visita il sito web';
+  String get visitWebsite => 'Sito web';
 
   @override
   String get recognizedSubjects => 'Riconosciuta per la sua eccellenza nelle seguenti discipline:';

@@ -250,7 +250,7 @@ abstract class AppLocalizations {
   /// No description provided for @visitWebsite.
   ///
   /// In en, this message translates to:
-  /// **'Visit Website'**
+  /// **'Website'**
   String get visitWebsite;
 
   /// No description provided for @recognizedSubjects.

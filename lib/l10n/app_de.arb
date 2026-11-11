@@ -24,7 +24,7 @@
   "mapLoadError": "Karte konnte nicht geladen werden:\n{error}",
   "noFavorites": "Noch keine Favoriten.",
   "noNotes": "Noch keine Notizen.",
-  "visitWebsite": "Website besuchen",
+  "visitWebsite": "Website",
   "recognizedSubjects": "Für herausragende Leistungen in folgenden Fachgebieten bekannt:",
   "notesHeading": "Notizen:",
   "enterNote": "Notiz eingeben",
