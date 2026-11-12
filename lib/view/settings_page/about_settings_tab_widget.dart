@@ -53,13 +53,7 @@ class AboutSettingsTabWidget extends StatelessWidget {
                 await editor.resetAll();
                 viewSettings.resetSettings();
                 if (context.mounted) {
-                  // TODO: Check if there is anything to do
-                  // Navigator.of(context).pushAndRemoveUntil(
-                  //   PageRouteBuilder(
-                  //     pageBuilder: (_, __, ___) => const CalendarPageWidget(),
-                  //   ),
-                  //   (route) => false,
-                  // );
+                  Navigator.of(context).pop();
                 }
               },
             ),

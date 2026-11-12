@@ -112,7 +112,8 @@ class DataProvider implements IDataProvider {
 
   @override
   Future<bool> resetAll() async {
-    // TODO: implement resetAll
-    throw UnimplementedError();
+    _favorites.removeAll();
+    _notes.removeAll();
+    return true;
   }
 }
