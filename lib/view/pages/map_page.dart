@@ -43,7 +43,12 @@ class _MapPageState extends State<MapPage> {
       context: context,
       isScrollControlled: true,
       builder: (context) {
-        return PoiDetails(poi: poi);
+        return Padding(
+          padding: EdgeInsets.only(
+            bottom: MediaQuery.viewInsetsOf(context).bottom,
+          ),
+          child: PoiDetails(poi: poi),
+        );
       },
     );
   }

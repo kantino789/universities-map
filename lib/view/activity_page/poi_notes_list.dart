@@ -60,6 +60,7 @@ class _PoiNotesListState extends State<PoiNotesList> {
               );
               await editor.addNotes(newNote);
               _noteController.clear();
+              FocusManager.instance.primaryFocus?.unfocus();
             },
             child: Text(AppLocalizations.of(context)!.addNote),
           ),
