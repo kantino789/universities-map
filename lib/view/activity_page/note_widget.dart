@@ -18,16 +18,19 @@ class NoteWidget extends StatelessWidget {
       isScrollControlled: true,
       builder: (context) {
         return Padding(
-        padding: EdgeInsets.only(
-          bottom: MediaQuery.viewInsetsOf(context).bottom,
-        ),
-        child: PoiDetails(poi: poi));
+          padding: EdgeInsets.only(
+            bottom: MediaQuery.viewInsetsOf(context).bottom,
+          ),
+          child: PoiDetails(poi: poi),
+        );
       },
     );
   }
 
   @override
   Widget build(BuildContext context) {
+    final colors = Theme.of(context).colorScheme;
+    final textTheme = Theme.of(context).textTheme;
     final editor = StringPropertyChangeProvider.of<Editor, String>(
       context,
       listen: false,
@@ -45,9 +48,12 @@ class NoteWidget extends StatelessWidget {
                 children: [
                   Text(
                     poi.title,
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
+                    style: textTheme.labelLarge?.copyWith(
+                      color: colors.onSurfaceVariant,
+                    ),
                   ),
-                  Text(note.note),
+                  const SizedBox(height: 4),
+                  Text(note.note, style: textTheme.bodyMedium),
                 ],
               ),
               trailing: TimeText(time: note.createdAt),

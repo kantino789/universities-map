@@ -49,11 +49,14 @@ class _MainPageState extends State<MainPage> {
       ),
       bottomNavigationBar: NavigationBarTheme(
         data: NavigationBarThemeData(
-          indicatorColor: colors.secondaryContainer,
+          backgroundColor: colors.surface,
+          indicatorColor: colors.primaryContainer,
+          elevation: 0,
+          height: 72,
           iconTheme: WidgetStateProperty.resolveWith((states) {
             return IconThemeData(
               color: states.contains(WidgetState.selected)
-                  ? colors.onSecondaryContainer
+                  ? colors.onPrimaryContainer
                   : colors.onSurfaceVariant,
             );
           }),
