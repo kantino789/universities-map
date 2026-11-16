@@ -3,6 +3,7 @@ import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/helpers.dart';
 import 'package:universities_map/model/poi_note.dart';
 import 'package:universities_map/view/activity_page/date_text.dart';
+import 'package:universities_map/view/activity_page/time_text.dart';
 
 class PoiNoteWidget extends StatefulWidget {
   const PoiNoteWidget({
@@ -41,9 +42,18 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text(
-                    dateFormatter.format(widget.poiNote.createdAt),
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
+                  Row(
+                    spacing: 8,
+                    children: [
+                      DateText(
+                        date: widget.poiNote.createdAt,
+                        style: TextStyle(fontSize: 12, color: Colors.grey),
+                      ),
+                      TimeText(
+                        time: widget.poiNote.createdAt,
+                        style: TextStyle(fontSize: 12, color: Colors.grey),
+                      ),
+                    ],
                   ),
                   Text(widget.poiNote.note),
                 ],
@@ -75,9 +85,18 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  DateText(
-                    date: widget.poiNote.createdAt,
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
+                  Row(
+                    spacing: 8,
+                    children: [
+                      DateText(
+                        date: widget.poiNote.createdAt,
+                        style: TextStyle(fontSize: 12, color: Colors.grey),
+                      ),
+                      TimeText(
+                        time: widget.poiNote.createdAt,
+                        style: TextStyle(fontSize: 12, color: Colors.grey),
+                      ),
+                    ],
                   ),
                   TextField(
                     controller: _controller,
@@ -93,7 +112,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
               ),
               trailing: IconButton(
                 tooltip: AppLocalizations.of(context)!.saveNote,
-                icon: Icon(Icons.check),
+                icon: Icon(Icons.check, color: Colors.green),
                 onPressed: () {
                   if (_controller.text.isEmpty) return;
                   setState(() {
