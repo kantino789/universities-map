@@ -4,8 +4,9 @@ import 'package:universities_map/view/settings_page/view_settings.dart';
 
 class TimeText extends StatefulWidget {
   final DateTime time;
+  final TextStyle? style;
 
-  const TimeText({super.key, required this.time});
+  const TimeText({super.key, required this.time, this.style});
 
   @override
   State<TimeText> createState() => _TimeTextState();
@@ -34,6 +35,6 @@ class _TimeTextState extends State<TimeText> {
 
   @override
   Widget build(BuildContext context) {
-    return Text(timeFormatter.format(widget.time));
+    return Text(timeFormatter.format(widget.time), style: widget.style);
   }
 }
