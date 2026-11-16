@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                 ? Brightness.dark
                 : Brightness.light;
             final colorScheme = ColorScheme.fromSeed(
-              seedColor: const Color(0xFF167D74),
+              seedColor: const Color(0xFF315C8C),
               brightness: brightness,
             );
 
