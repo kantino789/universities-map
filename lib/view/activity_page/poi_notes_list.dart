@@ -38,31 +38,39 @@ class _PoiNotesListState extends State<PoiNotesList> {
       children: [
         Text(
           AppLocalizations.of(context)!.notesHeading,
-          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+          style: Theme.of(context).textTheme.titleMedium
+              ?.copyWith(fontWeight: FontWeight.w700),
         ),
-
         TextField(
-          maxLines: null,
+          minLines: 2,
+          maxLines: 4,
+          textCapitalization: TextCapitalization.sentences,
           decoration: InputDecoration(
             hintText: AppLocalizations.of(context)!.enterNote,
           ),
           controller: _noteController,
+          onChanged: (_) => setState(() {}),
         ),
-        Center(
-          child: OutlinedButton(
-            onPressed: () async {
-              if (_noteController.text.isEmpty) return;
-              final newNote = PoiNote(
-                poiId: poiId,
-                id: DateTime.now().millisecondsSinceEpoch.toString(),
-                note: _noteController.text,
-                createdAt: DateTime.now(),
-              );
-              await editor.addNotes(newNote);
-              _noteController.clear();
-              FocusManager.instance.primaryFocus?.unfocus();
-            },
-            child: Text(AppLocalizations.of(context)!.addNote),
+        Align(
+          alignment: AlignmentDirectional.centerEnd,
+          child: FilledButton.icon(
+            onPressed: _noteController.text.trim().isEmpty
+                ? null
+                : () async {
+                    final noteText = _noteController.text.trim();
+                    final newNote = PoiNote(
+                      poiId: poiId,
+                      id: DateTime.now().millisecondsSinceEpoch.toString(),
+                      note: noteText,
+                      createdAt: DateTime.now(),
+                    );
+                    await editor.addNotes(newNote);
+                    _noteController.clear();
+                    setState(() {});
+                    FocusManager.instance.primaryFocus?.unfocus();
+                  },
+            icon: const Icon(Icons.add),
+            label: Text(AppLocalizations.of(context)!.addNote),
           ),
         ),
         if (notes.isNotEmpty) ...[

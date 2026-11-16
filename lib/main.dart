@@ -53,22 +53,84 @@ class MyApp extends StatelessWidget {
             ViewSettings.languageProperty,
             ViewSettings.settingsReseted,
           ],
-          builder: (p0, p1, p2) => MaterialApp(
-            onGenerateTitle: (context) =>
-                AppLocalizations.of(context)!.appTitle,
-            locale: Locale(languageToCalendarString[viewSettings.language]!),
-            localizationsDelegates: AppLocalizations.localizationsDelegates,
-            supportedLocales: AppLocalizations.supportedLocales,
-            themeMode: viewSettings.themeMode,
-            theme: ThemeData(
-              brightness: viewSettings.isDarkTheme
-                  ? Brightness.dark
-                  : Brightness.light,
-              colorSchemeSeed: Color(0xFFCBD5E1),
-            ),
-            home: const MainPage(),
-            debugShowCheckedModeBanner: false,
-          ),
+          builder: (p0, p1, p2) {
+            final brightness = viewSettings.isDarkTheme
+                ? Brightness.dark
+                : Brightness.light;
+            final colorScheme = ColorScheme.fromSeed(
+              seedColor: const Color(0xFF167D74),
+              brightness: brightness,
+            );
+
+            return MaterialApp(
+              onGenerateTitle: (context) =>
+                  AppLocalizations.of(context)!.appTitle,
+              locale: Locale(languageToCalendarString[viewSettings.language]!),
+              localizationsDelegates: AppLocalizations.localizationsDelegates,
+              supportedLocales: AppLocalizations.supportedLocales,
+              themeMode: viewSettings.themeMode,
+              theme: ThemeData(
+                useMaterial3: true,
+                colorScheme: colorScheme,
+                scaffoldBackgroundColor: colorScheme.surface,
+                appBarTheme: AppBarTheme(
+                  backgroundColor: colorScheme.surface,
+                  surfaceTintColor: Colors.transparent,
+                  elevation: 0,
+                  scrolledUnderElevation: 1,
+                  titleTextStyle: TextStyle(
+                    color: colorScheme.onSurface,
+                    fontSize: 20,
+                    fontWeight: FontWeight.w700,
+                  ),
+                ),
+                cardTheme: CardThemeData(
+                  color: colorScheme.surfaceContainerLow,
+                  elevation: 0,
+                  margin: const EdgeInsets.symmetric(vertical: 6),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                ),
+                inputDecorationTheme: InputDecorationTheme(
+                  filled: true,
+                  fillColor: colorScheme.surfaceContainerHighest,
+                  contentPadding: const EdgeInsets.symmetric(
+                    horizontal: 16,
+                    vertical: 14,
+                  ),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    borderSide: BorderSide.none,
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    borderSide: BorderSide.none,
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    borderSide: BorderSide(
+                      color: colorScheme.primary,
+                      width: 1.5,
+                    ),
+                  ),
+                ),
+                filledButtonTheme: FilledButtonThemeData(
+                  style: FilledButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 16,
+                      vertical: 12,
+                    ),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                  ),
+                ),
+              ),
+              home: const MainPage(),
+              debugShowCheckedModeBanner: false,
+            );
+          },
         ),
       ),
     );

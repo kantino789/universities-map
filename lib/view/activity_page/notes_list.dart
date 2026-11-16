@@ -31,6 +31,7 @@ class NotesList extends StatelessWidget {
         ? Center(child: Text(AppLocalizations.of(context)!.noNotes))
         : ListView(
             shrinkWrap: true,
+            padding: const EdgeInsets.only(bottom: 16),
             children: groupedNotes.entries.map((entry) {
               return DayNotesWidget(date: entry.key, notes: entry.value);
             }).toList(),

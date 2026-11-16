@@ -34,6 +34,8 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
 
   @override
   Widget build(BuildContext context) {
+    final colors = Theme.of(context).colorScheme;
+    final textTheme = Theme.of(context).textTheme;
     return !isEditing
         ? Card(
             child: ListTile(
@@ -43,9 +45,12 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 children: [
                   Text(
                     dateFormatter.format(widget.poiNote.createdAt),
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
+                    style: textTheme.labelMedium?.copyWith(
+                      color: colors.onSurfaceVariant,
+                    ),
                   ),
-                  Text(widget.poiNote.note),
+                  const SizedBox(height: 4),
+                  Text(widget.poiNote.note, style: textTheme.bodyLarge),
                 ],
               ),
               trailing: Row(
@@ -53,7 +58,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 children: [
                   IconButton(
                     tooltip: AppLocalizations.of(context)!.editNote,
-                    icon: Icon(Icons.edit),
+                    icon: const Icon(Icons.edit_outlined),
                     onPressed: () {
                       setState(() {
                         isEditing = true;
@@ -62,7 +67,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                   ),
                   IconButton(
                     tooltip: AppLocalizations.of(context)!.deleteNote,
-                    icon: Icon(Icons.clear, color: Colors.red),
+                    icon: Icon(Icons.delete_outline, color: colors.error),
                     onPressed: widget.onNoteDeleted,
                   ),
                 ],
@@ -77,7 +82,9 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
                 children: [
                   DateText(
                     date: widget.poiNote.createdAt,
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
+                    style: textTheme.labelMedium?.copyWith(
+                      color: colors.onSurfaceVariant,
+                    ),
                   ),
                   TextField(
                     controller: _controller,
@@ -93,7 +100,7 @@ class _PoiNoteWidgetState extends State<PoiNoteWidget> {
               ),
               trailing: IconButton(
                 tooltip: AppLocalizations.of(context)!.saveNote,
-                icon: Icon(Icons.check),
+                icon: const Icon(Icons.check),
                 onPressed: () {
                   if (_controller.text.isEmpty) return;
                   setState(() {
