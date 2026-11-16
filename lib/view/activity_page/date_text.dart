@@ -16,14 +16,14 @@ class _DateTextState extends State<DateText> {
   void initState() {
     super.initState();
     viewSettings.addListener(onDateFormatterChanged, [
-      ViewSettings.use24HoursProperty,
+      ViewSettings.displayMonthBeforeDayProperty,
     ]);
   }
 
   @override
   void dispose() {
     viewSettings.removeListener(onDateFormatterChanged, [
-      ViewSettings.use24HoursProperty,
+      ViewSettings.displayMonthBeforeDayProperty,
     ]);
     super.dispose();
   }
