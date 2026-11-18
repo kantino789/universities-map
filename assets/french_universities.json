@@ -1998,9 +1998,16 @@
         "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
-            "Biological Sciences",
-            "Chemical Engineering",
-            "Chemistry"
+            "Biomedical Engineering",
+            "Chemistry",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Economics",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Physics"
         ],
         "website": "https://www.unistra.fr/"
     },
@@ -2553,21 +2560,6 @@
         "website": "https://geodata-paris.fr/fr"
     },
     {
-        "id": 10174,
-        "type": "engineer",
-        "title": "EFREI Paris",
-        "description": "",
-        "location": "48.78920, 2.36310",
-        "country": "FR",
-        "subjects": [
-            "Automation & Control",
-            "Computer Science & Engineering",
-            "Electrical & Electronic Engineering",
-            "Mathematics"
-        ],
-        "website": "https://www.efrei.fr/"
-    },
-    {
         "id": 10175,
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en informatique et génie des télécommunications",
@@ -2997,13 +2989,17 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Business Administration",
-            "Clinical Medicine",
-            "Economics",
-            "Engineering",
-            "Law",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
             "Oceanography",
-            "Physics"
+            "Physics",
+            "Psychology",
+            "Public Health"
         ],
         "website": "https://www.univ-amu.fr/"
     },
@@ -3047,12 +3043,14 @@
         "location": "47.24310, -1.55390",
         "country": "FR",
         "subjects": [
-            "Biology",
             "Clinical Medicine",
-            "Computer Science & Engineering",
-            "Law",
+            "Earth Sciences",
+            "Human Biological Sciences",
             "Marine/Ocean Engineering",
-            "Materials Science & Engineering"
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Oceanography"
         ],
         "website": "https://www.univ-nantes.fr/"
     },
@@ -3080,12 +3078,14 @@
         "location": "45.77720, 3.08700",
         "country": "FR",
         "subjects": [
+            "Agricultural Sciences",
             "Atmospheric Science",
-            "Chemistry",
-            "Clinical Medicine",
-            "Computer Science & Engineering",
             "Earth Sciences",
-            "Materials Science & Engineering"
+            "Ecology",
+            "Education",
+            "Food Science & Technology",
+            "Physics",
+            "Veterinary Sciences"
         ],
         "website": "https://www.uca.fr/"
     },
@@ -3130,11 +3130,14 @@
         "location": "43.71020, 7.26200",
         "country": "FR",
         "subjects": [
-            "Artificial Intelligence",
-            "Biological Sciences",
-            "Economics",
-            "Hospitality & Tourism Management",
-            "Marine/Ocean Engineering"
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Earth Sciences",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Statistics"
         ],
         "website": "https://univ-cotedazur.fr/"
     },
@@ -3146,12 +3149,17 @@
         "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
+            "Chemistry",
             "Clinical Medicine",
-            "Law",
-            "Materials Science & Engineering",
-            "Neuroscience",
-            "Oenology & Wine Science",
-            "Pharmacy & Pharmaceutical Sciences"
+            "Earth Sciences",
+            "Ecology",
+            "Food Science & Technology",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Metallurgical Engineering",
+            "Public Health",
+            "Remote Sensing"
         ],
         "website": "https://www.u-bordeaux.fr/"
     },
@@ -3163,11 +3171,12 @@
         "location": "47.32200, 5.04150",
         "country": "FR",
         "subjects": [
+            "Atmospheric Science",
             "Biological Sciences",
-            "Clinical Medicine",
+            "Ecology",
             "Food Science & Technology",
-            "Law",
-            "Vine & Wine Sciences"
+            "Medical Technology",
+            "Physics"
         ],
         "website": "https://www.ube.fr/"
     },
@@ -3179,10 +3188,11 @@
         "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
-            "Biological Sciences",
-            "Clinical Medicine",
-            "Geography",
-            "Marine/Ocean Engineering",
+            "Atmospheric Science",
+            "Earth Sciences",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Medical Technology",
             "Oceanography"
         ],
         "website": "https://www.univ-brest.fr/"
@@ -3307,12 +3317,22 @@
         "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
-            "Chemical Engineering",
-            "Civil Engineering",
+            "Atmospheric Science",
+            "Automation & Control",
+            "Business Administration",
+            "Chemistry",
             "Clinical Medicine",
-            "Computer Science & Engineering",
-            "Economics",
-            "Sociology"
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Instruments Science & Technology",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Metallurgical Engineering",
+            "Mining & Mineral Engineering",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Public Health",
+            "Statistics"
         ],
         "website": "https://www.univ-lille.fr/"
     },
@@ -3340,9 +3360,14 @@
         "location": "48.69360, 6.18250",
         "country": "FR",
         "subjects": [
+            "Agricultural Sciences",
+            "Automation & Control",
             "Chemical Engineering",
-            "Computer Science & Engineering",
-            "Materials Science & Engineering",
+            "Clinical Medicine",
+            "Earth Sciences",
+            "Ecology",
+            "Mechanical Engineering",
+            "Medical Technology",
             "Metallurgical Engineering",
             "Mining & Mineral Engineering"
         ],
@@ -3373,11 +3398,17 @@
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
-            "Biology",
+            "Biological Sciences",
             "Chemistry",
-            "Clinical Medicine",
             "Ecology",
-            "Law"
+            "Food Science & Technology",
+            "Medical Technology",
+            "Oceanography",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Remote Sensing",
+            "Robotic Science & Engineering",
+            "Statistics",
+            "Water Resources"
         ],
         "website": "https://www.umontpellier.fr/"
     },
@@ -3407,10 +3438,12 @@
         "subjects": [
             "Biological Sciences",
             "Clinical Medicine",
+            "Earth Sciences",
+            "Human Biological Sciences",
             "Mathematics",
             "Pharmacy & Pharmaceutical Sciences",
             "Physics",
-            "Psychology"
+            "Public Health"
         ],
         "website": "https://u-paris.fr/"
     },
@@ -3422,11 +3455,7 @@
         "location": "49.89420, 2.29580",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "History & Archaeology",
-            "Law",
-            "Literature & Languages",
-            "Sports Science"
+            "Ecology"
         ],
         "website": "https://www.u-picardie.fr/"
     },
@@ -3470,12 +3499,17 @@
         "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
+            "Atmospheric Science",
+            "Automation & Control",
             "Clinical Medicine",
-            "Computer Science & Engineering",
             "Earth Sciences",
-            "Engineering",
-            "Materials Science & Engineering",
-            "Physics"
+            "Ecology",
+            "Geography",
+            "Mathematics",
+            "Metallurgical Engineering",
+            "Mining & Mineral Engineering",
+            "Physics",
+            "Remote Sensing"
         ],
         "website": "https://www.univ-grenoble-alpes.fr/"
     },
@@ -3663,12 +3697,17 @@
         "location": "48.84720, 2.35610",
         "country": "FR",
         "subjects": [
-            "Chemistry",
+            "Atmospheric Science",
+            "Biological Sciences",
             "Clinical Medicine",
-            "History & Archaeology",
-            "Literature & Languages",
+            "Earth Sciences",
+            "Ecology",
+            "Human Biological Sciences",
             "Mathematics",
-            "Physics"
+            "Mechanical Engineering",
+            "Oceanography",
+            "Physics",
+            "Statistics"
         ],
         "website": "https://www.sorbonne-universite.fr/"
     },
@@ -3712,11 +3751,15 @@
         "location": "48.80140, 2.13030",
         "country": "FR",
         "subjects": [
-            "Climate Science",
+            "Atmospheric Science",
             "Clinical Medicine",
-            "Economics",
-            "Engineering",
-            "Law"
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Science & Engineering",
+            "Geography",
+            "Mathematics",
+            "Oceanography",
+            "Public Health"
         ],
         "website": "http://www.uvsq.fr/"
     },
@@ -3728,12 +3771,19 @@
         "location": "48.84500, 2.33940",
         "country": "FR",
         "subjects": [
-            "Chemistry",
-            "Clinical Medicine",
-            "Economics",
-            "Materials Science & Engineering",
+            "Artificial Intelligence",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Earth Sciences",
+            "Ecology",
             "Mathematics",
-            "Physics"
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Metallurgical Engineering",
+            "Oceanography",
+            "Physics",
+            "Psychology",
+            "Statistics"
         ],
         "website": "https://psl.eu/"
     },
@@ -3777,11 +3827,7 @@
         "location": "46.58030, 0.38580",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "Computer Science & Engineering",
-            "Law",
-            "Materials Science & Engineering",
-            "Physics"
+            "Mechanical Engineering"
         ],
         "website": "https://www.univ-poitiers.fr/"
     },
@@ -3818,22 +3864,6 @@
         "website": "https://www.univ-reunion.fr/"
     },
     {
-        "id": 10258,
-        "type": "university",
-        "title": "Université de Perpignan Via Domitia",
-        "description": "",
-        "location": "42.70470, 2.89310",
-        "country": "FR",
-        "subjects": [
-            "Biological Sciences",
-            "Law",
-            "Marine/Ocean Engineering",
-            "Solar Energy",
-            "Tourism Management"
-        ],
-        "website": "https://www.univ-perp.fr/"
-    },
-    {
         "id": 10259,
         "type": "university",
         "title": "Université de Reims - Champagne-Ardenne",
@@ -3857,11 +3887,15 @@
         "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
-            "Biological Sciences",
+            "Chemistry",
             "Computer Science & Engineering",
-            "Economics",
-            "Law",
-            "Materials Science & Engineering"
+            "Earth Sciences",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Medical Technology",
+            "Statistics",
+            "Telecommunication Engineering",
+            "Water Resources"
         ],
         "website": "https://www.univ-rennes.fr/"
     },
@@ -3920,11 +3954,12 @@
         "location": "45.64800, 5.86400",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
+            "Atmospheric Science",
+            "Earth Sciences",
+            "Ecology",
             "Environmental Science & Engineering",
-            "Law",
-            "Mountain Ecosystems",
-            "Tourism Management"
+            "Physics",
+            "Psychology"
         ],
         "website": "https://www.univ-smb.fr/"
     },
@@ -3977,23 +4012,6 @@
         "website": "https://www.univ-st-etienne.fr/"
     },
     {
-        "id": 10268,
-        "type": "university",
-        "title": "Université de Strasbourg",
-        "description": "",
-        "location": "48.58390, 7.74550",
-        "country": "FR",
-        "subjects": [
-            "Biological Sciences",
-            "Chemistry",
-            "Clinical Medicine",
-            "Law",
-            "Physics",
-            "Political Sciences"
-        ],
-        "website": "https://www.unistra.fr/"
-    },
-    {
         "id": 10269,
         "type": "university",
         "title": "Université de Toulon",
@@ -4018,10 +4036,18 @@
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
-            "Biological Sciences",
-            "Clinical Medicine",
-            "Computer Science & Engineering",
-            "Mathematics"
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Earth Sciences",
+            "Ecology",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Oceanography",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Remote Sensing",
+            "Statistics",
+            "Veterinary Sciences",
+            "Water Resources"
         ],
         "website": "https://www.univ-tlse3.fr/"
     },
@@ -5132,21 +5158,6 @@
             "Mechanical Engineering"
         ],
         "website": "http://www.univ-orleans.fr/iut-orleans/"
-    },
-    {
-        "id": 10345,
-        "type": "iut",
-        "title": "IUT Orsay",
-        "description": "",
-        "location": "48.70560, 2.17220",
-        "country": "FR",
-        "subjects": [
-            "Biological Sciences",
-            "Chemistry",
-            "Computer Science & Engineering",
-            "Physics"
-        ],
-        "website": "http://www.iut-orsay.universite-paris-saclay.fr"
     },
     {
         "id": 10346,
