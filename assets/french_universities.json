@@ -2981,10 +2981,10 @@
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
-            "Law",
-            "Literature & Languages",
+            "Geography",
             "History & Archaeology",
-            "Geography"
+            "Law",
+            "Literature & Languages"
         ],
         "website": "http://univ-avignon.fr/"
     },
@@ -2996,14 +2996,14 @@
         "location": "43.30330, 5.38110",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "Law",
-            "Business Administration",
-            "Economics",
             "Biological Sciences",
-            "Physics",
+            "Business Administration",
+            "Clinical Medicine",
+            "Economics",
+            "Engineering",
+            "Law",
             "Oceanography",
-            "Engineering"
+            "Physics"
         ],
         "website": "https://www.univ-amu.fr/"
     },
@@ -3016,10 +3016,10 @@
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
+            "Computer Science & Engineering",
             "Law",
-            "Plant Sciences",
             "Materials Science & Engineering",
-            "Computer Science & Engineering"
+            "Plant Sciences"
         ],
         "website": "https://www.univ-angerslemans.fr/"
     },
@@ -3031,11 +3031,11 @@
         "location": "46.14780, -1.15110",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Marine/Ocean Engineering",
             "Computer Science & Engineering",
+            "Economics",
+            "Environmental Science & Engineering",
             "Law",
-            "Economics"
+            "Marine/Ocean Engineering"
         ],
         "website": "https://www.univ-larochelle.fr/"
     },
@@ -3047,12 +3047,12 @@
         "location": "47.24310, -1.55390",
         "country": "FR",
         "subjects": [
+            "Biology",
             "Clinical Medicine",
-            "Marine/Ocean Engineering",
-            "Materials Science & Engineering",
             "Computer Science & Engineering",
             "Law",
-            "Biology"
+            "Marine/Ocean Engineering",
+            "Materials Science & Engineering"
         ],
         "website": "https://www.univ-nantes.fr/"
     },
@@ -3064,11 +3064,11 @@
         "location": "50.29100, 2.77700",
         "country": "FR",
         "subjects": [
-            "History & Archaeology",
-            "Literature & Languages",
             "Computer Science & Engineering",
+            "Economics",
+            "History & Archaeology",
             "Law",
-            "Economics"
+            "Literature & Languages"
         ],
         "website": "https://www.univ-artois.fr/"
     },
@@ -3080,12 +3080,12 @@
         "location": "45.77720, 3.08700",
         "country": "FR",
         "subjects": [
-            "Earth Sciences",
             "Atmospheric Science",
-            "Clinical Medicine",
             "Chemistry",
-            "Materials Science & Engineering",
-            "Computer Science & Engineering"
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Earth Sciences",
+            "Materials Science & Engineering"
         ],
         "website": "https://www.uca.fr/"
     },
@@ -3097,10 +3097,10 @@
         "location": "44.80640, -0.60830",
         "country": "FR",
         "subjects": [
+            "Communication",
             "Geography",
             "History & Archaeology",
             "Literature & Languages",
-            "Communication",
             "Psychology"
         ],
         "website": "https://www.u-bordeaux-montaigne.fr/"
@@ -3113,12 +3113,12 @@
         "location": "45.75000, 4.85000",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
             "Biological Sciences",
-            "Computer Science & Engineering",
-            "Physics",
             "Business Administration",
-            "Law"
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Law",
+            "Physics"
         ],
         "website": "https://www.universite-lyon.fr/"
     },
@@ -3131,10 +3131,10 @@
         "country": "FR",
         "subjects": [
             "Artificial Intelligence",
-            "Marine/Ocean Engineering",
-            "Economics",
             "Biological Sciences",
-            "Hospitality & Tourism Management"
+            "Economics",
+            "Hospitality & Tourism Management",
+            "Marine/Ocean Engineering"
         ],
         "website": "https://univ-cotedazur.fr/"
     },
@@ -3147,11 +3147,11 @@
         "country": "FR",
         "subjects": [
             "Clinical Medicine",
-            "Neuroscience",
-            "Pharmacy & Pharmaceutical Sciences",
+            "Law",
             "Materials Science & Engineering",
+            "Neuroscience",
             "Oenology & Wine Science",
-            "Law"
+            "Pharmacy & Pharmaceutical Sciences"
         ],
         "website": "https://www.u-bordeaux.fr/"
     },
@@ -3163,9 +3163,9 @@
         "location": "47.32200, 5.04150",
         "country": "FR",
         "subjects": [
-            "Food Science & Technology",
             "Biological Sciences",
             "Clinical Medicine",
+            "Food Science & Technology",
             "Law",
             "Vine & Wine Sciences"
         ],
@@ -3179,11 +3179,11 @@
         "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
-            "Oceanography",
-            "Marine/Ocean Engineering",
             "Biological Sciences",
             "Clinical Medicine",
-            "Geography"
+            "Geography",
+            "Marine/Ocean Engineering",
+            "Oceanography"
         ],
         "website": "https://www.univ-brest.fr/"
     },
@@ -3195,11 +3195,11 @@
         "location": "47.74860, -3.37000",
         "country": "FR",
         "subjects": [
-            "Materials Science & Engineering",
             "Computer Science & Engineering",
-            "Marine/Ocean Engineering",
+            "Economics",
             "Law",
-            "Economics"
+            "Marine/Ocean Engineering",
+            "Materials Science & Engineering"
         ],
         "website": "https://www.univ-ubs.fr/"
     },
@@ -3211,11 +3211,11 @@
         "location": "49.21390, -0.37080",
         "country": "FR",
         "subjects": [
-            "Nuclear Physics",
             "Biological Sciences",
             "Clinical Medicine",
             "Computer Science & Engineering",
-            "Law"
+            "Law",
+            "Nuclear Physics"
         ],
         "website": "https://www.unicaen.fr/"
     },
@@ -3227,11 +3227,11 @@
         "location": "42.30830, 9.15000",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
+            "Biological Sciences",
             "Energy Science & Engineering",
-            "Law",
+            "Environmental Science & Engineering",
             "Geography",
-            "Biological Sciences"
+            "Law"
         ],
         "website": "https://www.universita.corsica/fr"
     },
@@ -3243,11 +3243,11 @@
         "location": "47.24840, 6.02760",
         "country": "FR",
         "subjects": [
-            "Chronometry",
-            "Optics",
             "Biological Sciences",
+            "Chronometry",
             "Clinical Medicine",
-            "Law"
+            "Law",
+            "Optics"
         ],
         "website": "https://www.umlp.fr/presentation-de-luniversite"
     },
@@ -3259,11 +3259,11 @@
         "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
-            "Law",
-            "Economics",
+            "Civil Engineering",
             "Computer Science & Engineering",
-            "Physics",
-            "Civil Engineering"
+            "Economics",
+            "Law",
+            "Physics"
         ],
         "website": "https://www.u-cergy.fr/"
     },
@@ -3291,11 +3291,11 @@
         "location": "47.75000, 7.33330",
         "country": "FR",
         "subjects": [
-            "Textile Science & Engineering",
+            "Business Administration",
             "Chemistry",
             "Materials Science & Engineering",
             "Mechanical Engineering",
-            "Business Administration"
+            "Textile Science & Engineering"
         ],
         "website": "http://www.uha.fr/"
     },
@@ -3307,12 +3307,12 @@
         "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "Economics",
-            "Computer Science & Engineering",
-            "Sociology",
             "Chemical Engineering",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Economics",
+            "Sociology"
         ],
         "website": "https://www.univ-lille.fr/"
     },
@@ -3324,11 +3324,11 @@
         "location": "45.85000, 1.25000",
         "country": "FR",
         "subjects": [
-            "Materials Science & Engineering",
             "Ceramics",
             "Clinical Medicine",
+            "Law",
             "Limnology",
-            "Law"
+            "Materials Science & Engineering"
         ],
         "website": "https://www.unilim.fr/"
     },
@@ -3340,11 +3340,11 @@
         "location": "48.69360, 6.18250",
         "country": "FR",
         "subjects": [
+            "Chemical Engineering",
+            "Computer Science & Engineering",
             "Materials Science & Engineering",
             "Metallurgical Engineering",
-            "Mining & Mineral Engineering",
-            "Chemical Engineering",
-            "Computer Science & Engineering"
+            "Mining & Mineral Engineering"
         ],
         "website": "https://www.univ-lorraine.fr/"
     },
@@ -3356,11 +3356,11 @@
         "location": "43.83670, 4.36000",
         "country": "FR",
         "subjects": [
-            "Psychology",
             "Design",
+            "History & Archaeology",
             "Nursing",
-            "Risk Management",
-            "History & Archaeology"
+            "Psychology",
+            "Risk Management"
         ],
         "website": "https://www.unimes.fr/"
     },
@@ -3373,10 +3373,10 @@
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
+            "Biology",
+            "Chemistry",
             "Clinical Medicine",
             "Ecology",
-            "Chemistry",
-            "Biology",
             "Law"
         ],
         "website": "https://www.umontpellier.fr/"
@@ -3389,11 +3389,11 @@
         "location": "43.63330, 3.86670",
         "country": "FR",
         "subjects": [
+            "Art History",
+            "History & Archaeology",
             "Literature & Languages",
             "Psychology",
-            "Sociology",
-            "History & Archaeology",
-            "Art History"
+            "Sociology"
         ],
         "website": "https://www.univ-montp3.fr/"
     },
@@ -3405,12 +3405,12 @@
         "location": "48.85200, 2.33800",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "Pharmacy & Pharmaceutical Sciences",
             "Biological Sciences",
-            "Psychology",
+            "Clinical Medicine",
             "Mathematics",
-            "Physics"
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Psychology"
         ],
         "website": "https://u-paris.fr/"
     },
@@ -3425,8 +3425,8 @@
             "Clinical Medicine",
             "History & Archaeology",
             "Law",
-            "Sports Science",
-            "Literature & Languages"
+            "Literature & Languages",
+            "Sports Science"
         ],
         "website": "https://www.u-picardie.fr/"
     },
@@ -3438,10 +3438,10 @@
         "location": "-22.26800, 166.41830",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
             "Biodiversity",
-            "Law",
             "Economics",
+            "Environmental Science & Engineering",
+            "Law",
             "Mining & Mineral Engineering"
         ],
         "website": "http://unc.nc/"
@@ -3454,11 +3454,11 @@
         "location": "47.84220, 1.93920",
         "country": "FR",
         "subjects": [
-            "Energy Science & Engineering",
             "Chemistry",
             "Earth Sciences",
-            "Law",
-            "Economics"
+            "Economics",
+            "Energy Science & Engineering",
+            "Law"
         ],
         "website": "https://www.univ-orleans.fr/fr"
     },
@@ -3470,12 +3470,12 @@
         "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
-            "Physics",
-            "Computer Science & Engineering",
-            "Materials Science & Engineering",
-            "Earth Sciences",
             "Clinical Medicine",
-            "Engineering"
+            "Computer Science & Engineering",
+            "Earth Sciences",
+            "Engineering",
+            "Materials Science & Engineering",
+            "Physics"
         ],
         "website": "https://www.univ-grenoble-alpes.fr/"
     },
@@ -3487,11 +3487,11 @@
         "location": "16.23070, -61.53320",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Marine/Ocean Engineering",
-            "Law",
+            "Biological Sciences",
             "Economics",
-            "Biological Sciences"
+            "Environmental Science & Engineering",
+            "Law",
+            "Marine/Ocean Engineering"
         ],
         "website": "http://www.univ-ag.fr/"
     },
@@ -3503,10 +3503,10 @@
         "location": "14.61500, -61.05830",
         "country": "FR",
         "subjects": [
-            "History & Archaeology",
-            "Geography",
-            "Law",
             "Economics",
+            "Geography",
+            "History & Archaeology",
+            "Law",
             "Literature & Languages"
         ],
         "website": "http://www.univ-ag.fr/organisation-fonctionnement/pole-martinique"
@@ -3519,11 +3519,11 @@
         "location": "49.49440, 0.12360",
         "country": "FR",
         "subjects": [
-            "Logistics",
-            "Marine/Ocean Engineering",
             "Chemistry",
             "Computer Science & Engineering",
-            "Law"
+            "Law",
+            "Logistics",
+            "Marine/Ocean Engineering"
         ],
         "website": "https://www.univ-lehavre.fr/"
     },
@@ -3535,11 +3535,11 @@
         "location": "51.03430, 2.37670",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Marine/Ocean Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
+            "Environmental Science & Engineering",
             "Law",
-            "Business Administration"
+            "Marine/Ocean Engineering"
         ],
         "website": "https://www.univ-littoral.fr/"
     },
@@ -3551,11 +3551,11 @@
         "location": "48.84150, 2.58540",
         "country": "FR",
         "subjects": [
-            "Transportation Science & Technology",
             "Civil Engineering",
-            "Urban Planning",
+            "Economics",
             "Materials Science & Engineering",
-            "Economics"
+            "Transportation Science & Technology",
+            "Urban Planning"
         ],
         "website": "https://www.univ-gustave-eiffel.fr/"
     },
@@ -3568,10 +3568,10 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Finance",
+            "Computer Science & Engineering",
             "Economics",
-            "Mathematics",
-            "Computer Science & Engineering"
+            "Finance",
+            "Mathematics"
         ],
         "website": "https://dauphine.psl.eu/"
     },
@@ -3583,11 +3583,11 @@
         "location": "48.79000, 2.45000",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Clinical Medicine",
-            "Law",
             "Education",
             "Geography",
-            "Biological Sciences"
+            "Law"
         ],
         "website": "http://www.u-pec.fr/"
     },
@@ -3599,11 +3599,11 @@
         "location": "48.90440, 2.21440",
         "country": "FR",
         "subjects": [
-            "Law",
             "Economics",
-            "Psychology",
+            "History & Archaeology",
+            "Law",
             "Literature & Languages",
-            "History & Archaeology"
+            "Psychology"
         ],
         "website": "https://www.parisnanterre.fr/"
     },
@@ -3615,11 +3615,11 @@
         "location": "48.84670, 2.34330",
         "country": "FR",
         "subjects": [
-            "Law",
-            "Political Sciences",
-            "Economics",
             "Business Administration",
-            "Communication"
+            "Communication",
+            "Economics",
+            "Law",
+            "Political Sciences"
         ],
         "website": "https://www.assas-universite.fr/fr"
     },
@@ -3631,11 +3631,11 @@
         "location": "48.84830, 2.34330",
         "country": "FR",
         "subjects": [
-            "Law",
             "Economics",
+            "Geography",
             "History & Archaeology",
-            "Philosophy",
-            "Geography"
+            "Law",
+            "Philosophy"
         ],
         "website": "http://www.pantheonsorbonne.fr/"
     },
@@ -3647,11 +3647,11 @@
         "location": "48.83500, 2.36110",
         "country": "FR",
         "subjects": [
-            "Literature & Languages",
             "Communication",
-            "Theatre & Cinema Studies",
+            "Education",
             "History & Archaeology",
-            "Education"
+            "Literature & Languages",
+            "Theatre & Cinema Studies"
         ],
         "website": "https://www.sorbonne-nouvelle.fr/"
     },
@@ -3663,12 +3663,12 @@
         "location": "48.84720, 2.35610",
         "country": "FR",
         "subjects": [
-            "Mathematics",
-            "Physics",
+            "Chemistry",
             "Clinical Medicine",
-            "Literature & Languages",
             "History & Archaeology",
-            "Chemistry"
+            "Literature & Languages",
+            "Mathematics",
+            "Physics"
         ],
         "website": "https://www.sorbonne-universite.fr/"
     },
@@ -3681,10 +3681,10 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Genetics",
             "Computer Science & Engineering",
-            "Law",
-            "Economics"
+            "Economics",
+            "Genetics",
+            "Law"
         ],
         "website": "https://www.univ-evry.fr/"
     },
@@ -3696,11 +3696,11 @@
         "location": "48.70560, 2.17220",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Chemistry",
             "Biological Sciences",
-            "Physics",
-            "Measurement Science"
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Measurement Science",
+            "Physics"
         ],
         "website": "https://www.iut-orsay.universite-paris-saclay.fr/"
     },
@@ -3714,9 +3714,9 @@
         "subjects": [
             "Climate Science",
             "Clinical Medicine",
+            "Economics",
             "Engineering",
-            "Law",
-            "Economics"
+            "Law"
         ],
         "website": "http://www.uvsq.fr/"
     },
@@ -3728,12 +3728,12 @@
         "location": "48.84500, 2.33940",
         "country": "FR",
         "subjects": [
-            "Physics",
-            "Mathematics",
-            "Economics",
-            "Clinical Medicine",
             "Chemistry",
-            "Materials Science & Engineering"
+            "Clinical Medicine",
+            "Economics",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Physics"
         ],
         "website": "https://psl.eu/"
     },
@@ -3745,11 +3745,11 @@
         "location": "48.94670, 2.36280",
         "country": "FR",
         "subjects": [
-            "Psychology",
-            "Philosophy",
-            "Literature & Languages",
             "Computer Science & Engineering",
-            "Political Sciences"
+            "Literature & Languages",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology"
         ],
         "website": "https://www.univ-paris8.fr/"
     },
@@ -3761,11 +3761,11 @@
         "location": "43.31300, -0.36600",
         "country": "FR",
         "subjects": [
-            "Energy Science & Engineering",
             "Chemistry",
+            "Computer Science & Engineering",
+            "Energy Science & Engineering",
             "Environmental Science & Engineering",
-            "Law",
-            "Computer Science & Engineering"
+            "Law"
         ],
         "website": "https://www.univ-pau.fr/"
     },
@@ -3777,11 +3777,11 @@
         "location": "46.58030, 0.38580",
         "country": "FR",
         "subjects": [
-            "Law",
             "Clinical Medicine",
-            "Physics",
             "Computer Science & Engineering",
-            "Materials Science & Engineering"
+            "Law",
+            "Materials Science & Engineering",
+            "Physics"
         ],
         "website": "https://www.univ-poitiers.fr/"
     },
@@ -3793,11 +3793,11 @@
         "location": "-17.57650, -149.60990",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Marine/Ocean Engineering",
-            "Law",
             "Economics",
-            "Geography"
+            "Environmental Science & Engineering",
+            "Geography",
+            "Law",
+            "Marine/Ocean Engineering"
         ],
         "website": "http://www.upf.pf/fr"
     },
@@ -3809,11 +3809,11 @@
         "location": "-20.87890, 55.47640",
         "country": "FR",
         "subjects": [
-            "Renewable Energy",
             "Biodiversity",
             "Clinical Medicine",
+            "Computer Science & Engineering",
             "Law",
-            "Computer Science & Engineering"
+            "Renewable Energy"
         ],
         "website": "https://www.univ-reunion.fr/"
     },
@@ -3825,10 +3825,10 @@
         "location": "42.70470, 2.89310",
         "country": "FR",
         "subjects": [
-            "Solar Energy",
-            "Marine/Ocean Engineering",
             "Biological Sciences",
             "Law",
+            "Marine/Ocean Engineering",
+            "Solar Energy",
             "Tourism Management"
         ],
         "website": "https://www.univ-perp.fr/"
@@ -3841,11 +3841,11 @@
         "location": "49.25830, 4.03110",
         "country": "FR",
         "subjects": [
-            "Vine & Wine Sciences",
-            "Clinical Medicine",
             "Chemistry",
+            "Clinical Medicine",
+            "Law",
             "Materials Science & Engineering",
-            "Law"
+            "Vine & Wine Sciences"
         ],
         "website": "https://www.univ-reims.fr/"
     },
@@ -3857,10 +3857,10 @@
         "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Law",
             "Biological Sciences",
+            "Computer Science & Engineering",
             "Economics",
+            "Law",
             "Materials Science & Engineering"
         ],
         "website": "https://www.univ-rennes.fr/"
@@ -3873,11 +3873,11 @@
         "location": "48.11970, -1.70140",
         "country": "FR",
         "subjects": [
-            "Literature & Languages",
+            "Arts",
             "History & Archaeology",
+            "Literature & Languages",
             "Psychology",
-            "Sports Science",
-            "Arts"
+            "Sports Science"
         ],
         "website": "https://www.univ-rennes2.fr/"
     },
@@ -3889,11 +3889,11 @@
         "location": "49.38530, 1.07610",
         "country": "FR",
         "subjects": [
-            "Clinical Medicine",
-            "Chemistry",
             "Biological Sciences",
-            "Law",
-            "Economics"
+            "Chemistry",
+            "Clinical Medicine",
+            "Economics",
+            "Law"
         ],
         "website": "https://www.univ-rouen.fr/"
     },
@@ -3905,11 +3905,11 @@
         "location": "50.35280, 3.51860",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Transportation Science & Technology",
-            "Materials Science & Engineering",
             "Computer Science & Engineering",
-            "Design"
+            "Design",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Transportation Science & Technology"
         ],
         "website": "https://www.uphf.fr/"
     },
@@ -3920,10 +3920,10 @@
         "location": "45.64800, 5.86400",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Mountain Ecosystems",
             "Computer Science & Engineering",
+            "Environmental Science & Engineering",
             "Law",
+            "Mountain Ecosystems",
             "Tourism Management"
         ],
         "website": "https://www.univ-smb.fr/"
@@ -3937,9 +3937,9 @@
         "country": "FR",
         "subjects": [
             "Clinical Medicine",
-            "Law",
-            "Economics",
             "Communication",
+            "Economics",
+            "Law",
             "Mathematics"
         ],
         "website": "https://www.univ-paris13.fr/"
@@ -3952,10 +3952,10 @@
         "location": "43.23280, 0.07810",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Materials Science & Engineering",
-            "Industrial Engineering",
             "Electrical & Electronic Engineering",
+            "Industrial Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
             "Sports Science"
         ],
         "website": "https://www.uttop.fr/"
@@ -3968,11 +3968,11 @@
         "location": "45.43970, 4.38720",
         "country": "FR",
         "subjects": [
-            "Optics",
+            "Business Administration",
             "Clinical Medicine",
             "Computer Science & Engineering",
             "Materials Science & Engineering",
-            "Business Administration"
+            "Optics"
         ],
         "website": "https://www.univ-st-etienne.fr/"
     },
@@ -3984,11 +3984,11 @@
         "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
-            "Chemistry",
             "Biological Sciences",
+            "Chemistry",
             "Clinical Medicine",
-            "Physics",
             "Law",
+            "Physics",
             "Political Sciences"
         ],
         "website": "https://www.unistra.fr/"
@@ -4001,11 +4001,11 @@
         "location": "43.14110, 6.01250",
         "country": "FR",
         "subjects": [
-            "Marine/Ocean Engineering",
-            "Materials Science & Engineering",
-            "Law",
+            "Computer Science & Engineering",
             "Economics",
-            "Computer Science & Engineering"
+            "Law",
+            "Marine/Ocean Engineering",
+            "Materials Science & Engineering"
         ],
         "website": "https://www.univ-tln.fr/"
     },
@@ -4018,9 +4018,9 @@
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
+            "Biological Sciences",
             "Clinical Medicine",
             "Computer Science & Engineering",
-            "Biological Sciences",
             "Mathematics"
         ],
         "website": "https://www.univ-tlse3.fr/"
@@ -4034,10 +4034,10 @@
         "country": "FR",
         "subjects": [
             "Clinical Medicine",
-            "History & Archaeology",
-            "Literature & Languages",
             "Computer Science & Engineering",
-            "Law"
+            "History & Archaeology",
+            "Law",
+            "Literature & Languages"
         ],
         "website": "https://www.univ-tours.fr/"
     },
@@ -4050,9 +4050,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Management",
             "Communication",
-            "Law"
+            "Law",
+            "Management"
         ],
         "website": "http://iut.univ-lyon3.fr"
     },
@@ -4064,10 +4064,10 @@
         "location": "49.56670, 3.61670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
+            "Biological Sciences",
             "Business Administration",
             "Chemistry",
-            "Biological Sciences"
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iut-aisne.u-picardie.fr"
     },
@@ -4079,11 +4079,11 @@
         "location": "43.52970, 5.44750",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Business Administration",
             "Biological Sciences",
-            "Chemical Engineering"
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.univ-amu.fr"
     },
@@ -4095,10 +4095,10 @@
         "location": "49.89420, 2.29580",
         "country": "FR",
         "subjects": [
-            "Electrical & Electronic Engineering",
-            "Mechanical Engineering",
             "Business Administration",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-amiens.fr"
     },
@@ -4111,9 +4111,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
+            "Electrical & Electronic Engineering",
             "Logistics",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut.univ-angers.fr"
     },
@@ -4125,10 +4125,10 @@
         "location": "45.65000, 0.15000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Computer Science & Engineering",
-            "Materials Science & Engineering"
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut-angouleme.univ-poitiers.fr"
     },
@@ -4140,10 +4140,10 @@
         "location": "45.90000, 6.13330",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-acy.univ-savoie.fr"
     },
@@ -4155,10 +4155,10 @@
         "location": "43.91120, 4.88950",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Business Administration",
             "Biological Sciences",
-            "Communication"
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering"
         ],
         "website": "https://iut.univ-avignon.fr/"
     },
@@ -4171,9 +4171,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
+            "Civil Engineering",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Civil Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iutbayonne.univ-pau.fr"
     },
@@ -4185,10 +4185,10 @@
         "location": "47.24840, 6.02760",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Biological Sciences",
-            "Business Administration"
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut-bv.umlp.fr"
     },
@@ -4200,10 +4200,10 @@
         "location": "50.53330, 2.63330",
         "country": "FR",
         "subjects": [
+            "Chemical Engineering",
             "Civil Engineering",
             "Electrical & Electronic Engineering",
-            "Mechanical Engineering",
-            "Chemical Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://iut-bethune.univ-artois.fr"
     },
@@ -4215,9 +4215,9 @@
         "location": "43.34170, 3.21670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Communication",
             "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
             "Networks & Telecommunications"
         ],
         "website": "https://www.iutbeziers.fr"
@@ -4230,10 +4230,10 @@
         "location": "43.63330, 1.38330",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Aerospace Engineering",
-            "Mechanical Engineering",
-            "Business Administration"
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-blagnac.fr"
     },
@@ -4245,10 +4245,10 @@
         "location": "47.58330, 1.33330",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Biological Sciences",
             "Business Administration",
-            "Communication"
+            "Communication",
+            "Computer Science & Engineering"
         ],
         "website": "http://iut-blois.univ-tours.fr"
     },
@@ -4260,10 +4260,10 @@
         "location": "48.90830, 2.44170",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Clinical Medicine",
             "Nursing",
-            "Public Health",
-            "Biological Sciences"
+            "Public Health"
         ],
         "website": "http://www.iut-bobigny.univ-paris13.fr"
     },
@@ -4275,11 +4275,11 @@
         "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Chemical Engineering",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut.u-bordeaux.fr"
     },
@@ -4292,8 +4292,8 @@
         "country": "FR",
         "subjects": [
             "Communication",
-            "Information Science",
             "Hospitality & Tourism Management",
+            "Information Science",
             "Journalism"
         ],
         "website": "http://www.iut.u-bordeaux-montaigne.fr"
@@ -4306,10 +4306,10 @@
         "location": "47.08330, 2.40000",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
-            "Mechanical Engineering",
             "Civil Engineering",
-            "Materials Science & Engineering"
+            "Environmental Science & Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://www.univ-orleans.fr/fr/iut-bourges"
     },
@@ -4321,10 +4321,10 @@
         "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Biological Sciences",
             "Computer Science & Engineering",
-            "Biological Sciences"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-brest.fr"
     },
@@ -4336,10 +4336,10 @@
         "location": "48.79170, 2.33330",
         "country": "FR",
         "subjects": [
-            "Electrical & Electronic Engineering",
-            "Mechanical Engineering",
             "Civil Engineering",
-            "Materials Science & Engineering"
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-cachan.universite-paris-saclay.fr"
     },
@@ -4351,10 +4351,10 @@
         "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Business Administration",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering"
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://cyiut.cyu.fr/"
     },
@@ -4366,9 +4366,9 @@
         "location": "46.78330, 4.85000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
             "Computer Science & Engineering",
             "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
             "Optics"
         ],
         "website": "http://iutchalon.ube.fr"
@@ -4381,10 +4381,10 @@
         "location": "45.64800, 5.86400",
         "country": "FR",
         "subjects": [
-            "Civil Engineering",
-            "Mechanical Engineering",
             "Business Administration",
-            "Communication"
+            "Civil Engineering",
+            "Communication",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-chy.univ-smb.fr"
     },
@@ -4397,8 +4397,8 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Chemical Engineering",
-            "Business Administration"
+            "Business Administration",
+            "Chemical Engineering"
         ],
         "website": "http://www.univ-orleans.fr/iut-chartres"
     },
@@ -4410,11 +4410,11 @@
         "location": "45.77720, 3.08700",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Business Administration",
             "Biological Sciences",
-            "Civil Engineering"
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.uca.fr"
     },
@@ -4427,8 +4427,8 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Mechanical Engineering",
             "Business Administration",
+            "Mechanical Engineering",
             "Network Systems"
         ],
         "website": "http://www.iutcolmar.uha.fr"
@@ -4441,9 +4441,9 @@
         "location": "42.30830, 9.15000",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
+            "Biological Sciences",
             "Business Administration",
-            "Biological Sciences"
+            "Environmental Science & Engineering"
         ],
         "website": "http://iut.univ-corse.fr"
     },
@@ -4455,10 +4455,10 @@
         "location": "48.79000, 2.45000",
         "country": "FR",
         "subjects": [
-            "Civil Engineering",
-            "Mechanical Engineering",
+            "Biological Sciences",
             "Business Administration",
-            "Biological Sciences"
+            "Civil Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.u-pec.fr"
     },
@@ -4470,10 +4470,10 @@
         "location": "47.32200, 5.04150",
         "country": "FR",
         "subjects": [
+            "Business Administration",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
             "Electrical & Electronic Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "http://iutdijon.u-bourgogne.fr"
     },
@@ -4485,10 +4485,10 @@
         "location": "48.17920, 6.45280",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Computer Science & Engineering",
-            "Materials Science & Engineering"
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut-epinal.univ-lorraine.fr"
     },
@@ -4501,8 +4501,8 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Chemistry",
             "Business Administration",
+            "Chemistry",
             "Computer Science & Engineering"
         ],
         "website": "https://iutevreux.univ-rouen.fr/"
@@ -4515,10 +4515,10 @@
         "location": "48.62810, 2.43310",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://www.iut-evry.fr/"
     },
@@ -4530,9 +4530,9 @@
         "location": "44.60830, 2.03330",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
             "Business Administration",
-            "Materials Science & Engineering"
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut-figeac.univ-tlse2.fr"
     },
@@ -4544,10 +4544,10 @@
         "location": "49.21390, -0.37080",
         "country": "FR",
         "subjects": [
+            "Business Administration",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
             "Electrical & Electronic Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "http://iut-grand-ouest-normandie.unicaen.fr"
     },
@@ -4559,10 +4559,10 @@
         "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Computer Science & Engineering",
-            "Materials Science & Engineering"
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut1.univ-grenoble-alpes.fr"
     },
@@ -4575,9 +4575,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
+            "Computer Science & Engineering",
             "Economics",
-            "Statistics",
-            "Computer Science & Engineering"
+            "Statistics"
         ],
         "website": "http://www.iut2.univ-grenoble-alpes.fr"
     },
@@ -4590,8 +4590,8 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Computer Science & Engineering",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Computer Science & Engineering"
         ],
         "website": "https://iut-guadeloupe.univ-antilles.fr/international-welcome-to-the-iut-of-guadeloupe/"
     },
@@ -4603,9 +4603,9 @@
         "location": "48.81670, 7.78330",
         "country": "FR",
         "subjects": [
+            "Computer Science & Engineering",
             "Electrical & Electronic Engineering",
-            "Mechanical Engineering",
-            "Computer Science & Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://iuthaguenau.unistra.fr"
     },
@@ -4617,10 +4617,10 @@
         "location": "49.51670, 5.76670",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Materials Science & Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-longwy.univ-lorraine.fr"
     },
@@ -4632,9 +4632,9 @@
         "location": "46.81670, 1.68330",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
             "Business Administration",
-            "Logistics"
+            "Logistics",
+            "Mechanical Engineering"
         ],
         "website": "http://www.univ-orleans.fr/iut-indre"
     },
@@ -4646,9 +4646,9 @@
         "location": "5.15000, -52.65000",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
             "Business Administration",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering"
         ],
         "website": "http://www.univ-guyane.fr"
     },
@@ -4660,9 +4660,9 @@
         "location": "-20.87890, 55.47640",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Civil Engineering",
             "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
             "Mechanical Engineering"
         ],
         "website": "http://iut.univ-reunion.fr"
@@ -4675,10 +4675,10 @@
         "location": "46.66670, -1.43330",
         "country": "FR",
         "subjects": [
-            "Business Administration",
             "Biological Sciences",
-            "Computer Science & Engineering",
-            "Communication"
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iutlaroche.univ-nantes.fr/"
     },
@@ -4690,10 +4690,10 @@
         "location": "46.16030, -1.15110",
         "country": "FR",
         "subjects": [
-            "Environmental Science & Engineering",
             "Business Administration",
+            "Civil Engineering",
             "Computer Science & Engineering",
-            "Civil Engineering"
+            "Environmental Science & Engineering"
         ],
         "website": "http://www.iut-larochelle.fr"
     },
@@ -4705,10 +4705,10 @@
         "location": "48.73330, -3.45000",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Telecommunication Engineering",
             "Communication",
-            "Optics"
+            "Computer Science & Engineering",
+            "Optics",
+            "Telecommunication Engineering"
         ],
         "website": "https://iut-lannion.univ-rennes.fr/"
     },
@@ -4720,9 +4720,9 @@
         "location": "48.06670, -0.76670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Biological Sciences",
             "Business Administration",
+            "Computer Science & Engineering",
             "Electrical & Electronic Engineering"
         ],
         "website": "https://iut-laval.univ-lemans.fr"
@@ -4735,10 +4735,10 @@
         "location": "46.80000, 4.43330",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
+            "Computer Science & Engineering",
             "Electrical & Electronic Engineering",
             "Materials Science & Engineering",
-            "Computer Science & Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://iutlecreusot.u-bourgogne.fr"
     },
@@ -4750,10 +4750,10 @@
         "location": "49.49440, 0.12360",
         "country": "FR",
         "subjects": [
-            "Logistics",
+            "Business Administration",
             "Chemical Engineering",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Logistics"
         ],
         "website": "http://www-iut.univ-lehavre.fr"
     },
@@ -4765,10 +4765,10 @@
         "location": "48.01960, 0.14560",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Materials Science & Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.univ-lemans.fr"
     },
@@ -4780,10 +4780,10 @@
         "location": "50.43330, 2.83330",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
+            "Biological Sciences",
             "Business Administration",
             "Communication",
-            "Biological Sciences"
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iut-lens.univ-artois.fr/"
     },
@@ -4795,11 +4795,11 @@
         "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Business Administration",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://iut.univ-lille.fr"
     },
@@ -4811,11 +4811,11 @@
         "location": "45.85000, 1.25000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
-            "Business Administration",
             "Biological Sciences",
-            "Materials Science & Engineering"
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut.unilim.fr"
     },
@@ -4828,9 +4828,9 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "https://www.iut-littoral.fr"
     },
@@ -4842,10 +4842,10 @@
         "location": "47.74860, -3.37000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Civil Engineering",
             "Business Administration",
-            "Chemical Engineering"
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://www-iutlorient.univ-ubs.fr"
     },
@@ -4857,11 +4857,11 @@
         "location": "45.78330, 4.86670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Biological Sciences",
-            "Chemical Engineering"
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.univ-lyon1.fr/"
     },
@@ -4874,9 +4874,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Statistics",
             "Communication",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Statistics"
         ],
         "website": "http://iut.univ-lyon2.fr"
     },
@@ -4888,10 +4888,10 @@
         "location": "48.98330, 1.71670",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-mantes.uvsq.fr"
     },
@@ -4903,10 +4903,10 @@
         "location": "48.84150, 2.58540",
         "country": "FR",
         "subjects": [
+            "Business Administration",
             "Civil Engineering",
-            "Mechanical Engineering",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "https://iut.univ-gustave-eiffel.fr/"
     },
@@ -4919,8 +4919,8 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Computer Science & Engineering",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Computer Science & Engineering"
         ],
         "website": "https://iut-martinique.univ-antilles.fr/"
     },
@@ -4932,10 +4932,10 @@
         "location": "49.11970, 6.21580",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-metz.univ-lorraine.fr"
     },
@@ -4948,10 +4948,10 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
+            "Business Administration",
             "Chemistry",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-montpellier-sete.fr"
     },
@@ -4963,9 +4963,9 @@
         "location": "48.86670, 2.45000",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Business Administration",
-            "Communication"
+            "Communication",
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iut.univ-paris8.fr"
     },
@@ -4977,10 +4977,10 @@
         "location": "49.11670, 7.06670",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
+            "Business Administration",
             "Electrical & Electronic Engineering",
             "Materials Science & Engineering",
-            "Business Administration"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-moselle-est.univ-lorraine.fr/"
     },
@@ -4992,10 +4992,10 @@
         "location": "47.75000, 7.33330",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
+            "Computer Science & Engineering",
             "Electrical & Electronic Engineering",
-            "Textile Science & Engineering",
-            "Computer Science & Engineering"
+            "Mechanical Engineering",
+            "Textile Science & Engineering"
         ],
         "website": "http://www.iutmulhouse.uha.fr"
     },
@@ -5008,9 +5008,9 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
+            "Chemical Engineering",
             "Civil Engineering",
-            "Mechanical Engineering",
-            "Chemical Engineering"
+            "Mechanical Engineering"
         ],
         "website": "https://iut-nancy-brabois.univ-lorraine.fr/"
     },
@@ -5036,11 +5036,11 @@
         "location": "47.24310, -1.55390",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
-            "Civil Engineering",
             "Business Administration",
-            "Computer Science & Engineering"
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.univ-nantes.fr/iutnantes"
     },
@@ -5052,10 +5052,10 @@
         "location": "43.71020, 7.26200",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
+            "Biological Sciences",
             "Business Administration",
-            "Biological Sciences"
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://iut.univ-cotedazur.fr"
     },
@@ -5067,10 +5067,10 @@
         "location": "43.83670, 4.36000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
+            "Biological Sciences",
             "Civil Engineering",
             "Electrical & Electronic Engineering",
-            "Biological Sciences"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-nimes.fr"
     },
@@ -5082,10 +5082,10 @@
         "location": "47.50000, 6.80000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Civil Engineering",
             "Computer Science & Engineering",
-            "Civil Engineering"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-nfc.univ-fcomte.fr"
     },
@@ -5111,10 +5111,10 @@
         "location": "49.41670, 2.81670",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Business Administration",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-oise.u-picardie.fr/"
     },
@@ -5126,10 +5126,10 @@
         "location": "47.84220, 1.93920",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Chemical Engineering",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.univ-orleans.fr/iut-orleans/"
     },
@@ -5141,9 +5141,9 @@
         "location": "48.70560, 2.17220",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Chemistry",
             "Biological Sciences",
+            "Chemistry",
+            "Computer Science & Engineering",
             "Physics"
         ],
         "website": "http://www.iut-orsay.universite-paris-saclay.fr"
@@ -5156,10 +5156,10 @@
         "location": "48.85200, 2.33800",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Business Administration",
-            "Computer Science & Engineering",
             "Communication",
-            "Biological Sciences"
+            "Computer Science & Engineering"
         ],
         "website": "https://iutparis-seine.u-paris.fr/"
     },
@@ -5171,9 +5171,9 @@
         "location": "48.88890, 2.36670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Business Administration",
-            "Communication"
+            "Communication",
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iut.univ-paris7.fr"
     },
@@ -5185,10 +5185,10 @@
         "location": "43.31300, -0.36600",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Thermal Engineering",
+            "Biological Sciences",
             "Business Administration",
-            "Biological Sciences"
+            "Mechanical Engineering",
+            "Thermal Engineering"
         ],
         "website": "https://iutpa.univ-pau.fr"
     },
@@ -5200,10 +5200,10 @@
         "location": "42.70470, 2.89310",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Business Administration",
-            "Hospitality & Tourism Management",
             "Computer Science & Engineering",
-            "Biological Sciences"
+            "Hospitality & Tourism Management"
         ],
         "website": "http://iut.univ-perp.fr"
     },
@@ -5215,11 +5215,11 @@
         "location": "46.58030, 0.38580",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
-            "Business Administration",
             "Biological Sciences",
-            "Civil Engineering"
+            "Business Administration",
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iutp.univ-poitiers.fr"
     },
@@ -5231,10 +5231,10 @@
         "location": "47.99610, -4.10260",
         "country": "FR",
         "subjects": [
-            "Food Science & Technology",
-            "Business Administration",
             "Biological Sciences",
-            "Communication"
+            "Business Administration",
+            "Communication",
+            "Food Science & Technology"
         ],
         "website": "http://www.univ-brest.fr/iut-quimper/"
     },
@@ -5246,10 +5246,10 @@
         "location": "49.25830, 4.03110",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
+            "Biological Sciences",
             "Business Administration",
             "Electrical & Electronic Engineering",
-            "Biological Sciences"
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-rcc.fr"
     },
@@ -5261,11 +5261,11 @@
         "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Biological Sciences",
-            "Business Administration"
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut-rennes.univ-rennes.fr"
     },
@@ -5278,9 +5278,9 @@
         "country": "FR",
         "subjects": [
             "Business Administration",
-            "Textile Science & Engineering",
+            "Computer Science & Engineering",
             "Mechanical Engineering",
-            "Computer Science & Engineering"
+            "Textile Science & Engineering"
         ],
         "website": "http://www.iut-roanne.fr"
     },
@@ -5292,9 +5292,9 @@
         "location": "44.35000, 2.56670",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Business Administration",
-            "Computer Science & Engineering",
-            "Biological Sciences"
+            "Computer Science & Engineering"
         ],
         "website": "http://www.iut-rodez.fr"
     },
@@ -5307,9 +5307,9 @@
         "country": "FR",
         "subjects": [
             "Chemistry",
-            "Mechanical Engineering",
+            "Computer Science & Engineering",
             "Electrical & Electronic Engineering",
-            "Computer Science & Engineering"
+            "Mechanical Engineering"
         ],
         "website": "http://iutrouen.univ-rouen.fr"
     },
@@ -5321,8 +5321,8 @@
         "location": "48.51390, -2.76530",
         "country": "FR",
         "subjects": [
-            "Business Administration",
             "Biological Sciences",
+            "Business Administration",
             "Civil Engineering",
             "Communication"
         ],
@@ -5338,8 +5338,8 @@
         "subjects": [
             "Business Administration",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Logistics"
+            "Logistics",
+            "Mechanical Engineering"
         ],
         "website": "https://iutsd.univ-paris13.fr"
     },
@@ -5351,8 +5351,8 @@
         "location": "48.29170, 6.95000",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Communication",
+            "Computer Science & Engineering",
             "Digital Media"
         ],
         "website": "https://iutsd.univ-lorraine.fr/"
@@ -5365,10 +5365,10 @@
         "location": "45.43970, 4.38720",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Business Administration",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut.univ-st-etienne.fr/"
     },
@@ -5380,10 +5380,10 @@
         "location": "48.64920, -2.01500",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Business Administration",
-            "Computer Science & Engineering",
             "Communication",
-            "Biological Sciences"
+            "Computer Science & Engineering"
         ],
         "website": "https://iut-stmalo.univ-rennes.fr/"
     },
@@ -5395,10 +5395,10 @@
         "location": "47.27330, -2.21390",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Chemical Engineering",
-            "Civil Engineering"
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://iut-sn.univ-nantes.fr"
     },
@@ -5412,8 +5412,8 @@
         "subjects": [
             "Business Administration",
             "Finance",
-            "Marketing",
-            "Management"
+            "Management",
+            "Marketing"
         ],
         "website": "http://www.iut-sceaux.universite-paris-saclay.fr/"
     },
@@ -5425,9 +5425,9 @@
         "location": "48.64000, 2.56000",
         "country": "FR",
         "subjects": [
+            "Biological Sciences",
             "Business Administration",
             "Computer Science & Engineering",
-            "Biological Sciences",
             "Mechanical Engineering"
         ],
         "website": "http://www.iutsf.u-pec.fr/"
@@ -5442,8 +5442,8 @@
         "subjects": [
             "Business Administration",
             "Civil Engineering",
-            "Mechanical Engineering",
-            "Computer Science & Engineering"
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iutrs.unistra.fr"
     },
@@ -5455,9 +5455,9 @@
         "location": "43.23280, 0.07810",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
             "Sports Science"
         ],
         "website": "http://www.iut-tarbes.fr/"
@@ -5470,10 +5470,10 @@
         "location": "49.35830, 6.16670",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Civil Engineering",
+            "Biological Sciences",
             "Business Administration",
-            "Biological Sciences"
+            "Civil Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-thionville-yutz.univ-lorraine.fr/"
     },
@@ -5485,10 +5485,10 @@
         "location": "43.14110, 6.01250",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
             "Business Administration",
-            "Mechanical Engineering",
-            "Materials Science & Engineering"
+            "Computer Science & Engineering",
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.univ-tln.fr"
     },
@@ -5500,10 +5500,10 @@
         "location": "43.60470, 1.44420",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
             "Biological Sciences",
-            "Business Administration"
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iut.univ-tlse3.fr"
     },
@@ -5515,8 +5515,8 @@
         "location": "47.39000, 0.68480",
         "country": "FR",
         "subjects": [
-            "Business Administration",
             "Biological Sciences",
+            "Business Administration",
             "Civil Engineering",
             "Computer Science & Engineering"
         ],
@@ -5544,10 +5544,10 @@
         "location": "48.26940, 4.07170",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
             "Business Administration",
             "Computer Science & Engineering",
-            "Materials Science & Engineering"
+            "Materials Science & Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://www.univ-reims.fr/iut-troyes"
     },
@@ -5559,10 +5559,10 @@
         "location": "44.93330, 4.89170",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.iut-valence.fr"
     },
@@ -5574,10 +5574,10 @@
         "location": "50.35280, 3.51860",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
+            "Business Administration",
             "Computer Science & Engineering",
-            "Business Administration"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://www.uphf.fr/IUT"
     },
@@ -5603,10 +5603,10 @@
         "location": "48.78330, 2.21670",
         "country": "FR",
         "subjects": [
-            "Computer Science & Engineering",
-            "Mechanical Engineering",
             "Business Administration",
-            "Electrical & Electronic Engineering"
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "https://www.iut-velizy-rambouillet.uvsq.fr"
     },
@@ -5618,9 +5618,9 @@
         "location": "48.81670, 2.20000",
         "country": "FR",
         "subjects": [
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering",
             "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
             "Thermal Engineering"
         ],
         "website": "http://cva.parisnanterre.fr"
@@ -5635,8 +5635,8 @@
         "subjects": [
             "Business Administration",
             "Computer Science & Engineering",
-            "Mechanical Engineering",
-            "Electrical & Electronic Engineering"
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
         ],
         "website": "http://iutv.univ-paris13.fr"
     },
@@ -5649,8 +5649,8 @@
         "country": "FR",
         "subjects": [
             "Biological Sciences",
-            "Chemistry",
-            "Chemical Engineering"
+            "Chemical Engineering",
+            "Chemistry"
         ],
         "website": "http://iutlps.unistra.fr"
     }
