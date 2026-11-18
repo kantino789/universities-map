@@ -4040,5 +4040,1618 @@
             "Law"
         ],
         "website": "https://www.univ-tours.fr/"
+    },
+    {
+        "id": 10272,
+        "type": "iut",
+        "title": "IUT Lyon 3 Jean Moulin",
+        "description": "",
+        "location": "45.74840, 4.84670",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Communication",
+            "Law"
+        ],
+        "website": "http://iut.univ-lyon3.fr"
+    },
+    {
+        "id": 10273,
+        "type": "iut",
+        "title": "IUT Aisne",
+        "description": "",
+        "location": "49.56670, 3.61670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Chemistry",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-aisne.u-picardie.fr"
+    },
+    {
+        "id": 10274,
+        "type": "iut",
+        "title": "IUT Aix-Marseille",
+        "description": "",
+        "location": "43.52970, 5.44750",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Biological Sciences",
+            "Chemical Engineering"
+        ],
+        "website": "http://iut.univ-amu.fr"
+    },
+    {
+        "id": 10275,
+        "type": "iut",
+        "title": "IUT Amiens",
+        "description": "",
+        "location": "49.89420, 2.29580",
+        "country": "FR",
+        "subjects": [
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Civil Engineering"
+        ],
+        "website": "http://www.iut-amiens.fr"
+    },
+    {
+        "id": 10276,
+        "type": "iut",
+        "title": "IUT Angers-Cholet",
+        "description": "",
+        "location": "47.47840, -0.60570",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Logistics",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering"
+        ],
+        "website": "http://www.iut.univ-angers.fr"
+    },
+    {
+        "id": 10277,
+        "type": "iut",
+        "title": "IUT Angoulême",
+        "description": "",
+        "location": "45.65000, 0.15000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://iut-angouleme.univ-poitiers.fr"
+    },
+    {
+        "id": 10278,
+        "type": "iut",
+        "title": "IUT Annecy",
+        "description": "",
+        "location": "45.90000, 6.13330",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-acy.univ-savoie.fr"
+    },
+    {
+        "id": 10279,
+        "type": "iut",
+        "title": "IUT Avignon Université",
+        "description": "",
+        "location": "43.91120, 4.88950",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Biological Sciences",
+            "Communication"
+        ],
+        "website": "https://iut.univ-avignon.fr/"
+    },
+    {
+        "id": 10280,
+        "type": "iut",
+        "title": "IUT Bayonne et du Pays Basque",
+        "description": "",
+        "location": "43.48330, -1.55000",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering"
+        ],
+        "website": "http://www.iutbayonne.univ-pau.fr"
+    },
+    {
+        "id": 10281,
+        "type": "iut",
+        "title": "IUT Besançon-Vesoul-Dole",
+        "description": "",
+        "location": "47.24840, 6.02760",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Biological Sciences",
+            "Business Administration"
+        ],
+        "website": "http://iut-bv.umlp.fr"
+    },
+    {
+        "id": 10282,
+        "type": "iut",
+        "title": "IUT Béthune",
+        "description": "",
+        "location": "50.53330, 2.63330",
+        "country": "FR",
+        "subjects": [
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
+            "Chemical Engineering"
+        ],
+        "website": "http://iut-bethune.univ-artois.fr"
+    },
+    {
+        "id": 10283,
+        "type": "iut",
+        "title": "IUT Béziers",
+        "description": "",
+        "location": "43.34170, 3.21670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Communication",
+            "Business Administration",
+            "Networks & Telecommunications"
+        ],
+        "website": "https://www.iutbeziers.fr"
+    },
+    {
+        "id": 10284,
+        "type": "iut",
+        "title": "IUT Blagnac",
+        "description": "",
+        "location": "43.63330, 1.38330",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Aerospace Engineering",
+            "Mechanical Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-blagnac.fr"
+    },
+    {
+        "id": 10285,
+        "type": "iut",
+        "title": "IUT Blois",
+        "description": "",
+        "location": "47.58330, 1.33330",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Biological Sciences",
+            "Business Administration",
+            "Communication"
+        ],
+        "website": "http://iut-blois.univ-tours.fr"
+    },
+    {
+        "id": 10286,
+        "type": "iut",
+        "title": "IUT Bobigny",
+        "description": "",
+        "location": "48.90830, 2.44170",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Nursing",
+            "Public Health",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-bobigny.univ-paris13.fr"
+    },
+    {
+        "id": 10287,
+        "type": "iut",
+        "title": "IUT Bordeaux",
+        "description": "",
+        "location": "44.80800, -0.60800",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Chemical Engineering",
+            "Civil Engineering"
+        ],
+        "website": "http://www.iut.u-bordeaux.fr"
+    },
+    {
+        "id": 10288,
+        "type": "iut",
+        "title": "IUT Bordeaux Montaigne",
+        "description": "",
+        "location": "44.80640, -0.60830",
+        "country": "FR",
+        "subjects": [
+            "Communication",
+            "Information Science",
+            "Hospitality & Tourism Management",
+            "Journalism"
+        ],
+        "website": "http://www.iut.u-bordeaux-montaigne.fr"
+    },
+    {
+        "id": 10289,
+        "type": "iut",
+        "title": "IUT Bourges",
+        "description": "",
+        "location": "47.08330, 2.40000",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "https://www.univ-orleans.fr/fr/iut-bourges"
+    },
+    {
+        "id": 10290,
+        "type": "iut",
+        "title": "IUT Brest – Morlaix",
+        "description": "",
+        "location": "48.39080, -4.48640",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-brest.fr"
+    },
+    {
+        "id": 10291,
+        "type": "iut",
+        "title": "IUT Cachan",
+        "description": "",
+        "location": "48.79170, 2.33330",
+        "country": "FR",
+        "subjects": [
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://www.iut-cachan.universite-paris-saclay.fr"
+    },
+    {
+        "id": 10292,
+        "type": "iut",
+        "title": "IUT Cergy-Pontoise",
+        "description": "",
+        "location": "49.03810, 2.07330",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering"
+        ],
+        "website": "https://cyiut.cyu.fr/"
+    },
+    {
+        "id": 10293,
+        "type": "iut",
+        "title": "IUT Chalon sur Saône",
+        "description": "",
+        "location": "46.78330, 4.85000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Optics"
+        ],
+        "website": "http://iutchalon.ube.fr"
+    },
+    {
+        "id": 10294,
+        "type": "iut",
+        "title": "IUT Chambéry",
+        "description": "",
+        "location": "45.64800, 5.86400",
+        "country": "FR",
+        "subjects": [
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Communication"
+        ],
+        "website": "http://www.iut-chy.univ-smb.fr"
+    },
+    {
+        "id": 10295,
+        "type": "iut",
+        "title": "IUT Chartres",
+        "description": "",
+        "location": "48.44720, 1.48610",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Chemical Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.univ-orleans.fr/iut-chartres"
+    },
+    {
+        "id": 10296,
+        "type": "iut",
+        "title": "IUT Clermont Auvergne",
+        "description": "",
+        "location": "45.77720, 3.08700",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Biological Sciences",
+            "Civil Engineering"
+        ],
+        "website": "http://iut.uca.fr"
+    },
+    {
+        "id": 10297,
+        "type": "iut",
+        "title": "IUT Colmar",
+        "description": "",
+        "location": "48.07920, 7.35830",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Network Systems"
+        ],
+        "website": "http://www.iutcolmar.uha.fr"
+    },
+    {
+        "id": 10298,
+        "type": "iut",
+        "title": "IUT Corte",
+        "description": "",
+        "location": "42.30830, 9.15000",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Business Administration",
+            "Biological Sciences"
+        ],
+        "website": "http://iut.univ-corse.fr"
+    },
+    {
+        "id": 10299,
+        "type": "iut",
+        "title": "IUT Créteil-Vitry",
+        "description": "",
+        "location": "48.79000, 2.45000",
+        "country": "FR",
+        "subjects": [
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Biological Sciences"
+        ],
+        "website": "http://iut.u-pec.fr"
+    },
+    {
+        "id": 10300,
+        "type": "iut",
+        "title": "IUT Dijon-Auxerre-Nevers",
+        "description": "",
+        "location": "47.32200, 5.04150",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration"
+        ],
+        "website": "http://iutdijon.u-bourgogne.fr"
+    },
+    {
+        "id": 10301,
+        "type": "iut",
+        "title": "IUT Épinal – Hubert Curien",
+        "description": "",
+        "location": "48.17920, 6.45280",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://iut-epinal.univ-lorraine.fr"
+    },
+    {
+        "id": 10302,
+        "type": "iut",
+        "title": "IUT Evreux",
+        "description": "",
+        "location": "49.02500, 1.15000",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Business Administration",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://iutevreux.univ-rouen.fr/"
+    },
+    {
+        "id": 10303,
+        "type": "iut",
+        "title": "IUT Evry Val d’Essonne",
+        "description": "",
+        "location": "48.62810, 2.43310",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "https://www.iut-evry.fr/"
+    },
+    {
+        "id": 10304,
+        "type": "iut",
+        "title": "IUT Figeac",
+        "description": "",
+        "location": "44.60830, 2.03330",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Business Administration",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://iut-figeac.univ-tlse2.fr"
+    },
+    {
+        "id": 10305,
+        "type": "iut",
+        "title": "IUT Grand Ouest Normandie",
+        "description": "",
+        "location": "49.21390, -0.37080",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration"
+        ],
+        "website": "http://iut-grand-ouest-normandie.unicaen.fr"
+    },
+    {
+        "id": 10306,
+        "type": "iut",
+        "title": "IUT Grenoble I",
+        "description": "",
+        "location": "45.19150, 5.76750",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://iut1.univ-grenoble-alpes.fr"
+    },
+    {
+        "id": 10307,
+        "type": "iut",
+        "title": "IUT Grenoble II",
+        "description": "",
+        "location": "45.19150, 5.76750",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Statistics",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iut2.univ-grenoble-alpes.fr"
+    },
+    {
+        "id": 10308,
+        "type": "iut",
+        "title": "IUT Guadeloupe",
+        "description": "",
+        "location": "16.23070, -61.53320",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Civil Engineering"
+        ],
+        "website": "https://iut-guadeloupe.univ-antilles.fr/international-welcome-to-the-iut-of-guadeloupe/"
+    },
+    {
+        "id": 10309,
+        "type": "iut",
+        "title": "IUT Haguenau",
+        "description": "",
+        "location": "48.81670, 7.78330",
+        "country": "FR",
+        "subjects": [
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://iuthaguenau.unistra.fr"
+    },
+    {
+        "id": 10310,
+        "type": "iut",
+        "title": "IUT Henri Poincaré Longwy",
+        "description": "",
+        "location": "49.51670, 5.76670",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-longwy.univ-lorraine.fr"
+    },
+    {
+        "id": 10311,
+        "type": "iut",
+        "title": "IUT Indre",
+        "description": "",
+        "location": "46.81670, 1.68330",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Business Administration",
+            "Logistics"
+        ],
+        "website": "http://www.univ-orleans.fr/iut-indre"
+    },
+    {
+        "id": 10312,
+        "type": "iut",
+        "title": "IUT Kourou",
+        "description": "",
+        "location": "5.15000, -52.65000",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Business Administration",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.univ-guyane.fr"
+    },
+    {
+        "id": 10313,
+        "type": "iut",
+        "title": "IUT La Réunion",
+        "description": "",
+        "location": "-20.87890, 55.47640",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Civil Engineering",
+            "Business Administration",
+            "Mechanical Engineering"
+        ],
+        "website": "http://iut.univ-reunion.fr"
+    },
+    {
+        "id": 10314,
+        "type": "iut",
+        "title": "IUT La Roche-sur-Yon",
+        "description": "",
+        "location": "46.66670, -1.43330",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Biological Sciences",
+            "Computer Science & Engineering",
+            "Communication"
+        ],
+        "website": "http://www.iutlaroche.univ-nantes.fr/"
+    },
+    {
+        "id": 10315,
+        "type": "iut",
+        "title": "IUT La Rochelle",
+        "description": "",
+        "location": "46.16030, -1.15110",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Civil Engineering"
+        ],
+        "website": "http://www.iut-larochelle.fr"
+    },
+    {
+        "id": 10316,
+        "type": "iut",
+        "title": "IUT Lannion",
+        "description": "",
+        "location": "48.73330, -3.45000",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Telecommunication Engineering",
+            "Communication",
+            "Optics"
+        ],
+        "website": "https://iut-lannion.univ-rennes.fr/"
+    },
+    {
+        "id": 10317,
+        "type": "iut",
+        "title": "IUT Laval",
+        "description": "",
+        "location": "48.06670, -0.76670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Biological Sciences",
+            "Business Administration",
+            "Electrical & Electronic Engineering"
+        ],
+        "website": "https://iut-laval.univ-lemans.fr"
+    },
+    {
+        "id": 10318,
+        "type": "iut",
+        "title": "IUT Le Creusot",
+        "description": "",
+        "location": "46.80000, 4.43330",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://iutlecreusot.u-bourgogne.fr"
+    },
+    {
+        "id": 10319,
+        "type": "iut",
+        "title": "IUT Le Havre",
+        "description": "",
+        "location": "49.49440, 0.12360",
+        "country": "FR",
+        "subjects": [
+            "Logistics",
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www-iut.univ-lehavre.fr"
+    },
+    {
+        "id": 10320,
+        "type": "iut",
+        "title": "IUT Le Mans",
+        "description": "",
+        "location": "48.01960, 0.14560",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://iut.univ-lemans.fr"
+    },
+    {
+        "id": 10321,
+        "type": "iut",
+        "title": "IUT Lens",
+        "description": "",
+        "location": "50.43330, 2.83330",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Communication",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-lens.univ-artois.fr/"
+    },
+    {
+        "id": 10322,
+        "type": "iut",
+        "title": "IUT Lille",
+        "description": "",
+        "location": "50.60990, 3.13750",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Civil Engineering"
+        ],
+        "website": "https://iut.univ-lille.fr"
+    },
+    {
+        "id": 10323,
+        "type": "iut",
+        "title": "IUT Limousin",
+        "description": "",
+        "location": "45.85000, 1.25000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Biological Sciences",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://www.iut.unilim.fr"
+    },
+    {
+        "id": 10324,
+        "type": "iut",
+        "title": "IUT Littoral Côte d’Opale",
+        "description": "",
+        "location": "50.95130, 1.85870",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration"
+        ],
+        "website": "https://www.iut-littoral.fr"
+    },
+    {
+        "id": 10325,
+        "type": "iut",
+        "title": "IUT Lorient – Pontivy",
+        "description": "",
+        "location": "47.74860, -3.37000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Business Administration",
+            "Chemical Engineering"
+        ],
+        "website": "https://www-iutlorient.univ-ubs.fr"
+    },
+    {
+        "id": 10326,
+        "type": "iut",
+        "title": "IUT Lyon 1",
+        "description": "",
+        "location": "45.78330, 4.86670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Biological Sciences",
+            "Chemical Engineering"
+        ],
+        "website": "http://iut.univ-lyon1.fr/"
+    },
+    {
+        "id": 10327,
+        "type": "iut",
+        "title": "IUT Lyon 2 Lumière",
+        "description": "",
+        "location": "45.75000, 4.85000",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Statistics",
+            "Communication",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://iut.univ-lyon2.fr"
+    },
+    {
+        "id": 10328,
+        "type": "iut",
+        "title": "IUT Mantes en Yvelines",
+        "description": "",
+        "location": "48.98330, 1.71670",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-mantes.uvsq.fr"
+    },
+    {
+        "id": 10329,
+        "type": "iut",
+        "title": "IUT Marne-la-Vallée",
+        "description": "",
+        "location": "48.84150, 2.58540",
+        "country": "FR",
+        "subjects": [
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "https://iut.univ-gustave-eiffel.fr/"
+    },
+    {
+        "id": 10330,
+        "type": "iut",
+        "title": "IUT Martinique",
+        "description": "",
+        "location": "14.61500, -61.05830",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Civil Engineering"
+        ],
+        "website": "https://iut-martinique.univ-antilles.fr/"
+    },
+    {
+        "id": 10331,
+        "type": "iut",
+        "title": "IUT Metz",
+        "description": "",
+        "location": "49.11970, 6.21580",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-metz.univ-lorraine.fr"
+    },
+    {
+        "id": 10332,
+        "type": "iut",
+        "title": "IUT Montpellier-Sète",
+        "description": "",
+        "location": "43.61080, 3.87670",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-montpellier-sete.fr"
+    },
+    {
+        "id": 10333,
+        "type": "iut",
+        "title": "IUT Montreuil",
+        "description": "",
+        "location": "48.86670, 2.45000",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Communication"
+        ],
+        "website": "http://www.iut.univ-paris8.fr"
+    },
+    {
+        "id": 10334,
+        "type": "iut",
+        "title": "IUT Moselle-Est",
+        "description": "",
+        "location": "49.11670, 7.06670",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Materials Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-moselle-est.univ-lorraine.fr/"
+    },
+    {
+        "id": 10335,
+        "type": "iut",
+        "title": "IUT Mulhouse",
+        "description": "",
+        "location": "47.75000, 7.33330",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Textile Science & Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iutmulhouse.uha.fr"
+    },
+    {
+        "id": 10336,
+        "type": "iut",
+        "title": "IUT Nancy-Brabois",
+        "description": "",
+        "location": "48.66670, 6.15000",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Chemical Engineering"
+        ],
+        "website": "https://iut-nancy-brabois.univ-lorraine.fr/"
+    },
+    {
+        "id": 10337,
+        "type": "iut",
+        "title": "IUT Nancy-Charlemagne",
+        "description": "",
+        "location": "48.69360, 6.18250",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Information Science"
+        ],
+        "website": "http://iut-charlemagne.univ-lorraine.fr"
+    },
+    {
+        "id": 10338,
+        "type": "iut",
+        "title": "IUT Nantes",
+        "description": "",
+        "location": "47.24310, -1.55390",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Civil Engineering",
+            "Business Administration",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.univ-nantes.fr/iutnantes"
+    },
+    {
+        "id": 10339,
+        "type": "iut",
+        "title": "IUT Nice Côte d’Azur",
+        "description": "",
+        "location": "43.71020, 7.26200",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Biological Sciences"
+        ],
+        "website": "https://iut.univ-cotedazur.fr"
+    },
+    {
+        "id": 10340,
+        "type": "iut",
+        "title": "IUT Nîmes",
+        "description": "",
+        "location": "43.83670, 4.36000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-nimes.fr"
+    },
+    {
+        "id": 10341,
+        "type": "iut",
+        "title": "IUT Nord Franche-Comté",
+        "description": "",
+        "location": "47.50000, 6.80000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Civil Engineering"
+        ],
+        "website": "http://www.iut-nfc.univ-fcomte.fr"
+    },
+    {
+        "id": 10342,
+        "type": "iut",
+        "title": "IUT Nouvelle-Calédonie",
+        "description": "",
+        "location": "-22.26800, 166.41830",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering"
+        ],
+        "website": "https://iut.unc.nc/"
+    },
+    {
+        "id": 10343,
+        "type": "iut",
+        "title": "IUT Oise",
+        "description": "",
+        "location": "49.41670, 2.81670",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iut-oise.u-picardie.fr/"
+    },
+    {
+        "id": 10344,
+        "type": "iut",
+        "title": "IUT Orléans",
+        "description": "",
+        "location": "47.84220, 1.93920",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Chemical Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.univ-orleans.fr/iut-orleans/"
+    },
+    {
+        "id": 10345,
+        "type": "iut",
+        "title": "IUT Orsay",
+        "description": "",
+        "location": "48.70560, 2.17220",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Chemistry",
+            "Biological Sciences",
+            "Physics"
+        ],
+        "website": "http://www.iut-orsay.universite-paris-saclay.fr"
+    },
+    {
+        "id": 10346,
+        "type": "iut",
+        "title": "IUT Paris – Rives de Seine",
+        "description": "",
+        "location": "48.85200, 2.33800",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Communication",
+            "Biological Sciences"
+        ],
+        "website": "https://iutparis-seine.u-paris.fr/"
+    },
+    {
+        "id": 10347,
+        "type": "iut",
+        "title": "IUT Paris Pajol",
+        "description": "",
+        "location": "48.88890, 2.36670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Communication"
+        ],
+        "website": "http://www.iut.univ-paris7.fr"
+    },
+    {
+        "id": 10348,
+        "type": "iut",
+        "title": "IUT Pays de l’Adour",
+        "description": "",
+        "location": "43.31300, -0.36600",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Thermal Engineering",
+            "Business Administration",
+            "Biological Sciences"
+        ],
+        "website": "https://iutpa.univ-pau.fr"
+    },
+    {
+        "id": 10349,
+        "type": "iut",
+        "title": "IUT Perpignan",
+        "description": "",
+        "location": "42.70470, 2.89310",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Hospitality & Tourism Management",
+            "Computer Science & Engineering",
+            "Biological Sciences"
+        ],
+        "website": "http://iut.univ-perp.fr"
+    },
+    {
+        "id": 10350,
+        "type": "iut",
+        "title": "IUT Poitiers-Niort-Châtellerault",
+        "description": "",
+        "location": "46.58030, 0.38580",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Biological Sciences",
+            "Civil Engineering"
+        ],
+        "website": "http://iutp.univ-poitiers.fr"
+    },
+    {
+        "id": 10351,
+        "type": "iut",
+        "title": "IUT Quimper",
+        "description": "",
+        "location": "47.99610, -4.10260",
+        "country": "FR",
+        "subjects": [
+            "Food Science & Technology",
+            "Business Administration",
+            "Biological Sciences",
+            "Communication"
+        ],
+        "website": "http://www.univ-brest.fr/iut-quimper/"
+    },
+    {
+        "id": 10352,
+        "type": "iut",
+        "title": "IUT Reims-Châlons-Charleville",
+        "description": "",
+        "location": "49.25830, 4.03110",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-rcc.fr"
+    },
+    {
+        "id": 10353,
+        "type": "iut",
+        "title": "IUT Rennes",
+        "description": "",
+        "location": "48.11720, -1.67780",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Biological Sciences",
+            "Business Administration"
+        ],
+        "website": "http://iut-rennes.univ-rennes.fr"
+    },
+    {
+        "id": 10354,
+        "type": "iut",
+        "title": "IUT Roanne",
+        "description": "",
+        "location": "46.03330, 4.06670",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Textile Science & Engineering",
+            "Mechanical Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iut-roanne.fr"
+    },
+    {
+        "id": 10355,
+        "type": "iut",
+        "title": "IUT Rodez",
+        "description": "",
+        "location": "44.35000, 2.56670",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-rodez.fr"
+    },
+    {
+        "id": 10356,
+        "type": "iut",
+        "title": "IUT Rouen",
+        "description": "",
+        "location": "49.38530, 1.07610",
+        "country": "FR",
+        "subjects": [
+            "Chemistry",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://iutrouen.univ-rouen.fr"
+    },
+    {
+        "id": 10357,
+        "type": "iut",
+        "title": "IUT Saint-Brieuc",
+        "description": "",
+        "location": "48.51390, -2.76530",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Biological Sciences",
+            "Civil Engineering",
+            "Communication"
+        ],
+        "website": "https://iut-stbrieuc.univ-rennes.fr/"
+    },
+    {
+        "id": 10358,
+        "type": "iut",
+        "title": "IUT Saint-Denis",
+        "description": "",
+        "location": "48.93560, 2.35830",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Logistics"
+        ],
+        "website": "https://iutsd.univ-paris13.fr"
+    },
+    {
+        "id": 10359,
+        "type": "iut",
+        "title": "IUT Saint-Dié",
+        "description": "",
+        "location": "48.29170, 6.95000",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Communication",
+            "Digital Media"
+        ],
+        "website": "https://iutsd.univ-lorraine.fr/"
+    },
+    {
+        "id": 10360,
+        "type": "iut",
+        "title": "IUT Saint-Etienne",
+        "description": "",
+        "location": "45.43970, 4.38720",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iut.univ-st-etienne.fr/"
+    },
+    {
+        "id": 10361,
+        "type": "iut",
+        "title": "IUT Saint-Malo",
+        "description": "",
+        "location": "48.64920, -2.01500",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Communication",
+            "Biological Sciences"
+        ],
+        "website": "https://iut-stmalo.univ-rennes.fr/"
+    },
+    {
+        "id": 10362,
+        "type": "iut",
+        "title": "IUT Saint-Nazaire",
+        "description": "",
+        "location": "47.27330, -2.21390",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Chemical Engineering",
+            "Civil Engineering"
+        ],
+        "website": "https://iut-sn.univ-nantes.fr"
+    },
+    {
+        "id": 10363,
+        "type": "iut",
+        "title": "IUT Sceaux",
+        "description": "",
+        "location": "48.77500, 2.29170",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Marketing",
+            "Management"
+        ],
+        "website": "http://www.iut-sceaux.universite-paris-saclay.fr/"
+    },
+    {
+        "id": 10364,
+        "type": "iut",
+        "title": "IUT Sénart-Fontainebleau",
+        "description": "",
+        "location": "48.64000, 2.56000",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Biological Sciences",
+            "Mechanical Engineering"
+        ],
+        "website": "http://www.iutsf.u-pec.fr/"
+    },
+    {
+        "id": 10365,
+        "type": "iut",
+        "title": "IUT Strasbourg – Robert Schuman",
+        "description": "",
+        "location": "48.58390, 7.74550",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://iutrs.unistra.fr"
+    },
+    {
+        "id": 10366,
+        "type": "iut",
+        "title": "IUT Tarbes",
+        "description": "",
+        "location": "43.23280, 0.07810",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Sports Science"
+        ],
+        "website": "http://www.iut-tarbes.fr/"
+    },
+    {
+        "id": 10367,
+        "type": "iut",
+        "title": "IUT Thionville-Yutz",
+        "description": "",
+        "location": "49.35830, 6.16670",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Business Administration",
+            "Biological Sciences"
+        ],
+        "website": "http://www.iut-thionville-yutz.univ-lorraine.fr/"
+    },
+    {
+        "id": 10368,
+        "type": "iut",
+        "title": "IUT Toulon",
+        "description": "",
+        "location": "43.14110, 6.01250",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Business Administration",
+            "Mechanical Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "http://iut.univ-tln.fr"
+    },
+    {
+        "id": 10369,
+        "type": "iut",
+        "title": "IUT Toulouse-Auch-Castres",
+        "description": "",
+        "location": "43.60470, 1.44420",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Biological Sciences",
+            "Business Administration"
+        ],
+        "website": "http://iut.univ-tlse3.fr"
+    },
+    {
+        "id": 10370,
+        "type": "iut",
+        "title": "IUT Tours",
+        "description": "",
+        "location": "47.39000, 0.68480",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Biological Sciences",
+            "Civil Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "http://www.iut.univ-tours.fr"
+    },
+    {
+        "id": 10371,
+        "type": "iut",
+        "title": "IUT Tremblay-en-France",
+        "description": "",
+        "location": "48.96670, 2.53330",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Logistics",
+            "Management"
+        ],
+        "website": "https://www.iutt.univ-paris8.fr/"
+    },
+    {
+        "id": 10372,
+        "type": "iut",
+        "title": "IUT Troyes",
+        "description": "",
+        "location": "48.26940, 4.07170",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "https://www.univ-reims.fr/iut-troyes"
+    },
+    {
+        "id": 10373,
+        "type": "iut",
+        "title": "IUT Valence",
+        "description": "",
+        "location": "44.93330, 4.89170",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.iut-valence.fr"
+    },
+    {
+        "id": 10374,
+        "type": "iut",
+        "title": "IUT Valenciennes",
+        "description": "",
+        "location": "50.35280, 3.51860",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Computer Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.uphf.fr/IUT"
+    },
+    {
+        "id": 10375,
+        "type": "iut",
+        "title": "IUT Vannes",
+        "description": "",
+        "location": "47.65830, -2.76110",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Statistics"
+        ],
+        "website": "http://www.iutvannes.fr"
+    },
+    {
+        "id": 10376,
+        "type": "iut",
+        "title": "IUT Vélizy – Rambouillet",
+        "description": "",
+        "location": "48.78330, 2.21670",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration",
+            "Electrical & Electronic Engineering"
+        ],
+        "website": "https://www.iut-velizy-rambouillet.uvsq.fr"
+    },
+    {
+        "id": 10377,
+        "type": "iut",
+        "title": "IUT Ville d’Avray – Saint-Cloud – Nanterre",
+        "description": "",
+        "location": "48.81670, 2.20000",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering",
+            "Business Administration",
+            "Thermal Engineering"
+        ],
+        "website": "http://cva.parisnanterre.fr"
+    },
+    {
+        "id": 10378,
+        "type": "iut",
+        "title": "IUT Villetaneuse",
+        "description": "",
+        "location": "48.95670, 2.34280",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Mechanical Engineering",
+            "Electrical & Electronic Engineering"
+        ],
+        "website": "http://iutv.univ-paris13.fr"
+    },
+    {
+        "id": 10379,
+        "type": "iut",
+        "title": "UT Strasbourg Louis Pasteur",
+        "description": "",
+        "location": "48.58390, 7.74550",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Chemical Engineering"
+        ],
+        "website": "http://iutlps.unistra.fr"
     }
 ]
