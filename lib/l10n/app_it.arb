@@ -19,6 +19,8 @@
   "rateApp": "Valuta l'applicazione",
   "errorOccurred": "Si è verificato un errore",
   "filterOptions": "Opzioni di filtro",
+  "packageWorld": "Mondo",
+  "packageFrance": "Francia",
   "resetFilters": "Reimposta i filtri",
   "close": "Chiudi",
   "mapLoadError": "Impossibile caricare la mappa:\n{error}",

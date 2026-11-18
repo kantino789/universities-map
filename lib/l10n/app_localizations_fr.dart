@@ -68,6 +68,12 @@ class AppLocalizationsFr extends AppLocalizations {
   String get filterOptions => 'Options de filtrage';
 
   @override
+  String get packageWorld => 'Monde';
+
+  @override
+  String get packageFrance => 'France';
+
+  @override
   String get resetFilters => 'Réinitialiser les filtres';
 
   @override

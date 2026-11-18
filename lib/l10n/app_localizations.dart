@@ -217,6 +217,18 @@ abstract class AppLocalizations {
   /// **'Filter Options'**
   String get filterOptions;
 
+  /// Worldwide university dataset option in the package selector
+  ///
+  /// In en, this message translates to:
+  /// **'World'**
+  String get packageWorld;
+
+  /// French university dataset option in the package selector
+  ///
+  /// In en, this message translates to:
+  /// **'France'**
+  String get packageFrance;
+
   /// No description provided for @resetFilters.
   ///
   /// In en, this message translates to:

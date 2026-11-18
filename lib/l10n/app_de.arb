@@ -19,6 +19,8 @@
   "rateApp": "App bewerten",
   "errorOccurred": "Ein Fehler ist aufgetreten",
   "filterOptions": "Filteroptionen",
+  "packageWorld": "Welt",
+  "packageFrance": "Frankreich",
   "resetFilters": "Filter zurücksetzen",
   "close": "Schließen",
   "mapLoadError": "Karte konnte nicht geladen werden:\n{error}",

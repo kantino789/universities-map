@@ -68,6 +68,12 @@ class AppLocalizationsPt extends AppLocalizations {
   String get filterOptions => 'Opções de filtro';
 
   @override
+  String get packageWorld => 'Mundo';
+
+  @override
+  String get packageFrance => 'França';
+
+  @override
   String get resetFilters => 'Redefinir filtros';
 
   @override
