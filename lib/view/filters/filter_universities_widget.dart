@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/view/filters/filter_package_selection.dart';
+import 'package:universities_map/config.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/subjects_groups_maps.dart';
 import 'package:universities_map/view/filters/filter_section.dart';
@@ -10,18 +12,19 @@ class FilterUniversitiesWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final editor = StringPropertyChangeProvider.of<Editor, String>(
+      context,
+      listen: false,
+    )!.value;
     return SingleChildScrollView(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
         spacing: 16,
         children: [
+          if (loadFrenchData) ...[FilterPackageSelection()],
           OutlinedButton(
             onPressed: () {
-              final editor = StringPropertyChangeProvider.of<Editor, String>(
-                context,
-                listen: false,
-              )!.value;
               editor.resetFilters();
             },
             child: Text(AppLocalizations.of(context)!.resetFilters),

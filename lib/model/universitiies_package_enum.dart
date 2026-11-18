@@ -1,0 +1,1 @@
+enum UniversitiesPackage { general, french }

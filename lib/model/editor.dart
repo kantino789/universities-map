@@ -1,4 +1,5 @@
 import 'package:property_change_notifier/property_change_notifier.dart';
+import 'package:universities_map/config.dart';
 import 'package:universities_map/data/data_provider_interface.dart';
 import 'package:universities_map/model/poi.dart';
 
@@ -6,12 +7,21 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:universities_map/model/poi_note.dart';
+import 'package:universities_map/model/universitiies_package_enum.dart';
 
 class Editor extends StringPropertyChangeNotifier {
   final IDataProvider _dataProvider;
 
   final Map<String, Poi> _poisById = {};
+  final Map<String, Poi> _frenchPoisById = {};
   Iterable<Poi> get displayedPois => _filteredPois();
+
+  UniversitiesPackage _selectedPackage = UniversitiesPackage.general;
+  UniversitiesPackage get selectedPackage => _selectedPackage;
+  set selectedPackage(UniversitiesPackage package) {
+    _selectedPackage = package;
+    notifyListeners(filtersChanged);
+  }
 
   final Map<String, Poi> _favoritesById = {};
   Iterable<Poi> get favoritePois => _favoritesById.values;
@@ -32,25 +42,38 @@ class Editor extends StringPropertyChangeNotifier {
 
   Future<bool> initializeData() async {
     try {
-      final String response = await rootBundle.loadString(
-        'assets/universities.json',
-      );
-
-      // 2. Decode the raw JSON string to a List
-      final List<dynamic> data = json.decode(response);
-
-      // 3. Map each JSON object to a Poi instance
-      _poisById.clear();
-      for (final jsonItem in data) {
-        try {
-        final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
-        _poisById[poi.id] = poi;
-        } catch (e) {}
+      await _loadDataPackage(UniversitiesPackage.general);
+      if (loadFrenchData) {
+        await _loadDataPackage(UniversitiesPackage.french);
       }
       await Future.wait([_populateFavorites(), _populateNotes()]);
       return true;
     } catch (e) {
       return false;
+    }
+  }
+
+  Future<void> _loadDataPackage(UniversitiesPackage package) async {
+    final String assetPath;
+    final Map<String, Poi> targetMap;
+    switch (package) {
+      case UniversitiesPackage.general:
+        assetPath = 'assets/universities.json';
+        targetMap = _poisById;
+        break;
+      case UniversitiesPackage.french:
+        assetPath = 'assets/french_universities.json';
+        targetMap = _frenchPoisById;
+        break;
+    }
+    final String response = await rootBundle.loadString(assetPath);
+    final List<dynamic> data = json.decode(response);
+    targetMap.clear();
+    for (final jsonItem in data) {
+      try {
+        final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
+        targetMap[poi.id] = poi;
+      } catch (e) {}
     }
   }
 
@@ -164,10 +187,19 @@ class Editor extends StringPropertyChangeNotifier {
   }
 
   Iterable<Poi> _filteredPois() {
-    if (_filters.isEmpty) {
-      return _poisById.values;
+    final Map<String, Poi> targetMap;
+    switch (selectedPackage) {
+      case UniversitiesPackage.general:
+        targetMap = _poisById;
+        break;
+      case UniversitiesPackage.french:
+        targetMap = _frenchPoisById;
+        break;
     }
-    return _poisById.values.where(
+    if (_filters.isEmpty) {
+      return targetMap.values;
+    }
+    return targetMap.values.where(
       (poi) => _filters.any((filter) => poi.subjects.contains(filter)),
     );
   }
