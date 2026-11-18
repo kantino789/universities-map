@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Map markers
+
+Nearby schools are clustered at all zoom levels. Tap a cluster to zoom in;
+if its markers cannot be separated by zooming, they spread into a circle or
+spiral so each school can be selected. Tap the expanded cluster again or change
+the zoom to collapse it. Stored school coordinates are unchanged.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

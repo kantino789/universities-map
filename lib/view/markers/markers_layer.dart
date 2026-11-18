@@ -79,12 +79,17 @@ class _MarkersLayerState extends State<MarkersLayer> {
         // Size of the cluster widget.
         size: const Size(55, 55),
 
-        // Don't cluster after zoom 10.
-        disableClusteringAtZoom: 10,
+        // Keep overlapping markers clustered through the map's maximum zoom.
+        disableClusteringAtZoom: 20,
 
         // Maximum zoom when automatically
         // zooming into a cluster.
-        maxZoom: 11,
+        maxZoom: 19,
+        padding: const EdgeInsets.all(50),
+
+        spiderfyCluster: true,
+        spiderfyCircleRadius: 80,
+        spiderfySpiralDistanceMultiplier: 3,
 
         // When a cluster is tapped,
         // automatically zoom to its bounds.
