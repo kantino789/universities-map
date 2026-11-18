@@ -4,7 +4,7 @@
         "type": "engineer",
         "title": "École centrale de Marseille",
         "description": "",
-        "location": "",
+        "location": "43.34582, 5.43477",
         "country": "FR",
         "subjects": [],
         "website": "https://www.centrale-mediterranee.fr/"
@@ -14,7 +14,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de Marseille",
         "description": "",
-        "location": "",
+        "location": "43.24357, 5.44199",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -38,7 +38,7 @@
         "type": "engineer",
         "title": "École de l'air et de l'espace",
         "description": "",
-        "location": "",
+        "location": "43.52440, 5.01670",
         "country": "FR",
         "subjects": [],
         "website": "https://www.ecole-air-espace.fr/"
@@ -48,7 +48,7 @@
         "type": "engineer",
         "title": "Institut supérieur du bâtiment et des travaux publics",
         "description": "",
-        "location": "",
+        "location": "43.30397, 5.41164",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -60,7 +60,7 @@
         "type": "engineer",
         "title": "Université de technologie de Compiègne",
         "description": "",
-        "location": "",
+        "location": "49.40058, 2.79815",
         "country": "FR",
         "subjects": [
             "Biological Sciences",
@@ -78,7 +78,7 @@
         "type": "engineer",
         "title": "École supérieure de chimie organique et minérale",
         "description": "",
-        "location": "",
+        "location": "49.41400, 2.82700",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -91,7 +91,7 @@
         "type": "engineer",
         "title": "Institut polytechnique UniLaSalle",
         "description": "",
-        "location": "",
+        "location": "49.45800, 2.07200",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -106,7 +106,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en électronique et électrotechnique d'Amiens",
         "description": "",
-        "location": "",
+        "location": "49.88500, 2.29600",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -119,7 +119,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs des sciences aérospatiales",
         "description": "",
-        "location": "",
+        "location": "49.03800, 2.07300",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -132,7 +132,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de mécanique et des microtechniques",
         "description": "",
-        "location": "",
+        "location": "47.24890, 6.07460",
         "country": "FR",
         "subjects": [
             "Mechanical Engineering"
@@ -144,7 +144,7 @@
         "type": "engineer",
         "title": "Université de technologie de Belfort-Montbéliard",
         "description": "",
-        "location": "",
+        "location": "47.64150, 6.84020",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -163,7 +163,7 @@
         "type": "engineer",
         "title": "Institut supérieur d'ingénieurs de Franche-Comté",
         "description": "",
-        "location": "",
+        "location": "47.24840, 6.02760",
         "country": "FR",
         "subjects": [
             "Biomedical Engineering"
@@ -175,7 +175,7 @@
         "type": "engineer",
         "title": "École Nationale Supérieure de Matériaux, d'Agroalimentaire et de Chimie",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -194,7 +194,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'électronique, informatique, télécommunications, mathématiques et mécanique de Bordeaux",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -212,7 +212,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de technologie des biomolécules de Bordeaux",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Biological Sciences"
@@ -224,7 +224,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de cognitique",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -237,7 +237,7 @@
         "type": "engineer",
         "title": "École nationale supérieure en environnement, géoressources et ingénierie du développement durable",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Earth Sciences",
@@ -250,7 +250,7 @@
         "type": "engineer",
         "title": "École nationale supérieure pour la performance industrielle et la maintenance aéronautique",
         "description": "",
-        "location": "",
+        "location": "44.80800, -0.60800",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -263,7 +263,7 @@
         "type": "engineer",
         "title": "École nationale supérieure en génie des technologies industrielles",
         "description": "",
-        "location": "",
+        "location": "43.31300, -0.36600",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -277,7 +277,7 @@
         "type": "engineer",
         "title": "Institut supérieur aquitain du bâtiment et des travaux publics",
         "description": "",
-        "location": "",
+        "location": "43.48300, -1.55800",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -289,7 +289,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des sciences agronomiques de Bordeaux Aquitaine",
         "description": "",
-        "location": "",
+        "location": "44.78650, -0.59600",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -303,7 +303,7 @@
         "type": "engineer",
         "title": "École supérieure des technologies industrielles avancées",
         "description": "",
-        "location": "",
+        "location": "43.47500, -1.51600",
         "country": "FR",
         "subjects": [],
         "website": "https://www.estia.fr/"
@@ -313,7 +313,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs SIGMA Clermont",
         "description": "",
-        "location": "",
+        "location": "45.75970, 3.11140",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -328,7 +328,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l’institut national polytechnique Clermont Auvergne",
         "description": "",
-        "location": "",
+        "location": "45.76000, 3.11300",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -348,7 +348,7 @@
         "type": "engineer",
         "title": "Institut supérieur d’informatique, de modélisation et de leurs applications",
         "description": "",
-        "location": "",
+        "location": "45.75970, 3.11140",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -361,7 +361,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs Paoli Tech",
         "description": "",
-        "location": "",
+        "location": "42.40720, 9.15540",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -373,7 +373,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs de recherche en matériaux",
         "description": "",
-        "location": "",
+        "location": "47.29170, 5.06170",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -390,7 +390,7 @@
         "type": "engineer",
         "title": "Institut supérieur de l'automobile et des transports de Nevers",
         "description": "",
-        "location": "",
+        "location": "46.99080, 3.15940",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -405,7 +405,7 @@
         "type": "engineer",
         "title": "Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement",
         "description": "",
-        "location": "",
+        "location": "47.32200, 5.04150",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -419,7 +419,7 @@
         "type": "engineer",
         "title": "Institut polytechnique de Grenoble",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering",
@@ -433,7 +433,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de l'énergie, l'eau et l'environnement",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -447,7 +447,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de génie industriel",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Management",
@@ -460,7 +460,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'informatique et de mathématiques appliquées",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -473,7 +473,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de physique, électronique, matériaux",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -489,7 +489,7 @@
         "type": "engineer",
         "title": "École nationale supérieure en systèmes avancés et réseaux",
         "description": "",
-        "location": "",
+        "location": "45.04170, 4.89720",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -504,7 +504,7 @@
         "type": "engineer",
         "title": "École internationale du papier, de la communication imprimée et des biomatériaux",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -516,7 +516,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de Savoie",
         "description": "",
-        "location": "",
+        "location": "45.64800, 5.86400",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -533,7 +533,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'Institut Polytechnique de Grenoble",
         "description": "",
-        "location": "",
+        "location": "45.19150, 5.76750",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -553,7 +553,7 @@
         "type": "engineer",
         "title": "Université des Antilles",
         "description": "",
-        "location": "",
+        "location": "16.23070, -61.53320",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering",
@@ -566,7 +566,7 @@
         "type": "engineer",
         "title": "École centrale de Lille",
         "description": "",
-        "location": "",
+        "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [],
         "website": "http://centralelille.fr/"
@@ -576,7 +576,7 @@
         "type": "engineer",
         "title": "École centrale de Lille (ITEEM)",
         "description": "",
-        "location": "",
+        "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
             "Business Administration",
@@ -590,7 +590,7 @@
         "type": "engineer",
         "title": "École centrale de Lille (IG2I)",
         "description": "",
-        "location": "",
+        "location": "50.43330, 2.83330",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -605,7 +605,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de chimie de Lille",
         "description": "",
-        "location": "",
+        "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -618,7 +618,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des arts et industries textiles",
         "description": "",
-        "location": "",
+        "location": "50.69220, 3.17440",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -630,7 +630,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées Hauts-de-France",
         "description": "",
-        "location": "",
+        "location": "50.35280, 3.51860",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -649,7 +649,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de Lille",
         "description": "",
-        "location": "",
+        "location": "50.60990, 3.13750",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -667,7 +667,7 @@
         "type": "engineer",
         "title": "École nationale supérieure Mines-Télécom Lille Douai",
         "description": "",
-        "location": "",
+        "location": "50.37080, 3.07920",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -688,9 +688,9 @@
     {
         "id": 10047,
         "type": "engineer",
-        "title": "École d'ingénieurs du Littoral-Côte-d'Opale",
         "description": "",
-        "location": "",
+        "title": "École d'ingénieurs du Littoral-Côte-d'Opale",
+        "location": "50.95130, 1.85870",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -707,7 +707,7 @@
         "type": "engineer",
         "title": "JUNIA (ex Yncréa Hauts-de-France) (ex groupe HEI-ISA-ISEN) / École des hautes études d'ingénieur",
         "description": "",
-        "location": "",
+        "location": "50.63330, 3.06670",
         "country": "FR",
         "subjects": [],
         "website": "https://www.junia.com/fr/junia/programme-grande-ecole-hei/"
@@ -717,7 +717,7 @@
         "type": "engineer",
         "title": "JUNIA (ex Yncréa Hauts-de-France) (ex groupe HEI-ISA-ISEN) / Institut supérieur de l'électronique et du numérique",
         "description": "",
-        "location": "",
+        "location": "50.63330, 3.06670",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -732,7 +732,7 @@
         "type": "engineer",
         "title": "JUNIA (ex Yncréa Hauts-de-France) (ex groupe HEI-ISA-ISEN) / Institut supérieur d'agriculture de Lille Yncréa Hauts-de-France",
         "description": "",
-        "location": "",
+        "location": "50.63330, 3.06670",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -745,7 +745,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs ENSIL-ENSCI",
         "description": "",
-        "location": "",
+        "location": "45.85000, 1.25000",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -762,7 +762,7 @@
         "type": "engineer",
         "title": "Institut d'ingénierie informatique de Limoges",
         "description": "",
-        "location": "",
+        "location": "45.85000, 1.25000",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -775,7 +775,7 @@
         "type": "engineer",
         "title": "École centrale de Lyon",
         "description": "",
-        "location": "",
+        "location": "45.78690, 4.77580",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -787,7 +787,7 @@
         "type": "engineer",
         "title": "École nationale d'ingénieurs de Saint-Étienne",
         "description": "",
-        "location": "",
+        "location": "45.43970, 4.38720",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -801,7 +801,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées de Lyon",
         "description": "",
-        "location": "",
+        "location": "45.78420, 4.87890",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -824,7 +824,7 @@
         "type": "engineer",
         "title": "Télécom Saint-Étienne",
         "description": "",
-        "location": "",
+        "location": "45.43970, 4.38720",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -841,7 +841,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université Lyon-I",
         "description": "",
-        "location": "",
+        "location": "45.78330, 4.86670",
         "country": "FR",
         "subjects": [
             "Biomedical Engineering",
@@ -859,7 +859,7 @@
         "type": "engineer",
         "title": "École nationale des travaux publics de l'État",
         "description": "",
-        "location": "",
+        "location": "45.78330, 4.91670",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -875,7 +875,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des mines de Saint-Étienne",
         "description": "",
-        "location": "",
+        "location": "45.43970, 4.38720",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -893,7 +893,7 @@
         "type": "engineer",
         "title": "Institut national d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement",
         "description": "",
-        "location": "",
+        "location": "45.75000, 4.85000",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -909,7 +909,7 @@
         "type": "engineer",
         "title": "École supérieure de chimie, physique, électronique de Lyon",
         "description": "",
-        "location": "",
+        "location": "45.78420, 4.86610",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -926,7 +926,7 @@
         "type": "engineer",
         "title": "ECAM Lasalle",
         "description": "",
-        "location": "",
+        "location": "45.77250, 4.81420",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -940,19 +940,19 @@
     {
         "id": 10063,
         "type": "engineer",
-        "title": "Anciennement ECAM Strasbourg-Europe",
+        "title": "ECAM LaSalle",
         "description": "",
-        "location": "",
+        "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [],
-        "website": ""
+        "website": "http://www.ecam.fr/"
     },
     {
         "id": 10064,
         "type": "engineer",
         "title": "Institut textile et chimique de Lyon",
         "description": "",
-        "location": "",
+        "location": "45.68850, 4.95760",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -964,7 +964,7 @@
         "type": "engineer",
         "title": "Institut supérieur d'agriculture Rhône-Alpes",
         "description": "",
-        "location": "",
+        "location": "45.77390, 4.81220",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -977,7 +977,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de chimie de Montpellier",
         "description": "",
-        "location": "",
+        "location": "43.63140, 3.85970",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -990,7 +990,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de Montpellier",
         "description": "",
-        "location": "",
+        "location": "43.63140, 3.85970",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1011,7 +1011,7 @@
         "type": "engineer",
         "title": "Université de Perpignan",
         "description": "",
-        "location": "",
+        "location": "42.70470, 2.89310",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -1023,7 +1023,7 @@
         "type": "engineer",
         "title": "Institut national d'études supérieures agronomiques de Montpellier",
         "description": "",
-        "location": "",
+        "location": "43.61080, 3.87670",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1036,7 +1036,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des mines d'Alès",
         "description": "",
-        "location": "",
+        "location": "44.12780, 4.08110",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -1051,7 +1051,7 @@
         "type": "engineer",
         "title": "École nationale d'ingénieurs de Metz",
         "description": "",
-        "location": "",
+        "location": "49.11970, 6.21580",
         "country": "FR",
         "subjects": [
             "Management",
@@ -1065,7 +1065,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'agronomie et des industries alimentaires",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1078,7 +1078,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'électricité et de mécanique de Nancy",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1091,7 +1091,7 @@
         "type": "engineer",
         "title": "École européenne d'ingénieurs en génie des matériaux",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1103,7 +1103,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des mines de Nancy",
         "description": "",
-        "location": "",
+        "location": "48.68420, 6.16030",
         "country": "FR",
         "subjects": [
             "Management",
@@ -1117,7 +1117,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de géologie",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Earth Sciences"
@@ -1129,7 +1129,7 @@
         "type": "engineer",
         "title": "École nationale supérieure en génie des systèmes et de l'innovation",
         "description": "",
-        "location": "",
+        "location": "48.69360, 6.18250",
         "country": "FR",
         "subjects": [
             "Business Administration",
@@ -1142,7 +1142,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des industries chimiques",
         "description": "",
-        "location": "",
+        "location": "48.69360, 6.18250",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -1155,7 +1155,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des technologies et industries du bois",
         "description": "",
-        "location": "",
+        "location": "48.17920, 6.45280",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1167,7 +1167,7 @@
         "type": "engineer",
         "title": "Télécom Nancy",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1180,7 +1180,7 @@
         "type": "engineer",
         "title": "École polytechnique de l'université de Lorraine",
         "description": "",
-        "location": "",
+        "location": "48.66670, 6.15000",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1197,7 +1197,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs des travaux de la construction de Metz",
         "description": "",
-        "location": "",
+        "location": "49.11970, 6.21580",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -1209,7 +1209,7 @@
         "type": "engineer",
         "title": "École supérieure du soudage et de ses applications",
         "description": "",
-        "location": "",
+        "location": "49.11970, 6.21580",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1221,7 +1221,7 @@
         "type": "engineer",
         "title": "École centrale de Nantes",
         "description": "",
-        "location": "",
+        "location": "47.24830, -1.55310",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -1234,7 +1234,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université de Nantes",
         "description": "",
-        "location": "",
+        "location": "47.24310, -1.55390",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1254,7 +1254,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs du Mans",
         "description": "",
-        "location": "",
+        "location": "48.01960, 0.14560",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1269,7 +1269,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université d'Angers",
         "description": "",
-        "location": "",
+        "location": "47.47840, -0.60570",
         "country": "FR",
         "subjects": [
             "Biological Sciences",
@@ -1287,7 +1287,7 @@
         "type": "engineer",
         "title": "École nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique",
         "description": "",
-        "location": "",
+        "location": "47.26000, -1.68500",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1301,7 +1301,7 @@
         "type": "engineer",
         "title": "École supérieure angevine d'informatique et de productique",
         "description": "",
-        "location": "",
+        "location": "47.47840, -0.60570",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1316,7 +1316,7 @@
         "type": "engineer",
         "title": "École supérieure d'électronique de l'Ouest",
         "description": "",
-        "location": "",
+        "location": "47.49360, -0.55140",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1331,7 +1331,7 @@
         "type": "engineer",
         "title": "École supérieure d'agriculture",
         "description": "",
-        "location": "",
+        "location": "47.46830, -0.55640",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1344,7 +1344,7 @@
         "type": "engineer",
         "title": "École supérieure du bois",
         "description": "",
-        "location": "",
+        "location": "47.25830, -1.51670",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1356,7 +1356,7 @@
         "type": "engineer",
         "title": "Institut supérieur des matériaux du Mans",
         "description": "",
-        "location": "",
+        "location": "48.01960, 0.14560",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1368,7 +1368,7 @@
         "type": "engineer",
         "title": "ISTOM - École supérieure d'agro-développement international",
         "description": "",
-        "location": "",
+        "location": "47.47840, -0.60570",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1381,7 +1381,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université Côte d'Azur",
         "description": "",
-        "location": "",
+        "location": "43.61500, 7.07190",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1399,7 +1399,7 @@
         "type": "engineer",
         "title": "École d’ingénieurs de l’université de Toulon",
         "description": "",
-        "location": "",
+        "location": "43.14110, 6.01250",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -1411,7 +1411,7 @@
         "type": "engineer",
         "title": "Institut supérieur de l'électronique et du numérique de Toulon",
         "description": "",
-        "location": "",
+        "location": "43.12420, 5.92810",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1419,14 +1419,14 @@
             "Electrical & Electronic Engineering",
             "Mathematics"
         ],
-        "website": ""
+        "website": "https://www.isen.fr/"
     },
     {
         "id": 10098,
         "type": "engineer",
         "title": "EURECOM",
         "description": "",
-        "location": "",
+        "location": "43.61500, 7.07190",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1439,7 +1439,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs de Caen",
         "description": "",
-        "location": "",
+        "location": "49.21390, -0.37080",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1460,7 +1460,7 @@
         "type": "engineer",
         "title": "Université de Caen Normandie École d'ingénieurs de l'université de Caen (ESIX Normandie)",
         "description": "",
-        "location": "",
+        "location": "49.21390, -0.37080",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1477,7 +1477,7 @@
         "type": "engineer",
         "title": "Builders École d'ingénieurs",
         "description": "",
-        "location": "",
+        "location": "49.18290, -0.37060",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -1489,7 +1489,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées de Rouen",
         "description": "",
-        "location": "",
+        "location": "49.38530, 1.07610",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -1510,7 +1510,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en innovation technologique",
         "description": "",
-        "location": "",
+        "location": "49.44310, 1.09930",
         "country": "FR",
         "subjects": [
             "Biological Sciences",
@@ -1525,7 +1525,7 @@
         "type": "engineer",
         "title": "Institut supérieur d'études logistiques",
         "description": "",
-        "location": "",
+        "location": "49.49440, 0.12360",
         "country": "FR",
         "subjects": [
             "Management",
@@ -1539,7 +1539,7 @@
         "type": "engineer",
         "title": "École nationale supérieure maritime",
         "description": "",
-        "location": "",
+        "location": "49.49440, 0.12360",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -1552,7 +1552,7 @@
         "type": "engineer",
         "title": "Esitpa, école d'ingénieurs en agriculture",
         "description": "",
-        "location": "",
+        "location": "49.38530, 1.07610",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1565,7 +1565,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en génie électrique",
         "description": "",
-        "location": "",
+        "location": "49.44310, 1.09930",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1578,7 +1578,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées Centre Val de Loire",
         "description": "",
-        "location": "",
+        "location": "47.68330, 1.33330",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1596,7 +1596,7 @@
         "type": "engineer",
         "title": "École polytechnique de l'université d'Orléans",
         "description": "",
-        "location": "",
+        "location": "47.84220, 1.93920",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -1613,7 +1613,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université de Tours",
         "description": "",
-        "location": "",
+        "location": "47.35560, 0.69030",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1630,7 +1630,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de mécanique et d'aérotechnique de Poitiers",
         "description": "",
-        "location": "",
+        "location": "46.65830, 0.36670",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -1644,7 +1644,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs de Poitiers",
         "description": "",
-        "location": "",
+        "location": "46.58030, 0.38580",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1659,7 +1659,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs généralistes - La Rochelle",
         "description": "",
-        "location": "",
+        "location": "46.16030, -1.15110",
         "country": "FR",
         "subjects": [
             "Management",
@@ -1672,7 +1672,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs de Reims",
         "description": "",
-        "location": "",
+        "location": "49.25830, 4.03110",
         "country": "FR",
         "subjects": [
             "Civil Engineering",
@@ -1687,7 +1687,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs en sciences industrielles et numérique",
         "description": "",
-        "location": "",
+        "location": "49.25830, 4.03110",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1704,7 +1704,7 @@
         "type": "engineer",
         "title": "Université de technologie de Troyes",
         "description": "",
-        "location": "",
+        "location": "48.26940, 4.07170",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1724,7 +1724,7 @@
         "type": "engineer",
         "title": "École nationale d'ingénieurs de Brest",
         "description": "",
-        "location": "",
+        "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [],
         "website": "https://www.enib.fr/"
@@ -1734,7 +1734,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de chimie de Rennes",
         "description": "",
-        "location": "",
+        "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -1747,7 +1747,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées de Rennes",
         "description": "",
-        "location": "",
+        "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1767,7 +1767,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en agroalimentaire de Bretagne atlantique",
         "description": "",
-        "location": "",
+        "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1781,7 +1781,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de sciences appliquées et de technologie de Lannion",
         "description": "",
-        "location": "",
+        "location": "48.73330, -3.45000",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1798,7 +1798,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs de Rennes",
         "description": "",
-        "location": "",
+        "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1812,7 +1812,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs de Bretagne Sud",
         "description": "",
-        "location": "",
+        "location": "47.74860, -3.37000",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1827,7 +1827,7 @@
         "type": "engineer",
         "title": "Institut national supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage",
         "description": "",
-        "location": "",
+        "location": "47.47840, -0.60570",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1840,7 +1840,7 @@
         "type": "engineer",
         "title": "École navale",
         "description": "",
-        "location": "",
+        "location": "48.28330, -4.50000",
         "country": "FR",
         "subjects": [],
         "website": "https://www.ecole-navale.fr/"
@@ -1850,7 +1850,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de techniques avancées Bretagne",
         "description": "",
-        "location": "",
+        "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1864,7 +1864,7 @@
         "type": "engineer",
         "title": "École spéciale militaire de Saint-Cyr",
         "description": "",
-        "location": "",
+        "location": "47.92500, 2.13330",
         "country": "FR",
         "subjects": [],
         "website": "https://www.terre.defense.gouv.fr/amscc"
@@ -1874,7 +1874,7 @@
         "type": "engineer",
         "title": "École nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire",
         "description": "",
-        "location": "",
+        "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -1889,7 +1889,7 @@
         "type": "engineer",
         "title": "École nationale de la statistique et de l'analyse de l'information",
         "description": "",
-        "location": "",
+        "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
             "Economics",
@@ -1902,7 +1902,7 @@
         "type": "engineer",
         "title": "ECAM Rennes - Louis de Broglie",
         "description": "",
-        "location": "",
+        "location": "48.11720, -1.67780",
         "country": "FR",
         "subjects": [
             "Management",
@@ -1915,7 +1915,7 @@
         "type": "engineer",
         "title": "Institut supérieur de l'électronique et du numérique de Brest",
         "description": "",
-        "location": "",
+        "location": "48.39080, -4.48640",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1930,7 +1930,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs Réunion océan Indien",
         "description": "",
-        "location": "",
+        "location": "-20.87890, 55.47640",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -1946,7 +1946,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées de Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1964,7 +1964,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de chimie de Mulhouse",
         "description": "",
-        "location": "",
+        "location": "47.75000, 7.33330",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -1977,7 +1977,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'ingénieurs Sud Alsace",
         "description": "",
-        "location": "",
+        "location": "47.75000, 7.33330",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -1995,7 +1995,7 @@
         "type": "engineer",
         "title": "Université de Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
             "Biological Sciences",
@@ -2009,7 +2009,7 @@
         "type": "engineer",
         "title": "École et observatoire des sciences de la Terre",
         "description": "",
-        "location": "",
+        "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
             "Earth Sciences"
@@ -2021,7 +2021,7 @@
         "type": "engineer",
         "title": "École européenne de chimie, polymères et matériaux de Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.61500, 7.71250",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -2035,7 +2035,7 @@
         "type": "engineer",
         "title": "Télécom physique Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.61500, 7.71250",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2053,7 +2053,7 @@
         "type": "engineer",
         "title": "École supérieure de biotechnologie de Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.61500, 7.71250",
         "country": "FR",
         "subjects": [
             "Biological Sciences"
@@ -2065,7 +2065,7 @@
         "type": "engineer",
         "title": "École nationale du génie de l'eau et de l'environnement de Strasbourg",
         "description": "",
-        "location": "",
+        "location": "48.58390, 7.74550",
         "country": "FR",
         "subjects": [
             "Environmental Science & Engineering"
@@ -2077,7 +2077,7 @@
         "type": "engineer",
         "title": "École nationale d'ingénieurs de Tarbes",
         "description": "",
-        "location": "",
+        "location": "43.23280, 0.07810",
         "country": "FR",
         "subjects": [
             "Mechanical Engineering"
@@ -2089,7 +2089,7 @@
         "type": "engineer",
         "title": "École nationale supérieure agronomique de Toulouse",
         "description": "",
-        "location": "",
+        "location": "43.52830, 1.52640",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2102,7 +2102,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des ingénieurs en arts chimiques et technologiques",
         "description": "",
-        "location": "",
+        "location": "43.58330, 1.45000",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -2120,7 +2120,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des télécommunications",
         "description": "",
-        "location": "",
+        "location": "43.59970, 1.45830",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2138,7 +2138,7 @@
         "type": "engineer",
         "title": "Institut national des sciences appliquées de Toulouse",
         "description": "",
-        "location": "",
+        "location": "43.57140, 1.46560",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2160,7 +2160,7 @@
         "type": "engineer",
         "title": "Institut national universitaire Jean-François Champollion (École d'ingénieurs ISIS)",
         "description": "",
-        "location": "",
+        "location": "43.92970, 2.14810",
         "country": "FR",
         "subjects": [
             "Biomedical Engineering",
@@ -2172,9 +2172,9 @@
     {
         "id": 10148,
         "type": "engineer",
+        "location": "43.56030, 1.46810",
         "title": "Université Toulouse III (UPSSITECH)",
         "description": "",
-        "location": "",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2192,7 +2192,7 @@
         "type": "engineer",
         "title": "Institut supérieur de l'aéronautique et de l'espace",
         "description": "",
-        "location": "",
+        "location": "43.56470, 1.48110",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -2207,7 +2207,7 @@
         "type": "engineer",
         "title": "École nationale de l'aviation civile",
         "description": "",
-        "location": "",
+        "location": "43.56080, 1.48000",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -2220,7 +2220,7 @@
         "type": "engineer",
         "title": "École nationale de la météorologie",
         "description": "",
-        "location": "",
+        "location": "43.56080, 1.48000",
         "country": "FR",
         "subjects": [
             "Environmental Science & Engineering"
@@ -2232,7 +2232,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des mines d'Albi-Carmaux",
         "description": "",
-        "location": "",
+        "location": "43.92970, 2.14810",
         "country": "FR",
         "subjects": [],
         "website": "https://www.imt-mines-albi.fr/"
@@ -2242,7 +2242,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs de Purpan",
         "description": "",
-        "location": "",
+        "location": "43.61670, 1.38330",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2255,7 +2255,7 @@
         "type": "engineer",
         "title": "Conservatoire national des arts et métiers",
         "description": "",
-        "location": "",
+        "location": "48.86560, 2.35530",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2284,19 +2284,19 @@
         "type": "engineer",
         "title": "CNAM, École supérieure des géomètres et topographes",
         "description": "",
-        "location": "",
+        "location": "48.86560, 2.35530",
         "country": "FR",
         "subjects": [
             "Geography"
         ],
-        "website": ""
+        "website": "http://www.cnam.fr/"
     },
     {
         "id": 10156,
         "type": "engineer",
         "title": "École nationale supérieure d'arts et métiers",
         "description": "",
-        "location": "",
+        "location": "48.83530, 2.35560",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2315,7 +2315,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de chimie de Paris",
         "description": "",
-        "location": "",
+        "location": "48.84610, 2.34560",
         "country": "FR",
         "subjects": [
             "Chemical Engineering",
@@ -2328,7 +2328,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de Sorbonne Université",
         "description": "",
-        "location": "",
+        "location": "48.84720, 2.35610",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2348,7 +2348,7 @@
         "type": "engineer",
         "title": "École d'ingénieurs Denis-Diderot",
         "description": "",
-        "location": "",
+        "location": "48.82830, 2.38440",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2365,7 +2365,7 @@
         "type": "engineer",
         "title": "Institut national des sciences et industries du vivant et de l'environnement - Université Paris-Saclay",
         "description": "",
-        "location": "",
+        "location": "48.71280, 2.16750",
         "country": "FR",
         "subjects": [
             "Agricultural Sciences",
@@ -2378,7 +2378,7 @@
         "type": "engineer",
         "title": "École nationale supérieure des mines de Paris",
         "description": "",
-        "location": "",
+        "location": "48.84500, 2.33940",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -2390,7 +2390,7 @@
         "type": "engineer",
         "title": "École des ingénieurs de la ville de Paris",
         "description": "",
-        "location": "",
+        "location": "48.82860, 2.36220",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -2402,7 +2402,7 @@
         "type": "engineer",
         "title": "École supérieure de physique et de chimie industrielles de la ville de Paris",
         "description": "",
-        "location": "",
+        "location": "48.84470, 2.34860",
         "country": "FR",
         "subjects": [],
         "website": "https://www.espci.psl.eu/"
@@ -2412,7 +2412,7 @@
         "type": "engineer",
         "title": "École centrale d'électronique",
         "description": "",
-        "location": "",
+        "location": "48.85000, 2.28330",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2425,7 +2425,7 @@
         "type": "engineer",
         "title": "École supérieure d'informatique, électronique, automatique",
         "description": "",
-        "location": "",
+        "location": "48.82500, 2.26670",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2440,7 +2440,7 @@
         "type": "engineer",
         "title": "Institut supérieur d'électronique de Paris",
         "description": "",
-        "location": "",
+        "location": "48.85170, 2.32750",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2455,7 +2455,7 @@
         "type": "engineer",
         "title": "Institut catholique d'arts et métiers",
         "description": "",
-        "location": "",
+        "location": "48.85000, 2.28330",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2469,7 +2469,7 @@
         "type": "engineer",
         "title": "Institut supérieur de mécanique de Paris",
         "description": "",
-        "location": "",
+        "location": "48.91390, 2.32420",
         "country": "FR",
         "subjects": [
             "Management",
@@ -2482,7 +2482,7 @@
         "type": "engineer",
         "title": "École publique d'ingénieurs de la santé et du numérique",
         "description": "",
-        "location": "",
+        "location": "48.79000, 2.45000",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2498,7 +2498,7 @@
         "type": "engineer",
         "title": "Institut Galilée - Université Sorbonne Paris Nord",
         "description": "",
-        "location": "",
+        "location": "48.95670, 2.34280",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2516,7 +2516,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs de Paris-Est (ESIPE) de l'université Gustave Eiffel",
         "description": "",
-        "location": "",
+        "location": "48.84150, 2.58540",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2535,7 +2535,7 @@
         "type": "engineer",
         "title": "École nationale des ponts et chaussées",
         "description": "",
-        "location": "",
+        "location": "48.84150, 2.58540",
         "country": "FR",
         "subjects": [],
         "website": "https://www.ecoledesponts.fr/"
@@ -2545,7 +2545,7 @@
         "type": "engineer",
         "title": "École nationale des sciences géographiques",
         "description": "",
-        "location": "",
+        "location": "48.84470, 2.41750",
         "country": "FR",
         "subjects": [
             "Geography"
@@ -2557,7 +2557,7 @@
         "type": "engineer",
         "title": "EFREI Paris",
         "description": "",
-        "location": "",
+        "location": "48.78920, 2.36310",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2572,7 +2572,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs en informatique et génie des télécommunications",
         "description": "",
-        "location": "",
+        "location": "48.78920, 2.36310",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -2585,7 +2585,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs des travaux de la construction de Paris",
         "description": "",
-        "location": "",
+        "location": "48.81080, 2.32750",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -2597,7 +2597,7 @@
         "type": "engineer",
         "title": "ESIEE Paris",
         "description": "",
-        "location": "",
+        "location": "48.84030, 2.57440",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2610,7 +2610,7 @@
         "type": "engineer",
         "title": "École spéciale de mécanique et d'électricité",
         "description": "",
-        "location": "",
+        "location": "48.81330, 2.39000",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2624,7 +2624,7 @@
         "type": "engineer",
         "title": "École pour l'informatique et les techniques avancées",
         "description": "",
-        "location": "",
+        "location": "48.81560, 2.35890",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -2637,7 +2637,7 @@
         "type": "engineer",
         "title": "Institut polytechnique des sciences avancées",
         "description": "",
-        "location": "",
+        "location": "48.81330, 2.39000",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -2650,7 +2650,7 @@
         "type": "engineer",
         "title": "École spéciale des travaux publics, du bâtiment et de l'industrie",
         "description": "",
-        "location": "",
+        "location": "48.79000, 2.33330",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2666,19 +2666,19 @@
         "type": "engineer",
         "title": "Institut supérieur des biotechnologies de Paris",
         "description": "",
-        "location": "",
+        "location": "48.78920, 2.36310",
         "country": "FR",
         "subjects": [
             "Biological Sciences"
         ],
-        "website": ""
+        "website": "https://www.supbiotech.fr/"
     },
     {
         "id": 10183,
         "type": "engineer",
         "title": "Centre des hautes-études de la construction",
         "description": "",
-        "location": "",
+        "location": "48.81080, 2.32750",
         "country": "FR",
         "subjects": [
             "Civil Engineering"
@@ -2690,7 +2690,7 @@
         "type": "engineer",
         "title": "CentraleSupélec",
         "description": "",
-        "location": "",
+        "location": "48.70900, 2.16440",
         "country": "FR",
         "subjects": [],
         "website": "https://www.centralesupelec.fr/"
@@ -2700,7 +2700,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de l'électronique et de ses applications",
         "description": "",
-        "location": "",
+        "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2715,7 +2715,7 @@
         "type": "engineer",
         "title": "École nationale supérieure d'informatique pour l'industrie et l'entreprise",
         "description": "",
-        "location": "",
+        "location": "48.62810, 2.43310",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -2728,7 +2728,7 @@
         "type": "engineer",
         "title": "Institut national des sciences et techniques nucléaires",
         "description": "",
-        "location": "",
+        "location": "48.72330, 2.14670",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -2740,7 +2740,7 @@
         "type": "engineer",
         "title": "Institut des sciences et techniques des Yvelines",
         "description": "",
-        "location": "",
+        "location": "48.80140, 2.13030",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2757,7 +2757,7 @@
         "type": "engineer",
         "title": "Université Paris-Nanterre, UFR SITEC",
         "description": "",
-        "location": "",
+        "location": "48.90440, 2.21440",
         "country": "FR",
         "subjects": [
             "Mechanical Engineering"
@@ -2769,7 +2769,7 @@
         "type": "engineer",
         "title": "École polytechnique universitaire de l'université Paris-Saclay",
         "description": "",
-        "location": "",
+        "location": "48.70000, 2.17000",
         "country": "FR",
         "subjects": [
             "Automation & Control",
@@ -2787,7 +2787,7 @@
         "type": "engineer",
         "title": "École polytechnique",
         "description": "",
-        "location": "",
+        "location": "48.71750, 2.21250",
         "country": "FR",
         "subjects": [],
         "website": "https://www.polytechnique.edu/"
@@ -2797,7 +2797,7 @@
         "type": "engineer",
         "title": "École nationale supérieure du pétrole et des moteurs",
         "description": "",
-        "location": "",
+        "location": "48.87500, 2.17500",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -2809,7 +2809,7 @@
         "type": "engineer",
         "title": "Télécom SudParis",
         "description": "",
-        "location": "",
+        "location": "48.62810, 2.43310",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -2824,7 +2824,7 @@
         "type": "engineer",
         "title": "École de biologie industrielle",
         "description": "",
-        "location": "",
+        "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
             "Biological Sciences"
@@ -2836,7 +2836,7 @@
         "type": "engineer",
         "title": "CY CERGY Paris Université CY TECH",
         "description": "",
-        "location": "",
+        "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
             "Biological Sciences",
@@ -2853,7 +2853,7 @@
         "type": "engineer",
         "title": "EPF",
         "description": "",
-        "location": "",
+        "location": "48.77500, 2.29170",
         "country": "FR",
         "subjects": [
             "Management",
@@ -2866,7 +2866,7 @@
         "type": "engineer",
         "title": "ECAM-EPMI",
         "description": "",
-        "location": "",
+        "location": "49.03810, 2.07330",
         "country": "FR",
         "subjects": [
             "Energy Science & Engineering"
@@ -2878,7 +2878,7 @@
         "type": "engineer",
         "title": "École supérieure des techniques aéronautiques et de construction automobile",
         "description": "",
-        "location": "",
+        "location": "48.78330, 2.05000",
         "country": "FR",
         "subjects": [
             "Aerospace Engineering",
@@ -2893,7 +2893,7 @@
         "type": "engineer",
         "title": "Institut d'optique Graduate School - Université Paris-Saclay",
         "description": "",
-        "location": "",
+        "location": "48.71750, 2.21250",
         "country": "FR",
         "subjects": [
             "Physics",
@@ -2906,7 +2906,7 @@
         "type": "engineer",
         "title": "École supérieure d'ingénieurs Léonard-de-Vinci",
         "description": "",
-        "location": "",
+        "location": "48.89170, 2.23890",
         "country": "FR",
         "subjects": [],
         "website": "https://www.esilv.fr/"
@@ -2916,7 +2916,7 @@
         "type": "engineer",
         "title": "École supérieure de fonderie et de forge",
         "description": "",
-        "location": "",
+        "location": "48.82330, 2.21330",
         "country": "FR",
         "subjects": [
             "Materials Science & Engineering"
@@ -2928,7 +2928,7 @@
         "type": "engineer",
         "title": "École nationale de la statistique et de l'administration économique",
         "description": "",
-        "location": "",
+        "location": "48.71750, 2.21250",
         "country": "FR",
         "subjects": [
             "Computer Science & Engineering",
@@ -2941,7 +2941,7 @@
         "type": "engineer",
         "title": "École nationale supérieure de techniques avancées",
         "description": "",
-        "location": "",
+        "location": "48.71750, 2.21250",
         "country": "FR",
         "subjects": [],
         "website": "https://ensta.fr/"
@@ -2951,7 +2951,7 @@
         "type": "engineer",
         "title": "Télécom Paris",
         "description": "",
-        "location": "",
+        "location": "48.71750, 2.21250",
         "country": "FR",
         "subjects": [],
         "website": "https://www.telecom-paris.fr/"
@@ -2961,7 +2961,7 @@
         "type": "engineer",
         "title": "CESI",
         "description": "",
-        "location": "",
+        "location": "48.90440, 2.21440",
         "country": "FR",
         "subjects": [
             "Civil Engineering",

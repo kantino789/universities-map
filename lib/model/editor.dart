@@ -42,8 +42,10 @@ class Editor extends StringPropertyChangeNotifier {
       // 3. Map each JSON object to a Poi instance
       _poisById.clear();
       for (final jsonItem in data) {
+        try {
         final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
         _poisById[poi.id] = poi;
+        } catch (e) {}
       }
       await Future.wait([_populateFavorites(), _populateNotes()]);
       return true;
