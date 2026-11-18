@@ -2971,5 +2971,1074 @@
             "Mechanical Engineering"
         ],
         "website": "http://www.cesi.fr/"
+    },
+    {
+        "id": 10206,
+        "type": "university",
+        "title": "Avignon université (AU)",
+        "description": "",
+        "location": "43.91120, 4.88950",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Law",
+            "Literature & Languages",
+            "History & Archaeology",
+            "Geography"
+        ],
+        "website": "http://univ-avignon.fr/"
+    },
+    {
+        "id": 10207,
+        "type": "university",
+        "title": "Aix-Marseille université",
+        "description": "",
+        "location": "43.30330, 5.38110",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Law",
+            "Business Administration",
+            "Economics",
+            "Biological Sciences",
+            "Physics",
+            "Oceanography",
+            "Engineering"
+        ],
+        "website": "https://www.univ-amu.fr/"
+    },
+    {
+        "id": 10208,
+        "type": "university",
+        "title": "Communauté d'universités et établissements (COMUE) Angers - Le Mans",
+        "description": "",
+        "location": "47.47840, -0.60570",
+        "country": "FR",
+        "subjects": [
+            "Agricultural Sciences",
+            "Law",
+            "Plant Sciences",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.univ-angerslemans.fr/"
+    },
+    {
+        "id": 10209,
+        "type": "university",
+        "title": "La Rochelle Université",
+        "description": "",
+        "location": "46.14780, -1.15110",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Marine/Ocean Engineering",
+            "Computer Science & Engineering",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-larochelle.fr/"
+    },
+    {
+        "id": 10210,
+        "type": "university",
+        "title": "Nantes Université",
+        "description": "",
+        "location": "47.24310, -1.55390",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Marine/Ocean Engineering",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Law",
+            "Biology"
+        ],
+        "website": "https://www.univ-nantes.fr/"
+    },
+    {
+        "id": 10211,
+        "type": "university",
+        "title": "Université d'Artois - Arras",
+        "description": "",
+        "location": "50.29100, 2.77700",
+        "country": "FR",
+        "subjects": [
+            "History & Archaeology",
+            "Literature & Languages",
+            "Computer Science & Engineering",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-artois.fr/"
+    },
+    {
+        "id": 10212,
+        "type": "university",
+        "title": "Université Clermont Auvergne",
+        "description": "",
+        "location": "45.77720, 3.08700",
+        "country": "FR",
+        "subjects": [
+            "Earth Sciences",
+            "Atmospheric Science",
+            "Clinical Medicine",
+            "Chemistry",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.uca.fr/"
+    },
+    {
+        "id": 10213,
+        "type": "university",
+        "title": "Université Bordeaux-Montaigne",
+        "description": "",
+        "location": "44.80640, -0.60830",
+        "country": "FR",
+        "subjects": [
+            "Geography",
+            "History & Archaeology",
+            "Literature & Languages",
+            "Communication",
+            "Psychology"
+        ],
+        "website": "https://www.u-bordeaux-montaigne.fr/"
+    },
+    {
+        "id": 10214,
+        "type": "university",
+        "title": "Université ComUE Lyon",
+        "description": "",
+        "location": "45.75000, 4.85000",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Biological Sciences",
+            "Computer Science & Engineering",
+            "Physics",
+            "Business Administration",
+            "Law"
+        ],
+        "website": "https://www.universite-lyon.fr/"
+    },
+    {
+        "id": 10215,
+        "type": "university",
+        "title": "Université Côte d'Azur",
+        "description": "",
+        "location": "43.71020, 7.26200",
+        "country": "FR",
+        "subjects": [
+            "Artificial Intelligence",
+            "Marine/Ocean Engineering",
+            "Economics",
+            "Biological Sciences",
+            "Hospitality & Tourism Management"
+        ],
+        "website": "https://univ-cotedazur.fr/"
+    },
+    {
+        "id": 10216,
+        "type": "university",
+        "title": "Université de Bordeaux",
+        "description": "",
+        "location": "44.80800, -0.60800",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Neuroscience",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Materials Science & Engineering",
+            "Oenology & Wine Science",
+            "Law"
+        ],
+        "website": "https://www.u-bordeaux.fr/"
+    },
+    {
+        "id": 10217,
+        "type": "university",
+        "title": "Université Bourgogne Europe",
+        "description": "",
+        "location": "47.32200, 5.04150",
+        "country": "FR",
+        "subjects": [
+            "Food Science & Technology",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Law",
+            "Vine & Wine Sciences"
+        ],
+        "website": "https://www.ube.fr/"
+    },
+    {
+        "id": 10218,
+        "type": "university",
+        "title": "Université de Brest",
+        "description": "",
+        "location": "48.39080, -4.48640",
+        "country": "FR",
+        "subjects": [
+            "Oceanography",
+            "Marine/Ocean Engineering",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Geography"
+        ],
+        "website": "https://www.univ-brest.fr/"
+    },
+    {
+        "id": 10219,
+        "type": "university",
+        "title": "Université de Bretagne-Sud - Lorient",
+        "description": "",
+        "location": "47.74860, -3.37000",
+        "country": "FR",
+        "subjects": [
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Marine/Ocean Engineering",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-ubs.fr/"
+    },
+    {
+        "id": 10220,
+        "type": "university",
+        "title": "Université de Caen Normandie",
+        "description": "",
+        "location": "49.21390, -0.37080",
+        "country": "FR",
+        "subjects": [
+            "Nuclear Physics",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Law"
+        ],
+        "website": "https://www.unicaen.fr/"
+    },
+    {
+        "id": 10221,
+        "type": "university",
+        "title": "Université de Corse Pasquale Paoli - Corte",
+        "description": "",
+        "location": "42.30830, 9.15000",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Energy Science & Engineering",
+            "Law",
+            "Geography",
+            "Biological Sciences"
+        ],
+        "website": "https://www.universita.corsica/fr"
+    },
+    {
+        "id": 10222,
+        "type": "university",
+        "title": "Université de Marie et Louis Pasteur - Besançon",
+        "description": "",
+        "location": "47.24840, 6.02760",
+        "country": "FR",
+        "subjects": [
+            "Chronometry",
+            "Optics",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Law"
+        ],
+        "website": "https://www.umlp.fr/presentation-de-luniversite"
+    },
+    {
+        "id": 10223,
+        "type": "university",
+        "title": "Université de Cergy-Pontoise",
+        "description": "",
+        "location": "49.03810, 2.07330",
+        "country": "FR",
+        "subjects": [
+            "Law",
+            "Economics",
+            "Computer Science & Engineering",
+            "Physics",
+            "Civil Engineering"
+        ],
+        "website": "https://www.u-cergy.fr/"
+    },
+    {
+        "id": 10224,
+        "type": "university",
+        "title": "Université de Guyane",
+        "description": "",
+        "location": "4.93260, -52.30190",
+        "country": "FR",
+        "subjects": [
+            "Biodiversity",
+            "Environmental Science & Engineering",
+            "Geography",
+            "Law",
+            "Public Health"
+        ],
+        "website": "https://www.univ-guyane.fr/"
+    },
+    {
+        "id": 10225,
+        "type": "university",
+        "title": "Université de Haute-Alsace - Mulhouse",
+        "description": "",
+        "location": "47.75000, 7.33330",
+        "country": "FR",
+        "subjects": [
+            "Textile Science & Engineering",
+            "Chemistry",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Business Administration"
+        ],
+        "website": "http://www.uha.fr/"
+    },
+    {
+        "id": 10226,
+        "type": "university",
+        "title": "Université de Lille",
+        "description": "",
+        "location": "50.60990, 3.13750",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Economics",
+            "Computer Science & Engineering",
+            "Sociology",
+            "Chemical Engineering",
+            "Civil Engineering"
+        ],
+        "website": "https://www.univ-lille.fr/"
+    },
+    {
+        "id": 10227,
+        "type": "university",
+        "title": "Université de Limoges",
+        "description": "",
+        "location": "45.85000, 1.25000",
+        "country": "FR",
+        "subjects": [
+            "Materials Science & Engineering",
+            "Ceramics",
+            "Clinical Medicine",
+            "Limnology",
+            "Law"
+        ],
+        "website": "https://www.unilim.fr/"
+    },
+    {
+        "id": 10228,
+        "type": "university",
+        "title": "Université de Lorraine - Nancy",
+        "description": "",
+        "location": "48.69360, 6.18250",
+        "country": "FR",
+        "subjects": [
+            "Materials Science & Engineering",
+            "Metallurgical Engineering",
+            "Mining & Mineral Engineering",
+            "Chemical Engineering",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.univ-lorraine.fr/"
+    },
+    {
+        "id": 10229,
+        "type": "university",
+        "title": "Université de Nîmes",
+        "description": "",
+        "location": "43.83670, 4.36000",
+        "country": "FR",
+        "subjects": [
+            "Psychology",
+            "Design",
+            "Nursing",
+            "Risk Management",
+            "History & Archaeology"
+        ],
+        "website": "https://www.unimes.fr/"
+    },
+    {
+        "id": 10230,
+        "type": "university",
+        "title": "Université de Montpellier",
+        "description": "",
+        "location": "43.61080, 3.87670",
+        "country": "FR",
+        "subjects": [
+            "Agricultural Sciences",
+            "Clinical Medicine",
+            "Ecology",
+            "Chemistry",
+            "Biology",
+            "Law"
+        ],
+        "website": "https://www.umontpellier.fr/"
+    },
+    {
+        "id": 10231,
+        "type": "university",
+        "title": "Université de Montpellier Paul Valéry",
+        "description": "",
+        "location": "43.63330, 3.86670",
+        "country": "FR",
+        "subjects": [
+            "Literature & Languages",
+            "Psychology",
+            "Sociology",
+            "History & Archaeology",
+            "Art History"
+        ],
+        "website": "https://www.univ-montp3.fr/"
+    },
+    {
+        "id": 10232,
+        "type": "university",
+        "title": "Université Paris Cité",
+        "description": "",
+        "location": "48.85200, 2.33800",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Biological Sciences",
+            "Psychology",
+            "Mathematics",
+            "Physics"
+        ],
+        "website": "https://u-paris.fr/"
+    },
+    {
+        "id": 10233,
+        "type": "university",
+        "title": "Université de Picardie Jules Verne - Amiens",
+        "description": "",
+        "location": "49.89420, 2.29580",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "History & Archaeology",
+            "Law",
+            "Sports Science",
+            "Literature & Languages"
+        ],
+        "website": "https://www.u-picardie.fr/"
+    },
+    {
+        "id": 10234,
+        "type": "university",
+        "title": "Université de la Nouvelle-Calédonie",
+        "description": "",
+        "location": "-22.26800, 166.41830",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Biodiversity",
+            "Law",
+            "Economics",
+            "Mining & Mineral Engineering"
+        ],
+        "website": "http://unc.nc/"
+    },
+    {
+        "id": 10235,
+        "type": "university",
+        "title": "Université d'Orléans",
+        "description": "",
+        "location": "47.84220, 1.93920",
+        "country": "FR",
+        "subjects": [
+            "Energy Science & Engineering",
+            "Chemistry",
+            "Earth Sciences",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-orleans.fr/fr"
+    },
+    {
+        "id": 10236,
+        "type": "university",
+        "title": "Université Grenoble Alpes (UGA)",
+        "description": "",
+        "location": "45.19150, 5.76750",
+        "country": "FR",
+        "subjects": [
+            "Physics",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering",
+            "Earth Sciences",
+            "Clinical Medicine",
+            "Engineering"
+        ],
+        "website": "https://www.univ-grenoble-alpes.fr/"
+    },
+    {
+        "id": 10237,
+        "type": "university",
+        "title": "Université des Antilles - Pôle Guadeloupe",
+        "description": "",
+        "location": "16.23070, -61.53320",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Marine/Ocean Engineering",
+            "Law",
+            "Economics",
+            "Biological Sciences"
+        ],
+        "website": "http://www.univ-ag.fr/"
+    },
+    {
+        "id": 10238,
+        "type": "university",
+        "title": "Université des Antilles - Pôle Martinique",
+        "description": "",
+        "location": "14.61500, -61.05830",
+        "country": "FR",
+        "subjects": [
+            "History & Archaeology",
+            "Geography",
+            "Law",
+            "Economics",
+            "Literature & Languages"
+        ],
+        "website": "http://www.univ-ag.fr/organisation-fonctionnement/pole-martinique"
+    },
+    {
+        "id": 10239,
+        "type": "university",
+        "title": "Université du Havre Normandie",
+        "description": "",
+        "location": "49.49440, 0.12360",
+        "country": "FR",
+        "subjects": [
+            "Logistics",
+            "Marine/Ocean Engineering",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Law"
+        ],
+        "website": "https://www.univ-lehavre.fr/"
+    },
+    {
+        "id": 10240,
+        "type": "university",
+        "title": "Université du Littoral Côte d'Opale - Dunkerque",
+        "description": "",
+        "location": "51.03430, 2.37670",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Marine/Ocean Engineering",
+            "Computer Science & Engineering",
+            "Law",
+            "Business Administration"
+        ],
+        "website": "https://www.univ-littoral.fr/"
+    },
+    {
+        "id": 10241,
+        "type": "university",
+        "title": "Université Gustave Eiffel",
+        "description": "",
+        "location": "48.84150, 2.58540",
+        "country": "FR",
+        "subjects": [
+            "Transportation Science & Technology",
+            "Civil Engineering",
+            "Urban Planning",
+            "Materials Science & Engineering",
+            "Economics"
+        ],
+        "website": "https://www.univ-gustave-eiffel.fr/"
+    },
+    {
+        "id": 10242,
+        "type": "university",
+        "title": "Université Paris Dauphine - PSL",
+        "description": "",
+        "location": "48.87140, 2.27780",
+        "country": "FR",
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Economics",
+            "Mathematics",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://dauphine.psl.eu/"
+    },
+    {
+        "id": 10243,
+        "type": "university",
+        "title": "Université Paris-Est Créteil Val-de-Marne",
+        "description": "",
+        "location": "48.79000, 2.45000",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Law",
+            "Education",
+            "Geography",
+            "Biological Sciences"
+        ],
+        "website": "http://www.u-pec.fr/"
+    },
+    {
+        "id": 10244,
+        "type": "university",
+        "title": "Université Paris Nanterre",
+        "description": "",
+        "location": "48.90440, 2.21440",
+        "country": "FR",
+        "subjects": [
+            "Law",
+            "Economics",
+            "Psychology",
+            "Literature & Languages",
+            "History & Archaeology"
+        ],
+        "website": "https://www.parisnanterre.fr/"
+    },
+    {
+        "id": 10245,
+        "type": "university",
+        "title": "Université Paris-Panthéon-Assas",
+        "description": "",
+        "location": "48.84670, 2.34330",
+        "country": "FR",
+        "subjects": [
+            "Law",
+            "Political Sciences",
+            "Economics",
+            "Business Administration",
+            "Communication"
+        ],
+        "website": "https://www.assas-universite.fr/fr"
+    },
+    {
+        "id": 10246,
+        "type": "university",
+        "title": "Université Paris 1 - Panthéon-Sorbonne",
+        "description": "",
+        "location": "48.84830, 2.34330",
+        "country": "FR",
+        "subjects": [
+            "Law",
+            "Economics",
+            "History & Archaeology",
+            "Philosophy",
+            "Geography"
+        ],
+        "website": "http://www.pantheonsorbonne.fr/"
+    },
+    {
+        "id": 10247,
+        "type": "university",
+        "title": "Université Paris 3 - Sorbonne nouvelle",
+        "description": "",
+        "location": "48.83500, 2.36110",
+        "country": "FR",
+        "subjects": [
+            "Literature & Languages",
+            "Communication",
+            "Theatre & Cinema Studies",
+            "History & Archaeology",
+            "Education"
+        ],
+        "website": "https://www.sorbonne-nouvelle.fr/"
+    },
+    {
+        "id": 10248,
+        "type": "university",
+        "title": "Université Paris 4 et Paris 6 - Sorbonne Université",
+        "description": "",
+        "location": "48.84720, 2.35610",
+        "country": "FR",
+        "subjects": [
+            "Mathematics",
+            "Physics",
+            "Clinical Medicine",
+            "Literature & Languages",
+            "History & Archaeology",
+            "Chemistry"
+        ],
+        "website": "https://www.sorbonne-universite.fr/"
+    },
+    {
+        "id": 10249,
+        "type": "university",
+        "title": "Université Évry Paris-Saclay",
+        "description": "",
+        "location": "48.62810, 2.43310",
+        "country": "FR",
+        "subjects": [
+            "Biological Sciences",
+            "Genetics",
+            "Computer Science & Engineering",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-evry.fr/"
+    },
+    {
+        "id": 10250,
+        "type": "university",
+        "title": "Université Paris-Saclay - IUT d'Orsay",
+        "description": "",
+        "location": "48.70560, 2.17220",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Chemistry",
+            "Biological Sciences",
+            "Physics",
+            "Measurement Science"
+        ],
+        "website": "https://www.iut-orsay.universite-paris-saclay.fr/"
+    },
+    {
+        "id": 10251,
+        "type": "university",
+        "title": "Université Paris-Saclay - Université de Versailles - Saint-Quentin-en-Yvelines",
+        "description": "",
+        "location": "48.80140, 2.13030",
+        "country": "FR",
+        "subjects": [
+            "Climate Science",
+            "Clinical Medicine",
+            "Engineering",
+            "Law",
+            "Economics"
+        ],
+        "website": "http://www.uvsq.fr/"
+    },
+    {
+        "id": 10252,
+        "type": "university",
+        "title": "Université Paris Sciences et Lettres",
+        "description": "",
+        "location": "48.84500, 2.33940",
+        "country": "FR",
+        "subjects": [
+            "Physics",
+            "Mathematics",
+            "Economics",
+            "Clinical Medicine",
+            "Chemistry",
+            "Materials Science & Engineering"
+        ],
+        "website": "https://psl.eu/"
+    },
+    {
+        "id": 10253,
+        "type": "university",
+        "title": "Université Paris 8 - Vincennes-Saint-Denis",
+        "description": "",
+        "location": "48.94670, 2.36280",
+        "country": "FR",
+        "subjects": [
+            "Psychology",
+            "Philosophy",
+            "Literature & Languages",
+            "Computer Science & Engineering",
+            "Political Sciences"
+        ],
+        "website": "https://www.univ-paris8.fr/"
+    },
+    {
+        "id": 10254,
+        "type": "university",
+        "title": "Université de Pau et Pays de l'Adour (UPPA)",
+        "description": "",
+        "location": "43.31300, -0.36600",
+        "country": "FR",
+        "subjects": [
+            "Energy Science & Engineering",
+            "Chemistry",
+            "Environmental Science & Engineering",
+            "Law",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.univ-pau.fr/"
+    },
+    {
+        "id": 10255,
+        "type": "university",
+        "title": "Université de Poitiers",
+        "description": "",
+        "location": "46.58030, 0.38580",
+        "country": "FR",
+        "subjects": [
+            "Law",
+            "Clinical Medicine",
+            "Physics",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering"
+        ],
+        "website": "https://www.univ-poitiers.fr/"
+    },
+    {
+        "id": 10256,
+        "type": "university",
+        "title": "Université de la Polynésie Française (UPF)",
+        "description": "",
+        "location": "-17.57650, -149.60990",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Marine/Ocean Engineering",
+            "Law",
+            "Economics",
+            "Geography"
+        ],
+        "website": "http://www.upf.pf/fr"
+    },
+    {
+        "id": 10257,
+        "type": "university",
+        "title": "Université de La Réunion",
+        "description": "",
+        "location": "-20.87890, 55.47640",
+        "country": "FR",
+        "subjects": [
+            "Renewable Energy",
+            "Biodiversity",
+            "Clinical Medicine",
+            "Law",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.univ-reunion.fr/"
+    },
+    {
+        "id": 10258,
+        "type": "university",
+        "title": "Université de Perpignan Via Domitia",
+        "description": "",
+        "location": "42.70470, 2.89310",
+        "country": "FR",
+        "subjects": [
+            "Solar Energy",
+            "Marine/Ocean Engineering",
+            "Biological Sciences",
+            "Law",
+            "Tourism Management"
+        ],
+        "website": "https://www.univ-perp.fr/"
+    },
+    {
+        "id": 10259,
+        "type": "university",
+        "title": "Université de Reims - Champagne-Ardenne",
+        "description": "",
+        "location": "49.25830, 4.03110",
+        "country": "FR",
+        "subjects": [
+            "Vine & Wine Sciences",
+            "Clinical Medicine",
+            "Chemistry",
+            "Materials Science & Engineering",
+            "Law"
+        ],
+        "website": "https://www.univ-reims.fr/"
+    },
+    {
+        "id": 10260,
+        "type": "university",
+        "title": "Université de Rennes",
+        "description": "",
+        "location": "48.11720, -1.67780",
+        "country": "FR",
+        "subjects": [
+            "Computer Science & Engineering",
+            "Law",
+            "Biological Sciences",
+            "Economics",
+            "Materials Science & Engineering"
+        ],
+        "website": "https://www.univ-rennes.fr/"
+    },
+    {
+        "id": 10261,
+        "type": "university",
+        "title": "Université de Rennes 2",
+        "description": "",
+        "location": "48.11970, -1.70140",
+        "country": "FR",
+        "subjects": [
+            "Literature & Languages",
+            "History & Archaeology",
+            "Psychology",
+            "Sports Science",
+            "Arts"
+        ],
+        "website": "https://www.univ-rennes2.fr/"
+    },
+    {
+        "id": 10262,
+        "type": "university",
+        "title": "Université de Rouen Normandie",
+        "description": "",
+        "location": "49.38530, 1.07610",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Chemistry",
+            "Biological Sciences",
+            "Law",
+            "Economics"
+        ],
+        "website": "https://www.univ-rouen.fr/"
+    },
+    {
+        "id": 10263,
+        "type": "university",
+        "title": "Université Polytechnique Hauts-de-France - Valenciennes",
+        "description": "",
+        "location": "50.35280, 3.51860",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Transportation Science & Technology",
+            "Materials Science & Engineering",
+            "Computer Science & Engineering",
+            "Design"
+        ],
+        "website": "https://www.uphf.fr/"
+    },
+    {
+        "id": 10264,
+        "type": "university",
+        "title": "Université Savoie Mont Blanc - Chambéry",
+        "location": "45.64800, 5.86400",
+        "country": "FR",
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Mountain Ecosystems",
+            "Computer Science & Engineering",
+            "Law",
+            "Tourism Management"
+        ],
+        "website": "https://www.univ-smb.fr/"
+    },
+    {
+        "id": 10265,
+        "type": "university",
+        "title": "Université Sorbonne Paris Nord",
+        "description": "",
+        "location": "48.95670, 2.34280",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "Law",
+            "Economics",
+            "Communication",
+            "Mathematics"
+        ],
+        "website": "https://www.univ-paris13.fr/"
+    },
+    {
+        "id": 10266,
+        "type": "university",
+        "title": "Université de technologie -Tarbes - Occitanie Pyrénées",
+        "description": "",
+        "location": "43.23280, 0.07810",
+        "country": "FR",
+        "subjects": [
+            "Mechanical Engineering",
+            "Materials Science & Engineering",
+            "Industrial Engineering",
+            "Electrical & Electronic Engineering",
+            "Sports Science"
+        ],
+        "website": "https://www.uttop.fr/"
+    },
+    {
+        "id": 10267,
+        "type": "university",
+        "title": "Université Jean Monnet - Saint-Etienne",
+        "description": "",
+        "location": "45.43970, 4.38720",
+        "country": "FR",
+        "subjects": [
+            "Optics",
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Materials Science & Engineering",
+            "Business Administration"
+        ],
+        "website": "https://www.univ-st-etienne.fr/"
+    },
+    {
+        "id": 10268,
+        "type": "university",
+        "title": "Université de Strasbourg",
+        "description": "",
+        "location": "48.58390, 7.74550",
+        "country": "FR",
+        "subjects": [
+            "Chemistry",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Physics",
+            "Law",
+            "Political Sciences"
+        ],
+        "website": "https://www.unistra.fr/"
+    },
+    {
+        "id": 10269,
+        "type": "university",
+        "title": "Université de Toulon",
+        "description": "",
+        "location": "43.14110, 6.01250",
+        "country": "FR",
+        "subjects": [
+            "Marine/Ocean Engineering",
+            "Materials Science & Engineering",
+            "Law",
+            "Economics",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://www.univ-tln.fr/"
+    },
+    {
+        "id": 10270,
+        "type": "university",
+        "title": "Université de Toulouse",
+        "description": "",
+        "location": "43.60470, 1.44420",
+        "country": "FR",
+        "subjects": [
+            "Aerospace Engineering",
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Biological Sciences",
+            "Mathematics"
+        ],
+        "website": "https://www.univ-tlse3.fr/"
+    },
+    {
+        "id": 10271,
+        "type": "university",
+        "title": "Université de Tours",
+        "description": "",
+        "location": "47.39000, 0.68480",
+        "country": "FR",
+        "subjects": [
+            "Clinical Medicine",
+            "History & Archaeology",
+            "Literature & Languages",
+            "Computer Science & Engineering",
+            "Law"
+        ],
+        "website": "https://www.univ-tours.fr/"
     }
 ]
