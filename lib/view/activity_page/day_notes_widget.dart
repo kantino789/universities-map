@@ -14,11 +14,17 @@ class DayNotesWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     final sortedNotes = notes.toList()
       ..sort((a, b) => b.createdAt.compareTo(a.createdAt));
+    final colors = Theme.of(context).colorScheme;
     return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        DateText(
-          date: date,
-          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
+        Padding(
+          padding: const EdgeInsets.only(top: 16, bottom: 4),
+          child: DateText(
+            date: date,
+            style: Theme.of(context).textTheme.titleSmall
+                ?.copyWith(color: colors.primary, fontWeight: FontWeight.w700),
+          ),
         ),
         for (final note in sortedNotes) NoteWidget(note: note),
       ],
