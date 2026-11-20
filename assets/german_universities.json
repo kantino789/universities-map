@@ -6,8 +6,14 @@
         "description": "",
         "location": "50.21267, 8.65040",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Education",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.accadis.com/"
     },
     {
         "id": 20001,
@@ -16,8 +22,20 @@
         "description": "",
         "location": "48.79267, 9.18211",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Finance",
+            "Management",
+            "Mechanical Engineering",
+            "Public Health"
+        ],
+        "website": "https://www.akad.de/"
     },
     {
         "id": 20002,
@@ -26,8 +44,15 @@
         "description": "",
         "location": "52.51186, 13.41542",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.akkon-hochschule.de/"
     },
     {
         "id": 20003,
@@ -36,8 +61,14 @@
         "description": "",
         "location": "52.53694, 13.60528",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.ash-berlin.eu/"
     },
     {
         "id": 20004,
@@ -46,8 +77,13 @@
         "description": "",
         "location": "47.67231, 9.15607",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.allensbach-hochschule.de/"
     },
     {
         "id": 20005,
@@ -56,8 +92,15 @@
         "description": "",
         "location": "53.10341, 8.85998",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.apollon-hochschule.de/"
     },
     {
         "id": 20006,
@@ -66,8 +109,17 @@
         "description": "",
         "location": "52.51158, 13.31502",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.bbw-hochschule.de/"
     },
     {
         "id": 20007,
@@ -76,8 +128,13 @@
         "description": "",
         "location": "52.50758, 13.41419",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://whitecliffe.de/"
     },
     {
         "id": 20008,
@@ -86,8 +143,29 @@
         "description": "",
         "location": "52.54445, 13.35277",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Artificial Intelligence",
+            "Automation & Control",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Geography",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Physics",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.bht-berlin.de/"
     },
     {
         "id": 20009,
@@ -96,8 +174,12 @@
         "description": "",
         "location": "53.55347, 10.03226",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://bhh.de/"
     },
     {
         "id": 20010,
@@ -106,8 +188,12 @@
         "description": "",
         "location": "53.55278, 10.00222",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management"
+        ],
+        "website": "https://www.brand-university.de/"
     },
     {
         "id": 20011,
@@ -116,8 +202,14 @@
         "description": "",
         "location": "52.43870, 13.32840",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Law",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.businessschool-berlin.de/"
     },
     {
         "id": 20012,
@@ -126,8 +218,14 @@
         "description": "",
         "location": "50.92450, 6.94920",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.cbs.de/"
     },
     {
         "id": 20013,
@@ -136,8 +234,12 @@
         "description": "",
         "location": "52.47991, 13.43687",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://code.berlin/"
     },
     {
         "id": 20014,
@@ -146,8 +248,12 @@
         "description": "",
         "location": "51.30367, 9.41451",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Sociology"
+        ],
+        "website": "http://www.cvjm-hochschule.de/"
     },
     {
         "id": 20015,
@@ -156,8 +262,14 @@
         "description": "",
         "location": "52.39821, 13.05875",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://deutschehochschule.de/"
     },
     {
         "id": 20016,
@@ -166,8 +278,12 @@
         "description": "",
         "location": "49.25097, 7.03656",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.dhfpg.de/"
     },
     {
         "id": 20017,
@@ -176,8 +292,13 @@
         "description": "",
         "location": "52.52374, 13.48628",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.dhgs-hochschule.de/"
     },
     {
         "id": 20018,
@@ -186,8 +307,15 @@
         "description": "",
         "location": "52.50064, 13.42109",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://dbuas.de/"
     },
     {
         "id": 20019,
@@ -196,8 +324,20 @@
         "description": "",
         "location": "51.26635, 9.96272",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Education",
+            "Hospitality & Tourism Management",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.diploma.de/"
     },
     {
         "id": 20020,
@@ -206,8 +346,33 @@
         "description": "",
         "location": "48.78230, 9.17622",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Artificial Intelligence",
+            "Automation & Control",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Economics",
+            "Education",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Finance",
+            "Food Science & Technology",
+            "Hospitality & Tourism Management",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Public Administration",
+            "Public Health",
+            "Robotic Science & Engineering",
+            "Sociology"
+        ],
+        "website": "http://www.dhbw.de/"
     },
     {
         "id": 20021,
@@ -216,8 +381,17 @@
         "description": "",
         "location": "50.90369, 12.07032",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.dhge.de/"
     },
     {
         "id": 20022,
@@ -226,8 +400,13 @@
         "description": "",
         "location": "54.36061, 10.12474",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management",
+            "Sociology"
+        ],
+        "website": "https://www.dhsh.de/"
     },
     {
         "id": 20023,
@@ -236,8 +415,12 @@
         "description": "",
         "location": "51.45226, 7.21069",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Management"
+        ],
+        "website": "http://www.ebz-business-school.de/"
     },
     {
         "id": 20024,
@@ -246,8 +429,26 @@
         "description": "",
         "location": "50.91889, 11.56917",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Instruments Science & Technology",
+            "Management",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Physics",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.eah-jena.de/"
     },
     {
         "id": 20025,
@@ -256,8 +457,15 @@
         "description": "",
         "location": "50.83405, 6.90547",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.eufh.de/"
     },
     {
         "id": 20026,
@@ -266,8 +474,19 @@
         "description": "",
         "location": "53.60372, 10.15185",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Education",
+            "Finance",
+            "Law",
+            "Management",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "http://www.euro-fh.de/"
     },
     {
         "id": 20027,
@@ -276,8 +495,15 @@
         "description": "",
         "location": "48.94874, 9.42925",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.ehip.eu/"
     },
     {
         "id": 20028,
@@ -286,8 +512,13 @@
         "description": "",
         "location": "52.42340, 13.26280",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.eh-berlin.de/"
     },
     {
         "id": 20029,
@@ -296,8 +527,14 @@
         "description": "",
         "location": "51.47361, 7.25417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.evh-bochum.de/"
     },
     {
         "id": 20030,
@@ -306,8 +543,14 @@
         "description": "",
         "location": "49.87425, 8.62755",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.eh-darmstadt.de/"
     },
     {
         "id": 20031,
@@ -316,8 +559,13 @@
         "description": "",
         "location": "51.05221, 13.76068",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Sociology"
+        ],
+        "website": "http://www.ehs-dresden.de/"
     },
     {
         "id": 20032,
@@ -326,8 +574,13 @@
         "description": "",
         "location": "47.99750, 7.80389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.eh-freiburg.de/"
     },
     {
         "id": 20033,
@@ -336,8 +589,14 @@
         "description": "",
         "location": "49.45081, 11.06032",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.evhn.de/"
     },
     {
         "id": 20034,
@@ -346,8 +605,12 @@
         "description": "",
         "location": "53.55489, 10.07097",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Sociology"
+        ],
+        "website": "https://www.ev-hochschule-hh.de/"
     },
     {
         "id": 20035,
@@ -356,8 +619,14 @@
         "description": "",
         "location": "48.88371, 9.19602",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.eh-ludwigsburg.de/"
     },
     {
         "id": 20036,
@@ -366,8 +635,12 @@
         "description": "",
         "location": "50.81997, 8.78426",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "http://www.eh-tabor.de/"
     },
     {
         "id": 20037,
@@ -376,8 +649,31 @@
         "description": "",
         "location": "50.75904, 6.08321",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Artificial Intelligence",
+            "Automation & Control",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Physics",
+            "Robotic Science & Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.fh-aachen.de/"
     },
     {
         "id": 20038,
@@ -386,8 +682,14 @@
         "description": "",
         "location": "52.00889, 8.52583",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "http://www.hochschule-diakonie.de/"
     },
     {
         "id": 20039,
@@ -396,8 +698,14 @@
         "description": "",
         "location": "51.73056, 8.73667",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.fhdw.de/"
     },
     {
         "id": 20040,
@@ -406,8 +714,21 @@
         "description": "",
         "location": "52.01720, 8.53414",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Education",
+            "Finance",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.fh-mittelstand.de/"
     },
     {
         "id": 20041,
@@ -416,8 +737,17 @@
         "description": "",
         "location": "51.50628, 7.45779",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.fh-dortmund.de/"
     },
     {
         "id": 20042,
@@ -426,8 +756,12 @@
         "description": "",
         "location": "51.04674, 13.75477",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://www.fh-dresden.eu/"
     },
     {
         "id": 20043,
@@ -436,8 +770,16 @@
         "description": "",
         "location": "50.98413, 11.04240",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Education",
+            "Environmental Science & Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.fh-erfurt.de/"
     },
     {
         "id": 20044,
@@ -446,8 +788,13 @@
         "description": "",
         "location": "52.36611, 9.77306",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.fhdw-hannover.de/"
     },
     {
         "id": 20045,
@@ -456,8 +803,10 @@
         "description": "",
         "location": "52.83295, 10.10043",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Sociology"
+        ],
+        "website": "http://www.fh-hermannsburg.de/"
     },
     {
         "id": 20046,
@@ -466,8 +815,11 @@
         "description": "",
         "location": "52.37475, 13.01296",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://www.fhsmp.de/"
     },
     {
         "id": 20047,
@@ -476,8 +828,13 @@
         "description": "",
         "location": "52.41260, 13.05088",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Education",
+            "Library & Information Science",
+            "Sociology"
+        ],
+        "website": "https://www.fh-potsdam.de/"
     },
     {
         "id": 20048,
@@ -486,8 +843,16 @@
         "description": "",
         "location": "51.36820, 7.68680",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.fh-swf.de/"
     },
     {
         "id": 20049,
@@ -496,8 +861,13 @@
         "description": "",
         "location": "53.57843, 9.72821",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management"
+        ],
+        "website": "https://www.fh-wedel.de/"
     },
     {
         "id": 20050,
@@ -506,8 +876,16 @@
         "description": "",
         "location": "54.19528, 9.12167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.fh-westkueste.de/"
     },
     {
         "id": 20051,
@@ -516,8 +894,22 @@
         "description": "",
         "location": "51.96104, 7.60809",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.fh-muenster.de/de/"
     },
     {
         "id": 20052,
@@ -526,8 +918,13 @@
         "description": "",
         "location": "51.29974, 6.74299",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.fliedner-fachhochschule.de/"
     },
     {
         "id": 20053,
@@ -536,8 +933,15 @@
         "description": "",
         "location": "51.44820, 7.01210",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Economics",
+            "Finance",
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://www.fom.de/"
     },
     {
         "id": 20054,
@@ -546,8 +950,19 @@
         "description": "",
         "location": "50.13033, 8.69249",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.frankfurt-university.de/"
     },
     {
         "id": 20055,
@@ -556,8 +971,11 @@
         "description": "",
         "location": "50.57304, 8.69280",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.fth.de/"
     },
     {
         "id": 20056,
@@ -566,8 +984,14 @@
         "description": "",
         "location": "52.37461, 9.72904",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Finance",
+            "Management"
+        ],
+        "website": "http://www.gisma.com/"
     },
     {
         "id": 20057,
@@ -576,8 +1000,13 @@
         "description": "",
         "location": "53.58236, 10.04994",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Nursing",
+            "Public Health"
+        ],
+        "website": "https://www.hfh-fernstudium.de/"
     },
     {
         "id": 20058,
@@ -586,8 +1015,14 @@
         "description": "",
         "location": "51.55818, 9.95603",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Sociology"
+        ],
+        "website": "https://www.hawk.de/"
     },
     {
         "id": 20059,
@@ -596,8 +1031,11 @@
         "description": "",
         "location": "52.40406, 13.07482",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.health-and-medical-university.de/"
     },
     {
         "id": 20060,
@@ -606,8 +1044,10 @@
         "description": "",
         "location": "52.51611, 13.56611",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Public Health"
+        ],
+        "website": "https://www.hi-university.de/de"
     },
     {
         "id": 20061,
@@ -616,8 +1056,11 @@
         "description": "",
         "location": "50.08499, 8.19079",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://hoems.hessen.de/"
     },
     {
         "id": 20062,
@@ -626,8 +1069,13 @@
         "description": "",
         "location": "53.47758, 9.70458",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Nursing"
+        ],
+        "website": "https://www.hs21.de/"
     },
     {
         "id": 20063,
@@ -636,8 +1084,24 @@
         "description": "",
         "location": "48.83806, 10.07361",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Automation & Control",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Instruments Science & Technology",
+            "Management",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Physics",
+            "Public Health"
+        ],
+        "website": "https://www.hs-aalen.de/"
     },
     {
         "id": 20064,
@@ -646,8 +1110,15 @@
         "description": "",
         "location": "48.08716, 9.23948",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.hs-albsig.de/"
     },
     {
         "id": 20065,
@@ -656,8 +1127,17 @@
         "description": "",
         "location": "51.82358, 11.70917",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hs-anhalt.de/"
     },
     {
         "id": 20066,
@@ -666,8 +1146,15 @@
         "description": "",
         "location": "48.09367, 9.78833",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Civil Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.hochschule-biberach.de/"
     },
     {
         "id": 20067,
@@ -676,8 +1163,18 @@
         "description": "",
         "location": "52.04446, 8.49272",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hsbi.de/"
     },
     {
         "id": 20068,
@@ -686,8 +1183,14 @@
         "description": "",
         "location": "51.44719, 7.27126",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hochschule-bochum.de/"
     },
     {
         "id": 20069,
@@ -696,8 +1199,15 @@
         "description": "",
         "location": "50.77956, 7.18217",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management"
+        ],
+        "website": "https://www.h-brs.de/"
     },
     {
         "id": 20070,
@@ -706,8 +1216,17 @@
         "description": "",
         "location": "52.17589, 10.54834",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.ostfalia.de/"
     },
     {
         "id": 20071,
@@ -716,8 +1235,15 @@
         "description": "",
         "location": "53.07264, 8.79382",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-bremen.de/"
     },
     {
         "id": 20072,
@@ -726,8 +1252,14 @@
         "description": "",
         "location": "53.53977, 8.58205",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Food Science & Technology",
+            "Management",
+            "Marine/Ocean Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.hs-bremerhaven.de/"
     },
     {
         "id": 20073,
@@ -736,8 +1268,19 @@
         "description": "",
         "location": "49.86729, 8.63810",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Physics",
+            "Sociology"
+        ],
+        "website": "https://h-da.de/"
     },
     {
         "id": 20074,
@@ -746,8 +1289,13 @@
         "description": "",
         "location": "48.13748, 11.68923",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hdbw-hochschule.de/"
     },
     {
         "id": 20075,
@@ -756,8 +1304,13 @@
         "description": "",
         "location": "48.74080, 9.10120",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://www.hdm-stuttgart.de/"
     },
     {
         "id": 20076,
@@ -766,8 +1319,11 @@
         "description": "",
         "location": "49.46908, 8.48458",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management"
+        ],
+        "website": "https://www.hdwm.de/"
     },
     {
         "id": 20077,
@@ -776,8 +1332,15 @@
         "description": "",
         "location": "51.24700, 6.79065",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-duesseldorf.de/"
     },
     {
         "id": 20078,
@@ -786,8 +1349,15 @@
         "description": "",
         "location": "53.36780, 7.18113",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Marine/Ocean Engineering",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "http://www.hs-emden-leer.de/"
     },
     {
         "id": 20079,
@@ -796,8 +1366,15 @@
         "description": "",
         "location": "48.73806, 9.31103",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.hs-esslingen.de/"
     },
     {
         "id": 20080,
@@ -806,8 +1383,15 @@
         "description": "",
         "location": "54.77486, 9.45056",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Marine/Ocean Engineering",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hs-flensburg.de/"
     },
     {
         "id": 20081,
@@ -816,8 +1400,17 @@
         "description": "",
         "location": "50.22128, 8.26705",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemistry",
+            "Communication",
+            "Management",
+            "Nursing",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.hs-fresenius.de/"
     },
     {
         "id": 20082,
@@ -826,8 +1419,14 @@
         "description": "",
         "location": "49.38380, 8.68009",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.hs-fresenius.de/standort/heidelberg/"
     },
     {
         "id": 20083,
@@ -836,8 +1435,19 @@
         "description": "",
         "location": "50.56472, 9.68750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Food Science & Technology",
+            "Law",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hs-fulda.de/"
     },
     {
         "id": 20084,
@@ -846,8 +1456,18 @@
         "description": "",
         "location": "48.05117, 8.20756",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.hs-furtwangen.de/"
     },
     {
         "id": 20085,
@@ -856,8 +1476,15 @@
         "description": "",
         "location": "49.30611, 10.56722",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management",
+            "Public Administration",
+            "Public Health"
+        ],
+        "website": "https://www.hs-ansbach.de/"
     },
     {
         "id": 20086,
@@ -866,8 +1493,17 @@
         "description": "",
         "location": "50.26472, 10.95000",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-coburg.de/"
     },
     {
         "id": 20087,
@@ -876,8 +1512,20 @@
         "description": "",
         "location": "53.55627, 10.02196",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.haw-hamburg.de/startseite.html"
     },
     {
         "id": 20088,
@@ -886,8 +1534,14 @@
         "description": "",
         "location": "50.32529, 11.94053",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Water Resources"
+        ],
+        "website": "https://www.hof-university.de/"
     },
     {
         "id": 20089,
@@ -896,8 +1550,15 @@
         "description": "",
         "location": "47.71583, 10.31361",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hs-kempten.de/"
     },
     {
         "id": 20090,
@@ -906,8 +1567,16 @@
         "description": "",
         "location": "54.33278, 10.18028",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.haw-kiel.de/"
     },
     {
         "id": 20091,
@@ -916,8 +1585,15 @@
         "description": "",
         "location": "48.55521, 12.19897",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.haw-landshut.de/"
     },
     {
         "id": 20092,
@@ -926,8 +1602,18 @@
         "description": "",
         "location": "48.15503, 11.55365",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hm.edu/"
     },
     {
         "id": 20093,
@@ -936,8 +1622,11 @@
         "description": "",
         "location": "48.38039, 10.00915",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management"
+        ],
+        "website": "https://www.hnu.de/"
     },
     {
         "id": 20094,
@@ -946,8 +1635,15 @@
         "description": "",
         "location": "48.39571, 11.73041",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biotechnology",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Water Resources"
+        ],
+        "website": "http://www.hswt.de/"
     },
     {
         "id": 20095,
@@ -956,8 +1652,13 @@
         "description": "",
         "location": "48.22924, 11.68159",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Hospitality & Tourism Management",
+            "Management"
+        ],
+        "website": "https://www.fham.de/"
     },
     {
         "id": 20096,
@@ -966,8 +1667,12 @@
         "description": "",
         "location": "50.72066, 7.11272",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.s-hochschule.de/"
     },
     {
         "id": 20097,
@@ -976,8 +1681,13 @@
         "description": "",
         "location": "48.45806, 8.94417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Ecology",
+            "Environmental Science & Engineering",
+            "Water Resources"
+        ],
+        "website": "https://www.hs-rottenburg.net/"
     },
     {
         "id": 20098,
@@ -986,8 +1696,13 @@
         "description": "",
         "location": "50.36166, 7.59795",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Public Administration",
+            "Sociology"
+        ],
+        "website": "https://www.hfgg.de/"
     },
     {
         "id": 20099,
@@ -996,8 +1711,10 @@
         "description": "",
         "location": "48.79306, 9.79361",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.hfg-gmuend.de/"
     },
     {
         "id": 20100,
@@ -1006,8 +1723,11 @@
         "description": "",
         "location": "48.81740, 9.20698",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication",
+            "Management"
+        ],
+        "website": "https://www.akademie-bw.de/wir-ueber-uns@user-motzke.html"
     },
     {
         "id": 20101,
@@ -1016,8 +1736,11 @@
         "description": "",
         "location": "53.10364, 9.16173",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.hks-ottersberg.de//"
     },
     {
         "id": 20102,
@@ -1026,8 +1749,14 @@
         "description": "",
         "location": "52.83294, 13.81758",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Ecology",
+            "Environmental Science & Engineering",
+            "Water Resources"
+        ],
+        "website": "https://www.hnee.de/"
     },
     {
         "id": 20103,
@@ -1036,8 +1765,12 @@
         "description": "",
         "location": "52.48751, 13.46262",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hsap.de/"
     },
     {
         "id": 20104,
@@ -1046,8 +1779,13 @@
         "description": "",
         "location": "48.78028, 9.17278",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Management",
+            "Mathematics"
+        ],
+        "website": "https://www.hft-stuttgart.de/"
     },
     {
         "id": 20105,
@@ -1056,8 +1794,15 @@
         "description": "",
         "location": "52.49222, 13.52650",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.htw-berlin.de/"
     },
     {
         "id": 20106,
@@ -1066,8 +1811,14 @@
         "description": "",
         "location": "49.23569, 6.97561",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.htwsaar.de/"
     },
     {
         "id": 20107,
@@ -1076,8 +1827,17 @@
         "description": "",
         "location": "51.03750, 13.73522",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.htw-dresden.de/"
     },
     {
         "id": 20108,
@@ -1086,8 +1846,18 @@
         "description": "",
         "location": "51.31417, 12.37254",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Library & Information Science",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.htwk-leipzig.de/"
     },
     {
         "id": 20109,
@@ -1096,8 +1866,15 @@
         "description": "",
         "location": "48.45889, 7.94278",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "http://www.hs-offenburg.de/"
     },
     {
         "id": 20110,
@@ -1106,8 +1883,15 @@
         "description": "",
         "location": "49.48055, 8.44600",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Nursing",
+            "Public Administration",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hwg-lu.de/"
     },
     {
         "id": 20111,
@@ -1116,8 +1900,10 @@
         "description": "",
         "location": "52.48530, 13.33780",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management"
+        ],
+        "website": "https://www.hwr-berlin.de/"
     },
     {
         "id": 20112,
@@ -1126,8 +1912,18 @@
         "description": "",
         "location": "48.62736, 9.33759",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Economics",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Finance",
+            "Law",
+            "Management",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.hfwu.de/"
     },
     {
         "id": 20113,
@@ -1136,8 +1932,12 @@
         "description": "",
         "location": "49.98417, 7.96139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Food Science & Technology",
+            "Management"
+        ],
+        "website": "http://www.hs-geisenheim.de/"
     },
     {
         "id": 20114,
@@ -1146,8 +1946,16 @@
         "description": "",
         "location": "51.68201, 7.84121",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hshl.de/"
     },
     {
         "id": 20115,
@@ -1156,8 +1964,21 @@
         "description": "",
         "location": "52.35317, 9.72249",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Food Science & Technology",
+            "Library & Information Science",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://hs-hannover.de/"
     },
     {
         "id": 20116,
@@ -1166,8 +1987,17 @@
         "description": "",
         "location": "51.82668, 10.76024",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Public Administration"
+        ],
+        "website": "https://www.hs-harz.de/"
     },
     {
         "id": 20117,
@@ -1176,8 +2006,18 @@
         "description": "",
         "location": "49.12194, 9.21111",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Robotic Science & Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.hs-heilbronn.de/"
     },
     {
         "id": 20118,
@@ -1186,8 +2026,17 @@
         "description": "",
         "location": "49.45167, 7.76389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.hs-kl.de/"
     },
     {
         "id": 20119,
@@ -1196,8 +2045,19 @@
         "description": "",
         "location": "49.01556, 8.39083",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Geography",
+            "Management",
+            "Mechanical Engineering",
+            "Robotic Science & Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.h-ka.de/"
     },
     {
         "id": 20120,
@@ -1206,8 +2066,18 @@
         "description": "",
         "location": "50.33604, 7.56957",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-koblenz.de/"
     },
     {
         "id": 20121,
@@ -1216,8 +2086,18 @@
         "description": "",
         "location": "47.66709, 9.17176",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.htwg-konstanz.de/"
     },
     {
         "id": 20122,
@@ -1226,8 +2106,13 @@
         "description": "",
         "location": "48.14736, 11.55502",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.macromedia-fachhochschule.de/"
     },
     {
         "id": 20123,
@@ -1236,8 +2121,21 @@
         "description": "",
         "location": "52.14150, 11.67700",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Education",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Sociology",
+            "Water Resources"
+        ],
+        "website": "https://www.h2.de/"
     },
     {
         "id": 20124,
@@ -1246,8 +2144,15 @@
         "description": "",
         "location": "49.99667, 8.27889",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Law",
+            "Management"
+        ],
+        "website": "https://www.hs-mainz.de/"
     },
     {
         "id": 20125,
@@ -1256,8 +2161,18 @@
         "description": "",
         "location": "51.34458, 11.97799",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Education",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-merseburg.de/"
     },
     {
         "id": 20126,
@@ -1266,8 +2181,18 @@
         "description": "",
         "location": "50.98815, 12.97089",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.hs-mittweida.de/"
     },
     {
         "id": 20127,
@@ -1276,8 +2201,16 @@
         "description": "",
         "location": "53.55667, 13.24611",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Education",
+            "Food Science & Technology",
+            "Geography",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hs-nb.de/"
     },
     {
         "id": 20128,
@@ -1286,8 +2219,20 @@
         "description": "",
         "location": "51.31668, 6.57061",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology",
+            "Textile Science & Engineering"
+        ],
+        "website": "https://www.hs-niederrhein.de/"
     },
     {
         "id": 20129,
@@ -1296,8 +2241,17 @@
         "description": "",
         "location": "51.49706, 10.80981",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Public Administration",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hs-nordhausen.de/"
     },
     {
         "id": 20130,
@@ -1306,8 +2260,22 @@
         "description": "",
         "location": "52.28318, 8.02508",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Food Science & Technology",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Administration",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "http://www.hs-osnabrueck.de/"
     },
     {
         "id": 20131,
@@ -1316,8 +2284,15 @@
         "description": "",
         "location": "48.87854, 8.71722",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Finance",
+            "Law",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hs-pforzheim.de/"
     },
     {
         "id": 20132,
@@ -1326,8 +2301,17 @@
         "description": "",
         "location": "47.81417, 9.65306",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.rwu.de/"
     },
     {
         "id": 20133,
@@ -1336,8 +2320,16 @@
         "description": "",
         "location": "48.48255, 9.18714",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Textile Science & Engineering"
+        ],
+        "website": "https://www.reutlingen-university.de/"
     },
     {
         "id": 20134,
@@ -1346,8 +2338,21 @@
         "description": "",
         "location": "51.79513, 6.14263",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biological Sciences",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Environment Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Psychology"
+        ],
+        "website": "http://www.hochschule-rhein-waal.de/"
     },
     {
         "id": 20135,
@@ -1356,8 +2361,20 @@
         "description": "",
         "location": "50.08083, 8.21722",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Physics",
+            "Sociology"
+        ],
+        "website": "https://www.hs-rm.de/"
     },
     {
         "id": 20136,
@@ -1366,8 +2383,16 @@
         "description": "",
         "location": "51.42770, 6.85833",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hochschule-ruhr-west.de/"
     },
     {
         "id": 20137,
@@ -1376,8 +2401,15 @@
         "description": "",
         "location": "50.71694, 10.46472",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hs-schmalkalden.de/"
     },
     {
         "id": 20138,
@@ -1386,8 +2418,16 @@
         "description": "",
         "location": "54.33944, 13.07417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.hochschule-stralsund.de/"
     },
     {
         "id": 20139,
@@ -1396,8 +2436,20 @@
         "description": "",
         "location": "49.60808, 7.16933",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health"
+        ],
+        "website": "https://www.hochschule-trier.de/"
     },
     {
         "id": 20140,
@@ -1406,8 +2458,12 @@
         "description": "",
         "location": "52.09867, 9.35519",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://www.hsw-hameln.de/"
     },
     {
         "id": 20141,
@@ -1416,8 +2472,18 @@
         "description": "",
         "location": "53.89000, 11.44583",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Law",
+            "Management",
+            "Marine/Ocean Engineering",
+            "Mechanical Engineering"
+        ],
+        "website": "http://www.hs-wismar.de/"
     },
     {
         "id": 20142,
@@ -1426,8 +2492,14 @@
         "description": "",
         "location": "49.63336, 8.34432",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Transportation Science & Technology"
+        ],
+        "website": "http://www.hs-worms.de/"
     },
     {
         "id": 20143,
@@ -1436,8 +2508,22 @@
         "description": "",
         "location": "50.89273, 14.80500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Ecology",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.hszg.de/"
     },
     {
         "id": 20144,
@@ -1446,8 +2532,12 @@
         "description": "",
         "location": "53.54998, 9.98954",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.hsba.de/"
     },
     {
         "id": 20145,
@@ -1456,8 +2546,12 @@
         "description": "",
         "location": "50.93186, 6.95585",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.hs-doepfer.de/"
     },
     {
         "id": 20146,
@@ -1466,8 +2560,15 @@
         "description": "",
         "location": "51.48915, 7.40600",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Finance",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.ism.de/"
     },
     {
         "id": 20147,
@@ -1476,8 +2577,11 @@
         "description": "",
         "location": "48.77286, 8.72773",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "http://www.ihl.eu/"
     },
     {
         "id": 20148,
@@ -1486,8 +2590,12 @@
         "description": "",
         "location": "48.09661, 11.53204",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management"
+        ],
+        "website": "https://www.sdi-muenchen.de/"
     },
     {
         "id": 20149,
@@ -1496,8 +2604,14 @@
         "description": "",
         "location": "51.21910, 6.81350",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://www.ist-hochschule.de/"
     },
     {
         "id": 20150,
@@ -1506,8 +2620,25 @@
         "description": "",
         "location": "50.98361, 11.03278",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Education",
+            "Finance",
+            "Hospitality & Tourism Management",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.iu.de/"
     },
     {
         "id": 20151,
@@ -1516,8 +2647,21 @@
         "description": "",
         "location": "53.24219, 8.46688",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Geography",
+            "Management",
+            "Marine/Ocean Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Public Health",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.jade-hs.de/"
     },
     {
         "id": 20152,
@@ -1526,8 +2670,14 @@
         "description": "",
         "location": "49.00655, 8.39444",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.karlshochschule.de/"
     },
     {
         "id": 20153,
@@ -1536,8 +2686,14 @@
         "description": "",
         "location": "48.00389, 7.85750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.kh-freiburg.de/"
     },
     {
         "id": 20154,
@@ -1546,8 +2702,12 @@
         "description": "",
         "location": "52.48801, 13.53418",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.khsb-berlin.de/"
     },
     {
         "id": 20155,
@@ -1556,8 +2716,14 @@
         "description": "",
         "location": "49.99717, 8.25329",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.kh-mz.de/"
     },
     {
         "id": 20156,
@@ -1566,8 +2732,14 @@
         "description": "",
         "location": "50.95341, 6.96453",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "http://www.katho-nrw.de/"
     },
     {
         "id": 20157,
@@ -1576,8 +2748,14 @@
         "description": "",
         "location": "48.13216, 11.60131",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.ksh-muenchen.de/"
     },
     {
         "id": 20158,
@@ -1586,8 +2764,13 @@
         "description": "",
         "location": "50.95364, 6.96756",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.kolping-hochschule.de/"
     },
     {
         "id": 20159,
@@ -1596,8 +2779,12 @@
         "description": "",
         "location": "52.32123, 9.81931",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "http://www.leibniz-fh.de/"
     },
     {
         "id": 20160,
@@ -1606,8 +2793,10 @@
         "description": "",
         "location": "48.77265, 9.17429",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.media-hs.de/kontakt"
     },
     {
         "id": 20161,
@@ -1616,8 +2805,13 @@
         "description": "",
         "location": "50.91399, 6.94335",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.media-university.de/"
     },
     {
         "id": 20162,
@@ -1626,8 +2820,12 @@
         "description": "",
         "location": "52.50358, 13.39609",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "http://www.mediadesign.de/"
     },
     {
         "id": 20163,
@@ -1636,8 +2834,16 @@
         "description": "",
         "location": "52.46922, 13.31133",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Clinical Medicine",
+            "Human Biological Sciences",
+            "Management",
+            "Medical Technology",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.medicalschool-berlin.de/"
     },
     {
         "id": 20164,
@@ -1646,8 +2852,10 @@
         "description": "",
         "location": "48.78970, 9.20940",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.merz-akademie.de/"
     },
     {
         "id": 20165,
@@ -1656,8 +2864,16 @@
         "description": "",
         "location": "53.54139, 9.99309",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Clinical Medicine",
+            "Human Biological Sciences",
+            "Management",
+            "Medical Technology",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.medicalschool-hamburg.de/"
     },
     {
         "id": 20166,
@@ -1666,8 +2882,13 @@
         "description": "",
         "location": "48.13604, 11.52452",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.munich-business-school.de/"
     },
     {
         "id": 20167,
@@ -1676,8 +2897,12 @@
         "description": "",
         "location": "53.57128, 10.10523",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Sociology"
+        ],
+        "website": "https://www.nbs.de/"
     },
     {
         "id": 20168,
@@ -1686,8 +2911,12 @@
         "description": "",
         "location": "53.75389, 9.67167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://www.nordakademie.de/"
     },
     {
         "id": 20169,
@@ -1696,8 +2925,19 @@
         "description": "",
         "location": "49.44410, 11.84738",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology"
+        ],
+        "website": "https://www.oth-aw.de/"
     },
     {
         "id": 20170,
@@ -1706,8 +2946,23 @@
         "description": "",
         "location": "49.00367, 12.09509",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.oth-regensburg.de/"
     },
     {
         "id": 20171,
@@ -1716,8 +2971,14 @@
         "description": "",
         "location": "51.53920, 9.93271",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Materials Science & Engineering",
+            "Medical Technology",
+            "Psychology"
+        ],
+        "website": "https://www.pfh.de/"
     },
     {
         "id": 20172,
@@ -1726,8 +2987,14 @@
         "description": "",
         "location": "52.71915, 8.28895",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.phwt.de/"
     },
     {
         "id": 20173,
@@ -1736,8 +3003,13 @@
         "description": "",
         "location": "50.09889, 8.53861",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://www.provadis-hochschule.de/"
     },
     {
         "id": 20174,
@@ -1746,8 +3018,13 @@
         "description": "",
         "location": "52.51523, 13.39741",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Management",
+            "Political Sciences"
+        ],
+        "website": "https://www.quadriga-hochschule.com/"
     },
     {
         "id": 20175,
@@ -1756,8 +3033,19 @@
         "description": "",
         "location": "50.93306, 6.94139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.rh-koeln.de/"
     },
     {
         "id": 20176,
@@ -1766,8 +3054,16 @@
         "description": "",
         "location": "52.51390, 13.32191",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Psychology"
+        ],
+        "website": "https://www.srh-berlin.de/"
     },
     {
         "id": 20177,
@@ -1776,8 +3072,17 @@
         "description": "",
         "location": "48.15270, 9.47428",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.mobile-university.de/"
     },
     {
         "id": 20178,
@@ -1786,8 +3091,12 @@
         "description": "",
         "location": "50.88076, 12.07218",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.srh-gesundheitshochschule.de/"
     },
     {
         "id": 20179,
@@ -1796,8 +3105,18 @@
         "description": "",
         "location": "49.41389, 8.65139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.srh-hochschule-heidelberg.de/"
     },
     {
         "id": 20180,
@@ -1806,8 +3125,16 @@
         "description": "",
         "location": "51.67858, 7.81043",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management",
+            "Psychology",
+            "Public Health",
+            "Sociology",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.srh-hochschule-nrw.de/"
     },
     {
         "id": 20181,
@@ -1816,8 +3143,14 @@
         "description": "",
         "location": "49.45966, 10.99784",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.srh-university.de/de/wilhelm-loehe-hochschule/"
     },
     {
         "id": 20182,
@@ -1826,8 +3159,14 @@
         "description": "",
         "location": "52.12361, 11.63306",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Finance",
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://www.steinbeis-hochschule.de/"
     },
     {
         "id": 20183,
@@ -1836,8 +3175,17 @@
         "description": "",
         "location": "49.97194, 9.16139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Law",
+            "Management",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Medical Technology"
+        ],
+        "website": "https://www.th-ab.de/"
     },
     {
         "id": 20184,
@@ -1846,8 +3194,18 @@
         "description": "",
         "location": "48.35528, 10.90500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.tha.de/"
     },
     {
         "id": 20185,
@@ -1856,8 +3214,16 @@
         "description": "",
         "location": "49.95325, 7.92356",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biotechnology",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.th-bingen.de/"
     },
     {
         "id": 20186,
@@ -1866,8 +3232,15 @@
         "description": "",
         "location": "52.41187, 12.53686",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology"
+        ],
+        "website": "https://www.th-brandenburg.de/"
     },
     {
         "id": 20187,
@@ -1876,8 +3249,22 @@
         "description": "",
         "location": "48.82972, 12.95472",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Hospitality & Tourism Management",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Public Health"
+        ],
+        "website": "https://www.th-deg.de/"
     },
     {
         "id": 20188,
@@ -1886,8 +3273,16 @@
         "description": "",
         "location": "51.48750, 7.21333",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Mining & Mineral Engineering"
+        ],
+        "website": "https://www.thga.de/"
     },
     {
         "id": 20189,
@@ -1896,8 +3291,18 @@
         "description": "",
         "location": "48.76676, 11.43180",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.thi.de/"
     },
     {
         "id": 20190,
@@ -1906,8 +3311,29 @@
         "description": "",
         "location": "50.91992, 6.96728",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Automation & Control",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Law",
+            "Library & Information Science",
+            "Management",
+            "Mechanical Engineering",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Sociology",
+            "Telecommunication Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.th-koeln.de/"
     },
     {
         "id": 20191,
@@ -1916,8 +3342,20 @@
         "description": "",
         "location": "53.83694, 10.69861",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology"
+        ],
+        "website": "https://www.th-luebeck.de/"
     },
     {
         "id": 20192,
@@ -1926,8 +3364,19 @@
         "description": "",
         "location": "49.46956, 8.48221",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Sociology"
+        ],
+        "website": "https://www.hs-mannheim.de/"
     },
     {
         "id": 20193,
@@ -1936,8 +3385,22 @@
         "description": "",
         "location": "50.58689, 8.68310",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Physics"
+        ],
+        "website": "https://www.thm.de/"
     },
     {
         "id": 20194,
@@ -1946,8 +3409,23 @@
         "description": "",
         "location": "49.45307, 11.09239",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Physics",
+            "Sociology"
+        ],
+        "website": "http://www.th-nuernberg.de/"
     },
     {
         "id": 20195,
@@ -1956,8 +3434,19 @@
         "description": "",
         "location": "52.01602, 8.90530",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Food Science & Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.th-owl.de/"
     },
     {
         "id": 20196,
@@ -1966,8 +3455,22 @@
         "description": "",
         "location": "47.86705, 12.10821",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.th-rosenheim.de/"
     },
     {
         "id": 20197,
@@ -1976,8 +3479,16 @@
         "description": "",
         "location": "48.40885, 9.99749",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.thu.de/"
     },
     {
         "id": 20198,
@@ -1986,8 +3497,19 @@
         "description": "",
         "location": "52.31944, 13.63250",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Automation & Control",
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Telecommunication Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "http://www.th-wildau.de/"
     },
     {
         "id": 20199,
@@ -1996,8 +3518,19 @@
         "description": "",
         "location": "50.04495, 10.21018",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Robotic Science & Engineering",
+            "Sociology"
+        ],
+        "website": "https://www.thws.de/"
     },
     {
         "id": 20200,
@@ -2006,8 +3539,11 @@
         "description": "",
         "location": "52.54143, 13.00308",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.th-elstal.de/"
     },
     {
         "id": 20201,
@@ -2016,8 +3552,11 @@
         "description": "",
         "location": "48.48702, 9.21130",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.th-reutlingen.de/"
     },
     {
         "id": 20202,
@@ -2026,8 +3565,11 @@
         "description": "",
         "location": "50.84153, 8.30139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://th-ewersbach.de/"
     },
     {
         "id": 20203,
@@ -2036,8 +3578,11 @@
         "description": "",
         "location": "52.50514, 13.21323",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management"
+        ],
+        "website": "https://www.touroberlin.de/"
     },
     {
         "id": 20204,
@@ -2046,8 +3591,15 @@
         "description": "",
         "location": "51.38472, 7.71972",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Management",
+            "Psychology",
+            "Sports and Management"
+        ],
+        "website": "https://www.ue-germany.com/"
     },
     {
         "id": 20205,
@@ -2056,8 +3608,12 @@
         "description": "",
         "location": "50.13044, 8.67186",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Sociology"
+        ],
+        "website": "https://www.university-of-labour.de/"
     },
     {
         "id": 20206,
@@ -2066,8 +3622,11 @@
         "description": "",
         "location": "52.50503, 13.37786",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management"
+        ],
+        "website": "https://www.victoria-hochschule.de/"
     },
     {
         "id": 20207,
@@ -2076,8 +3635,11 @@
         "description": "",
         "location": "48.79231, 9.18361",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management"
+        ],
+        "website": "http://www.vwa-hochschule.de/"
     },
     {
         "id": 20208,
@@ -2086,8 +3648,17 @@
         "description": "",
         "location": "51.57510, 7.03007",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Journalism and Public Relations",
+            "Environmental Science & Engineering"
+        ],
+        "website": "http://www.w-hs.de/"
     },
     {
         "id": 20209,
@@ -2096,8 +3667,14 @@
         "description": "",
         "location": "50.71601, 12.49449",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.whz.de/"
     },
     {
         "id": 20210,
@@ -2106,8 +3683,14 @@
         "description": "",
         "location": "49.86306, 8.62194",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Telecommunication Engineering"
+        ],
+        "website": "https://www.wb-fernstudium.de/"
     },
     {
         "id": 20211,
@@ -2116,8 +3699,13 @@
         "description": "",
         "location": "52.38885, 13.11979",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Management"
+        ],
+        "website": "https://xu-university.com//"
     },
     {
         "id": 20212,
@@ -2126,8 +3714,10 @@
         "description": "",
         "location": "48.15306, 11.58028",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.adbk.de/"
     },
     {
         "id": 20213,
@@ -2136,8 +3726,10 @@
         "description": "",
         "location": "49.44603, 11.13647",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.adbk-nuernberg.de/"
     },
     {
         "id": 20214,
@@ -2146,8 +3738,10 @@
         "description": "",
         "location": "50.73250, 6.99944",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.alanus.edu/de/home/"
     },
     {
         "id": 20215,
@@ -2156,8 +3750,10 @@
         "description": "",
         "location": "52.51542, 13.39611",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://barenboimsaid.de/"
     },
     {
         "id": 20216,
@@ -2166,8 +3762,10 @@
         "description": "",
         "location": "51.50270, 11.95490",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.burg-halle.de/"
     },
     {
         "id": 20217,
@@ -2176,8 +3774,10 @@
         "description": "",
         "location": "51.48475, 11.96654",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.ehk-halle.de/"
     },
     {
         "id": 20218,
@@ -2186,8 +3786,10 @@
         "description": "",
         "location": "52.38861, 13.11667",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.filmuniversitaet.de/"
     },
     {
         "id": 20219,
@@ -2196,8 +3798,10 @@
         "description": "",
         "location": "51.38750, 7.00444",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.folkwang-uni.de/"
     },
     {
         "id": 20220,
@@ -2206,8 +3810,10 @@
         "description": "",
         "location": "51.46084, 7.01285",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hbk-essen.de/"
     },
     {
         "id": 20221,
@@ -2216,8 +3822,10 @@
         "description": "",
         "location": "49.23269, 6.98519",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hbksaar.de/"
     },
     {
         "id": 20222,
@@ -2226,8 +3834,10 @@
         "description": "",
         "location": "50.10222, 8.67500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.staedelschule.de/"
     },
     {
         "id": 20223,
@@ -2236,8 +3846,10 @@
         "description": "",
         "location": "52.25750, 10.50167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hbk-bs.de/"
     },
     {
         "id": 20224,
@@ -2246,8 +3858,10 @@
         "description": "",
         "location": "51.05284, 13.74244",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.hfbk-dresden.de/"
     },
     {
         "id": 20225,
@@ -2256,8 +3870,10 @@
         "description": "",
         "location": "53.56757, 10.03132",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfbk-hamburg.de/"
     },
     {
         "id": 20226,
@@ -2266,8 +3882,10 @@
         "description": "",
         "location": "49.93962, 11.57249",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfk-bayreuth.de/"
     },
     {
         "id": 20227,
@@ -2276,8 +3894,10 @@
         "description": "",
         "location": "48.14676, 11.56904",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.hff-muc.de/"
     },
     {
         "id": 20228,
@@ -2286,8 +3906,10 @@
         "description": "",
         "location": "50.10750, 8.76472",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfg-offenbach.de/"
     },
     {
         "id": 20229,
@@ -2296,8 +3918,10 @@
         "description": "",
         "location": "51.33341, 12.36784",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hgb-leipzig.de/"
     },
     {
         "id": 20230,
@@ -2306,8 +3930,10 @@
         "description": "",
         "location": "49.02507, 12.09875",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfkm-regensburg.de/"
     },
     {
         "id": 20231,
@@ -2316,8 +3942,10 @@
         "description": "",
         "location": "48.48667, 8.94167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kirchenmusik-hochschule.org/"
     },
     {
         "id": 20232,
@@ -2326,8 +3954,10 @@
         "description": "",
         "location": "51.05748, 13.79928",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kirchenmusik-dresden.de/"
     },
     {
         "id": 20233,
@@ -2336,8 +3966,10 @@
         "description": "",
         "location": "52.11167, 8.68389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hochschule-kirchenmusik.de/"
     },
     {
         "id": 20234,
@@ -2346,8 +3978,10 @@
         "description": "",
         "location": "49.40223, 8.68217",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfk-heidelberg.de/"
     },
     {
         "id": 20235,
@@ -2356,8 +3990,10 @@
         "description": "",
         "location": "48.51917, 9.06000",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kirchenmusikhochschule.de/"
     },
     {
         "id": 20236,
@@ -2366,8 +4002,10 @@
         "description": "",
         "location": "53.09806, 8.76750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfk-bremen.de/"
     },
     {
         "id": 20237,
@@ -2376,8 +4014,10 @@
         "description": "",
         "location": "51.05377, 13.72482",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfmdd.de/"
     },
     {
         "id": 20238,
@@ -2386,8 +4026,10 @@
         "description": "",
         "location": "51.92871, 8.87346",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.hfm-detmold.de/"
     },
     {
         "id": 20239,
@@ -2396,8 +4038,10 @@
         "description": "",
         "location": "50.97832, 11.33154",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfm-weimar.de/"
     },
     {
         "id": 20240,
@@ -2406,8 +4050,10 @@
         "description": "",
         "location": "47.98907, 7.87251",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.mh-freiburg.de/"
     },
     {
         "id": 20241,
@@ -2416,8 +4062,10 @@
         "description": "",
         "location": "52.51379, 13.39129",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfm-berlin.de/"
     },
     {
         "id": 20242,
@@ -2426,8 +4074,10 @@
         "description": "",
         "location": "49.00456, 8.42726",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfm-karlsruhe.de/"
     },
     {
         "id": 20243,
@@ -2436,8 +4086,10 @@
         "description": "",
         "location": "49.45861, 11.10868",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfm-nuernberg.de/"
     },
     {
         "id": 20244,
@@ -2446,8 +4098,10 @@
         "description": "",
         "location": "49.23031, 6.99783",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfmsaar.de/"
     },
     {
         "id": 20245,
@@ -2456,8 +4110,10 @@
         "description": "",
         "location": "50.12010, 8.67620",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfmdk-frankfurt.de/"
     },
     {
         "id": 20246,
@@ -2466,8 +4122,10 @@
         "description": "",
         "location": "50.94764, 6.96122",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfmt-koeln.de/"
     },
     {
         "id": 20247,
@@ -2476,8 +4134,10 @@
         "description": "",
         "location": "51.33278, 12.36667",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hmt-leipzig.de/"
     },
     {
         "id": 20248,
@@ -2486,8 +4146,10 @@
         "description": "",
         "location": "53.57056, 9.99889",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.hfmt-hamburg.de/"
     },
     {
         "id": 20249,
@@ -2496,8 +4158,10 @@
         "description": "",
         "location": "48.14611, 11.56778",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hmtm.de/"
     },
     {
         "id": 20250,
@@ -2506,8 +4170,10 @@
         "description": "",
         "location": "54.09155, 12.14440",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hmt-rostock.de/"
     },
     {
         "id": 20251,
@@ -2516,8 +4182,10 @@
         "description": "",
         "location": "49.79247, 9.93395",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.hfm-wuerzburg.de/"
     },
     {
         "id": 20252,
@@ -2526,8 +4194,10 @@
         "description": "",
         "location": "52.37750, 9.75444",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "http://www.hmtm-hannover.de/"
     },
     {
         "id": 20253,
@@ -2536,8 +4206,10 @@
         "description": "",
         "location": "52.53250, 13.38329",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfs-berlin.de/"
     },
     {
         "id": 20254,
@@ -2546,8 +4218,10 @@
         "description": "",
         "location": "51.23054, 6.77365",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kunstakademie-duesseldorf.de/"
     },
     {
         "id": 20255,
@@ -2556,8 +4230,10 @@
         "description": "",
         "location": "51.97417, 7.60167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kunstakademie-muenster.de/"
     },
     {
         "id": 20256,
@@ -2566,8 +4242,10 @@
         "description": "",
         "location": "52.55806, 13.43932",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kh-berlin.de/"
     },
     {
         "id": 20257,
@@ -2576,8 +4254,10 @@
         "description": "",
         "location": "50.93402, 6.96232",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.khm.de/"
     },
     {
         "id": 20258,
@@ -2586,8 +4266,10 @@
         "description": "",
         "location": "53.86472, 10.68142",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.mh-luebeck.de/"
     },
     {
         "id": 20259,
@@ -2596,8 +4278,10 @@
         "description": "",
         "location": "54.32722, 10.14139",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.muthesius-kunsthochschule.de/"
     },
     {
         "id": 20260,
@@ -2606,8 +4290,10 @@
         "description": "",
         "location": "51.02899, 13.77100",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://palucca.eu/"
     },
     {
         "id": 20261,
@@ -2616,8 +4302,10 @@
         "description": "",
         "location": "51.24233, 6.77206",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.rsh-duesseldorf.de/"
     },
     {
         "id": 20262,
@@ -2626,8 +4314,10 @@
         "description": "",
         "location": "49.01436, 8.38726",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.kunstakademie-karlsruhe.de/"
     },
     {
         "id": 20263,
@@ -2636,8 +4326,10 @@
         "description": "",
         "location": "48.80015, 9.17429",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.abk-stuttgart.de/"
     },
     {
         "id": 20264,
@@ -2646,8 +4338,10 @@
         "description": "",
         "location": "49.00167, 8.38389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "http://www.hfg-karlsruhe.de/"
     },
     {
         "id": 20265,
@@ -2656,8 +4350,10 @@
         "description": "",
         "location": "48.07539, 8.63824",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hfm-trossingen.de/"
     },
     {
         "id": 20266,
@@ -2666,8 +4362,10 @@
         "description": "",
         "location": "49.48384, 8.47083",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "http://www.muho-mannheim.de/"
     },
     {
         "id": 20267,
@@ -2676,8 +4374,10 @@
         "description": "",
         "location": "48.77861, 9.18583",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.hmdk-stuttgart.de/"
     },
     {
         "id": 20268,
@@ -2686,8 +4386,10 @@
         "description": "",
         "location": "52.50806, 13.33111",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication"
+        ],
+        "website": "https://www.udk-berlin.de/"
     },
     {
         "id": 20269,
@@ -2696,8 +4398,19 @@
         "description": "",
         "location": "47.99416, 7.84696",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.uni-freiburg.de/"
     },
     {
         "id": 20270,
@@ -2706,8 +4419,10 @@
         "description": "",
         "location": "49.28333, 10.77750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://augustana.de/start.html"
     },
     {
         "id": 20271,
@@ -2716,8 +4431,12 @@
         "description": "",
         "location": "52.58430, 13.39373",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Economics",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.berlin.bard.edu/"
     },
     {
         "id": 20272,
@@ -2726,8 +4445,10 @@
         "description": "",
         "location": "50.97448, 11.32905",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering"
+        ],
+        "website": "https://www.uni-weimar.de/"
     },
     {
         "id": 20273,
@@ -2736,8 +4457,14 @@
         "description": "",
         "location": "51.24528, 7.14944",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Environmental Science & Engineering",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Psychology"
+        ],
+        "website": "http://www.uni-wuppertal.de/"
     },
     {
         "id": 20274,
@@ -2746,8 +4473,31 @@
         "description": "",
         "location": "51.76722, 14.32639",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Automation & Control",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Ecology",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Environmental Science & Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Physics",
+            "Public Health",
+            "Sociology",
+            "Water Resources"
+        ],
+        "website": "https://www.b-tu.de/"
     },
     {
         "id": 20275,
@@ -2756,8 +4506,12 @@
         "description": "",
         "location": "53.55951, 9.98267",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Law",
+            "Management"
+        ],
+        "website": "https://www.law-school.de/"
     },
     {
         "id": 20276,
@@ -2766,8 +4520,15 @@
         "description": "",
         "location": "53.14778, 8.18222",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Science & Engineering",
+            "Oceanography",
+            "Psychology"
+        ],
+        "website": "https://uol.de/"
     },
     {
         "id": 20277,
@@ -2776,8 +4537,17 @@
         "description": "",
         "location": "54.33889, 10.12250",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Human Biological Sciences",
+            "Oceanography"
+        ],
+        "website": "https://www.uni-kiel.de/"
     },
     {
         "id": 20278,
@@ -2786,8 +4556,28 @@
         "description": "",
         "location": "53.16667, 8.65000",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Biological Sciences",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Communication",
+            "Computer Science & Engineering",
+            "Earth Sciences",
+            "Economics",
+            "Electrical & Electronic Engineering",
+            "Environmental Science & Engineering",
+            "Finance",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Robotic Science & Engineering",
+            "Sociology"
+        ],
+        "website": "https://constructor.university//"
     },
     {
         "id": 20279,
@@ -2796,8 +4586,10 @@
         "description": "",
         "location": "50.93671, 6.86934",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology"
+        ],
+        "website": "https://www.dshs-koeln.de/"
     },
     {
         "id": 20280,
@@ -2806,8 +4598,15 @@
         "description": "",
         "location": "49.31641, 8.41631",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Economics",
+            "Law",
+            "Management",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+        ],
+        "website": "https://www.uni-speyer.de/"
     },
     {
         "id": 20281,
@@ -2816,8 +4615,21 @@
         "description": "",
         "location": "51.04946, 13.72218",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Clinical Medicine",
+            "Communication",
+            "Computer Science & Engineering",
+            "Education",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.di-uni.de/"
     },
     {
         "id": 20282,
@@ -2826,8 +4638,23 @@
         "description": "",
         "location": "48.52464, 9.05917",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Artificial Intelligence",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Clinical Medicine",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Education",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology"
+        ],
+        "website": "https://uni-tuebingen.de/"
     },
     {
         "id": 20283,
@@ -2836,8 +4663,14 @@
         "description": "",
         "location": "50.01250, 8.05000",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management"
+        ],
+        "website": "https://www.ebs.edu/"
     },
     {
         "id": 20284,
@@ -2846,8 +4679,10 @@
         "description": "",
         "location": "52.51556, 13.40111",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Management"
+        ],
+        "website": "https://esmt.berlin/"
     },
     {
         "id": 20285,
@@ -2856,8 +4691,16 @@
         "description": "",
         "location": "54.77556, 9.45222",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Environmental Science & Engineering",
+            "Management",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.uni-flensburg.de/"
     },
     {
         "id": 20286,
@@ -2866,8 +4709,15 @@
         "description": "",
         "location": "52.34236, 14.55469",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Law",
+            "Management",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.europa-uni.de/"
     },
     {
         "id": 20287,
@@ -2876,8 +4726,10 @@
         "description": "",
         "location": "51.37722, 7.49528",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology"
+        ],
+        "website": "https://www.fernuni-hagen.de/"
     },
     {
         "id": 20288,
@@ -2886,8 +4738,12 @@
         "description": "",
         "location": "50.13278, 8.68028",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "http://www.frankfurt-school.de/"
     },
     {
         "id": 20289,
@@ -2896,8 +4752,10 @@
         "description": "",
         "location": "48.78223, 9.19228",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.freie-hochschule-stuttgart.de/de/"
     },
     {
         "id": 20290,
@@ -2906,8 +4764,40 @@
         "description": "",
         "location": "52.45306, 13.29056",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Clinical Medicine",
+            "Communication",
+            "Computer Science & Engineering",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Environmental Science & Engineering",
+            "Human Biological Sciences",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Nursing",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Sociology",
+            "Statistics",
+            "Veterinary Sciences"
+        ],
+        "website": "https://www.fu-berlin.de/"
     },
     {
         "id": 20291,
@@ -2916,8 +4806,21 @@
         "description": "",
         "location": "49.59722, 11.00694",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Biomedical Engineering",
+            "Dentistry & Oral Sciences",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Human Biological Sciences",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Physics",
+            "Telecommunication Engineering"
+        ],
+        "website": "https://fau.de/"
     },
     {
         "id": 20292,
@@ -2926,8 +4829,19 @@
         "description": "",
         "location": "50.92944, 11.58944",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Mathematics",
+            "Medical Technology",
+            "Physics",
+            "Psychology"
+        ],
+        "website": "https://www.uni-jena.de/"
     },
     {
         "id": 20293,
@@ -2936,8 +4850,18 @@
         "description": "",
         "location": "51.54186, 9.93448",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Environmental Science & Engineering",
+            "Human Biological Sciences",
+            "Statistics"
+        ],
+        "website": "https://www.uni-goettingen.de/"
     },
     {
         "id": 20294,
@@ -2946,8 +4870,11 @@
         "description": "",
         "location": "52.38898, 13.11760",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://german-uds.de/"
     },
     {
         "id": 20295,
@@ -2956,8 +4883,19 @@
         "description": "",
         "location": "52.38221, 9.71773",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Chemistry",
+            "Civil Engineering",
+            "Earth Sciences",
+            "Economics",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Remote Sensing",
+            "Statistics",
+            "Water Resources"
+        ],
+        "website": "https://www.uni-hannover.de/"
     },
     {
         "id": 20296,
@@ -2966,8 +4904,12 @@
         "description": "",
         "location": "53.54030, 10.00480",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Civil Engineering",
+            "Environmental Science & Engineering",
+            "Geography"
+        ],
+        "website": "https://www.hcu-hamburg.de/"
     },
     {
         "id": 20297,
@@ -2976,8 +4918,19 @@
         "description": "",
         "location": "51.19028, 6.79417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Biotechnology",
+            "Clinical Medicine",
+            "Economics",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "https://www.hhu.de/"
     },
     {
         "id": 20298,
@@ -2986,8 +4939,11 @@
         "description": "",
         "location": "53.56896, 10.10950",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Economics",
+            "Psychology"
+        ],
+        "website": "https://www.hsu-hh.de/"
     },
     {
         "id": 20299,
@@ -2996,8 +4952,11 @@
         "description": "",
         "location": "52.51284, 13.38928",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Political Sciences",
+            "Public Administration"
+        ],
+        "website": "https://www.hertie-school.org/"
     },
     {
         "id": 20300,
@@ -3006,8 +4965,13 @@
         "description": "",
         "location": "51.33971, 12.34965",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "http://www.hhl.de/"
     },
     {
         "id": 20301,
@@ -3016,8 +4980,11 @@
         "description": "",
         "location": "49.41004, 8.70147",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "http://www.hfjs.eu/"
     },
     {
         "id": 20302,
@@ -3026,8 +4993,11 @@
         "description": "",
         "location": "48.14892, 11.58329",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.hfph.de/"
     },
     {
         "id": 20303,
@@ -3036,8 +5006,43 @@
         "description": "",
         "location": "52.51806, 13.39333",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Artificial Intelligence",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Chemistry",
+            "Clinical Medicine",
+            "Computer Science & Engineering",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Environmental Science & Engineering",
+            "Geography",
+            "Human Biological Sciences",
+            "Law",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Nursing",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Remote Sensing",
+            "Sociology",
+            "Statistics",
+            "Veterinary Sciences",
+            "Water Resources"
+        ],
+        "website": "https://www.hu-berlin.de/"
     },
     {
         "id": 20304,
@@ -3046,8 +5051,10 @@
         "description": "",
         "location": "52.52370, 13.34329",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology"
+        ],
+        "website": "https://www.ipu-berlin.de/"
     },
     {
         "id": 20305,
@@ -3056,8 +5063,19 @@
         "description": "",
         "location": "50.12800, 8.66700",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Finance",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.uni-frankfurt.de/"
     },
     {
         "id": 20306,
@@ -3066,8 +5084,17 @@
         "description": "",
         "location": "49.99306, 8.24167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics"
+        ],
+        "website": "https://www.uni-mainz.de/"
     },
     {
         "id": 20307,
@@ -3076,8 +5103,18 @@
         "description": "",
         "location": "49.78806, 9.93528",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics"
+        ],
+        "website": "https://www.uni-wuerzburg.de/"
     },
     {
         "id": 20308,
@@ -3086,8 +5123,18 @@
         "description": "",
         "location": "50.58036, 8.67722",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Political Sciences",
+            "Veterinary Sciences"
+        ],
+        "website": "http://www.uni-giessen.de/"
     },
     {
         "id": 20309,
@@ -3096,8 +5143,17 @@
         "description": "",
         "location": "49.00947, 8.41167",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Chemistry",
+            "Energy Science & Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Physics",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.kit.edu/"
     },
     {
         "id": 20310,
@@ -3106,8 +5162,18 @@
         "description": "",
         "location": "48.88944, 11.18972",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Economics",
+            "Education",
+            "Management",
+            "Mathematics",
+            "Political Sciences",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.ku.de/"
     },
     {
         "id": 20311,
@@ -3116,8 +5182,11 @@
         "description": "",
         "location": "51.26528, 7.17028",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.kiho-wuppertal.de/"
     },
     {
         "id": 20312,
@@ -3126,8 +5195,10 @@
         "description": "",
         "location": "50.92017, 6.90542",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education"
+        ],
+        "website": "https://www.khkt.de/"
     },
     {
         "id": 20313,
@@ -3136,8 +5207,12 @@
         "description": "",
         "location": "53.54497, 10.00142",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.klu.org/"
     },
     {
         "id": 20314,
@@ -3146,8 +5221,15 @@
         "description": "",
         "location": "53.22889, 10.40111",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Ecology",
+            "Economics",
+            "Environmental Science & Engineering",
+            "Management",
+            "Political Sciences",
+            "Psychology"
+        ],
+        "website": "http://www.leuphana.de/"
     },
     {
         "id": 20315,
@@ -3156,8 +5238,21 @@
         "description": "",
         "location": "48.15083, 11.58028",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Political Sciences",
+            "Public Administration"
+        ],
+        "website": "https://www.lmu.de/"
     },
     {
         "id": 20316,
@@ -3166,8 +5261,11 @@
         "description": "",
         "location": "50.21046, 8.55560",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://lthh.de/"
     },
     {
         "id": 20317,
@@ -3176,8 +5274,14 @@
         "description": "",
         "location": "51.48639, 11.96889",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Biological Sciences",
+            "Ecology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-halle.de/"
     },
     {
         "id": 20318,
@@ -3186,8 +5290,15 @@
         "description": "",
         "location": "52.41040, 12.54745",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Clinical Medicine",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Nursing",
+            "Psychology",
+            "Public Health"
+        ],
+        "website": "http://www.mhb-fontane.de/"
     },
     {
         "id": 20319,
@@ -3196,8 +5307,15 @@
         "description": "",
         "location": "52.38389, 9.80472",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.mhh.de/"
     },
     {
         "id": 20320,
@@ -3206,8 +5324,11 @@
         "description": "",
         "location": "49.89389, 10.88667",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "https://www.uni-bamberg.de/"
     },
     {
         "id": 20321,
@@ -3216,8 +5337,13 @@
         "description": "",
         "location": "52.14031, 11.64323",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Human Biological Sciences",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology"
+        ],
+        "website": "https://www.ovgu.de/"
     },
     {
         "id": 20322,
@@ -3226,8 +5352,17 @@
         "description": "",
         "location": "50.81076, 8.77370",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Ecology",
+            "Human Biological Sciences",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-marburg.de/"
     },
     {
         "id": 20323,
@@ -3236,8 +5371,11 @@
         "description": "",
         "location": "51.96006, 7.64778",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.cts-hochschule.de/"
     },
     {
         "id": 20324,
@@ -3246,8 +5384,11 @@
         "description": "",
         "location": "50.09848, 8.71200",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.sankt-georgen.de/"
     },
     {
         "id": 20325,
@@ -3256,8 +5397,10 @@
         "description": "",
         "location": "52.51281, 13.41579",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology"
+        ],
+        "website": "https://www.psychologische-hochschule.de/"
     },
     {
         "id": 20326,
@@ -3266,8 +5409,12 @@
         "description": "",
         "location": "47.98111, 7.89333",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "http://www.ph-freiburg.de/"
     },
     {
         "id": 20327,
@@ -3276,8 +5423,12 @@
         "description": "",
         "location": "49.42046, 8.68474",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.ph-heidelberg.de/"
     },
     {
         "id": 20328,
@@ -3286,8 +5437,12 @@
         "description": "",
         "location": "49.01375, 8.39274",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "http://www.ph-karlsruhe.de/"
     },
     {
         "id": 20329,
@@ -3296,8 +5451,12 @@
         "description": "",
         "location": "48.90984, 9.18312",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "http://www.ph-ludwigsburg.de/"
     },
     {
         "id": 20330,
@@ -3306,8 +5465,12 @@
         "description": "",
         "location": "48.79167, 9.82889",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.ph-gmuend.de/"
     },
     {
         "id": 20331,
@@ -3316,8 +5479,12 @@
         "description": "",
         "location": "47.80966, 9.64395",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.ph-weingarten.de/"
     },
     {
         "id": 20332,
@@ -3326,8 +5493,19 @@
         "description": "",
         "location": "50.77769, 6.07792",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Energy Science & Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Metallurgical Engineering",
+            "Mining & Mineral Engineering"
+        ],
+        "website": "https://www.rwth-aachen.de/"
     },
     {
         "id": 20333,
@@ -3336,8 +5514,23 @@
         "description": "",
         "location": "50.73389, 7.10222",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Biotechnology",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Economics",
+            "Geography",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.uni-bonn.de/"
     },
     {
         "id": 20334,
@@ -3346,8 +5539,15 @@
         "description": "",
         "location": "49.20407, 8.10727",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Ecology",
+            "Food Science & Technology",
+            "Medical Technology",
+            "Physics"
+        ],
+        "website": "https://rptu.de/"
     },
     {
         "id": 20335,
@@ -3356,8 +5556,20 @@
         "description": "",
         "location": "51.44390, 7.26157",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Chemistry",
+            "Clinical Medicine",
+            "Earth Sciences",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Metallurgical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Physics",
+            "Psychology",
+            "Statistics",
+            "Telecommunication Engineering"
+        ],
+        "website": "https://www.ruhr-uni-bochum.de/"
     },
     {
         "id": 20336,
@@ -3366,8 +5578,19 @@
         "description": "",
         "location": "49.41049, 8.70659",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Biotechnology",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Physics",
+            "Psychology",
+            "Public Health",
+            "Remote Sensing"
+        ],
+        "website": "https://www.uni-heidelberg.de/"
     },
     {
         "id": 20337,
@@ -3376,8 +5599,12 @@
         "description": "",
         "location": "52.36917, 9.76556",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Human Biological Sciences",
+            "Veterinary Sciences"
+        ],
+        "website": "http://www.tiho-hannover.de/"
     },
     {
         "id": 20338,
@@ -3386,8 +5613,12 @@
         "description": "",
         "location": "50.91806, 13.34083",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Earth Sciences",
+            "Metallurgical Engineering",
+            "Mining & Mineral Engineering"
+        ],
+        "website": "http://tu-freiberg.de/"
     },
     {
         "id": 20339,
@@ -3396,8 +5627,18 @@
         "description": "",
         "location": "52.51102, 13.32695",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Artificial Intelligence",
+            "Chemistry",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Remote Sensing",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.tu.berlin/"
     },
     {
         "id": 20340,
@@ -3406,8 +5647,15 @@
         "description": "",
         "location": "52.27361, 10.52972",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Biological Sciences",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Telecommunication Engineering"
+        ],
+        "website": "https://www.tu-braunschweig.de/"
     },
     {
         "id": 20341,
@@ -3416,8 +5664,10 @@
         "description": "",
         "location": "50.83917, 12.92750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Mathematics"
+        ],
+        "website": "https://www.tu-chemnitz.de/"
     },
     {
         "id": 20342,
@@ -3426,8 +5676,11 @@
         "description": "",
         "location": "51.80472, 10.33444",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Earth Sciences",
+            "Mining & Mineral Engineering"
+        ],
+        "website": "https://www.tu-clausthal.de/"
     },
     {
         "id": 20343,
@@ -3436,8 +5689,18 @@
         "description": "",
         "location": "49.87500, 8.65694",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Energy Science & Engineering",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Physics",
+            "Robotic Science & Engineering"
+        ],
+        "website": "https://www.tu-darmstadt.de/"
     },
     {
         "id": 20344,
@@ -3446,8 +5709,19 @@
         "description": "",
         "location": "51.49246, 7.41427",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Education",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Psychology",
+            "Statistics"
+        ],
+        "website": "https://www.tu-dortmund.de/"
     },
     {
         "id": 20345,
@@ -3456,8 +5730,19 @@
         "description": "",
         "location": "51.02806, 13.72667",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Medical Technology",
+            "Nanoscience & Nanotechnology",
+            "Physics",
+            "Psychology",
+            "Transportation Science & Technology",
+            "Water Resources"
+        ],
+        "website": "https://tu-dresden.de/"
     },
     {
         "id": 20346,
@@ -3466,8 +5751,12 @@
         "description": "",
         "location": "53.46096, 9.96951",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Chemical Engineering",
+            "Management",
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.tuhh.de/"
     },
     {
         "id": 20347,
@@ -3476,8 +5765,18 @@
         "description": "",
         "location": "50.68167, 10.93900",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication",
+            "Computer Science & Engineering",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics"
+        ],
+        "website": "https://www.tu-ilmenau.de/"
     },
     {
         "id": 20348,
@@ -3486,8 +5785,17 @@
         "description": "",
         "location": "48.14861, 11.56806",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Agricultural Sciences",
+            "Biotechnology",
+            "Ecology",
+            "Medical Technology",
+            "Remote Sensing",
+            "Robotic Science & Engineering",
+            "Transportation Science & Technology"
+        ],
+        "website": "https://www.tum.de/"
     },
     {
         "id": 20349,
@@ -3496,8 +5804,11 @@
         "description": "",
         "location": "49.42982, 11.07503",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Computer Science & Engineering"
+        ],
+        "website": "https://utn.de/"
     },
     {
         "id": 20350,
@@ -3506,8 +5817,11 @@
         "description": "",
         "location": "50.55465, 9.67116",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://thf-fulda.de/"
     },
     {
         "id": 20351,
@@ -3516,8 +5830,11 @@
         "description": "",
         "location": "51.71608, 8.75494",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://www.thf-paderborn.de/"
     },
     {
         "id": 20352,
@@ -3526,8 +5843,11 @@
         "description": "",
         "location": "49.74691, 6.68758",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Sociology"
+        ],
+        "website": "https://theologie-trier.de/"
     },
     {
         "id": 20353,
@@ -3536,8 +5856,13 @@
         "description": "",
         "location": "52.21162, 11.98423",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Nursing",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "http://www.thh-friedensau.de/"
     },
     {
         "id": 20354,
@@ -3546,8 +5871,14 @@
         "description": "",
         "location": "48.16361, 11.50944",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Economics",
+            "Education",
+            "Law",
+            "Political Sciences",
+            "Sociology"
+        ],
+        "website": "http://www.ufu-muenchen.de/"
     },
     {
         "id": 20355,
@@ -3556,8 +5887,11 @@
         "description": "",
         "location": "48.33389, 10.89833",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Mathematics",
+            "Medical Technology"
+        ],
+        "website": "https://www.uni-augsburg.de/"
     },
     {
         "id": 20356,
@@ -3566,8 +5900,18 @@
         "description": "",
         "location": "49.92889, 11.58583",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Business Administration",
+            "Chemistry",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Environmental Science & Engineering",
+            "Materials Science & Engineering",
+            "Nanoscience & Nanotechnology"
+        ],
+        "website": "https://www.uni-bayreuth.de/"
     },
     {
         "id": 20357,
@@ -3576,8 +5920,18 @@
         "description": "",
         "location": "52.03778, 8.49306",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Artificial Intelligence",
+            "Biotechnology",
+            "Economics",
+            "Education",
+            "Mathematics",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Statistics"
+        ],
+        "website": "https://www.uni-bielefeld.de/"
     },
     {
         "id": 20358,
@@ -3586,8 +5940,19 @@
         "description": "",
         "location": "53.10866, 8.85361",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Communication",
+            "Computer Science & Engineering",
+            "Earth Sciences",
+            "Ecology",
+            "Mechanical Engineering",
+            "Oceanography",
+            "Political Sciences",
+            "Psychology",
+            "Statistics"
+        ],
+        "website": "https://www.uni-bremen.de/"
     },
     {
         "id": 20359,
@@ -3596,8 +5961,10 @@
         "description": "",
         "location": "48.08032, 11.63813",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Mechanical Engineering"
+        ],
+        "website": "https://www.unibw.de/"
     },
     {
         "id": 20360,
@@ -3606,8 +5973,17 @@
         "description": "",
         "location": "49.25443, 7.04159",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science & Engineering",
+            "Management",
+            "Metallurgical Engineering",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-saarland.de/start.html/"
     },
     {
         "id": 20361,
@@ -3616,8 +5992,19 @@
         "description": "",
         "location": "51.42917, 6.80083",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Automation & Control",
+            "Biological Sciences",
+            "Biomedical Engineering",
+            "Clinical Medicine",
+            "Communication",
+            "Energy Science & Engineering",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Political Sciences"
+        ],
+        "website": "https://www.uni-due.de/"
     },
     {
         "id": 20362,
@@ -3626,8 +6013,10 @@
         "description": "",
         "location": "50.99139, 11.01083",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Political Sciences"
+        ],
+        "website": "https://www.uni-erfurt.de/"
     },
     {
         "id": 20363,
@@ -3636,8 +6025,16 @@
         "description": "",
         "location": "54.09444, 13.37444",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Dentistry & Oral Sciences",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Science & Engineering",
+            "Human Biological Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-greifswald.de/"
     },
     {
         "id": 20364,
@@ -3646,8 +6043,18 @@
         "description": "",
         "location": "53.56694, 9.98389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Communication",
+            "Earth Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Oceanography",
+            "Physics",
+            "Psychology",
+            "Public Administration"
+        ],
+        "website": "https://www.uni-hamburg.de/"
     },
     {
         "id": 20365,
@@ -3656,8 +6063,14 @@
         "description": "",
         "location": "52.13333, 9.97500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication",
+            "Education",
+            "Library & Information Science",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.uni-hildesheim.de/"
     },
     {
         "id": 20366,
@@ -3666,8 +6079,16 @@
         "description": "",
         "location": "48.71250, 9.21400",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Ecology",
+            "Food Science & Technology",
+            "Management",
+            "Public Health"
+        ],
+        "website": "https://www.uni-hohenheim.de/"
     },
     {
         "id": 20367,
@@ -3676,8 +6097,11 @@
         "description": "",
         "location": "51.32277, 9.50756",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Management"
+        ],
+        "website": "https://www.uni-kassel.de/uni/"
     },
     {
         "id": 20368,
@@ -3686,8 +6110,11 @@
         "description": "",
         "location": "50.36361, 7.55889",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Communication",
+            "Psychology"
+        ],
+        "website": "https://www.uni-koblenz.de/"
     },
     {
         "id": 20369,
@@ -3696,8 +6123,17 @@
         "description": "",
         "location": "47.69022, 9.18810",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Ecology",
+            "Economics",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+        ],
+        "website": "https://www.uni-konstanz.de/"
     },
     {
         "id": 20370,
@@ -3706,8 +6142,18 @@
         "description": "",
         "location": "51.33870, 12.37873",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Biotechnology",
+            "Clinical Medicine",
+            "Communication",
+            "Ecology",
+            "Medical Technology",
+            "Psychology",
+            "Remote Sensing",
+            "Veterinary Sciences"
+        ],
+        "website": "https://www.uni-leipzig.de/"
     },
     {
         "id": 20371,
@@ -3716,8 +6162,18 @@
         "description": "",
         "location": "49.48320, 8.46469",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Economics",
+            "Finance",
+            "Management",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Statistics"
+        ],
+        "website": "https://www.uni-mannheim.de/"
     },
     {
         "id": 20372,
@@ -3726,8 +6182,17 @@
         "description": "",
         "location": "51.96361, 7.61306",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Chemistry",
+            "Communication",
+            "Dentistry & Oral Sciences",
+            "Library & Information Science",
+            "Mathematics",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-muenster.de/"
     },
     {
         "id": 20373,
@@ -3736,8 +6201,11 @@
         "description": "",
         "location": "52.27298, 8.04177",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Political Sciences",
+            "Psychology"
+        ],
+        "website": "https://www.uni-osnabrueck.de/"
     },
     {
         "id": 20374,
@@ -3746,8 +6214,13 @@
         "description": "",
         "location": "51.70806, 8.77222",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Electrical & Electronic Engineering",
+            "Management",
+            "Mathematics"
+        ],
+        "website": "http://www.uni-paderborn.de/"
     },
     {
         "id": 20375,
@@ -3756,8 +6229,15 @@
         "description": "",
         "location": "48.56833, 13.45333",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Computer Science & Engineering",
+            "Economics",
+            "Law",
+            "Management",
+            "Political Sciences"
+        ],
+        "website": "https://www.uni-passau.de/"
     },
     {
         "id": 20376,
@@ -3766,8 +6246,17 @@
         "description": "",
         "location": "52.40111, 13.01194",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Atmospheric Science",
+            "Earth Sciences",
+            "Ecology",
+            "Education",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Water Resources"
+        ],
+        "website": "https://www.uni-potsdam.de/"
     },
     {
         "id": 20377,
@@ -3776,8 +6265,17 @@
         "description": "",
         "location": "48.99810, 12.09500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biomedical Engineering",
+            "Chemistry",
+            "Clinical Medicine",
+            "Dentistry & Oral Sciences",
+            "Education",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Pharmacy & Pharmaceutical Sciences"
+        ],
+        "website": "https://www.uni-regensburg.de/"
     },
     {
         "id": 20378,
@@ -3786,8 +6284,16 @@
         "description": "",
         "location": "54.08813, 12.13337",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Agricultural Sciences",
+            "Atmospheric Science",
+            "Biological Sciences",
+            "Chemistry",
+            "Earth Sciences",
+            "Medical Technology",
+            "Physics"
+        ],
+        "website": "https://www.uni-rostock.de/"
     },
     {
         "id": 20379,
@@ -3796,8 +6302,11 @@
         "description": "",
         "location": "50.90639, 8.02833",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Mechanical Engineering",
+            "Physics"
+        ],
+        "website": "https://www.uni-siegen.de/"
     },
     {
         "id": 20380,
@@ -3806,8 +6315,22 @@
         "description": "",
         "location": "48.78170, 9.17520",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Aerospace Engineering",
+            "Automation & Control",
+            "Biotechnology",
+            "Computer Science & Engineering",
+            "Energy Science & Engineering",
+            "Management",
+            "Materials Science & Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Nanoscience & Nanotechnology",
+            "Robotic Science & Engineering",
+            "Water Resources"
+        ],
+        "website": "https://www.uni-stuttgart.de/"
     },
     {
         "id": 20381,
@@ -3816,8 +6339,10 @@
         "description": "",
         "location": "49.74588, 6.68706",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Psychology"
+        ],
+        "website": "https://www.uni-trier.de/"
     },
     {
         "id": 20382,
@@ -3826,8 +6351,21 @@
         "description": "",
         "location": "48.42209, 9.95377",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Chemistry",
+            "Clinical Medicine",
+            "Economics",
+            "Human Biological Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Pharmacy & Pharmaceutical Sciences",
+            "Physics",
+            "Psychology",
+            "Public Health",
+            "Statistics"
+        ],
+        "website": "https://www.uni-ulm.de/"
     },
     {
         "id": 20383,
@@ -3836,8 +6374,13 @@
         "description": "",
         "location": "52.72161, 8.29382",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Education",
+            "Environmental Science & Engineering",
+            "Public Health",
+            "Sociology"
+        ],
+        "website": "https://www.uni-vechta.de/"
     },
     {
         "id": 20384,
@@ -3846,8 +6389,10 @@
         "description": "",
         "location": "51.45227, 7.35723",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Human Biological Sciences"
+        ],
+        "website": "https://www.uni-wh.de/"
     },
     {
         "id": 20385,
@@ -3856,8 +6401,17 @@
         "description": "",
         "location": "50.92806, 6.92861",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Earth Sciences",
+            "Economics",
+            "Human Biological Sciences",
+            "Medical Technology",
+            "Psychology",
+            "Sociology"
+        ],
+        "website": "https://www.uni-koeln.de/"
     },
     {
         "id": 20386,
@@ -3866,8 +6420,13 @@
         "description": "",
         "location": "53.83693, 10.70583",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Biological Sciences",
+            "Clinical Medicine",
+            "Human Biological Sciences",
+            "Medical Technology"
+        ],
+        "website": "https://www.uni-luebeck.de/"
     },
     {
         "id": 20387,
@@ -3876,8 +6435,14 @@
         "description": "",
         "location": "50.40152, 7.62760",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Education",
+            "Management",
+            "Nursing",
+            "Public Health"
+        ],
+        "website": "https://vp-uni.de/"
     },
     {
         "id": 20388,
@@ -3886,8 +6451,12 @@
         "description": "",
         "location": "50.40033, 7.61351",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Management"
+        ],
+        "website": "https://www.whu.edu/de/"
     },
     {
         "id": 20389,
@@ -3896,8 +6465,16 @@
         "description": "",
         "location": "47.65861, 9.43389",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Communication",
+            "Economics",
+            "Management",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+        ],
+        "website": "https://www.zu.de/"
     },
     {
         "id": 20390,
@@ -3906,8 +6483,13 @@
         "description": "",
         "location": "52.52400, 13.28878",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.escp.eu/de/"
     },
     {
         "id": 20391,
@@ -3916,8 +6498,11 @@
         "description": "",
         "location": "53.60244, 10.00061",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "http://akademie-der-polizei.hamburg.de/"
     },
     {
         "id": 20392,
@@ -3926,8 +6511,10 @@
         "description": "",
         "location": "50.80333, 8.76417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Library & Information Science"
+        ],
+        "website": "https://www.archivschule.de/"
     },
     {
         "id": 20393,
@@ -3936,8 +6523,11 @@
         "description": "",
         "location": "51.89806, 7.64500",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.dhpol.de/"
     },
     {
         "id": 20394,
@@ -3946,8 +6536,11 @@
         "description": "",
         "location": "49.34406, 7.03806",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.saarland.de/fhsv/DE/home/home_node.html"
     },
     {
         "id": 20395,
@@ -3956,8 +6549,12 @@
         "description": "",
         "location": "52.29256, 13.61529",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://fhf.brandenburg.de/"
     },
     {
         "id": 20396,
@@ -3966,8 +6563,11 @@
         "description": "",
         "location": "50.56186, 6.76651",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hsjustiz.nrw.de/"
     },
     {
         "id": 20397,
@@ -3976,8 +6576,11 @@
         "description": "",
         "location": "54.40206, 10.13305",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.fhvd-sh.de/"
     },
     {
         "id": 20398,
@@ -3986,8 +6589,11 @@
         "description": "",
         "location": "53.78360, 12.17710",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "http://www.fh-guestrow.de/"
     },
     {
         "id": 20399,
@@ -3996,8 +6602,11 @@
         "description": "",
         "location": "51.75412, 11.49243",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://fh-polizei.sachsen-anhalt.de/startseite-fachhochschule/"
     },
     {
         "id": 20400,
@@ -4006,8 +6615,12 @@
         "description": "",
         "location": "50.99139, 9.73096",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://studienzentrum-rotenburg.hessen.de/"
     },
     {
         "id": 20401,
@@ -4016,8 +6629,13 @@
         "description": "",
         "location": "49.47645, 8.51527",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Management",
+            "Public Administration",
+            "Sociology"
+        ],
+        "website": "http://www.hdba.de/"
     },
     {
         "id": 20402,
@@ -4026,8 +6644,13 @@
         "description": "",
         "location": "50.66128, 7.82575",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management"
+        ],
+        "website": "https://www.hochschule-bundesbank.de/"
     },
     {
         "id": 20403,
@@ -4036,8 +6659,11 @@
         "description": "",
         "location": "52.76221, 13.26915",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hpolbb.de/"
     },
     {
         "id": 20404,
@@ -4046,8 +6672,11 @@
         "description": "",
         "location": "49.92671, 7.25276",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.polizei.rlp.de/die-polizei/dienststellen/hochschule-der-polizei-rheinland-pfalz"
     },
     {
         "id": 20405,
@@ -4056,8 +6685,11 @@
         "description": "",
         "location": "51.35970, 14.96124",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.polizei.sachsen.de/de/polfh.htm"
     },
     {
         "id": 20406,
@@ -4066,8 +6698,11 @@
         "description": "",
         "location": "50.83158, 6.88125",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hsbund.de/"
     },
     {
         "id": 20407,
@@ -4076,8 +6711,12 @@
         "description": "",
         "location": "48.14247, 11.58880",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.fhvr.bayern.de/"
     },
     {
         "id": 20408,
@@ -4086,8 +6725,12 @@
         "description": "",
         "location": "51.73264, 7.53371",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.finanzverwaltung.nrw.de/dienststellen/hochschule-fuer-finanzen-nrw"
     },
     {
         "id": 20409,
@@ -4096,8 +6739,12 @@
         "description": "",
         "location": "49.28416, 8.13101",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://landesfinanzschule-edenkoben.fin-rlp.de/"
     },
     {
         "id": 20410,
@@ -4106,8 +6753,11 @@
         "description": "",
         "location": "48.06500, 8.51417",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hfpol-bw.de/"
     },
     {
         "id": 20411,
@@ -4116,8 +6766,11 @@
         "description": "",
         "location": "51.50177, 7.13440",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hspv.nrw.de/"
     },
     {
         "id": 20412,
@@ -4126,8 +6779,11 @@
         "description": "",
         "location": "49.38351, 8.57237",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hfr-schwetzingen.de/"
     },
     {
         "id": 20413,
@@ -4136,8 +6792,11 @@
         "description": "",
         "location": "53.08438, 8.79609",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hfoev.bremen.de/"
     },
     {
         "id": 20414,
@@ -4146,8 +6805,11 @@
         "description": "",
         "location": "48.57472, 7.81750",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hs-kehl.de/"
     },
     {
         "id": 20415,
@@ -4156,8 +6818,11 @@
         "description": "",
         "location": "50.32806, 7.22945",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://hoev.rlp.de/"
     },
     {
         "id": 20416,
@@ -4166,8 +6831,12 @@
         "description": "",
         "location": "48.90838, 9.17997",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hs-ludwigsburg.de/"
     },
     {
         "id": 20417,
@@ -4176,8 +6845,11 @@
         "description": "",
         "location": "51.15860, 13.48965",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.hsf.sachsen.de/"
     },
     {
         "id": 20418,
@@ -4186,8 +6858,11 @@
         "description": "",
         "location": "52.37025, 9.72212",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://www.nsi-hsvn.de/"
     },
     {
         "id": 20419,
@@ -4196,8 +6871,12 @@
         "description": "",
         "location": "53.56139, 10.05658",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Finance",
+            "Law",
+            "Public Administration"
+        ],
+        "website": "http://www.hamburg.de/fb/norddeutsche-akademie-fuer-finanzen-und-steuerrecht-hamburg/"
     },
     {
         "id": 20420,
@@ -4206,8 +6885,11 @@
         "description": "",
         "location": "52.14486, 9.94919",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://hr-nord.niedersachsen.de/"
     },
     {
         "id": 20421,
@@ -4216,7 +6898,10 @@
         "description": "",
         "location": "50.94170, 10.71085",
         "country": "DE",
-        "subjects": [],
-        "website": ""
+        "subjects": [
+            "Law",
+            "Public Administration"
+        ],
+        "website": "https://bildungszentrum.thueringen.de/"
     }
 ]
