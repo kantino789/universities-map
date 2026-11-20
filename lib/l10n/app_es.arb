@@ -21,6 +21,7 @@
   "filterOptions": "Opciones de filtro",
   "packageWorld": "Mundo",
   "packageFrance": "Francia",
+  "packageGermany": "Alemania",
   "resetFilters": "Restablecer filtros",
   "close": "Cerrar",
   "mapLoadError": "No se pudo cargar el mapa:\n{error}",

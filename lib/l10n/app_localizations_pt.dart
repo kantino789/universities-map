@@ -74,6 +74,9 @@ class AppLocalizationsPt extends AppLocalizations {
   String get packageFrance => 'França';
 
   @override
+  String get packageGermany => 'Alemanha';
+
+  @override
   String get resetFilters => 'Redefinir filtros';
 
   @override

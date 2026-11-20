@@ -21,6 +21,7 @@
   "filterOptions": "Options de filtrage",
   "packageWorld": "Monde",
   "packageFrance": "France",
+  "packageGermany": "Allemagne",
   "resetFilters": "Réinitialiser les filtres",
   "close": "Fermer",
   "mapLoadError": "Impossible de charger la carte :\n{error}",

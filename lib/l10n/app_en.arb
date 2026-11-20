@@ -31,6 +31,10 @@
   "@packageFrance": {
     "description": "French university dataset option in the package selector"
   },
+  "packageGermany": "Germany",
+  "@packageGermany": {
+    "description": "German university dataset option in the package selector"
+  },
   "resetFilters": "Reset Filters",
   "close": "Close",
   "mapLoadError": "Could not load map:\n{error}",

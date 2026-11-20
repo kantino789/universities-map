@@ -14,6 +14,7 @@ class Editor extends StringPropertyChangeNotifier {
 
   final Map<String, Poi> _poisById = {};
   final Map<String, Poi> _frenchPoisById = {};
+  final Map<String, Poi> _germanPoisById = {};
   Iterable<Poi> get displayedPois => _filteredPois();
 
   UniversitiesPackage _selectedPackage = UniversitiesPackage.general;
@@ -46,6 +47,9 @@ class Editor extends StringPropertyChangeNotifier {
       if (loadFrenchData) {
         await _loadDataPackage(UniversitiesPackage.french);
       }
+      if (loadGermanData) {
+        await _loadDataPackage(UniversitiesPackage.german);
+      }
       await Future.wait([_populateFavorites(), _populateNotes()]);
       return true;
     } catch (e) {
@@ -64,6 +68,10 @@ class Editor extends StringPropertyChangeNotifier {
       case UniversitiesPackage.french:
         assetPath = 'assets/french_universities.json';
         targetMap = _frenchPoisById;
+        break;
+      case UniversitiesPackage.german:
+        assetPath = 'assets/german_universities.json';
+        targetMap = _germanPoisById;
         break;
     }
     final String response = await rootBundle.loadString(assetPath);
@@ -194,6 +202,9 @@ class Editor extends StringPropertyChangeNotifier {
         break;
       case UniversitiesPackage.french:
         targetMap = _frenchPoisById;
+        break;
+      case UniversitiesPackage.german:
+        targetMap = _germanPoisById;
         break;
     }
     if (_filters.isEmpty) {

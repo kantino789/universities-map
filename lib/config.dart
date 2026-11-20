@@ -5,3 +5,4 @@ final bool _showAds = true;
 bool get showAds => _showAds;
 
 final bool loadFrenchData = true;
+final bool loadGermanData = true;

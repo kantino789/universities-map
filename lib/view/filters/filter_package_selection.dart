@@ -42,6 +42,17 @@ class _FilterPackageSelectionState extends State<FilterPackageSelection> {
         ),
       );
     }
+    if (loadGermanData) {
+      packages.add(
+        DropdownMenuItem(
+          value: 2,
+          child: Builder(
+            builder: (context) =>
+                Text(AppLocalizations.of(context)!.packageGermany),
+          ),
+        ),
+      );
+    }
     return packages;
   }
 

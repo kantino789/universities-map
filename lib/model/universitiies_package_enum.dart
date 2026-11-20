@@ -1,1 +1,1 @@
-enum UniversitiesPackage { general, french }
+enum UniversitiesPackage { general, french, german }

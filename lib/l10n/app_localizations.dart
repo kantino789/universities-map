@@ -229,6 +229,12 @@ abstract class AppLocalizations {
   /// **'France'**
   String get packageFrance;
 
+  /// German university dataset option in the package selector
+  ///
+  /// In en, this message translates to:
+  /// **'Germany'**
+  String get packageGermany;
+
   /// No description provided for @resetFilters.
   ///
   /// In en, this message translates to:
