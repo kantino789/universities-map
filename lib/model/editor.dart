@@ -81,7 +81,9 @@ class Editor extends StringPropertyChangeNotifier {
       try {
         final poi = Poi.fromJson(jsonItem as Map<String, dynamic>);
         targetMap[poi.id] = poi;
-      } catch (e) {}
+      } catch (e) {
+        // Skip malformed entries.
+      }
     }
   }
 
