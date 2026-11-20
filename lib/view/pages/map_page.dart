@@ -120,6 +120,7 @@ class _MapPageState extends State<MapPage> {
                   tileProviders: style.providers,
                   rasterSources: style.rasterSources,
                   sprites: style.sprites,
+                  glyphs: style.glyphs,
                 ),
 
                 MarkersLayer(
