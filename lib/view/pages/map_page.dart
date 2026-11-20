@@ -4,6 +4,7 @@ import 'package:flutter_map_vector_tiles/flutter_map_vector_tiles.dart' as vt;
 import 'package:latlong2/latlong.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
 import 'package:universities_map/model/poi.dart';
+import 'package:universities_map/view/helpers/localized_style_client.dart';
 import 'package:universities_map/view/filters/filters_floating_button.dart';
 import 'package:universities_map/view/markers/markers_layer.dart';
 import 'package:universities_map/view/markers/poi_details.dart';
@@ -18,23 +19,44 @@ class MapPage extends StatefulWidget {
 class _MapPageState extends State<MapPage> {
   final MapController _mapController = MapController();
 
-  late final Future<vt.Style> _styleFuture;
+  final LocalizedStyleClient _styleClient = LocalizedStyleClient();
+
+  late Future<vt.Style> _styleFuture;
+  String? _language;
 
   @override
-  void initState() {
-    super.initState();
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    final language = Localizations.localeOf(context).languageCode;
+    if (language == _language) return;
+
+    final previous = _language == null ? null : _styleFuture;
+    _language = language;
     // OpenFreeMap:
-    // Free and no API key required.
+    // Free and no API key required. Labels follow the app language.
     _styleFuture = vt.StyleReader(
-      uri: 'https://tiles.openfreemap.org/styles/liberty',
+      uri: localizedStyleUri(language),
+      httpClient: _styleClient,
     ).read();
+
+    if (previous != null) {
+      // The previous map stays on screen until the new style is ready.
+      void disposePrevious() => WidgetsBinding.instance.addPostFrameCallback(
+        (_) => previous.then((style) => style.dispose(), onError: (_) {}),
+      );
+      _styleFuture.then(
+        (_) => disposePrevious(),
+        onError: (_) => disposePrevious(),
+      );
+    }
   }
 
   @override
   void dispose() {
     _styleFuture.then((style) {
       style.dispose();
-    });
+    }, onError: (_) {});
+    _styleClient.close();
     super.dispose();
   }
 
@@ -58,7 +80,7 @@ class _MapPageState extends State<MapPage> {
     return FutureBuilder<vt.Style>(
       future: _styleFuture,
       builder: (context, snapshot) {
-        if (snapshot.connectionState == ConnectionState.waiting) {
+        if (!snapshot.hasData && !snapshot.hasError) {
           return const Center(child: CircularProgressIndicator());
         }
 
@@ -93,6 +115,7 @@ class _MapPageState extends State<MapPage> {
                 // OpenFreeMap base map
                 // --------------------------------------------------
                 vt.VectorTileLayer(
+                  key: ObjectKey(style),
                   theme: style.theme,
                   tileProviders: style.providers,
                   rasterSources: style.rasterSources,

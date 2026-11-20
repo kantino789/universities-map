@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
-import 'package:universities_map/helpers.dart';
 import 'package:universities_map/model/poi_note.dart';
 import 'package:universities_map/view/activity_page/date_text.dart';
 import 'package:universities_map/view/activity_page/time_text.dart';
