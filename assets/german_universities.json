@@ -1,0 +1,4222 @@
+[
+    {
+        "id": 20000,
+        "type": "Fachhochschule",
+        "title": "Accadis Hochschule Bad Homburg",
+        "description": "",
+        "location": "50.21267, 8.65040",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20001,
+        "type": "Fachhochschule",
+        "title": "AKAD Hochschule Stuttgart",
+        "description": "",
+        "location": "48.79267, 9.18211",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20002,
+        "type": "Fachhochschule",
+        "title": "Akkon-Hochschule für Humanwissenschaften",
+        "description": "",
+        "location": "52.51186, 13.41542",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20003,
+        "type": "Fachhochschule",
+        "title": "Alice Salomon Hochschule Berlin",
+        "description": "",
+        "location": "52.53694, 13.60528",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20004,
+        "type": "Fachhochschule",
+        "title": "Allensbach Hochschule",
+        "description": "",
+        "location": "47.67231, 9.15607",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20005,
+        "type": "Fachhochschule",
+        "title": "APOLLON Hochschule der Gesundheitswirtschaft",
+        "description": "",
+        "location": "53.10341, 8.85998",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20006,
+        "type": "Fachhochschule",
+        "title": "bbw Hochschule",
+        "description": "",
+        "location": "52.51158, 13.31502",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20007,
+        "type": "Fachhochschule",
+        "title": "Berlin International University of Applied Sciences",
+        "description": "",
+        "location": "52.50758, 13.41419",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20008,
+        "type": "Fachhochschule",
+        "title": "Berliner Hochschule für Technik",
+        "description": "",
+        "location": "52.54445, 13.35277",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20009,
+        "type": "Fachhochschule",
+        "title": "Berufliche Hochschule Hamburg (BHH)",
+        "description": "",
+        "location": "53.55347, 10.03226",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20010,
+        "type": "Fachhochschule",
+        "title": "Brand University of Applied Sciences",
+        "description": "",
+        "location": "53.55278, 10.00222",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20011,
+        "type": "Fachhochschule",
+        "title": "BSP Business and Law School – Hochschule für Management und Recht",
+        "description": "",
+        "location": "52.43870, 13.32840",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20012,
+        "type": "Fachhochschule",
+        "title": "CBS International Business School – University of Applied Sciences",
+        "description": "",
+        "location": "50.92450, 6.94920",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20013,
+        "type": "Fachhochschule",
+        "title": "CODE University of Applied Sciences",
+        "description": "",
+        "location": "52.47991, 13.43687",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20014,
+        "type": "Fachhochschule",
+        "title": "CVJM-Hochschule Kassel",
+        "description": "",
+        "location": "51.30367, 9.41451",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20015,
+        "type": "Fachhochschule",
+        "title": "Deutsche Hochschule für Angewandte Wissenschaften (DHAW)",
+        "description": "",
+        "location": "52.39821, 13.05875",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20016,
+        "type": "Fachhochschule",
+        "title": "Deutsche Hochschule für Prävention und Gesundheitsmanagement GmbH",
+        "description": "",
+        "location": "49.25097, 7.03656",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20017,
+        "type": "Fachhochschule",
+        "title": "DHGS Deutsche Hochschule für Gesundheit und Sport",
+        "description": "",
+        "location": "52.52374, 13.48628",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20018,
+        "type": "Fachhochschule",
+        "title": "Digital Business University of Applied Sciences",
+        "description": "",
+        "location": "52.50064, 13.42109",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20019,
+        "type": "Fachhochschule",
+        "title": "DIPLOMA Hochschule",
+        "description": "",
+        "location": "51.26635, 9.96272",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20020,
+        "type": "Fachhochschule",
+        "title": "Duale Hochschule Baden-Württemberg",
+        "description": "",
+        "location": "48.78230, 9.17622",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20021,
+        "type": "Fachhochschule",
+        "title": "Duale Hochschule Gera-Eisenach",
+        "description": "",
+        "location": "50.90369, 12.07032",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20022,
+        "type": "Fachhochschule",
+        "title": "Duale Hochschule Schleswig-Holstein (DHSH)",
+        "description": "",
+        "location": "54.36061, 10.12474",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20023,
+        "type": "Fachhochschule",
+        "title": "EBZ Business School – University of Applied Sciences",
+        "description": "",
+        "location": "51.45226, 7.21069",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20024,
+        "type": "Fachhochschule",
+        "title": "Ernst-Abbe-Hochschule Jena – University of Applied Sciences",
+        "description": "",
+        "location": "50.91889, 11.56917",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20025,
+        "type": "Fachhochschule",
+        "title": "Europäische Fachhochschule Rhein/Erft, european university of applied sciences",
+        "description": "",
+        "location": "50.83405, 6.90547",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20026,
+        "type": "Fachhochschule",
+        "title": "Europäische Fernhochschule Hamburg",
+        "description": "",
+        "location": "53.60372, 10.15185",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20027,
+        "type": "Fachhochschule",
+        "title": "Europäische Hochschule für Innovation und Perspektive (EHiP)",
+        "description": "",
+        "location": "48.94874, 9.42925",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20028,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Berlin",
+        "description": "",
+        "location": "52.42340, 13.26280",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20029,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Bochum",
+        "description": "",
+        "location": "51.47361, 7.25417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20030,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Darmstadt",
+        "description": "",
+        "location": "49.87425, 8.62755",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20031,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Dresden",
+        "description": "",
+        "location": "51.05221, 13.76068",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20032,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Freiburg",
+        "description": "",
+        "location": "47.99750, 7.80389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20033,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule für angewandte Wissenschaften – Evangelische Fachhochschule Nürnberg",
+        "description": "",
+        "location": "49.45081, 11.06032",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20034,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule für Soziale Arbeit & Diakonie",
+        "description": "",
+        "location": "53.55489, 10.07097",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20035,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Ludwigsburg",
+        "description": "",
+        "location": "48.88371, 9.19602",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20036,
+        "type": "Fachhochschule",
+        "title": "Evangelische Hochschule Tabor",
+        "description": "",
+        "location": "50.81997, 8.78426",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20037,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Aachen",
+        "description": "",
+        "location": "50.75904, 6.08321",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20038,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule der Diakonie – Diaconia – University of Applied Sciences",
+        "description": "",
+        "location": "52.00889, 8.52583",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20039,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule der Wirtschaft",
+        "description": "",
+        "location": "51.73056, 8.73667",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20040,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule des Mittelstands (FHM)",
+        "description": "",
+        "location": "52.01720, 8.53414",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20041,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Dortmund",
+        "description": "",
+        "location": "51.50628, 7.45779",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20042,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Dresden",
+        "description": "",
+        "location": "51.04674, 13.75477",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20043,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Erfurt",
+        "description": "",
+        "location": "50.98413, 11.04240",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20044,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule für die Wirtschaft Hannover",
+        "description": "",
+        "location": "52.36611, 9.77306",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20045,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule für Interkulturelle Theologie Hermannsburg",
+        "description": "",
+        "location": "52.83295, 10.10043",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20046,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule für Sport und Management Potsdam",
+        "description": "",
+        "location": "52.37475, 13.01296",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20047,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Potsdam",
+        "description": "",
+        "location": "52.41260, 13.05088",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20048,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Südwestfalen",
+        "description": "",
+        "location": "51.36820, 7.68680",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20049,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Wedel",
+        "description": "",
+        "location": "53.57843, 9.72821",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20050,
+        "type": "Fachhochschule",
+        "title": "Fachhochschule Westküste, Hochschule für Wirtschaft und Technik",
+        "description": "",
+        "location": "54.19528, 9.12167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20051,
+        "type": "Fachhochschule",
+        "title": "FH Münster University of Applied Sciences",
+        "description": "",
+        "location": "51.96104, 7.60809",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20052,
+        "type": "Fachhochschule",
+        "title": "Fliedner Fachhochschule Düsseldorf",
+        "description": "",
+        "location": "51.29974, 6.74299",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20053,
+        "type": "Fachhochschule",
+        "title": "FOM Hochschule für Oekonomie & Management – University of Applied Sciences",
+        "description": "",
+        "location": "51.44820, 7.01210",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20054,
+        "type": "Fachhochschule",
+        "title": "Frankfurt University of Applied Sciences",
+        "description": "",
+        "location": "50.13033, 8.69249",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20055,
+        "type": "Fachhochschule",
+        "title": "Freie Theologische Hochschule Gießen",
+        "description": "",
+        "location": "50.57304, 8.69280",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20056,
+        "type": "Fachhochschule",
+        "title": "Gisma University of Applied Sciences",
+        "description": "",
+        "location": "52.37461, 9.72904",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20057,
+        "type": "Fachhochschule",
+        "title": "Hamburger Fern-Hochschule, gemeinnützige GmbH",
+        "description": "",
+        "location": "53.58236, 10.04994",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20058,
+        "type": "Fachhochschule",
+        "title": "HAWK Hochschule für angewandte Wissenschaft und Kunst Hildesheim/Holzminden/Göttingen",
+        "description": "",
+        "location": "51.55818, 9.95603",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20059,
+        "type": "Fachhochschule",
+        "title": "Health and Medical University Potsdam",
+        "description": "",
+        "location": "52.40406, 13.07482",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20060,
+        "type": "Fachhochschule",
+        "title": "Health Innovation University of Applied Sciences",
+        "description": "",
+        "location": "52.51611, 13.56611",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20061,
+        "type": "Fachhochschule",
+        "title": "Hessische Hochschule für öffentliches Management und Sicherheit",
+        "description": "",
+        "location": "50.08499, 8.19079",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20062,
+        "type": "Fachhochschule",
+        "title": "Hochschule 21",
+        "description": "",
+        "location": "53.47758, 9.70458",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20063,
+        "type": "Fachhochschule",
+        "title": "Hochschule Aalen – Technik, Wirtschaft und Gesundheit",
+        "description": "",
+        "location": "48.83806, 10.07361",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20064,
+        "type": "Fachhochschule",
+        "title": "Hochschule Albstadt-Sigmaringen",
+        "description": "",
+        "location": "48.08716, 9.23948",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20065,
+        "type": "Fachhochschule",
+        "title": "Hochschule Anhalt – Anhalt University of Applied Sciences",
+        "description": "",
+        "location": "51.82358, 11.70917",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20066,
+        "type": "Fachhochschule",
+        "title": "Hochschule Biberach",
+        "description": "",
+        "location": "48.09367, 9.78833",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20067,
+        "type": "Fachhochschule",
+        "title": "Hochschule Bielefeld",
+        "description": "",
+        "location": "52.04446, 8.49272",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20068,
+        "type": "Fachhochschule",
+        "title": "Hochschule Bochum – University of Applied Sciences",
+        "description": "",
+        "location": "51.44719, 7.27126",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20069,
+        "type": "Fachhochschule",
+        "title": "Hochschule Bonn-Rhein-Sieg, University of Applied Sciences",
+        "description": "",
+        "location": "50.77956, 7.18217",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20070,
+        "type": "Fachhochschule",
+        "title": "Hochschule Braunschweig/Wolfenbüttel, Ostfalia Hochschule für angewandte Wissenschaften",
+        "description": "",
+        "location": "52.17589, 10.54834",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20071,
+        "type": "Fachhochschule",
+        "title": "Hochschule Bremen",
+        "description": "",
+        "location": "53.07264, 8.79382",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20072,
+        "type": "Fachhochschule",
+        "title": "Hochschule Bremerhaven",
+        "description": "",
+        "location": "53.53977, 8.58205",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20073,
+        "type": "Fachhochschule",
+        "title": "Hochschule Darmstadt",
+        "description": "",
+        "location": "49.86729, 8.63810",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20074,
+        "type": "Fachhochschule",
+        "title": "Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften – HDBW",
+        "description": "",
+        "location": "48.13748, 11.68923",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20075,
+        "type": "Fachhochschule",
+        "title": "Hochschule der Medien Stuttgart",
+        "description": "",
+        "location": "48.74080, 9.10120",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20076,
+        "type": "Fachhochschule",
+        "title": "Hochschule der Wirtschaft für Management",
+        "description": "",
+        "location": "49.46908, 8.48458",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20077,
+        "type": "Fachhochschule",
+        "title": "Hochschule Düsseldorf",
+        "description": "",
+        "location": "51.24700, 6.79065",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20078,
+        "type": "Fachhochschule",
+        "title": "Hochschule Emden/Leer",
+        "description": "",
+        "location": "53.36780, 7.18113",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20079,
+        "type": "Fachhochschule",
+        "title": "Hochschule Esslingen",
+        "description": "",
+        "location": "48.73806, 9.31103",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20080,
+        "type": "Fachhochschule",
+        "title": "Hochschule Flensburg",
+        "description": "",
+        "location": "54.77486, 9.45056",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20081,
+        "type": "Fachhochschule",
+        "title": "Hochschule Fresenius",
+        "description": "",
+        "location": "50.22128, 8.26705",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20082,
+        "type": "Fachhochschule",
+        "title": "Hochschule Fresenius Heidelberg",
+        "description": "",
+        "location": "49.38380, 8.68009",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20083,
+        "type": "Fachhochschule",
+        "title": "Hochschule Fulda – University of Applied Sciences",
+        "description": "",
+        "location": "50.56472, 9.68750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20084,
+        "type": "Fachhochschule",
+        "title": "Hochschule Furtwangen – Informatik, Technik, Wirtschaft, Medien, Gesundheit",
+        "description": "",
+        "location": "48.05117, 8.20756",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20085,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Ansbach",
+        "description": "",
+        "location": "49.30611, 10.56722",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20086,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Coburg",
+        "description": "",
+        "location": "50.26472, 10.95000",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20087,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Angewandte Wissenschaften Hamburg",
+        "description": "",
+        "location": "53.55627, 10.02196",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20088,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Angewandte Wissenschaften Hof",
+        "description": "",
+        "location": "50.32529, 11.94053",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20089,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Kempten",
+        "description": "",
+        "location": "47.71583, 10.31361",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20090,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Angewandte Wissenschaften Kiel",
+        "description": "",
+        "location": "54.33278, 10.18028",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20091,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Landshut",
+        "description": "",
+        "location": "48.55521, 12.19897",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20092,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften München",
+        "description": "",
+        "location": "48.15503, 11.55365",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20093,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Neu-Ulm",
+        "description": "",
+        "location": "48.38039, 10.00915",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20094,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandte Wissenschaften Weihenstephan-Triesdorf",
+        "description": "",
+        "location": "48.39571, 11.73041",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20095,
+        "type": "Fachhochschule",
+        "title": "Hochschule für angewandtes Management",
+        "description": "",
+        "location": "48.22924, 11.68159",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20096,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Finanzwirtschaft & Management GmbH",
+        "description": "",
+        "location": "50.72066, 7.11272",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20097,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Forstwirtschaft Rottenburg",
+        "description": "",
+        "location": "48.45806, 8.94417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20098,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Gesellschaftsgestaltung",
+        "description": "",
+        "location": "50.36166, 7.59795",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20099,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Gestaltung Schwäbisch Gmünd",
+        "description": "",
+        "location": "48.79306, 9.79361",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20100,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Kommunikation und Gestaltung",
+        "description": "",
+        "location": "48.81740, 9.20698",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20101,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Künste im Sozialen, Ottersberg",
+        "description": "",
+        "location": "53.10364, 9.16173",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20102,
+        "type": "Fachhochschule",
+        "title": "Hochschule für nachhaltige Entwicklung Eberswalde",
+        "description": "",
+        "location": "52.83294, 13.81758",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20103,
+        "type": "Fachhochschule",
+        "title": "Hochschule für soziale Arbeit und Pädagogik",
+        "description": "",
+        "location": "52.48751, 13.46262",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20104,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik Stuttgart",
+        "description": "",
+        "location": "48.78028, 9.17278",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20105,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik und Wirtschaft Berlin",
+        "description": "",
+        "location": "52.49222, 13.52650",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20106,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik und Wirtschaft des Saarlandes",
+        "description": "",
+        "location": "49.23569, 6.97561",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20107,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik und Wirtschaft Dresden – University of Applied Sciences",
+        "description": "",
+        "location": "51.03750, 13.73522",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20108,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+        "description": "",
+        "location": "51.31417, 12.37254",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20109,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Technik, Wirtschaft und Medien Offenburg",
+        "description": "",
+        "location": "48.45889, 7.94278",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20110,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+        "description": "",
+        "location": "49.48055, 8.44600",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20111,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Wirtschaft und Recht Berlin",
+        "description": "",
+        "location": "52.48530, 13.33780",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20112,
+        "type": "Fachhochschule",
+        "title": "Hochschule für Wirtschaft und Umwelt Nürtingen-Geislingen",
+        "description": "",
+        "location": "48.62736, 9.33759",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20113,
+        "type": "Fachhochschule",
+        "title": "Hochschule Geisenheim",
+        "description": "",
+        "location": "49.98417, 7.96139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20114,
+        "type": "Fachhochschule",
+        "title": "Hochschule Hamm-Lippstadt",
+        "description": "",
+        "location": "51.68201, 7.84121",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20115,
+        "type": "Fachhochschule",
+        "title": "Hochschule Hannover",
+        "description": "",
+        "location": "52.35317, 9.72249",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20116,
+        "type": "Fachhochschule",
+        "title": "Hochschule Harz, Hochschule für angewandte Wissenschaften (FH)",
+        "description": "",
+        "location": "51.82668, 10.76024",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20117,
+        "type": "Fachhochschule",
+        "title": "Hochschule Heilbronn, Technik, Wirtschaft, Informatik",
+        "description": "",
+        "location": "49.12194, 9.21111",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20118,
+        "type": "Fachhochschule",
+        "title": "Hochschule Kaiserslautern (University of Applied Sciences)",
+        "description": "",
+        "location": "49.45167, 7.76389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20119,
+        "type": "Fachhochschule",
+        "title": "Hochschule Karlsruhe – Technik und Wirtschaft",
+        "description": "",
+        "location": "49.01556, 8.39083",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20120,
+        "type": "Fachhochschule",
+        "title": "Hochschule Koblenz",
+        "description": "",
+        "location": "50.33604, 7.56957",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20121,
+        "type": "Fachhochschule",
+        "title": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung",
+        "description": "",
+        "location": "47.66709, 9.17176",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20122,
+        "type": "Fachhochschule",
+        "title": "Hochschule Macromedia",
+        "description": "",
+        "location": "48.14736, 11.55502",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20123,
+        "type": "Fachhochschule",
+        "title": "Hochschule Magdeburg-Stendal",
+        "description": "",
+        "location": "52.14150, 11.67700",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20124,
+        "type": "Fachhochschule",
+        "title": "Hochschule Mainz",
+        "description": "",
+        "location": "49.99667, 8.27889",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20125,
+        "type": "Fachhochschule",
+        "title": "Hochschule Merseburg",
+        "description": "",
+        "location": "51.34458, 11.97799",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20126,
+        "type": "Fachhochschule",
+        "title": "Hochschule Mittweida, University of Applied Sciences",
+        "description": "",
+        "location": "50.98815, 12.97089",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20127,
+        "type": "Fachhochschule",
+        "title": "Hochschule Neubrandenburg – University of Applied Sciences",
+        "description": "",
+        "location": "53.55667, 13.24611",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20128,
+        "type": "Fachhochschule",
+        "title": "Hochschule Niederrhein",
+        "description": "",
+        "location": "51.31668, 6.57061",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20129,
+        "type": "Fachhochschule",
+        "title": "Hochschule Nordhausen",
+        "description": "",
+        "location": "51.49706, 10.80981",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20130,
+        "type": "Fachhochschule",
+        "title": "Hochschule Osnabrück",
+        "description": "",
+        "location": "52.28318, 8.02508",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20131,
+        "type": "Fachhochschule",
+        "title": "Hochschule Pforzheim – Gestaltung, Technik, Wirtschaft und Recht",
+        "description": "",
+        "location": "48.87854, 8.71722",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20132,
+        "type": "Fachhochschule",
+        "title": "Hochschule Ravensburg-Weingarten",
+        "description": "",
+        "location": "47.81417, 9.65306",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20133,
+        "type": "Fachhochschule",
+        "title": "Hochschule Reutlingen",
+        "description": "",
+        "location": "48.48255, 9.18714",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20134,
+        "type": "Fachhochschule",
+        "title": "Hochschule Rhein-Waal – University of Applied Sciences",
+        "description": "",
+        "location": "51.79513, 6.14263",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20135,
+        "type": "Fachhochschule",
+        "title": "Hochschule RheinMain",
+        "description": "",
+        "location": "50.08083, 8.21722",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20136,
+        "type": "Fachhochschule",
+        "title": "Hochschule Ruhr West – University of Applied Sciences",
+        "description": "",
+        "location": "51.42770, 6.85833",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20137,
+        "type": "Fachhochschule",
+        "title": "Hochschule Schmalkalden",
+        "description": "",
+        "location": "50.71694, 10.46472",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20138,
+        "type": "Fachhochschule",
+        "title": "Hochschule Stralsund",
+        "description": "",
+        "location": "54.33944, 13.07417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20139,
+        "type": "Fachhochschule",
+        "title": "Hochschule Trier – Trier University of Applied Sciences",
+        "description": "",
+        "location": "49.60808, 7.16933",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20140,
+        "type": "Fachhochschule",
+        "title": "Hochschule Weserbergland",
+        "description": "",
+        "location": "52.09867, 9.35519",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20141,
+        "type": "Fachhochschule",
+        "title": "Hochschule Wismar – University of Applied Sciences: Technology, Business and Design",
+        "description": "",
+        "location": "53.89000, 11.44583",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20142,
+        "type": "Fachhochschule",
+        "title": "Hochschule Worms, University of Applied Sciences",
+        "description": "",
+        "location": "49.63336, 8.34432",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20143,
+        "type": "Fachhochschule",
+        "title": "Hochschule Zittau/Görlitz",
+        "description": "",
+        "location": "50.89273, 14.80500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20144,
+        "type": "Fachhochschule",
+        "title": "HSBA Hamburg School of Business Administration",
+        "description": "",
+        "location": "53.54998, 9.98954",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20145,
+        "type": "Fachhochschule",
+        "title": "HSD Hochschule Döpfer",
+        "description": "",
+        "location": "50.93186, 6.95585",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20146,
+        "type": "Fachhochschule",
+        "title": "International School of Management",
+        "description": "",
+        "location": "51.48915, 7.40600",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20147,
+        "type": "Fachhochschule",
+        "title": "Internationale Hochschule Liebenzell (IHL)",
+        "description": "",
+        "location": "48.77286, 8.72773",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20148,
+        "type": "Fachhochschule",
+        "title": "Internationale Hochschule SDI München – Hochschule für angewandte Wissenschaften",
+        "description": "",
+        "location": "48.09661, 11.53204",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20149,
+        "type": "Fachhochschule",
+        "title": "IST-Hochschule für Management",
+        "description": "",
+        "location": "51.21910, 6.81350",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20150,
+        "type": "Fachhochschule",
+        "title": "IU Internationale Hochschule",
+        "description": "",
+        "location": "50.98361, 11.03278",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20151,
+        "type": "Fachhochschule",
+        "title": "Jade Hochschule – Wilhelmshaven/Oldenburg/Elsfleth",
+        "description": "",
+        "location": "53.24219, 8.46688",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20152,
+        "type": "Fachhochschule",
+        "title": "Karlshochschule International University",
+        "description": "",
+        "location": "49.00655, 8.39444",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20153,
+        "type": "Fachhochschule",
+        "title": "Katholische Hochschule Freiburg",
+        "description": "",
+        "location": "48.00389, 7.85750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20154,
+        "type": "Fachhochschule",
+        "title": "Katholische Hochschule für Sozialwesen Berlin",
+        "description": "",
+        "location": "52.48801, 13.53418",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20155,
+        "type": "Fachhochschule",
+        "title": "Katholische Hochschule Mainz Catholic University of Applied Sciences",
+        "description": "",
+        "location": "49.99717, 8.25329",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20156,
+        "type": "Fachhochschule",
+        "title": "Katholische Hochschule Nordrhein-Westfalen – Catholic University of Applied Sciences",
+        "description": "",
+        "location": "50.95341, 6.96453",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20157,
+        "type": "Fachhochschule",
+        "title": "Katholische Stiftungshochschule München",
+        "description": "",
+        "location": "48.13216, 11.60131",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20158,
+        "type": "Fachhochschule",
+        "title": "Kolping Hochschule",
+        "description": "",
+        "location": "50.95364, 6.96756",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20159,
+        "type": "Fachhochschule",
+        "title": "Leibniz-Fachhochschule",
+        "description": "",
+        "location": "52.32123, 9.81931",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20160,
+        "type": "Fachhochschule",
+        "title": "media Akademie – Hochschule Stuttgart",
+        "description": "",
+        "location": "48.77265, 9.17429",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20161,
+        "type": "Fachhochschule",
+        "title": "Media University of Applied Sciences",
+        "description": "",
+        "location": "50.91399, 6.94335",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20162,
+        "type": "Fachhochschule",
+        "title": "Mediadesign Hochschule für Design und Informatik",
+        "description": "",
+        "location": "52.50358, 13.39609",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20163,
+        "type": "Fachhochschule",
+        "title": "Medical School Berlin – Hochschule für Gesundheit und Medizin (MSB)",
+        "description": "",
+        "location": "52.46922, 13.31133",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20164,
+        "type": "Fachhochschule",
+        "title": "Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart",
+        "description": "",
+        "location": "48.78970, 9.20940",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20165,
+        "type": "Fachhochschule",
+        "title": "MSH Medical School Hamburg – University of Applied Sciences and Medical University",
+        "description": "",
+        "location": "53.54139, 9.99309",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20166,
+        "type": "Fachhochschule",
+        "title": "Munich Business School",
+        "description": "",
+        "location": "48.13604, 11.52452",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20167,
+        "type": "Fachhochschule",
+        "title": "NBS Northern Business School – University of Applied Sciences",
+        "description": "",
+        "location": "53.57128, 10.10523",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20168,
+        "type": "Fachhochschule",
+        "title": "Nordakademie Hochschule der Wirtschaft",
+        "description": "",
+        "location": "53.75389, 9.67167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20169,
+        "type": "Fachhochschule",
+        "title": "Ostbayerische Technische Hochschule Amberg-Weiden",
+        "description": "",
+        "location": "49.44410, 11.84738",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20170,
+        "type": "Fachhochschule",
+        "title": "Ostbayerische Technische Hochschule Regensburg",
+        "description": "",
+        "location": "49.00367, 12.09509",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20171,
+        "type": "Fachhochschule",
+        "title": "PFH – Private Hochschule Göttingen",
+        "description": "",
+        "location": "51.53920, 9.93271",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20172,
+        "type": "Fachhochschule",
+        "title": "Private Hochschule für Wirtschaft und Technik Vechta/Diepholz",
+        "description": "",
+        "location": "52.71915, 8.28895",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20173,
+        "type": "Fachhochschule",
+        "title": "Provadis School of International Management and Technology",
+        "description": "",
+        "location": "50.09889, 8.53861",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20174,
+        "type": "Fachhochschule",
+        "title": "Quadriga Hochschule Berlin",
+        "description": "",
+        "location": "52.51523, 13.39741",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20175,
+        "type": "Fachhochschule",
+        "title": "Rheinische Hochschule Köln",
+        "description": "",
+        "location": "50.93306, 6.94139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20176,
+        "type": "Fachhochschule",
+        "title": "SRH Berlin University of Applied Sciences",
+        "description": "",
+        "location": "52.51390, 13.32191",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20177,
+        "type": "Fachhochschule",
+        "title": "SRH Fernhochschule – The Mobile University",
+        "description": "",
+        "location": "48.15270, 9.47428",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20178,
+        "type": "Fachhochschule",
+        "title": "SRH Hochschule für Gesundheit",
+        "description": "",
+        "location": "50.88076, 12.07218",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20179,
+        "type": "Fachhochschule",
+        "title": "SRH Hochschule Heidelberg",
+        "description": "",
+        "location": "49.41389, 8.65139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20180,
+        "type": "Fachhochschule",
+        "title": "SRH Hochschule in Nordrhein-Westfalen",
+        "description": "",
+        "location": "51.67858, 7.81043",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20181,
+        "type": "Fachhochschule",
+        "title": "SRH Wilhelm Löhe Hochschule",
+        "description": "",
+        "location": "49.45966, 10.99784",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20182,
+        "type": "Fachhochschule",
+        "title": "Steinbeis Hochschule",
+        "description": "",
+        "location": "52.12361, 11.63306",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20183,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Aschaffenburg",
+        "description": "",
+        "location": "49.97194, 9.16139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20184,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Augsburg",
+        "description": "",
+        "location": "48.35528, 10.90500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20185,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Bingen",
+        "description": "",
+        "location": "49.95325, 7.92356",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20186,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Brandenburg",
+        "description": "",
+        "location": "52.41187, 12.53686",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20187,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Deggendorf",
+        "description": "",
+        "location": "48.82972, 12.95472",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20188,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Georg Agricola",
+        "description": "",
+        "location": "51.48750, 7.21333",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20189,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Ingolstadt",
+        "description": "",
+        "location": "48.76676, 11.43180",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20190,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Köln",
+        "description": "",
+        "location": "50.91992, 6.96728",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20191,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Lübeck",
+        "description": "",
+        "location": "53.83694, 10.69861",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20192,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Mannheim",
+        "description": "",
+        "location": "49.46956, 8.48221",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20193,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Mittelhessen – THM",
+        "description": "",
+        "location": "50.58689, 8.68310",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20194,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Nürnberg Georg Simon Ohm",
+        "description": "",
+        "location": "49.45307, 11.09239",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20195,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Ostwestfalen-Lippe",
+        "description": "",
+        "location": "52.01602, 8.90530",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20196,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Rosenheim",
+        "description": "",
+        "location": "47.86705, 12.10821",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20197,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Ulm",
+        "description": "",
+        "location": "48.40885, 9.99749",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20198,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Wildau",
+        "description": "",
+        "location": "52.31944, 13.63250",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20199,
+        "type": "Fachhochschule",
+        "title": "Technische Hochschule Würzburg-Schweinfurt (THWS)",
+        "description": "",
+        "location": "50.04495, 10.21018",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20200,
+        "type": "Fachhochschule",
+        "title": "Theologische Hochschule Elstal",
+        "description": "",
+        "location": "52.54143, 13.00308",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20201,
+        "type": "Fachhochschule",
+        "title": "Theologische Hochschule Reutlingen",
+        "description": "",
+        "location": "48.48702, 9.21130",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20202,
+        "type": "Fachhochschule",
+        "title": "Theologisches Seminar Ewersbach",
+        "description": "",
+        "location": "50.84153, 8.30139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20203,
+        "type": "Fachhochschule",
+        "title": "Touro University Berlin",
+        "description": "",
+        "location": "52.50514, 13.21323",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20204,
+        "type": "Fachhochschule",
+        "title": "University of Europe for Applied Sciences",
+        "description": "",
+        "location": "51.38472, 7.71972",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20205,
+        "type": "Fachhochschule",
+        "title": "University of Labour",
+        "description": "",
+        "location": "50.13044, 8.67186",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20206,
+        "type": "Fachhochschule",
+        "title": "Victoria – Internationale Hochschule",
+        "description": "",
+        "location": "52.50503, 13.37786",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20207,
+        "type": "Fachhochschule",
+        "title": "VWA-Hochschule für berufsbegleitendes Studium",
+        "description": "",
+        "location": "48.79231, 9.18361",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20208,
+        "type": "Fachhochschule",
+        "title": "Westfälische Hochschule Gelsenkirchen, Bocholt, Recklinghausen",
+        "description": "",
+        "location": "51.57510, 7.03007",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20209,
+        "type": "Fachhochschule",
+        "title": "Westsächsische Hochschule Zwickau",
+        "description": "",
+        "location": "50.71601, 12.49449",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20210,
+        "type": "Fachhochschule",
+        "title": "Wilhelm Büchner Hochschule – Private Fernhochschule Darmstadt",
+        "description": "",
+        "location": "49.86306, 8.62194",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20211,
+        "type": "Fachhochschule",
+        "title": "XU Exponential University of Applied Sciences",
+        "description": "",
+        "location": "52.38885, 13.11979",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20212,
+        "type": "Künstlerische Hochschule",
+        "title": "Akademie der Bildenden Künste München",
+        "description": "",
+        "location": "48.15306, 11.58028",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20213,
+        "type": "Künstlerische Hochschule",
+        "title": "Akademie der Bildenden Künste Nürnberg",
+        "description": "",
+        "location": "49.44603, 11.13647",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20214,
+        "type": "Künstlerische Hochschule",
+        "title": "Alanus Hochschule",
+        "description": "",
+        "location": "50.73250, 6.99944",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20215,
+        "type": "Künstlerische Hochschule",
+        "title": "Barenboim-Said Akademie",
+        "description": "",
+        "location": "52.51542, 13.39611",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20216,
+        "type": "Künstlerische Hochschule",
+        "title": "Burg Giebichenstein Kunsthochschule Halle",
+        "description": "",
+        "location": "51.50270, 11.95490",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20217,
+        "type": "Künstlerische Hochschule",
+        "title": "Evangelische Hochschule für Kirchenmusik",
+        "description": "",
+        "location": "51.48475, 11.96654",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20218,
+        "type": "Künstlerische Hochschule",
+        "title": "Filmuniversität Babelsberg Konrad Wolf",
+        "description": "",
+        "location": "52.38861, 13.11667",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20219,
+        "type": "Künstlerische Hochschule",
+        "title": "Folkwang Universität der Künste",
+        "description": "",
+        "location": "51.38750, 7.00444",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20220,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule der bildenden Künste (HBK) Essen",
+        "description": "",
+        "location": "51.46084, 7.01285",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20221,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule der Bildenden Künste Saar",
+        "description": "",
+        "location": "49.23269, 6.98519",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20222,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Bildende Künste (Städelschule)",
+        "description": "",
+        "location": "50.10222, 8.67500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20223,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Bildende Künste Braunschweig",
+        "description": "",
+        "location": "52.25750, 10.50167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20224,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Bildende Künste Dresden",
+        "description": "",
+        "location": "51.05284, 13.74244",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20225,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Bildende Künste Hamburg",
+        "description": "",
+        "location": "53.56757, 10.03132",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20226,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für evangelische Kirchenmusik der Evangelisch-Lutherischen Kirche in Bayern",
+        "description": "",
+        "location": "49.93962, 11.57249",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20227,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Fernsehen und Film München",
+        "description": "",
+        "location": "48.14676, 11.56904",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20228,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Gestaltung Offenbach",
+        "description": "",
+        "location": "50.10750, 8.76472",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20229,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Grafik und Buchkunst Leipzig",
+        "description": "",
+        "location": "51.33341, 12.36784",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20230,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Katholische Kirchenmusik und Musikpädagogik",
+        "description": "",
+        "location": "49.02507, 12.09875",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20231,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Kirchenmusik der Diözese Rottenburg-Stuttgart",
+        "description": "",
+        "location": "48.48667, 8.94167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20232,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Kirchenmusik der Evangelisch-Lutherischen Landeskirche Sachsens",
+        "description": "",
+        "location": "51.05748, 13.79928",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20233,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Kirchenmusik der Evangelischen Kirche von Westfalen",
+        "description": "",
+        "location": "52.11167, 8.68389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20234,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Baden",
+        "description": "",
+        "location": "49.40223, 8.68217",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20235,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Kirchenmusik der Evangelischen Landeskirche in Württemberg",
+        "description": "",
+        "location": "48.51917, 9.06000",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20236,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Künste Bremen",
+        "description": "",
+        "location": "53.09806, 8.76750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20237,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Carl Maria von Weber Dresden",
+        "description": "",
+        "location": "51.05377, 13.72482",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20238,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Detmold",
+        "description": "",
+        "location": "51.92871, 8.87346",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20239,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Franz Liszt Weimar",
+        "description": "",
+        "location": "50.97832, 11.33154",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20240,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Freiburg im Breisgau",
+        "description": "",
+        "location": "47.98907, 7.87251",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20241,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Hanns Eisler Berlin",
+        "description": "",
+        "location": "52.51379, 13.39129",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20242,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Karlsruhe",
+        "description": "",
+        "location": "49.00456, 8.42726",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20243,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Nürnberg",
+        "description": "",
+        "location": "49.45861, 11.10868",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20244,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Saar",
+        "description": "",
+        "location": "49.23031, 6.99783",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20245,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Darstellende Kunst Frankfurt am Main",
+        "description": "",
+        "location": "50.12010, 8.67620",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20246,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Tanz Köln",
+        "description": "",
+        "location": "50.94764, 6.96122",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20247,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Theater Felix Mendelssohn Bartholdy Leipzig",
+        "description": "",
+        "location": "51.33278, 12.36667",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20248,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Theater Hamburg",
+        "description": "",
+        "location": "53.57056, 9.99889",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20249,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Theater München",
+        "description": "",
+        "location": "48.14611, 11.56778",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20250,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik und Theater Rostock",
+        "description": "",
+        "location": "54.09155, 12.14440",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20251,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik Würzburg",
+        "description": "",
+        "location": "49.79247, 9.93395",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20252,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Musik, Theater und Medien Hannover",
+        "description": "",
+        "location": "52.37750, 9.75444",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20253,
+        "type": "Künstlerische Hochschule",
+        "title": "Hochschule für Schauspielkunst Ernst Busch",
+        "description": "",
+        "location": "52.53250, 13.38329",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20254,
+        "type": "Künstlerische Hochschule",
+        "title": "Kunstakademie Düsseldorf",
+        "description": "",
+        "location": "51.23054, 6.77365",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20255,
+        "type": "Künstlerische Hochschule",
+        "title": "Kunstakademie Münster, Hochschule für Bildende Künste",
+        "description": "",
+        "location": "51.97417, 7.60167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20256,
+        "type": "Künstlerische Hochschule",
+        "title": "Kunsthochschule Berlin-Weißensee",
+        "description": "",
+        "location": "52.55806, 13.43932",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20257,
+        "type": "Künstlerische Hochschule",
+        "title": "Kunsthochschule für Medien Köln",
+        "description": "",
+        "location": "50.93402, 6.96232",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20258,
+        "type": "Künstlerische Hochschule",
+        "title": "Musikhochschule Lübeck",
+        "description": "",
+        "location": "53.86472, 10.68142",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20259,
+        "type": "Künstlerische Hochschule",
+        "title": "Muthesius Kunsthochschule",
+        "description": "",
+        "location": "54.32722, 10.14139",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20260,
+        "type": "Künstlerische Hochschule",
+        "title": "Palucca Hochschule für Tanz Dresden",
+        "description": "",
+        "location": "51.02899, 13.77100",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20261,
+        "type": "Künstlerische Hochschule",
+        "title": "Robert-Schumann-Hochschule Düsseldorf",
+        "description": "",
+        "location": "51.24233, 6.77206",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20262,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Akademie der Bildenden Künste Karlsruhe",
+        "description": "",
+        "location": "49.01436, 8.38726",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20263,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Akademie der Bildenden Künste Stuttgart",
+        "description": "",
+        "location": "48.80015, 9.17429",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20264,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Hochschule für Gestaltung Karlsruhe",
+        "description": "",
+        "location": "49.00167, 8.38389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20265,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Hochschule für Musik Trossingen",
+        "description": "",
+        "location": "48.07539, 8.63824",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20266,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Hochschule für Musik und Darstellende Kunst Mannheim",
+        "description": "",
+        "location": "49.48384, 8.47083",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20267,
+        "type": "Künstlerische Hochschule",
+        "title": "Staatliche Hochschule für Musik und Darstellende Kunst Stuttgart",
+        "description": "",
+        "location": "48.77861, 9.18583",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20268,
+        "type": "Künstlerische Hochschule",
+        "title": "Universität der Künste Berlin",
+        "description": "",
+        "location": "52.50806, 13.33111",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20269,
+        "type": "Universität",
+        "title": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+        "description": "",
+        "location": "47.99416, 7.84696",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20270,
+        "type": "Universität",
+        "title": "Augustana-Hochschule Neuendettelsau",
+        "description": "",
+        "location": "49.28333, 10.77750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20271,
+        "type": "Universität",
+        "title": "Bard College Berlin, A Liberal Arts University",
+        "description": "",
+        "location": "52.58430, 13.39373",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20272,
+        "type": "Universität",
+        "title": "Bauhaus-Universität Weimar",
+        "description": "",
+        "location": "50.97448, 11.32905",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20273,
+        "type": "Universität",
+        "title": "Bergische Universität Wuppertal",
+        "description": "",
+        "location": "51.24528, 7.14944",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20274,
+        "type": "Universität",
+        "title": "Brandenburgische Technische Universität Cottbus-Senftenberg",
+        "description": "",
+        "location": "51.76722, 14.32639",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20275,
+        "type": "Universität",
+        "title": "Bucerius Law School",
+        "description": "",
+        "location": "53.55951, 9.98267",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20276,
+        "type": "Universität",
+        "title": "Carl von Ossietzky Universität Oldenburg",
+        "description": "",
+        "location": "53.14778, 8.18222",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20277,
+        "type": "Universität",
+        "title": "Christian-Albrechts-Universität zu Kiel",
+        "description": "",
+        "location": "54.33889, 10.12250",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20278,
+        "type": "Universität",
+        "title": "Constructor University",
+        "description": "",
+        "location": "53.16667, 8.65000",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20279,
+        "type": "Universität",
+        "title": "Deutsche Sporthochschule Köln",
+        "description": "",
+        "location": "50.93671, 6.86934",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20280,
+        "type": "Universität",
+        "title": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+        "description": "",
+        "location": "49.31641, 8.41631",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20281,
+        "type": "Universität",
+        "title": "DIU – Dresden International University GmbH",
+        "description": "",
+        "location": "51.04946, 13.72218",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20282,
+        "type": "Universität",
+        "title": "Eberhard Karls Universität Tübingen",
+        "description": "",
+        "location": "48.52464, 9.05917",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20283,
+        "type": "Universität",
+        "title": "EBS Universität für Wirtschaft und Recht",
+        "description": "",
+        "location": "50.01250, 8.05000",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20284,
+        "type": "Universität",
+        "title": "ESMT European School of Management and Technology",
+        "description": "",
+        "location": "52.51556, 13.40111",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20285,
+        "type": "Universität",
+        "title": "Europa-Universität Flensburg",
+        "description": "",
+        "location": "54.77556, 9.45222",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20286,
+        "type": "Universität",
+        "title": "Europa-Universität Viadrina Frankfurt (Oder)",
+        "description": "",
+        "location": "52.34236, 14.55469",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20287,
+        "type": "Universität",
+        "title": "Fernuniversität in Hagen",
+        "description": "",
+        "location": "51.37722, 7.49528",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20288,
+        "type": "Universität",
+        "title": "Frankfurt School of Finance & Management",
+        "description": "",
+        "location": "50.13278, 8.68028",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20289,
+        "type": "Universität",
+        "title": "Freie Hochschule Stuttgart – Seminar für Waldorfpädagogik",
+        "description": "",
+        "location": "48.78223, 9.19228",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20290,
+        "type": "Universität",
+        "title": "Freie Universität Berlin",
+        "description": "",
+        "location": "52.45306, 13.29056",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20291,
+        "type": "Universität",
+        "title": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+        "description": "",
+        "location": "49.59722, 11.00694",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20292,
+        "type": "Universität",
+        "title": "Friedrich-Schiller-Universität Jena",
+        "description": "",
+        "location": "50.92944, 11.58944",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20293,
+        "type": "Universität",
+        "title": "Georg-August-Universität Göttingen",
+        "description": "",
+        "location": "51.54186, 9.93448",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20294,
+        "type": "Universität",
+        "title": "German University of Digital Science (German UDS)",
+        "description": "",
+        "location": "52.38898, 13.11760",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20295,
+        "type": "Universität",
+        "title": "Gottfried Wilhelm Leibniz Universität Hannover",
+        "description": "",
+        "location": "52.38221, 9.71773",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20296,
+        "type": "Universität",
+        "title": "HafenCity Universität Hamburg",
+        "description": "",
+        "location": "53.54030, 10.00480",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20297,
+        "type": "Universität",
+        "title": "Heinrich-Heine-Universität Düsseldorf",
+        "description": "",
+        "location": "51.19028, 6.79417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20298,
+        "type": "Universität",
+        "title": "Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg",
+        "description": "",
+        "location": "53.56896, 10.10950",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20299,
+        "type": "Universität",
+        "title": "Hertie School",
+        "description": "",
+        "location": "52.51284, 13.38928",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20300,
+        "type": "Universität",
+        "title": "HHL Leipzig Graduate School of Management",
+        "description": "",
+        "location": "51.33971, 12.34965",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20301,
+        "type": "Universität",
+        "title": "Hochschule für Jüdische Studien Heidelberg",
+        "description": "",
+        "location": "49.41004, 8.70147",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20302,
+        "type": "Universität",
+        "title": "Hochschule für Philosophie München",
+        "description": "",
+        "location": "48.14892, 11.58329",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20303,
+        "type": "Universität",
+        "title": "Humboldt-Universität zu Berlin",
+        "description": "",
+        "location": "52.51806, 13.39333",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20304,
+        "type": "Universität",
+        "title": "International Psychoanalytic University Berlin",
+        "description": "",
+        "location": "52.52370, 13.34329",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20305,
+        "type": "Universität",
+        "title": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+        "description": "",
+        "location": "50.12800, 8.66700",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20306,
+        "type": "Universität",
+        "title": "Johannes Gutenberg-Universität Mainz",
+        "description": "",
+        "location": "49.99306, 8.24167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20307,
+        "type": "Universität",
+        "title": "Julius-Maximilians-Universität Würzburg",
+        "description": "",
+        "location": "49.78806, 9.93528",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20308,
+        "type": "Universität",
+        "title": "Justus-Liebig-Universität Gießen",
+        "description": "",
+        "location": "50.58036, 8.67722",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20309,
+        "type": "Universität",
+        "title": "Karlsruher Institut für Technologie",
+        "description": "",
+        "location": "49.00947, 8.41167",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20310,
+        "type": "Universität",
+        "title": "Katholische Universität Eichstätt-Ingolstadt",
+        "description": "",
+        "location": "48.88944, 11.18972",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20311,
+        "type": "Universität",
+        "title": "Kirchliche Hochschule Wuppertal/Bethel (Hochschule für Kirche und Diakonie)",
+        "description": "",
+        "location": "51.26528, 7.17028",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20312,
+        "type": "Universität",
+        "title": "Kölner Hochschule für Katholische Theologie (KHKT)",
+        "description": "",
+        "location": "50.92017, 6.90542",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20313,
+        "type": "Universität",
+        "title": "Kühne Logistics University – Wissenschaftliche Hochschule für Logistik und Unternehmensführung",
+        "description": "",
+        "location": "53.54497, 10.00142",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20314,
+        "type": "Universität",
+        "title": "Leuphana Universität Lüneburg",
+        "description": "",
+        "location": "53.22889, 10.40111",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20315,
+        "type": "Universität",
+        "title": "Ludwig-Maximilians-Universität München",
+        "description": "",
+        "location": "48.15083, 11.58028",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20316,
+        "type": "Universität",
+        "title": "Lutherische Theologische Hochschule Oberursel",
+        "description": "",
+        "location": "50.21046, 8.55560",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20317,
+        "type": "Universität",
+        "title": "Martin-Luther-Universität Halle-Wittenberg",
+        "description": "",
+        "location": "51.48639, 11.96889",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20318,
+        "type": "Universität",
+        "title": "Medizinische Hochschule Brandenburg Theodor Fontane",
+        "description": "",
+        "location": "52.41040, 12.54745",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20319,
+        "type": "Universität",
+        "title": "Medizinische Hochschule Hannover (MHH)",
+        "description": "",
+        "location": "52.38389, 9.80472",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20320,
+        "type": "Universität",
+        "title": "Otto-Friedrich-Universität Bamberg",
+        "description": "",
+        "location": "49.89389, 10.88667",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20321,
+        "type": "Universität",
+        "title": "Otto-von-Guericke-Universität Magdeburg",
+        "description": "",
+        "location": "52.14031, 11.64323",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20322,
+        "type": "Universität",
+        "title": "Philipps-Universität Marburg",
+        "description": "",
+        "location": "50.81076, 8.77370",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20323,
+        "type": "Universität",
+        "title": "Philosophisch-Theologische Hochschule Münster",
+        "description": "",
+        "location": "51.96006, 7.64778",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20324,
+        "type": "Universität",
+        "title": "Philosophisch-Theologische Hochschule Sankt Georgen",
+        "description": "",
+        "location": "50.09848, 8.71200",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20325,
+        "type": "Universität",
+        "title": "Psychologische Hochschule Berlin (PHB)",
+        "description": "",
+        "location": "52.51281, 13.41579",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20326,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Freiburg",
+        "description": "",
+        "location": "47.98111, 7.89333",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20327,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Heidelberg",
+        "description": "",
+        "location": "49.42046, 8.68474",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20328,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Karlsruhe",
+        "description": "",
+        "location": "49.01375, 8.39274",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20329,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Ludwigsburg",
+        "description": "",
+        "location": "48.90984, 9.18312",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20330,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Schwäbisch Gmünd",
+        "description": "",
+        "location": "48.79167, 9.82889",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20331,
+        "type": "Universität",
+        "title": "Pädagogische Hochschule Weingarten",
+        "description": "",
+        "location": "47.80966, 9.64395",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20332,
+        "type": "Universität",
+        "title": "Rheinisch-Westfälische Technische Hochschule Aachen",
+        "description": "",
+        "location": "50.77769, 6.07792",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20333,
+        "type": "Universität",
+        "title": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+        "description": "",
+        "location": "50.73389, 7.10222",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20334,
+        "type": "Universität",
+        "title": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
+        "description": "",
+        "location": "49.20407, 8.10727",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20335,
+        "type": "Universität",
+        "title": "Ruhr-Universität Bochum",
+        "description": "",
+        "location": "51.44390, 7.26157",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20336,
+        "type": "Universität",
+        "title": "Ruprecht-Karls-Universität Heidelberg",
+        "description": "",
+        "location": "49.41049, 8.70659",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20337,
+        "type": "Universität",
+        "title": "Stiftung Tierärztliche Hochschule Hannover",
+        "description": "",
+        "location": "52.36917, 9.76556",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20338,
+        "type": "Universität",
+        "title": "Technische Universität Bergakademie Freiberg",
+        "description": "",
+        "location": "50.91806, 13.34083",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20339,
+        "type": "Universität",
+        "title": "Technische Universität Berlin",
+        "description": "",
+        "location": "52.51102, 13.32695",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20340,
+        "type": "Universität",
+        "title": "Technische Universität Carolo-Wilhelmina zu Braunschweig",
+        "description": "",
+        "location": "52.27361, 10.52972",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20341,
+        "type": "Universität",
+        "title": "Technische Universität Chemnitz",
+        "description": "",
+        "location": "50.83917, 12.92750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20342,
+        "type": "Universität",
+        "title": "Technische Universität Clausthal",
+        "description": "",
+        "location": "51.80472, 10.33444",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20343,
+        "type": "Universität",
+        "title": "Technische Universität Darmstadt",
+        "description": "",
+        "location": "49.87500, 8.65694",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20344,
+        "type": "Universität",
+        "title": "Technische Universität Dortmund",
+        "description": "",
+        "location": "51.49246, 7.41427",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20345,
+        "type": "Universität",
+        "title": "Technische Universität Dresden",
+        "description": "",
+        "location": "51.02806, 13.72667",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20346,
+        "type": "Universität",
+        "title": "Technische Universität Hamburg",
+        "description": "",
+        "location": "53.46096, 9.96951",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20347,
+        "type": "Universität",
+        "title": "Technische Universität Ilmenau",
+        "description": "",
+        "location": "50.68167, 10.93900",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20348,
+        "type": "Universität",
+        "title": "Technische Universität München",
+        "description": "",
+        "location": "48.14861, 11.56806",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20349,
+        "type": "Universität",
+        "title": "Technische Universität Nürnberg",
+        "description": "",
+        "location": "49.42982, 11.07503",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20350,
+        "type": "Universität",
+        "title": "Theologische Fakultät Fulda",
+        "description": "",
+        "location": "50.55465, 9.67116",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20351,
+        "type": "Universität",
+        "title": "Theologische Fakultät Paderborn",
+        "description": "",
+        "location": "51.71608, 8.75494",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20352,
+        "type": "Universität",
+        "title": "Theologische Fakultät Trier",
+        "description": "",
+        "location": "49.74691, 6.68758",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20353,
+        "type": "Universität",
+        "title": "Theologische Hochschule Friedensau",
+        "description": "",
+        "location": "52.21162, 11.98423",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20354,
+        "type": "Universität",
+        "title": "Ukrainische Freie Universität",
+        "description": "",
+        "location": "48.16361, 11.50944",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20355,
+        "type": "Universität",
+        "title": "Universität Augsburg",
+        "description": "",
+        "location": "48.33389, 10.89833",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20356,
+        "type": "Universität",
+        "title": "Universität Bayreuth",
+        "description": "",
+        "location": "49.92889, 11.58583",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20357,
+        "type": "Universität",
+        "title": "Universität Bielefeld",
+        "description": "",
+        "location": "52.03778, 8.49306",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20358,
+        "type": "Universität",
+        "title": "Universität Bremen",
+        "description": "",
+        "location": "53.10866, 8.85361",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20359,
+        "type": "Universität",
+        "title": "Universität der Bundeswehr München",
+        "description": "",
+        "location": "48.08032, 11.63813",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20360,
+        "type": "Universität",
+        "title": "Universität des Saarlandes",
+        "description": "",
+        "location": "49.25443, 7.04159",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20361,
+        "type": "Universität",
+        "title": "Universität Duisburg-Essen",
+        "description": "",
+        "location": "51.42917, 6.80083",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20362,
+        "type": "Universität",
+        "title": "Universität Erfurt",
+        "description": "",
+        "location": "50.99139, 11.01083",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20363,
+        "type": "Universität",
+        "title": "Universität Greifswald",
+        "description": "",
+        "location": "54.09444, 13.37444",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20364,
+        "type": "Universität",
+        "title": "Universität Hamburg",
+        "description": "",
+        "location": "53.56694, 9.98389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20365,
+        "type": "Universität",
+        "title": "Universität Hildesheim",
+        "description": "",
+        "location": "52.13333, 9.97500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20366,
+        "type": "Universität",
+        "title": "Universität Hohenheim",
+        "description": "",
+        "location": "48.71250, 9.21400",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20367,
+        "type": "Universität",
+        "title": "Universität Kassel",
+        "description": "",
+        "location": "51.32277, 9.50756",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20368,
+        "type": "Universität",
+        "title": "Universität Koblenz",
+        "description": "",
+        "location": "50.36361, 7.55889",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20369,
+        "type": "Universität",
+        "title": "Universität Konstanz",
+        "description": "",
+        "location": "47.69022, 9.18810",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20370,
+        "type": "Universität",
+        "title": "Universität Leipzig",
+        "description": "",
+        "location": "51.33870, 12.37873",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20371,
+        "type": "Universität",
+        "title": "Universität Mannheim",
+        "description": "",
+        "location": "49.48320, 8.46469",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20372,
+        "type": "Universität",
+        "title": "Universität Münster",
+        "description": "",
+        "location": "51.96361, 7.61306",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20373,
+        "type": "Universität",
+        "title": "Universität Osnabrück",
+        "description": "",
+        "location": "52.27298, 8.04177",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20374,
+        "type": "Universität",
+        "title": "Universität Paderborn",
+        "description": "",
+        "location": "51.70806, 8.77222",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20375,
+        "type": "Universität",
+        "title": "Universität Passau",
+        "description": "",
+        "location": "48.56833, 13.45333",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20376,
+        "type": "Universität",
+        "title": "Universität Potsdam",
+        "description": "",
+        "location": "52.40111, 13.01194",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20377,
+        "type": "Universität",
+        "title": "Universität Regensburg",
+        "description": "",
+        "location": "48.99810, 12.09500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20378,
+        "type": "Universität",
+        "title": "Universität Rostock",
+        "description": "",
+        "location": "54.08813, 12.13337",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20379,
+        "type": "Universität",
+        "title": "Universität Siegen",
+        "description": "",
+        "location": "50.90639, 8.02833",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20380,
+        "type": "Universität",
+        "title": "Universität Stuttgart",
+        "description": "",
+        "location": "48.78170, 9.17520",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20381,
+        "type": "Universität",
+        "title": "Universität Trier",
+        "description": "",
+        "location": "49.74588, 6.68706",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20382,
+        "type": "Universität",
+        "title": "Universität Ulm",
+        "description": "",
+        "location": "48.42209, 9.95377",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20383,
+        "type": "Universität",
+        "title": "Universität Vechta",
+        "description": "",
+        "location": "52.72161, 8.29382",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20384,
+        "type": "Universität",
+        "title": "Universität Witten/Herdecke",
+        "description": "",
+        "location": "51.45227, 7.35723",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20385,
+        "type": "Universität",
+        "title": "Universität zu Köln",
+        "description": "",
+        "location": "50.92806, 6.92861",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20386,
+        "type": "Universität",
+        "title": "Universität zu Lübeck",
+        "description": "",
+        "location": "53.83693, 10.70583",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20387,
+        "type": "Universität",
+        "title": "Vinzenz Pallotti University",
+        "description": "",
+        "location": "50.40152, 7.62760",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20388,
+        "type": "Universität",
+        "title": "WHU – Otto Beisheim School of Management",
+        "description": "",
+        "location": "50.40033, 7.61351",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20389,
+        "type": "Universität",
+        "title": "Zeppelin Universität – Hochschule zwischen Wirtschaft, Kultur und Politik",
+        "description": "",
+        "location": "47.65861, 9.43389",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20390,
+        "type": "Universität",
+        "title": "École supérieure de commerce de Paris",
+        "description": "",
+        "location": "52.52400, 13.28878",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20391,
+        "type": "Verwaltungshochschule",
+        "title": "Akademie der Polizei Hamburg",
+        "description": "",
+        "location": "53.60244, 10.00061",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20392,
+        "type": "Verwaltungshochschule",
+        "title": "Archivschule Marburg – Hochschule für Archivwissenschaft",
+        "description": "",
+        "location": "50.80333, 8.76417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20393,
+        "type": "Verwaltungshochschule",
+        "title": "Deutsche Hochschule der Polizei",
+        "description": "",
+        "location": "51.89806, 7.64500",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20394,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule der Verwaltung des Saarlandes",
+        "description": "",
+        "location": "49.34406, 7.03806",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20395,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule für Finanzen des Landes Brandenburg",
+        "description": "",
+        "location": "52.29256, 13.61529",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20396,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule für Rechtspflege Nordrhein-Westfalen",
+        "description": "",
+        "location": "50.56186, 6.76651",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20397,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule für Verwaltung und Dienstleistung in Schleswig-Holstein",
+        "description": "",
+        "location": "54.40206, 10.13305",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20398,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege des Landes Mecklenburg-Vorpommern",
+        "description": "",
+        "location": "53.78360, 12.17710",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20399,
+        "type": "Verwaltungshochschule",
+        "title": "Fachhochschule Polizei Sachsen-Anhalt",
+        "description": "",
+        "location": "51.75412, 11.49243",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20400,
+        "type": "Verwaltungshochschule",
+        "title": "Hessische Hochschule für Finanzen und Rechtspflege Rotenburg a.d. Fulda",
+        "description": "",
+        "location": "50.99139, 9.73096",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20401,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule der Bundesagentur für Arbeit",
+        "description": "",
+        "location": "49.47645, 8.51527",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20402,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule der Deutschen Bundesbank",
+        "description": "",
+        "location": "50.66128, 7.82575",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20403,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule der Polizei des Landes Brandenburg",
+        "description": "",
+        "location": "52.76221, 13.26915",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20404,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule der Polizei Rheinland-Pfalz",
+        "description": "",
+        "location": "49.92671, 7.25276",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20405,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule der Sächsischen Polizei (FH)",
+        "description": "",
+        "location": "51.35970, 14.96124",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20406,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule des Bundes für öffentliche Verwaltung",
+        "description": "",
+        "location": "50.83158, 6.88125",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20407,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für den öffentlichen Dienst in Bayern",
+        "description": "",
+        "location": "48.14247, 11.58880",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20408,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Finanzen NRW",
+        "description": "",
+        "location": "51.73264, 7.53371",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20409,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Finanzen Rheinland-Pfalz",
+        "description": "",
+        "location": "49.28416, 8.13101",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20410,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Polizei Baden-Württemberg",
+        "description": "",
+        "location": "48.06500, 8.51417",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20411,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen",
+        "description": "",
+        "location": "51.50177, 7.13440",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20412,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Rechtspflege Schwetzingen",
+        "description": "",
+        "location": "49.38351, 8.57237",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20413,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für Öffentliche Verwaltung Bremen",
+        "description": "",
+        "location": "53.08438, 8.79609",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20414,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für öffentliche Verwaltung Kehl",
+        "description": "",
+        "location": "48.57472, 7.81750",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20415,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für öffentliche Verwaltung Rheinland-Pfalz",
+        "description": "",
+        "location": "50.32806, 7.22945",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20416,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+        "description": "",
+        "location": "48.90838, 9.17997",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20417,
+        "type": "Verwaltungshochschule",
+        "title": "Hochschule für öffentliche Verwaltung und Rechtspflege (FH), Fortbildungszentrum des Freistaates Sachsen",
+        "description": "",
+        "location": "51.15860, 13.48965",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20418,
+        "type": "Verwaltungshochschule",
+        "title": "Kommunale Hochschule für Verwaltung in Niedersachsen",
+        "description": "",
+        "location": "52.37025, 9.72212",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20419,
+        "type": "Verwaltungshochschule",
+        "title": "Norddeutsche Akademie für Finanzen und Steuerrecht",
+        "description": "",
+        "location": "53.56139, 10.05658",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20420,
+        "type": "Verwaltungshochschule",
+        "title": "Norddeutsche Hochschule für Rechtspflege – Niedersachsen",
+        "description": "",
+        "location": "52.14486, 9.94919",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    },
+    {
+        "id": 20421,
+        "type": "Verwaltungshochschule",
+        "title": "Thüringer Fachhochschule für öffentliche Verwaltung",
+        "description": "",
+        "location": "50.94170, 10.71085",
+        "country": "DE",
+        "subjects": [],
+        "website": ""
+    }
+]
