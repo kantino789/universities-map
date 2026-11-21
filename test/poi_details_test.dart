@@ -119,6 +119,7 @@ void main() {
           final poi = Poi(
             id: 'test',
             title: 'A university with a long title',
+            type: 'university',
             description: '',
             location: const LatLng(0, 0),
             country: 'FR',

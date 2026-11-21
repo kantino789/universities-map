@@ -29,6 +29,8 @@ class _MarkersLayerState extends State<MarkersLayer> {
     editor.addListener(onFiltersChanged, [
       Editor.filtersChanged,
       Editor.filtersReseted,
+      Editor.selectedPackageChanged,
+      Editor.selectedPackageCategoryChanged,
     ]);
   }
 
@@ -37,6 +39,8 @@ class _MarkersLayerState extends State<MarkersLayer> {
     editor.removeListener(onFiltersChanged, [
       Editor.filtersChanged,
       Editor.filtersReseted,
+      Editor.selectedPackageChanged,
+      Editor.selectedPackageCategoryChanged,
     ]);
     super.dispose();
   }

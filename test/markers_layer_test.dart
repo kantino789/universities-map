@@ -25,6 +25,7 @@ void main() {
     (index) => Poi(
       id: '$index',
       title: 'School $index',
+      type: 'university',
       description: '',
       location: LatLng(
         location.latitude + index * latitudeStep,

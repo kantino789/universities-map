@@ -21,7 +21,17 @@ class Editor extends StringPropertyChangeNotifier {
   UniversitiesPackage get selectedPackage => _selectedPackage;
   set selectedPackage(UniversitiesPackage package) {
     _selectedPackage = package;
-    notifyListeners(filtersChanged);
+    _selectedPackageCategory = "All";
+    notifyListeners(selectedPackageChanged);
+  }
+
+  String _selectedPackageCategory = "All";
+  String get selectedPackageCategory => _selectedPackageCategory;
+  set selectedPackageCategory(String value) {
+    if (value != _selectedPackageCategory) {
+      _selectedPackageCategory = value;
+      notifyListeners(selectedPackageCategoryChanged);
+    }
   }
 
   final Map<String, Poi> _favoritesById = {};
@@ -35,6 +45,9 @@ class Editor extends StringPropertyChangeNotifier {
   int get filtersCount => _filters.length;
 
   static const String poisFavoriteChanged = 'poisFavoriteChanged';
+  static const String selectedPackageChanged = "selectedPackageChanged";
+  static const String selectedPackageCategoryChanged =
+      "selectedPackageCategoryChanged";
   static const String filtersChanged = 'filtersChanged';
   static const String filtersReseted = 'filtersReseted';
   static const String poiNotesChanged = 'poiNotesChanged';
@@ -209,11 +222,17 @@ class Editor extends StringPropertyChangeNotifier {
         targetMap = _germanPoisById;
         break;
     }
-    if (_filters.isEmpty) {
-      return targetMap.values;
+    var matchingPois = targetMap.values;
+    if (_filters.isNotEmpty) {
+      matchingPois = matchingPois.where(
+        (poi) => _filters.any((filter) => poi.subjects.contains(filter)),
+      );
     }
-    return targetMap.values.where(
-      (poi) => _filters.any((filter) => poi.subjects.contains(filter)),
-    );
+    if (selectedPackageCategory != "All") {
+      matchingPois = matchingPois.where(
+        (poi) => poi.type == selectedPackageCategory,
+      );
+    }
+    return matchingPois;
   }
 }

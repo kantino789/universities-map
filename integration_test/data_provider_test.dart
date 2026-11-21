@@ -35,6 +35,7 @@ void main() {
     final poi = Poi(
       id: 'poi-1',
       title: 'University',
+      type: 'university',
       description: '',
       location: const LatLng(0, 0),
       country: 'FR',
@@ -69,6 +70,7 @@ void main() {
     final poi = Poi(
       id: 'poi-1',
       title: 'University',
+      type: 'university',
       description: '',
       location: const LatLng(0, 0),
       country: 'FR',

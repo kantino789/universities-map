@@ -3,6 +3,7 @@ import 'package:latlong2/latlong.dart';
 class Poi {
   final String id;
   final String title;
+  final String type;
   final String description;
   final LatLng location;
   final String country;
@@ -12,6 +13,7 @@ class Poi {
   Poi({
     required this.id,
     required this.title,
+    required this.type,
     required this.description,
     required this.location,
     required this.country,
@@ -28,6 +30,7 @@ class Poi {
     return Poi(
       id: json['id'].toString(), // Convert int ID to String if needed
       title: json['title'] as String,
+      type: json["type"] as String,
       description: json['description'] as String,
       location: LatLng(lat, lng),
       country: json['country'] as String,

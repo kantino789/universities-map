@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:universities_map/view/filters/filter_package_categories_selection.dart';
 import 'package:universities_map/view/filters/filter_package_selection.dart';
 import 'package:universities_map/config.dart';
 import 'package:universities_map/l10n/app_localizations.dart';
@@ -22,7 +23,10 @@ class FilterUniversitiesWidget extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         spacing: 16,
         children: [
-          if (loadFrenchData) ...[FilterPackageSelection()],
+          if (loadFrenchData || loadGermanData) ...[
+            FilterPackageSelection(),
+            FilterPackageCategoriesSelection(),
+          ],
           OutlinedButton(
             onPressed: () {
               editor.resetFilters();
