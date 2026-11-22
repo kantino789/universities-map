@@ -31,15 +31,6 @@ class _SettingSwitchTileWidget extends State<SettingSwitchTileWidget> {
         secondary: settingsProperty.icon,
         value: settingsProperty.value,
         onChanged: (value) {
-          // TODO: Check if anything to do
-          // if (widget.property == ViewSettings.themeProperty) {
-          //   Navigator.of(context).pushAndRemoveUntil(
-          //     PageRouteBuilder(
-          //       pageBuilder: (_, __, ___) => const SettingsPage(),
-          //     ),
-          //     (route) => false,
-          //   );
-          // }
           setState(() {
             viewSettings.updateProperty<bool>(widget.property);
           });
