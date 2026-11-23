@@ -99,19 +99,10 @@ class AboutSettingsTabWidget extends StatelessWidget {
           title: Text(AppLocalizations.of(context)!.rateApp),
           leading: Icon(Icons.stars, color: Colors.amber),
           onTap: () async {
-            if (await inAppReview.isAvailable()) {
-              try {
-                // TODO: set for Apple Store
-                await inAppReview.openStoreListing(appStoreId: null);
-              } catch (ex) {
-                if (context.mounted) {
-                  SnackBarHelper.displayMessage(
-                    context,
-                    AppLocalizations.of(context)!.errorOccurred,
-                  );
-                }
-              }
-            } else {
+            try {
+              // TODO: set for Apple Store
+              await inAppReview.openStoreListing(appStoreId: null);
+            } catch (ex) {
               if (context.mounted) {
                 SnackBarHelper.displayMessage(
                   context,
@@ -127,46 +118,73 @@ class AboutSettingsTabWidget extends StatelessWidget {
           onTap: () => showResetApplicationDialog(context),
         ),
         SizedBox(height: 24),
-        Column(
-          spacing: 10,
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(
-              textAlign: TextAlign.center,
-              AppLocalizations.of(context)!.otherApplications,
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-            Card(
-              child: ListTile(
-                title: Text(AppLocalizations.of(context)!.iconsCalendarName),
-                subtitle: Text(
-                  AppLocalizations.of(context)!.iconsCalendarDescription,
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 16),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            spacing: 12,
+            children: [
+              Text(
+                AppLocalizations.of(context)!.otherApplications,
+                style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                  color: Theme.of(context).colorScheme.onSurfaceVariant,
                 ),
-                leading: Image.asset(
-                  "assets/icons_calendar.png",
-                  width: 72,
-                  height: 72,
-                ),
-                trailing: IconButton(
-                  onPressed: () {
-                    final Uri url = Uri.parse(
-                      'https://play.google.com/store/apps/details?id=com.quentin.calendar.icons&hl=$language',
-                    );
-                    launchUrl(url);
-                  },
-                  icon: Icon(Icons.open_in_new),
-                ),
-                onTap: () {
-                  final Uri url = Uri.parse(
-                    'https://play.google.com/store/apps/details?id=com.quentin.calendar.icons&hl=$language',
-                  );
-                  launchUrl(url);
-                },
               ),
-            ),
-          ],
+              _PromoAppCard(
+                name: AppLocalizations.of(context)!.iconsCalendarName,
+                description: AppLocalizations.of(context)!
+                    .iconsCalendarDescription,
+                iconAsset: "assets/icons_calendar.png",
+                url: Uri.parse(
+                  'https://play.google.com/store/apps/details?id=com.quentin.calendar.icons&hl=$language',
+                ),
+              ),
+            ],
+          ),
         ),
       ],
+    );
+  }
+}
+
+class _PromoAppCard extends StatelessWidget {
+  const _PromoAppCard({
+    required this.name,
+    required this.description,
+    required this.iconAsset,
+    required this.url,
+  });
+
+  final String name;
+  final String description;
+  final String iconAsset;
+  final Uri url;
+
+  @override
+  Widget build(BuildContext context) {
+    final colorScheme = Theme.of(context).colorScheme;
+    final borderRadius = BorderRadius.circular(16);
+    return Card(
+      elevation: 0,
+      clipBehavior: Clip.antiAlias,
+      color: colorScheme.surfaceContainerLow,
+      margin: EdgeInsets.zero,
+      shape: RoundedRectangleBorder(
+        borderRadius: borderRadius,
+        side: BorderSide(color: colorScheme.outlineVariant),
+      ),
+      child: ListTile(
+        contentPadding: const EdgeInsets.all(12),
+        title: Text(name, style: const TextStyle(fontWeight: FontWeight.w600)),
+        subtitle: Text(
+          description,
+          maxLines: 2,
+          overflow: TextOverflow.ellipsis,
+        ),
+        leading: Image.asset(iconAsset, width: 72, height: 72),
+        trailing: const Icon(Icons.chevron_right),
+        onTap: () => launchUrl(url, mode: LaunchMode.externalApplication),
+      ),
     );
   }
 }
