@@ -21,6 +21,9 @@
     "placeholders": { "version": { "type": "String" } }
   },
   "rateApp": "Rate the app",
+  "otherApplications": "Other applications that might interest you",
+  "iconsCalendarName": "Icons Calendar",
+  "iconsCalendarDescription": "A visual calendar with icons",
   "errorOccurred": "An error occurred",
   "filterOptions": "Filter Options",
   "resetFilters": "Reset Filters",

@@ -62,6 +62,15 @@ class AppLocalizationsEs extends AppLocalizations {
   String get rateApp => 'Valorar la aplicación';
 
   @override
+  String get otherApplications => 'Otras aplicaciones que podrían interesarte';
+
+  @override
+  String get iconsCalendarName => 'Calendario de iconos';
+
+  @override
+  String get iconsCalendarDescription => 'Un calendario visual con iconos';
+
+  @override
   String get errorOccurred => 'Se ha producido un error';
 
   @override

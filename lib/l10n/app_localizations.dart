@@ -205,6 +205,24 @@ abstract class AppLocalizations {
   /// **'Rate the app'**
   String get rateApp;
 
+  /// No description provided for @otherApplications.
+  ///
+  /// In en, this message translates to:
+  /// **'Other applications that might interest you'**
+  String get otherApplications;
+
+  /// No description provided for @iconsCalendarName.
+  ///
+  /// In en, this message translates to:
+  /// **'Icons Calendar'**
+  String get iconsCalendarName;
+
+  /// No description provided for @iconsCalendarDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'A visual calendar with icons'**
+  String get iconsCalendarDescription;
+
   /// No description provided for @errorOccurred.
   ///
   /// In en, this message translates to:

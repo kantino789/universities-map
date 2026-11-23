@@ -62,6 +62,15 @@ class AppLocalizationsFr extends AppLocalizations {
   String get rateApp => 'Évaluer l\'application';
 
   @override
+  String get otherApplications => 'D\'autres applications qui pourraient vous intéresser';
+
+  @override
+  String get iconsCalendarName => 'Calendrier à icônes';
+
+  @override
+  String get iconsCalendarDescription => 'Un calendrier visuel avec des icônes';
+
+  @override
   String get errorOccurred => 'Une erreur s\'est produite';
 
   @override

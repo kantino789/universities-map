@@ -62,6 +62,15 @@ class AppLocalizationsEn extends AppLocalizations {
   String get rateApp => 'Rate the app';
 
   @override
+  String get otherApplications => 'Other applications that might interest you';
+
+  @override
+  String get iconsCalendarName => 'Icons Calendar';
+
+  @override
+  String get iconsCalendarDescription => 'A visual calendar with icons';
+
+  @override
   String get errorOccurred => 'An error occurred';
 
   @override

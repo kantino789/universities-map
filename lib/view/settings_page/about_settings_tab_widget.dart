@@ -127,20 +127,21 @@ class AboutSettingsTabWidget extends StatelessWidget {
           onTap: () => showResetApplicationDialog(context),
         ),
         SizedBox(height: 24),
-        // TODO: translate
         Column(
           spacing: 10,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
               textAlign: TextAlign.center,
-              "Other applications that might interest you",
+              AppLocalizations.of(context)!.otherApplications,
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             Card(
               child: ListTile(
-                title: Text("Icons Calendar"),
-                subtitle: Text("A visual calendar with icons"),
+                title: Text(AppLocalizations.of(context)!.iconsCalendarName),
+                subtitle: Text(
+                  AppLocalizations.of(context)!.iconsCalendarDescription,
+                ),
                 leading: Image.asset(
                   "assets/icons_calendar.png",
                   width: 72,
